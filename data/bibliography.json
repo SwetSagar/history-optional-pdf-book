@@ -1,0 +1,74 @@
+{
+  "upinder2008": {
+    "author": "Singh, Upinder",
+    "title": "A History of Ancient and Early Medieval India: From the Stone Age to the 12th Century",
+    "place": "Delhi",
+    "publisher": "Pearson Education",
+    "year": 2008,
+    "paginated": false,
+    "note": "Held as chapter-wise scans without printed folios. Cite by chapter until a paginated copy is available; scan_page in candidates.json is a locator into the scan, NOT the book's printed page."
+  },
+  "thapar2002": {
+    "author": "Thapar, Romila",
+    "title": "Early India: From the Origins to AD 1300",
+    "place": "London",
+    "publisher": "Penguin",
+    "year": 2002,
+    "paginated": false,
+    "note": "Searchable in the library; not yet in the OCR corpus."
+  },
+  "sharma2005": {
+    "author": "Sharma, R. S.",
+    "title": "India's Ancient Past",
+    "place": "Delhi",
+    "publisher": "Oxford University Press",
+    "year": 2005,
+    "paginated": false,
+    "note": "Searchable in the library; not yet in the OCR corpus."
+  },
+  "asi-iar": {
+    "author": "Archaeological Survey of India",
+    "title": "Indian Archaeology: A Review",
+    "place": "New Delhi",
+    "publisher": "Archaeological Survey of India",
+    "year": null,
+    "paginated": true,
+    "note": "Annual series. Properly paginated and the preferred source for excavation facts — who dug, when, what was found. Cite volume year and page."
+  },
+  "basham1954": {
+    "author": "Basham, A. L.",
+    "title": "The Wonder That Was India",
+    "place": "London",
+    "publisher": "Sidgwick & Jackson",
+    "year": 1954,
+    "paginated": false,
+    "note": "Uses diacritics (Asoka); the search folds them automatically."
+  },
+  "chandra-medieval-1": {
+    "author": "Chandra, Satish",
+    "title": "Medieval India: From Sultanat to the Mughals, Part I",
+    "place": "Delhi",
+    "publisher": "Har-Anand",
+    "year": 1997,
+    "paginated": false,
+    "note": "Covers the medieval chapters Upinder Singh does not reach."
+  },
+  "chandra-medieval-2": {
+    "author": "Chandra, Satish",
+    "title": "Medieval India: From Sultanat to the Mughals, Part II (1526-1748)",
+    "place": "Delhi",
+    "publisher": "Har-Anand",
+    "year": 1999,
+    "paginated": false,
+    "note": ""
+  },
+  "mehta-medieval-1": {
+    "author": "Mehta, J. L.",
+    "title": "Advanced Study in the History of Medieval India, Vol. I",
+    "place": "New Delhi",
+    "publisher": "Sterling",
+    "year": 1979,
+    "paginated": false,
+    "note": ""
+  }
+}

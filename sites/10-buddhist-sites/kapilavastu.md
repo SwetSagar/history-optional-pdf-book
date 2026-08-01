@@ -1,0 +1,17 @@
+---
+name: Kapilavastu
+categories: [Buddhist Sites, Ancient Capitals and trade cities]
+state: Nepal
+coords: [27.57645, 83.05498]
+coords_confidence: gazetteer
+coords_from: Q30610827
+coords_provisional: false
+dot_px: [317.7, 272.3]
+images: [Individual Map sites History Optional/10 Buddhist Sites/Kapilavastu.jpg, Individual Map sites History Optional/19. Ancient Capitals and trade cities/Kapilavastu.jpg]
+status: written
+sources: []
+locked: [coords, coords_confidence, coords_from, coords_provisional, state]
+sources_proposed: ["upinder2008#6. 600 B.C -300 B.C North India Mahaja@41:weak", "sharma2005#India Ancient Past By RS Sharma@167:weak", "sharma2005#India Ancient Past By RS Sharma@157:weak", "sharma2005#India Ancient Past By RS Sharma@180:weak"]
+---
+
+The capital of the Shakya kingdom, in Nepal, and an important trade centre, where the Buddha lived until the age of twenty-nine. Sculptures carved here depict Maya's dream and the Buddha's departure.

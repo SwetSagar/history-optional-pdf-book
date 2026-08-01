@@ -1,0 +1,20 @@
+---
+name: Sarai Khola
+categories: [Neolithic, Harappa]
+state: Pakistan
+coords: [32.6101, 73.0884]
+coords_confidence: high
+coords_from: ""
+coords_provisional: true
+dot_px: [200.5, 188.5]
+images: [Individual Map sites History Optional/3 Neolithic/Sarai Khola.jpg, Individual Map sites History Optional/5 Harappa/Early Harappa/Sarai Khola.jpg]
+status: written
+sources: []
+locked: []
+sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@18:strong", "sharma2005#India Ancient Past By RS Sharma@73:weak", "upinder2008#4. Harappan Civilization@18:weak"]
+---
+
+A site in Khyber Pakhtunkhwa, Pakistan, of the fourth millennium BC.
+
+- Period I produced handmade plain red or brown burnished pottery, ground and polished stone celts, blades, microliths and numerous bone points, together with terracotta wheels and toy carts.
+- Period II is Early Harappan and shows the transition from pit dwellings to mud-brick houses, with Kot Dijian pottery, microliths, celts and chisels.

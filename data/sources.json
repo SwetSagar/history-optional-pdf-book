@@ -1,0 +1,48 @@
+{
+  "_comment": "Works to ingest into corpus/. `key` must exist in bibliography.json. Paths are absolute because the library lives outside this project. Coaching notes are deliberately excluded — they are useful for finding facts but must never be cited.",
+  "library_root": "/Users/swetsagar/Downloads/UPSC Study Material/History Optional",
+  "works": [
+    {
+      "key": "upinder2008",
+      "corpus": "upinder",
+      "path": "2. Ancient India/Upinder Singh partwise",
+      "kind": "folder"
+    },
+    {
+      "key": "thapar2002",
+      "corpus": "thapar",
+      "path": "2. Ancient India/History of Early India By Thapar.pdf",
+      "kind": "file"
+    },
+    {
+      "key": "sharma2005",
+      "corpus": "sharma",
+      "path": "2. Ancient India/India Ancient Past By RS Sharma.pdf",
+      "kind": "file"
+    },
+    {
+      "key": "basham1954",
+      "corpus": "basham",
+      "path": "2. Ancient India/The Wonder that was India by A.L. Basham.pdf",
+      "kind": "file"
+    },
+    {
+      "key": "chandra-medieval-1",
+      "corpus": "chandra1",
+      "path": "3. Medieval India/1. Medieval History Part 1 Satish Chandra xaam.in.pdf",
+      "kind": "file"
+    },
+    {
+      "key": "chandra-medieval-2",
+      "corpus": "chandra2",
+      "path": "3. Medieval India/2. Medieval-History-Satish-Chandra-1526-1748-Part-2_xaam.in.pdf",
+      "kind": "file"
+    },
+    {
+      "key": "mehta-medieval-1",
+      "corpus": "mehta1",
+      "path": "3. Medieval India/JL Mehta Vol I Advanced-Study-In-The-History-Of-Medieval-India.pdf",
+      "kind": "file"
+    }
+  ]
+}
