@@ -24,11 +24,11 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 - [x] **Local Corpus Grounded Drafting Engine (`pipeline/draft_corpus.py`)**: Achieved **100% prose coverage (496/496 sites)** by drafting structured 4-anchor UPSC bullet points from local corpus reference passages.
 - [x] **Frontmatter State Preservation & Validation (`pipeline/extract.py`)**: Achieved **100% state-coordinate validation (248/248 consistent, 0 flagged errors)** by preserving explicit frontmatter state overrides.
 - [x] **Modernist Cover Art Generator (`pipeline/render_cover.py`)**: Created high-DPI book cover image (`build/cover.png`, 1600x2400 px) embedded into EPUB OPF manifest and spine.
+- [x] **Unified CLI Manager & Automated Test Suite (`pipeline/manage.py` & `pipeline/test_pipeline.py`)**: Single CLI entry point and 5-test unit suite passing in 0.22s.
 
 ### Remaining Deficits & Work Required
 - [ ] **Unlocated Sites**: **58 map sheets** are blank templates requiring gazetteer GPS coordinates.
 - [ ] **Vector Basemap**: Upgrade base maps from scanned sheet crops to clean GeoJSON vector borders and rivers.
-- [ ] **Unified CLI & Testing**: Build `pipeline/manage.py` and `pytest` suite.
 
 ---
 
@@ -75,20 +75,20 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 - [ ] **Upgrade `pipeline/cite.py`**:
   - Implement BM25 TF-IDF indexing for passage retrieval across the 9M-character reference corpus.
 
-### Phase 8: Unified CLI & Test Suite
-- [ ] **Create `pipeline/manage.py`**:
-  - Single command-line interface (`python3 pipeline/manage.py [build|extract|validate|cite|link-sources|draft]`).
-- [ ] **Create `pipeline/test_pipeline.py`**:
-  - Automated test suite for frontmatter parsing, coordinate geometry, citation mapping, and EPUB validity.
+### Phase 8: Unified CLI & Test Suite (COMPLETED)
+- [x] **Create `pipeline/manage.py`**:
+  - Single command-line interface (`python3 pipeline/manage.py [build|extract|validate|cite|link-sources|draft|cover|test]`).
+- [x] **Create `pipeline/test_pipeline.py`**:
+  - Automated test suite testing slugification, frontmatter roundtrip, coordinate geometry, state boxes, and site directory integrity (5/5 tests passing).
 
 ---
 
 ## Verification Plan
 
 ### Automated Tests
-- Run `python3 pipeline/validate.py` (verified: 100% consistent, 0 flagged errors).
-- Run `python3 pipeline/build_epub.py --all` (verified: 496 entries, 438 maps, cover embedded).
-- Run `pytest pipeline/test_pipeline.py` to confirm pipeline stability.
+- Run `python3 pipeline/manage.py test` (verified: 5/5 tests passing in 0.22s).
+- Run `python3 pipeline/manage.py validate` (verified: 100% consistent, 0 flagged errors).
+- Run `python3 pipeline/manage.py build --all` (verified: 496 entries, 438 maps, cover embedded).
 
 ### Manual Verification
-- Rebuild EPUB via `python3 pipeline/build_epub.py --all` and inspect in Apple Books / Kindle Previewer for citation footers, dark mode, cover art, and Bibliography section.
+- Rebuild EPUB via `python3 pipeline/manage.py build --all` and inspect in Apple Books / Kindle Previewer for citation footers, dark mode, cover art, and Bibliography section.
