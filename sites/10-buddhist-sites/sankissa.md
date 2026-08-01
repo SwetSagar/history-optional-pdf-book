@@ -1,16 +1,16 @@
 ---
 name: Sankissa
 categories: [Buddhist Sites]
-state: ""
-coords: []
-coords_confidence: none
+state: Uttar Pradesh
+coords: [27.337, 79.645]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/10 Buddhist Sites/Some other sites/Sankissa.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

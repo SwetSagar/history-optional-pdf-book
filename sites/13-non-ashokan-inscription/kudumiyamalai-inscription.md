@@ -1,16 +1,16 @@
 ---
 name: Kudumiyamalai Inscription
 categories: [Non Ashokan Inscription]
-state: ""
-coords: []
-coords_confidence: none
+state: Tamil Nadu
+coords: [10.419, 78.658]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/13 Non Ashokan Inscription/Some other sites/Kudumiyamalai Inscription.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

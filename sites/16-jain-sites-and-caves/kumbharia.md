@@ -1,16 +1,16 @@
 ---
 name: Kumbharia
 categories: [Jain sites and caves]
-state: ""
-coords: []
-coords_confidence: none
+state: Gujarat
+coords: [24.328, 72.827]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/16. Jain sites and caves/Some other sites/Kumbharia.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

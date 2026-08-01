@@ -1,16 +1,16 @@
 ---
 name: Padmavati
 categories: [Ancient Capitals and trade cities]
-state: ""
-coords: []
-coords_confidence: none
+state: Madhya Pradesh
+coords: [25.867, 78.117]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/19. Ancient Capitals and trade cities/Trading cities/Padmavati.jpg]
 status: sourced
 sources: ["upinder2008#8. 200 B.C - 300 C.E@20", upinder2008]
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 The seat of a line of Naga kings, identified with modern Pawaya in Gwalior district, Madhya Pradesh.

@@ -1,16 +1,16 @@
 ---
 name: Veerapuram
 categories: [Megalith]
-state: ""
-coords: []
-coords_confidence: none
+state: Andhra Pradesh
+coords: [15.93, 78.26]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/6 Megalith/Some other sites/Veerapuram.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

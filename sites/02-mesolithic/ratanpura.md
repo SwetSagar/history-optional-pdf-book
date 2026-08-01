@@ -2,15 +2,15 @@
 name: Ratanpura
 categories: [Mesolithic]
 state: Gujarat
-coords: []
-coords_confidence: none
+coords: [23.82, 71.95]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/2 Mesolithic/Other sites/Ratanpura.jpg]
 status: sourced
 sources: [upinder2008]
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 A Mesolithic site in Gujarat with occupation continuing to the Indus civilisation.

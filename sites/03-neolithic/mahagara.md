@@ -1,16 +1,16 @@
 ---
 name: Mahagara
 categories: [Neolithic]
-state: ""
-coords: []
-coords_confidence: none
+state: Uttar Pradesh
+coords: [24.9, 81.917]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/3 Neolithic/Some other sites/Mahagara.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

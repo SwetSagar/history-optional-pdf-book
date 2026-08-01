@@ -1,16 +1,16 @@
 ---
 name: Lonar
 categories: [Temple Sites]
-state: ""
-coords: []
-coords_confidence: none
+state: Maharashtra
+coords: [19.975, 76.508]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/14. Temple Sites/More/Fifteen Temple - Lonar.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

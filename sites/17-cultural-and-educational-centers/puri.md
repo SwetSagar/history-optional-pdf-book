@@ -1,16 +1,16 @@
 ---
 name: Puri
 categories: [Cultural and Educational Centers]
-state: ""
-coords: []
-coords_confidence: none
+state: Odisha
+coords: [19.813, 85.831]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/17. Cultural and Educational Centers/Adi Shankara Matha/Puri.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

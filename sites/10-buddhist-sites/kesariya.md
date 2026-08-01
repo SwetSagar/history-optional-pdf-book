@@ -1,16 +1,16 @@
 ---
 name: Kesariya
 categories: [Buddhist Sites]
-state: ""
-coords: []
-coords_confidence: none
+state: Bihar
+coords: [26.353, 84.856]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/10 Buddhist Sites/Some other sites/Kesariya.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

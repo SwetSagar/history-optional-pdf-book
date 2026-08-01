@@ -1,16 +1,16 @@
 ---
 name: Sabarmati Valley
 categories: [Palaeolithic]
-state: ""
-coords: []
-coords_confidence: none
+state: Gujarat
+coords: [23.5, 72.6]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/1 Palaeolithic/Some other sites/Sabarmati Valley.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

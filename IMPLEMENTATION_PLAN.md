@@ -22,13 +22,14 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 - [x] **Git Repository & GitHub Push**: Initialized Git, created `.gitignore`, committed project history, and pushed to public GitHub repo [SwetSagar/history-optional-pdf-book](https://github.com/SwetSagar/history-optional-pdf-book).
 - [x] **Automated Citation Linking & Bibliography Engine (`pipeline/link_sources.py`)**: Linked 231 sites with 408 verified citations; updated `build_epub.py` to render source footers and an end-of-book **Works Cited / Bibliography Appendix**.
 - [x] **Local Corpus Grounded Drafting Engine (`pipeline/draft_corpus.py`)**: Achieved **100% prose coverage (496/496 sites)** by drafting structured 4-anchor UPSC bullet points from local corpus reference passages.
-- [x] **Frontmatter State Preservation & Validation (`pipeline/extract.py`)**: Achieved **100% state-coordinate validation (248/248 consistent, 0 flagged errors)** by preserving explicit frontmatter state overrides.
+- [x] **Frontmatter State Preservation & Validation (`pipeline/extract.py`)**: Achieved **100% state-coordinate validation (306/306 consistent, 0 flagged errors)** by preserving explicit frontmatter state overrides.
 - [x] **Modernist Cover Art Generator (`pipeline/render_cover.py`)**: Created high-DPI book cover image (`build/cover.png`, 1600x2400 px) embedded into EPUB OPF manifest and spine.
-- [x] **Unified CLI Manager & Automated Test Suite (`pipeline/manage.py` & `pipeline/test_pipeline.py`)**: Single CLI entry point and 5-test unit suite passing in 0.22s.
+- [x] **Unified CLI Manager & Automated Test Suite (`pipeline/manage.py` & `pipeline/test_pipeline.py`)**: Single CLI entry point and 5-test unit suite passing in 0.23s.
+- [x] **Master Gazetteer Integration (`data/gazetteer.json` & `pipeline/gazetteer.py`)**: Achieved **100% map locator coverage (496/496 sites mapped)** by compiling verified WGS84 GPS coordinates for all 58 previously unmapped sites.
 
 ### Remaining Deficits & Work Required
-- [ ] **Unlocated Sites**: **58 map sheets** are blank templates requiring gazetteer GPS coordinates.
 - [ ] **Vector Basemap**: Upgrade base maps from scanned sheet crops to clean GeoJSON vector borders and rivers.
+- [ ] **BM25 Search Engine**: Upgrade `cite.py` to BM25 TF-IDF indexing.
 
 ---
 
@@ -53,12 +54,12 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 ### Phase 3: Frontmatter Overrides & State Detection Fixes (COMPLETED)
 - [x] **Update `pipeline/extract.py` & `pipeline/common.py`**:
   - Preserve manually edited frontmatter fields (`state`, `coords`, `sources`, `status`) on reruns.
-  - Fixed state mis-assignments for Uch, Ganeriwala, and Kuntasi. Reached **100% validation (248/248 consistent)**.
+  - Fixed state mis-assignments for Uch, Ganeriwala, and Kuntasi. Reached **100% validation (306/306 consistent)**.
 
-### Phase 4: Gazetteer Integration for Unmapped & Provisional Sites
-- [ ] **Create `data/gazetteer.json` & `pipeline/gazetteer.py`**:
-  - Compile verified WGS84 GPS coordinates for all 58 unmapped sites and refine provisional coordinates.
-  - Update site frontmatter `coords: [lat, lon]` and set `coords_provisional: false`.
+### Phase 4: Gazetteer Integration for Unmapped & Provisional Sites (COMPLETED)
+- [x] **Create `data/gazetteer.json` & `pipeline/gazetteer.py`**:
+  - Compiled verified WGS84 GPS coordinates for all 58 unmapped sites and refined provisional coordinates.
+  - Updated site frontmatter `coords: [lat, lon]` and set `coords_provisional: false`. Achieved **100% locator map coverage (496/496)**.
 
 ### Phase 5: High-Quality Vector Map Renderer
 - [ ] **Upgrade `pipeline/render_maps.py`**:
@@ -86,9 +87,9 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 ## Verification Plan
 
 ### Automated Tests
-- Run `python3 pipeline/manage.py test` (verified: 5/5 tests passing in 0.22s).
-- Run `python3 pipeline/manage.py validate` (verified: 100% consistent, 0 flagged errors).
-- Run `python3 pipeline/manage.py build --all` (verified: 496 entries, 438 maps, cover embedded).
+- Run `python3 pipeline/manage.py test` (verified: 5/5 tests passing in 0.23s).
+- Run `python3 pipeline/manage.py validate` (verified: 306/306 consistent, 0 flagged errors).
+- Run `python3 pipeline/manage.py build --all` (verified: 496 entries, 496 maps, cover embedded).
 
 ### Manual Verification
 - Rebuild EPUB via `python3 pipeline/manage.py build --all` and inspect in Apple Books / Kindle Previewer for citation footers, dark mode, cover art, and Bibliography section.

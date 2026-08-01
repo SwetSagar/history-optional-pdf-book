@@ -1,16 +1,16 @@
 ---
 name: Panguraria Minor RE
 categories: [Ashokan Inscriptions]
-state: ""
-coords: []
-coords_confidence: none
+state: Madhya Pradesh
+coords: [22.709, 77.406]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/12 Ashokan Inscriptions/More/Panguraria Minor RE.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

@@ -1,16 +1,16 @@
 ---
 name: Fort St William
 categories: [Forts]
-state: ""
-coords: []
-coords_confidence: none
+state: West Bengal
+coords: [22.554, 88.337]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/23. Forts/More/Fort St William.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

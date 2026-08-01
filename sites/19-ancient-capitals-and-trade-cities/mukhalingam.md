@@ -1,16 +1,16 @@
 ---
 name: Mukhalingam
 categories: [Ancient Capitals and trade cities]
-state: ""
-coords: []
-coords_confidence: none
+state: Andhra Pradesh
+coords: [18.596, 83.963]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/19. Ancient Capitals and trade cities/Some other sites/Mukhalingam.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

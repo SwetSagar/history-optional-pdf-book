@@ -1,16 +1,16 @@
 ---
 name: Chak 86
 categories: [PGW]
-state: ""
-coords: []
-coords_confidence: none
+state: Rajasthan
+coords: [29.8, 73.85]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/8 PGW/Some other sites/Chak 86.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

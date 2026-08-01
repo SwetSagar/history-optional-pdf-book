@@ -1,16 +1,16 @@
 ---
 name: Pattadakal
 categories: [Temple Sites]
-state: ""
-coords: []
-coords_confidence: none
+state: Karnataka
+coords: [15.949, 75.816]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/14. Temple Sites/More/Pattadakal.jpg]
 status: sourced
 sources: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@139", upinder2008, thapar2002]
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 A temple site in Karnataka, celebrated for its stone temples.

@@ -1,16 +1,16 @@
 ---
 name: Laghman Minor RE
 categories: [Ashokan Inscriptions]
-state: ""
-coords: []
-coords_confidence: none
+state: Afghanistan
+coords: [34.65, 70.2]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/12 Ashokan Inscriptions/More/Laghman Minor RE.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

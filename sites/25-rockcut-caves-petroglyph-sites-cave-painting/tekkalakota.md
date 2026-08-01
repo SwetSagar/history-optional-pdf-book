@@ -1,16 +1,16 @@
 ---
 name: Tekkalakota
 categories: ["Rockcut Caves, Petroglyph sites(Cave Painting)"]
-state: ""
-coords: []
-coords_confidence: none
+state: Karnataka
+coords: [15.534, 76.879]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: ["Individual Map sites History Optional/25. Rockcut Caves, Petroglyph sites(Cave Painting)/Tekkalakota.jpg"]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

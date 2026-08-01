@@ -1,16 +1,16 @@
 ---
 name: Malprabha Ghatprabha valley
 categories: [Palaeolithic]
-state: ""
-coords: []
-coords_confidence: none
+state: Karnataka
+coords: [16.18, 75.7]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/1 Palaeolithic/Some other sites/Malprabha Ghatprabha valley.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

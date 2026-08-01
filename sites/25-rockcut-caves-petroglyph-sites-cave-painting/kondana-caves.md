@@ -1,16 +1,16 @@
 ---
 name: Kondana Caves
 categories: ["Rockcut Caves, Petroglyph sites(Cave Painting)"]
-state: ""
-coords: []
-coords_confidence: none
+state: Maharashtra
+coords: [18.814, 73.376]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: ["Individual Map sites History Optional/25. Rockcut Caves, Petroglyph sites(Cave Painting)/Kondana Caves.jpg"]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

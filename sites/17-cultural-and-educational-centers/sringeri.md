@@ -1,16 +1,16 @@
 ---
 name: Sringeri
 categories: [Cultural and Educational Centers]
-state: ""
-coords: []
-coords_confidence: none
+state: Karnataka
+coords: [13.419, 75.257]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/17. Cultural and Educational Centers/Adi Shankara Matha/Sringeri.jpg]
 status: sourced
 sources: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@98", upinder2008, thapar2002]
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 The seat of one of the mathas associated with Shankara.

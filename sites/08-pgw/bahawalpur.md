@@ -1,16 +1,16 @@
 ---
 name: Bahawalpur
 categories: [PGW]
-state: ""
-coords: []
-coords_confidence: none
+state: Pakistan
+coords: [29.395, 71.683]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/8 PGW/Some other sites/Bahawalpur.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

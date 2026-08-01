@@ -1,16 +1,16 @@
 ---
 name: Champaner
 categories: [Temple Sites]
-state: ""
-coords: []
-coords_confidence: none
+state: Gujarat
+coords: [22.484, 73.535]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/14. Temple Sites/More/Champaner.jpg]
 status: sourced
 sources: ["chandra-medieval-1#1. Medieval History Part 1 Satish Chandra@196", chandra-medieval-1]
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

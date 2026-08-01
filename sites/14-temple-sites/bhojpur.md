@@ -1,16 +1,16 @@
 ---
 name: Bhojpur
 categories: [Temple Sites]
-state: ""
-coords: []
-coords_confidence: none
+state: Madhya Pradesh
+coords: [23.1, 77.585]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/14. Temple Sites/More/Shiva Temple - Bhojpur.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

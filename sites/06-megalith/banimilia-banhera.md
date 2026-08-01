@@ -1,16 +1,16 @@
 ---
 name: Banimilia Banhera
 categories: [Megalith]
-state: ""
-coords: []
-coords_confidence: none
+state: Uttar Pradesh
+coords: [25.05, 82.8]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/6 Megalith/Some other sites/Banimilia Banhera.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

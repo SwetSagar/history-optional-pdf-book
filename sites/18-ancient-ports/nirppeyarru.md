@@ -1,16 +1,16 @@
 ---
 name: Nirppeyarru
 categories: [Ancient Ports]
-state: ""
-coords: []
-coords_confidence: none
+state: Tamil Nadu
+coords: [12.838, 79.705]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/18. Ancient Ports/Some other ports/Nirppeyarru.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

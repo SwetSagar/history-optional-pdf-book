@@ -1,16 +1,16 @@
 ---
 name: Khatarmal
 categories: [Temple Sites]
-state: ""
-coords: []
-coords_confidence: none
+state: Uttarakhand
+coords: [29.645, 79.627]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/14. Temple Sites/More/Sun Temple - Khatarmal.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

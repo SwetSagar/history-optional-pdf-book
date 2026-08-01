@@ -1,16 +1,16 @@
 ---
 name: Manali
 categories: [Temple Sites]
-state: ""
-coords: []
-coords_confidence: none
+state: Himachal Pradesh
+coords: [32.243, 77.189]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/14. Temple Sites/More/Hidimba Devi Temple - Manali.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

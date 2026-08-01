@@ -1,16 +1,16 @@
 ---
 name: Saipal
 categories: [Chalcolithic]
-state: ""
-coords: []
-coords_confidence: none
+state: Uttar Pradesh
+coords: [27.38, 79.58]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/4 Chalcolithic/Some other sites/Saipal.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

@@ -1,16 +1,16 @@
 ---
 name: Edakkal
 categories: ["Rockcut Caves, Petroglyph sites(Cave Painting)"]
-state: ""
-coords: []
-coords_confidence: none
+state: Kerala
+coords: [11.627, 76.234]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: ["Individual Map sites History Optional/25. Rockcut Caves, Petroglyph sites(Cave Painting)/Edakkal.jpg"]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

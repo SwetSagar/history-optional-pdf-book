@@ -1,16 +1,16 @@
 ---
 name: Sibsagar
 categories: [Temple Sites]
-state: ""
-coords: []
-coords_confidence: none
+state: Assam
+coords: [26.983, 94.633]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/14. Temple Sites/More/Sibsagar .jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.

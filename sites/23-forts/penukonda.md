@@ -1,16 +1,16 @@
 ---
 name: Penukonda
 categories: [Forts]
-state: ""
-coords: []
-coords_confidence: none
+state: Andhra Pradesh
+coords: [14.083, 77.583]
+coords_confidence: gazetteer
 coords_from: ""
-coords_provisional: true
+coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional/23. Forts/More/Penukonda.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.
