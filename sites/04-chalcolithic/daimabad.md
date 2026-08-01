@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/4 Chalcolithic/Daimabad.jpg, Indi
 status: sourced
 sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@71:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@69:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@76:strong", "upinder2008#4. Harappan Civilization@82:strong"]
 ---
 
 A Chalcolithic and Late Harappan site in Maharashtra. The mud houses are large and multi-roomed, with hearths and storage pits.

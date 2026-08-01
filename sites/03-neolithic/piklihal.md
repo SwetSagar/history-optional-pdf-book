@@ -11,7 +11,6 @@ images: ["Individual Map sites History Optional/25. Rockcut Caves, Petroglyph si
 status: sourced
 sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@43:strong", "sharma2005#India Ancient Past By RS Sharma@76:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@83:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@57:weak"]
 ---
 
 A Neolithic and megalithic site in Karnataka dated as early as 2700 BC, with circular huts and microlithic blades.

@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-The capital of the Kamarupa kingdom under the Varman dynasty, 350–650 AD. It is mentioned frequently in the Mahabharata and the Ramayana.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Ancient Capitals and trade cities site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ancient Capitals and trade cities.

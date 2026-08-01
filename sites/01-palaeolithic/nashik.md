@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/1 Palaeolithic/Some other sites/N
 status: sourced
 sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@27:weak", "upinder2008#8. 200 B.C - 300 C.E@140:weak", "upinder2008#8. 200 B.C - 300 C.E@63:weak", "upinder2008#8. 200 B.C - 300 C.E@21:weak"]
 ---
 
 A site in Maharashtra carrying many inscriptions. The inscription in Cave 10 is of Ushavadata, viceroy of the Western Satrap ruler Nahapana, dated to 120 CE; it is the earliest known use of Sanskrit in western India.

@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/18. Ancient Ports/Khambat .jpg]
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#4. Harappan Civilization@53:weak", "upinder2008#4. Harappan Civilization@54:weak", "upinder2008#1. Introduction, Sources, Historiograp@53:weak", "sharma2005#India Ancient Past By RS Sharma@93:weak"]
 ---
 
 A port in Gujarat where silk, chintz and gold stuffs were manufactured.

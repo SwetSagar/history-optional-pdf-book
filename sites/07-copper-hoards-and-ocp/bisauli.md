@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/7 Copper Hoards and OCP/Bisauli.j
 status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@49:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@55:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@50:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@54:weak"]
 ---
 
 An ochre-coloured pottery site in Uttar Pradesh which yielded an anthropomorphic figure, cast and then hammered. The wheel-made pottery is fired, of fine to medium fabric with a thick red slip decorated with black bands, carrying incised designs and post-firing graffiti.

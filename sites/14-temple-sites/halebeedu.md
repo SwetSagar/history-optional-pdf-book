@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-The capital of the Hoysala kings in the tenth to twelfth centuries. Its temple complex comprises two main Hindu temples and two Jaina basadis, among them the Hoysaleshwara temple.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Temple Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Temple Sites.

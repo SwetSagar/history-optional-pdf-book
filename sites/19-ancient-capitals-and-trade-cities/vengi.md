@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/19. Ancient Capitals and trade ci
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@12:weak", "upinder2008#9. 300 C.E - 600 C.E@12:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@17:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@15:weak"]
 ---
 
 The capital of the Eastern Chalukyas in the second half of the eighth century, spread between the Krishna and Godavari rivers.

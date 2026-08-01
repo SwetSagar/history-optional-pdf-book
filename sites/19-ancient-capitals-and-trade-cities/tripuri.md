@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/19. Ancient Capitals and trade ci
 status: sourced
 sources: [upinder2008, mehta-medieval-1]
 locked: []
-sources_proposed: ["upinder2008#6. 600 B.C -300 B.C North India Mahaja@45:strong", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@37:weak", "upinder2008#8. 200 B.C - 300 C.E@6:weak", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@334:weak"]
 ---
 
-The Kalachuri capital, from the seventh to the thirteenth century, where the Amarkantak temple was built.
+- **Location & Setting**: Situated in Narmada valley.
+- **Periodization & Excavation**: Important Ancient Capitals and trade cities site.
+- **Material Culture & Finds**: Yields structural and epigraphic remains documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ancient Capitals and trade cities.

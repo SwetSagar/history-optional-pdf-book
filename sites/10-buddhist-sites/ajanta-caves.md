@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Ajanta Caves.jp
 status: sourced
 sources: [basham1954, sharma2005, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["basham1954#The Wonder that was India by A.L. Bash@15:strong", "sharma2005#India Ancient Past By RS Sharma@354:strong", "basham1954#The Wonder that was India by A.L. Bash@483:strong", "thapar2002#History of Early India By Thapar@238:strong"]
 ---
 
 Twenty-eight rock-cut Buddhist caves in Maharashtra, from the second century BCE to the seventh century AD.

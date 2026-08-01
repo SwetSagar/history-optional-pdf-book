@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/3 Neolithic/Hallur.jpg, Individua
 status: sourced
 sources: [upinder2008, thapar2002, sharma2005]
 locked: []
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@86:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@103:strong", "thapar2002#History of Early India By Thapar@86:strong", "sharma2005#India Ancient Past By RS Sharma@73:weak"]
 ---
 
 A site in Karnataka on the Tungabhadra river, with Neolithic, Chalcolithic and megalithic occupation running continuously through Periods I and II into the Iron Age.

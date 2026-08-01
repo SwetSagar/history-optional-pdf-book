@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Gujjara.j
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@11:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@10:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@13:weak"]
 ---
 
 An Ashokan site in Madhya Pradesh bearing Minor Rock Edict I, which refers to Ashoka by his personal name. It lay on the ancient trade route connecting Pataliputra to Broach.

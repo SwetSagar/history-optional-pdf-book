@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Narsinh Mehta, revered as the Adi Kavi of Gujarati literature, who wrote the poem Vaishnava Jana To.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Bhakti and other saints site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Bhakti and other saints.

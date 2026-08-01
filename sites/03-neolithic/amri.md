@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/3 Neolithic/Some other sites/Amri
 status: sourced
 sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#4. Harappan Civilization@15:strong", "upinder2008#4. Harappan Civilization@16:strong", "upinder2008#4. Harappan Civilization@13:weak", "upinder2008#4. Harappan Civilization@22:weak"]
 ---
 
 An early Harappan site in Sindh, Pakistan, where Period I is Early Harappan, Period II transitional and Period III Mature.

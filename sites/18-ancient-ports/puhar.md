@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/18. Ancient Ports/Puhar.jpg]
 status: sourced
 sources: [thapar2002, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["thapar2002#History of Early India By Thapar@259:strong", "sharma2005#India Ancient Past By RS Sharma@253:strong", "sharma2005#India Ancient Past By RS Sharma@257:strong", "thapar2002#History of Early India By Thapar@183:weak"]
 ---
 
 A port city of the early Cholas, mentioned in the Periplus. The fifth book of the Silappadikaram describes the general plan of the city, which is referred to as a mahapuram; it is also mentioned in the Manimekalai.

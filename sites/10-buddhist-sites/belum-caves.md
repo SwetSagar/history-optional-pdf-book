@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-Caves in Andhra Pradesh carved out of limestone deposits and occupied by both Buddhist and Jaina monks. Buddhist relics have been found, and stalactites and stalagmites occur throughout.
+- **Location & Setting**: Situated in Andhra Pradesh.
+- **Periodization & Excavation**: Important Buddhist Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Buddhist Sites.

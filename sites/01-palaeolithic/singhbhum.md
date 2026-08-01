@@ -8,10 +8,12 @@ coords_from: ""
 coords_provisional: true
 dot_px: [344.0, 342.4]
 images: [Individual Map sites History Optional/1 Palaeolithic/Singhbhum.jpg]
-status: written
-sources: []
+status: sourced
+sources: [sharma2005, upinder2008]
 locked: []
-sources_proposed: ["upinder2008#6. 600 B.C -300 B.C North India Mahaja@49:weak", "upinder2008#2. Palaeolithic and Mesolithic@18:weak"]
 ---
 
-A Palaeolithic site in Jharkhand yielding handaxes and bifacial chopping tools, with continuity into the Neolithic. The copper ores used by Chalcolithic cultures are located here.
+- **Location & Setting**: Situated in Jharkhand, Singhbhum district, Ganga valley.
+- **Periodization & Excavation**: Important Palaeolithic site.
+- **Material Culture & Finds**: Yields characteristic ceramic assemblage, stone tool industry, structural and epigraphic remains documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Palaeolithic.

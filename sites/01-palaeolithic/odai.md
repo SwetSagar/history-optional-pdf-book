@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/1 Palaeolithic/Odai.jpg]
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@9:weak", "upinder2008#2. Palaeolithic and Mesolithic@11:weak"]
 ---
 
 A site in Tamil Nadu yielding microliths and Upper Palaeolithic tools.

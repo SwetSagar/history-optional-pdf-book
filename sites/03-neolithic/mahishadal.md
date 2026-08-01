@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/3 Neolithic/Mahishadal.jpg, Indiv
 status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@81:weak"]
 ---
 
 A largely Chalcolithic site in West Bengal near the Kopai river, its period running from 1600 to 1415 BC.

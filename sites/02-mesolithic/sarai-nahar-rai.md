@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/2 Mesolithic/Sarai Nahar Rai.jpg]
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@41:strong", "upinder2008#2. Palaeolithic and Mesolithic@43:strong", "upinder2008#2. Palaeolithic and Mesolithic@48:strong", "upinder2008#2. Palaeolithic and Mesolithic@40:weak"]
 ---
 
 A Mesolithic habitation site in Uttar Pradesh with geometric microliths and shells.

@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/21. Silk Route sites/Herat.jpg]
 status: sourced
 sources: [chandra-medieval-2, mehta-medieval-1, upinder2008]
 locked: []
-sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@193:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@15:strong", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@37:weak", "upinder2008#8. 200 B.C - 300 C.E@9:weak"]
 ---
 
-A silk route site lying in the Khorasan region, connecting Bukhara to the north, Iran to the south and Balkh to the east.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Silk Route sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Silk Route sites.

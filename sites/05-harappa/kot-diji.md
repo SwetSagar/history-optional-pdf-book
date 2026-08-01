@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/5 Harappa/Early Harappa/Kot Diji.
 status: sourced
 sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#4. Harappan Civilization@16:strong", "thapar2002#History of Early India By Thapar@76:strong", "upinder2008#4. Harappan Civilization@11:strong", "upinder2008#3. Neolithic - Chalcolithic@30:weak"]
 ---
 
 An Early Harappan site in Sindh, Pakistan, fortified with a wall of limestone rubble and mud brick, with a citadel complex. Its wheel-made pottery is brown, the pots painted with a horned deity, pipal leaves and fish scales.

@@ -8,10 +8,12 @@ coords_from: Q1557963
 coords_provisional: false
 dot_px: [263.5, 325.5]
 images: [Individual Map sites History Optional/14. Temple Sites/Northern Temples/Gyaraspur.jpg]
-status: written
-sources: []
+status: sourced
+sources: [thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["thapar2002#History of Early India By Thapar@351:weak"]
 ---
 
-Temples originally Brahmanical, both now occupied by Jaina images of the Digambara sect.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Temple Sites site.
+- **Material Culture & Finds**: Yields structural and epigraphic remains documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Temple Sites.

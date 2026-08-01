@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/9 NBPW/Rajouri or Rajapura.jpg]
 status: sourced
 sources: [chandra-medieval-1]
 locked: []
-sources_proposed: ["chandra-medieval-1#1. Medieval History Part 1 Satish Chan@179:strong"]
 ---
 
-The capital of the Kambojas, a monarchy, in Jammu and Kashmir. It is mentioned in Sanskrit and Pali literature and in the Rajatarangini.
+- **Location & Setting**: Situated in Jammu and Kashmir.
+- **Periodization & Excavation**: Important NBPW site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in NBPW.

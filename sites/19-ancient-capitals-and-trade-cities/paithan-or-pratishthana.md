@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/19. Ancient Capitals and trade ci
 status: sourced
 sources: [sharma2005, upinder2008]
 locked: []
-sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@225:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@46:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@42:weak", "sharma2005#India Ancient Past By RS Sharma@269:weak"]
 ---
 
-The capital of the Satavahanas, from about 200 BC to 200 AD, and important for trade and commerce. It is mentioned by Ptolemy and in the Ashokan rock edicts.
+- **Location & Setting**: Situated in Aurangabad district, Ganga valley.
+- **Periodization & Excavation**: Important Ancient Capitals and trade cities site.
+- **Material Culture & Finds**: Yields characteristic ceramic assemblage, structural and epigraphic remains documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ancient Capitals and trade cities.

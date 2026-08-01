@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/13 Non Ashokan Inscription/Aihole
 status: sourced
 sources: [thapar2002, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["thapar2002#History of Early India By Thapar@270:strong", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@85:strong", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@135:strong", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@13:strong"]
 ---
 
 The first capital of the Western Chalukyas, in Karnataka, later moved, and a centre of Chalukyan architecture with many stone temples.

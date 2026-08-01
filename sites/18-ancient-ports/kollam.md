@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/18. Ancient Ports/Kollam.jpg, Ind
 status: sourced
 sources: [upinder2008, chandra-medieval-1]
 locked: []
-sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@81:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@61:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@63:weak", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@178:weak"]
 ---
 
 An ancient and medieval port city in Kerala, trading with the Romans, Greeks, Iranians, Chinese and Arabs.

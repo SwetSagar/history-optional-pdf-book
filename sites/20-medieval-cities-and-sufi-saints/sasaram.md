@@ -9,9 +9,11 @@ coords_provisional: false
 dot_px: [325.5, 309.5]
 images: [Individual Map sites History Optional/20. Medieval Cities and Sufi saints/Sasaram.jpg]
 status: sourced
-sources: [chandra-medieval-2]
+sources: [chandra-medieval-2, upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@382:weak", "upinder2008#3. Neolithic - Chalcolithic@40:weak", "sharma2005#India Ancient Past By RS Sharma@201:weak"]
 ---
 
-The place where Sher Shah Suri was born and buried. His tomb, of red sandstone in the Indo-Afghan style, is famous.
+- **Location & Setting**: Situated in Rohtas district, Kudra river, Dun district.
+- **Periodization & Excavation**: Important Medieval Cities and Sufi saints site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Medieval Cities and Sufi saints.

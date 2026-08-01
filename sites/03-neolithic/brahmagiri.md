@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/3 Neolithic/Brahmagiri correct.jp
 status: sourced
 sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@83:weak", "upinder2008#3. Neolithic - Chalcolithic@45:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@29:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@11:weak"]
 ---
 
 A site in Karnataka with Neolithic, megalithic and Ashokan remains.

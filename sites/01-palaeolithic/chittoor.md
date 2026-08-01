@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/1 Palaeolithic/Chittoor.jpg]
 status: sourced
 sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@18:weak"]
 ---
 
 A Palaeolithic locality in Andhra Pradesh, near Rengunta in the Velikonda and Nagari hills, showing continuity from the Palaeolithic to megalithic culture.

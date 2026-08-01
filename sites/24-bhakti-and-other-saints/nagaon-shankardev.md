@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Shankardev, a fifteenth-century Bhakti saint of Assam who began the neo-Vaishnavite movement. The Sattriya dance, Borgeet songs and Ankiya Naat drama are attributed to him.
+- **Location & Setting**: Situated in Assam.
+- **Periodization & Excavation**: Important Bhakti and other saints site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Bhakti and other saints.

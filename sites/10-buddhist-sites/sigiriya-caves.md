@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Sigiriya Caves.
 status: written
 sources: []
 locked: []
-sources_proposed: ["basham1954#The Wonder that was India by A.L. Bash@572:weak"]
 ---
 
 A UNESCO World Heritage Site in Sri Lanka dated to around the third century BC, showing evidence of urban planning. Its paintings are executed in sweeping strokes, with more pressure on one side and a deeper colour tone towards the edge, closely resembling Ajanta.

@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Nashik Pandavle
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@27:weak", "upinder2008#8. 200 B.C - 300 C.E@140:weak", "upinder2008#8. 200 B.C - 300 C.E@63:weak", "upinder2008#8. 200 B.C - 300 C.E@21:weak"]
 ---
 
 Twenty-four rock-cut caves in Maharashtra, from the first century BC to the third century CE, with chaityas, viharas and an ancient water management system.

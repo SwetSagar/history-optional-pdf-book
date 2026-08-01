@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/2 Mesolithic/Other sites/Ratanpur
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@37:weak"]
 ---
 
 A Mesolithic site in Gujarat with occupation continuing to the Indus civilisation.

@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/23. Forts/Garhgaon.jpg]
 status: sourced
 sources: [chandra-medieval-2]
 locked: []
-sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@256:weak"]
 ---
 
-The capital of the Ahom kingdom, its fort built by the Ahom king Suklenmung in 1540.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Forts site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Forts.

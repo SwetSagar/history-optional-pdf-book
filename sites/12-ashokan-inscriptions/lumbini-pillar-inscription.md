@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/12 Ashokan Inscriptions/More/Lumb
 status: sourced
 sources: ["thapar2002#History of Early India By Thapar@152", upinder2008, sharma2005, thapar2002]
 locked: []
-sources_proposed: ["upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@13:weak", "sharma2005#India Ancient Past By RS Sharma@167:weak", "thapar2002#History of Early India By Thapar@152:weak", "upinder2008#1. Introduction, Sources, Historiograp@62:weak"]
 ---
 
 Ashoka's inscription at Lumbini, commemorating the birthplace of the Buddha.

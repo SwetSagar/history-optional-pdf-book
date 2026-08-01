@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Twenty-two early Buddhist rock-cut caves in Maharashtra with symbolic representations of the Buddha. Later paintings, after the fourth century AD, show physical representations.
+- **Location & Setting**: Situated in Maharashtra.
+- **Periodization & Excavation**: Important Buddhist Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Buddhist Sites.

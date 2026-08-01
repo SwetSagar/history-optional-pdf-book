@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/6 Megalith/Some other sites/Kakor
 status: sourced
 sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@63", upinder2008]
 locked: []
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@63:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@63:weak"]
 ---
 
 A megalithic site on the northern fringes of the Vindhyas in south-eastern Uttar Pradesh, in the Allahabad, Banda, Varanasi and Mirzapur districts.

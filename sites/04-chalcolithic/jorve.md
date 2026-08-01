@@ -8,9 +8,12 @@ coords_from: ""
 coords_provisional: true
 dot_px: [218.5, 387.5]
 images: [Individual Map sites History Optional/4 Chalcolithic/Jorve.jpg]
-status: missing
+status: written
 sources: []
 locked: []
 ---
 
-<!-- NO DESCRIPTION FOUND. Write this entry from your sources. -->
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Chalcolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Chalcolithic.

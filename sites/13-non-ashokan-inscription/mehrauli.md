@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/13 Non Ashokan Inscription/Mehrau
 status: sourced
 sources: [sharma2005, upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@290:weak", "upinder2008#9. 300 C.E - 600 C.E@14:strong", "thapar2002#History of Early India By Thapar@228:weak", "upinder2008#9. 300 C.E - 600 C.E@44:weak"]
 ---
 
 The site of the corrosion-resistant Iron Pillar of Delhi, which belonged to King Chandragupta II.

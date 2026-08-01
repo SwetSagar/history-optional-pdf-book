@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/24. Bhakti and other saints/Karai
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#1. Introduction, Sources, Historiograp@35:weak"]
 ---
 
 Associated with Karaikal Ammaiyar, a sixth-century Shiva worshipper of the Chola period and one of only three such saints.

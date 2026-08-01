@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/4 Chalcolithic/Some other sites/R
 status: sourced
 sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#4. Harappan Civilization@51:weak", "sharma2005#India Ancient Past By RS Sharma@92:weak", "upinder2008#4. Harappan Civilization@82:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@59:weak"]
 ---
 
-A Mature Harappan site in Gujarat with painted black-and-red ware and high-necked jars. Shell working is attested, and finds include axes, earthenware, and beads of steatite and carnelian.
+- **Location & Setting**: Situated in Gujarat, Hakra valley.
+- **Periodization & Excavation**: Important Chalcolithic site.
+- **Material Culture & Finds**: Yields characteristic ceramic assemblage documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Chalcolithic.

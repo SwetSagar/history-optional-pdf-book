@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/11 Art Sites/Tamluk or Tamralipti
 status: sourced
 sources: [upinder2008, thapar2002]
 locked: []
-sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@49:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@63:weak", "thapar2002#History of Early India By Thapar@186:weak", "thapar2002#History of Early India By Thapar@149:strong"]
 ---
 
 A port and terracotta centre in Midnapur district, West Bengal, the exit point of the Mauryan trade route to the south and south-east, and also connected to Taxila by land.

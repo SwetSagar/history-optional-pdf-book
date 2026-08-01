@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/5 Harappa/Late and Mature/Allahdi
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#4. Harappan Civilization@39:weak", "upinder2008#4. Harappan Civilization@40:strong", "upinder2008#4. Harappan Civilization@7:weak", "upinder2008#4. Harappan Civilization@8:strong"]
 ---
 
 A Mature Harappan site in Sindh, Pakistan, near the coast of the Arabian Sea.

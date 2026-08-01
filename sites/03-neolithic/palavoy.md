@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/3 Neolithic/Palavoy.jpg, Individu
 status: sourced
 sources: [sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@73:weak", "upinder2008#3. Neolithic - Chalcolithic@47:weak"]
 ---
 
 A Neolithic and megalithic site in Andhra Pradesh, a regional centre at which four ash mounds have been located. The mounds are held to have had religious or functional significance.

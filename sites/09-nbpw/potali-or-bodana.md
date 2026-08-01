@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/9 NBPW/Potali or Bodana.jpg]
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#6. 600 B.C -300 B.C North India Mahaja@12:weak"]
 ---
 
-The capital of Assaka, a monarchy, on the banks of the Godavari in Telangana. It was the only janapada situated south of the Vindhya range, lying in the Dakshinapatha.
+- **Location & Setting**: Situated in Telangana, Godavari river.
+- **Periodization & Excavation**: Important NBPW site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in NBPW.

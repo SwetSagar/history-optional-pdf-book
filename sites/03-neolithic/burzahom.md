@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/3 Neolithic/Burzahom.jpg, Individ
 status: sourced
 sources: ["upinder2008#3. Neolithic - Chalcolithic@25", upinder2008]
 locked: []
-sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@25:strong", "upinder2008#3. Neolithic - Chalcolithic@27:strong", "upinder2008#3. Neolithic - Chalcolithic@26:strong", "upinder2008#3. Neolithic - Chalcolithic@28:strong"]
 ---
 
 A Neolithic and megalithic site in Jammu and Kashmir with four periods from 2920 BCE.

@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Sanchi.jp
 status: sourced
 sources: [upinder2008, basham1954]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@126:weak", "basham1954#The Wonder that was India by A.L. Bash@451:weak", "upinder2008#8. 200 B.C - 300 C.E@129:weak", "upinder2008#8. 200 B.C - 300 C.E@164:weak"]
 ---
 
 A site famous for the earliest surviving stupa and for a pillar edict of Ashoka, with four lions and the Schism Edict.

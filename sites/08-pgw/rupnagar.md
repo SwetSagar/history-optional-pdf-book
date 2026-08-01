@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Painted Grey Ware site in Haryana showing signs of urbanisation from 600 to 200 BC.
+- **Location & Setting**: Situated in Haryana.
+- **Periodization & Excavation**: Important PGW site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in PGW.

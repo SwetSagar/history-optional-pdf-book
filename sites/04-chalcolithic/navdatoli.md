@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/4 Chalcolithic/Navdatoli.jpg, Ind
 status: sourced
 sources: [upinder2008, sharma2005, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@68:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@67:strong", "sharma2005#India Ancient Past By RS Sharma@82:strong", "thapar2002#History of Early India By Thapar@85:strong"]
 ---
 
 A Chalcolithic site dated 2000–1750 BC, showing an overlap of Chalcolithic and Harappan culture and no signs of planning.

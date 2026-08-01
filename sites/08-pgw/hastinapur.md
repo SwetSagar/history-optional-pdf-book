@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/8 PGW/Hastinapur.jpg, Individual 
 status: sourced
 sources: [sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@137:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@95:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@98:weak", "sharma2005#India Ancient Past By RS Sharma@168:weak"]
 ---
 
 A site in Uttar Pradesh and capital of the Kurus, abandoned after a flood, when the capital moved to Kaushambi;

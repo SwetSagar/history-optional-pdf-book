@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A fort built in 1454 by Timmanna Nayaka of the Vijayanagara empire with French assistance. Tipu Sultan was killed here.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Forts site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Forts.

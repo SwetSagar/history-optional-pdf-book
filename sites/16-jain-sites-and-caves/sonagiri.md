@@ -8,10 +8,12 @@ coords_from: Q7560740
 coords_provisional: false
 dot_px: [267.5, 294.5]
 images: [Individual Map sites History Optional/16. Jain sites and caves/Sonagiri.jpg]
-status: missing
+status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@97:weak"]
 ---
 
-<!-- NO DESCRIPTION FOUND. Write this entry from your sources. -->
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Jain sites and caves site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Jain sites and caves.

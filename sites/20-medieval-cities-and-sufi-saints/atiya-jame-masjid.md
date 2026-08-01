@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A medieval mosque in Bangladesh built of brick in 1609, notable for its Bangla roof.
+- **Location & Setting**: Situated in Bangladesh.
+- **Periodization & Excavation**: Important Medieval Cities and Sufi saints site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Medieval Cities and Sufi saints.

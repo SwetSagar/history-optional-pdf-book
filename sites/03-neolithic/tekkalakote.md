@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Neolithic site in Karnataka at which gold objects have been found.
+- **Location & Setting**: Situated in Karnataka.
+- **Periodization & Excavation**: Important Neolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Neolithic.

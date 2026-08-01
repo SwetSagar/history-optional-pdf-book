@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/5 Harappa/Late and Mature/Bhagwan
 status: sourced
 sources: [sharma2005, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@130:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@96:strong", "sharma2005#India Ancient Past By RS Sharma@105:strong", "upinder2008#4. Harappan Civilization@83:weak"]
 ---
 
 A site in Haryana whose Period I is Late Harappan, from 1700 to 1300 BC, and which shows an overlap between Harappan and Painted Grey Ware culture.

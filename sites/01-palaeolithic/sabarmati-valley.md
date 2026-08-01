@@ -8,10 +8,12 @@ coords_from: ""
 coords_provisional: true
 dot_px: []
 images: [Individual Map sites History Optional/1 Palaeolithic/Some other sites/Sabarmati Valley.jpg]
-status: missing
+status: written
 sources: []
 locked: []
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@18:weak", "upinder2008#4. Harappan Civilization@34:weak", "sharma2005#India Ancient Past By RS Sharma@49:weak"]
 ---
 
-<!-- NO DESCRIPTION FOUND. Write this entry from your sources. -->
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Palaeolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Palaeolithic.

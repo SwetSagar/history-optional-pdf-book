@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/3 Neolithic/Daojali Hading.jpg]
 status: sourced
 sources: [upinder2008, thapar2002]
 locked: []
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@65:weak", "upinder2008#3. Neolithic - Chalcolithic@42:weak", "thapar2002#History of Early India By Thapar@74:weak", "thapar2002#History of Early India By Thapar@85:weak"]
 ---
 
 A Neolithic site in Assam which has yielded polished stone tools, ceramics, wooden tools, and kitchen items such as grinders, pestles and mortars.

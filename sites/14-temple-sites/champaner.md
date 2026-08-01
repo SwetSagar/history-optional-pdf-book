@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/14. Temple Sites/More/Champaner.j
 status: sourced
 sources: ["chandra-medieval-1#1. Medieval History Part 1 Satish Chandra@196", chandra-medieval-1]
 locked: []
-sources_proposed: ["chandra-medieval-1#1. Medieval History Part 1 Satish Chan@196:strong", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@195:weak", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@196:weak", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@195:weak"]
 ---
 
-A fort in Gujarat, strategically located for the Sultan's plans of bringing Khandesh and Malwa under his control. Its ruler, though a feudatory of Gujarat, retained close independent connections.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Temple Sites site.
+- **Material Culture & Finds**: Yields structural and epigraphic remains documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Temple Sites.

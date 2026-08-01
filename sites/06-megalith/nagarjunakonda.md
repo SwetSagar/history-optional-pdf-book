@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Some other site
 status: sourced
 sources: ["upinder2008#8. 200 B.C - 300 C.E@130", upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@130:strong", "upinder2008#1. Introduction, Sources, Historiograp@54:strong", "upinder2008#8. 200 B.C - 300 C.E@122:strong", "upinder2008#8. 200 B.C - 300 C.E@131:strong"]
 ---
 
 A major Buddhist monastic establishment in Guntur district, Andhra Pradesh, in the eastern Deccan.

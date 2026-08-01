@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A locality in Tamil Nadu preserving petrified wood fossils approximately 20 million years old. The trees are believed to have been transported here before being petrified.
+- **Location & Setting**: Situated in Tamil Nadu.
+- **Periodization & Excavation**: Important Palaeolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Palaeolithic.

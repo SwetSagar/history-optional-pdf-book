@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/2 Mesolithic/Mahadaha.jpg]
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@43:strong", "upinder2008#2. Palaeolithic and Mesolithic@44:strong", "upinder2008#2. Palaeolithic and Mesolithic@41:strong", "upinder2008#2. Palaeolithic and Mesolithic@48:strong"]
 ---
 
 A Mesolithic site in Uttar Pradesh with distinct habitation and butchering areas.

@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/1 Palaeolithic/Bhimbetka.jpg, Ind
 status: sourced
 sources: [upinder2008, sharma2005]
 locked: []
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@20:strong", "upinder2008#2. Palaeolithic and Mesolithic@33:strong", "upinder2008#2. Palaeolithic and Mesolithic@52:strong", "sharma2005#India Ancient Past By RS Sharma@68:strong"]
 ---
 
 Rock shelters in Madhya Pradesh occupied through the Palaeolithic and Mesolithic, offering shelter, food and abundant raw material.

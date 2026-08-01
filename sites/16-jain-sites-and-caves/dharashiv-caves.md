@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Seven caves in Maharashtra built around the fifth to seventh century, originally Buddhist and now Jaina, modelled on the plan of Ajanta.
+- **Location & Setting**: Situated in Maharashtra.
+- **Periodization & Excavation**: Important Jain sites and caves site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Jain sites and caves.

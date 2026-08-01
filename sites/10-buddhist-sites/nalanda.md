@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Nalanda.jpg, In
 status: sourced
 sources: [upinder2008, sharma2005, basham1954]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#9. 300 C.E - 600 C.E@75:strong", "sharma2005#India Ancient Past By RS Sharma@303:strong", "basham1954#The Wonder that was India by A.L. Bash@231:strong", "basham1954#The Wonder that was India by A.L. Bash@91:strong"]
 ---
 
 A mahavihara and monastery in Bihar, and a centre of Mahayana Buddhist learning, patronised by the Gupta kings and by Harsha.

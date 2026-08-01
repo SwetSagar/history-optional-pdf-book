@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A fort built by Chandrarao More and soon afterwards captured by Shivaji Maharaj, who renamed it.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Forts site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Forts.

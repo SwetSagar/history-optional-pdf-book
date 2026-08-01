@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A monastery where Padmasambhava, who is said to have brought Buddhism to Bhutan, meditated for four months.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Buddhist Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Buddhist Sites.

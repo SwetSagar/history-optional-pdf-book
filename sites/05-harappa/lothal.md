@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/18. Ancient Ports/Lothal.jpg, Ind
 status: sourced
 sources: [sharma2005, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@96:strong", "upinder2008#4. Harappan Civilization@34:strong", "upinder2008#4. Harappan Civilization@47:strong", "upinder2008#4. Harappan Civilization@56:strong"]
 ---
 
 A Mature Harappan site in Ahmedabad district, Gujarat, with pre-Harappan occupation.

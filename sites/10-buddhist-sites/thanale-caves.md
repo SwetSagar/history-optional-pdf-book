@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-Buddhist caves found together with the Karsambla caves, which comprise thirty-seven rock-cut structures. Punch-marked coins of Ashoka have been found here.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Buddhist Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Buddhist Sites.

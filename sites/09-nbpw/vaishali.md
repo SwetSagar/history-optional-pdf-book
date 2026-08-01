@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/16. Jain sites and caves/Vaishali
 status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#9. 300 C.E - 600 C.E@27:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@25:weak", "upinder2008#8. 200 B.C - 300 C.E@48:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@10:weak"]
 ---
 
 The capital of the Lichchhavis and the Vajji, in Bihar.

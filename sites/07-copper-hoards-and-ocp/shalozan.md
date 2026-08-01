@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-The westernmost extent of the copper hoard culture, in Afghanistan, where trunnion celts are a notable find.
+- **Location & Setting**: Situated in Afghanistan.
+- **Periodization & Excavation**: Important Copper Hoards and OCP site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Copper Hoards and OCP.

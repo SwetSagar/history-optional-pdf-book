@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/1 Palaeolithic/Paisra.jpg, Indivi
 status: written
 sources: []
 locked: []
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@44:weak", "upinder2008#2. Palaeolithic and Mesolithic@20:weak", "upinder2008#2. Palaeolithic and Mesolithic@40:weak", "upinder2008#2. Palaeolithic and Mesolithic@30:weak"]
 ---
 
 A site in Bihar with Lower Palaeolithic and Mesolithic occupation, preserving a living and working floor with both finished and unfinished artefacts.

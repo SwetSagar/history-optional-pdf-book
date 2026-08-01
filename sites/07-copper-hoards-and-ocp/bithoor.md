@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/7 Copper Hoards and OCP/Bithoor.j
 status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@52:weak"]
 ---
 
 One of the earliest copper hoard sites to be excavated, in 1822, in Uttar Pradesh. Flat celts and shoulder celts were recovered, and a copper harpoon formed part of a large copper hoard found here.

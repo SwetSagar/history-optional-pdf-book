@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A medieval building on the banks of the Jhelum, built in 1395, and one of the best examples of Kashmiri wooden architecture, decorated with papier mâché.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Medieval Cities and Sufi saints site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Medieval Cities and Sufi saints.

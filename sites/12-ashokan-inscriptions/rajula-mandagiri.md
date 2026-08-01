@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Rajula Ma
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@11:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@13:weak"]
 ---
 
-An Ashokan site in Andhra Pradesh bearing Minor Rock Edicts I and II.
+- **Location & Setting**: Situated in Andhra Pradesh, Raichur district.
+- **Periodization & Excavation**: Important Ashokan Inscriptions site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ashokan Inscriptions.

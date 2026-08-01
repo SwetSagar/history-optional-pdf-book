@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/14. Temple Sites/Northern Temples
 status: sourced
 sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#9. 300 C.E - 600 C.E@83:weak"]
 ---
 
 A temple near Jabalpur in Madhya Pradesh, dated 400–425 CE in the Gupta period, and one of the oldest surviving Hindu temples. It is dedicated to Vishnu's Narasimha avatara, with other portraits; a Chamunda, or Kankali, image was a later addition.

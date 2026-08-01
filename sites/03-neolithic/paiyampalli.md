@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/3 Neolithic/Paiyampalli.jpg]
 status: sourced
 sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@107:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@104:weak", "sharma2005#India Ancient Past By RS Sharma@73:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@86:weak"]
 ---
 
-A Neolithic site in Tamil Nadu which has yielded horse gram and green gram. Cattle bones suggest that rearing was important.
+- **Location & Setting**: Situated in Tamil Nadu.
+- **Periodization & Excavation**: Important Neolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Neolithic.

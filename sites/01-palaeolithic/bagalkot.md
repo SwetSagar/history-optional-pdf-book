@@ -13,4 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An early to middle Palaeolithic tool site in Karnataka at which Acheulian handaxes have been found. Kavalli, nearby, is an open-air factory site.
+- **Location & Setting**: Situated in Karnataka, Bagalkot district, Malaprabha river.
+- **Periodization & Excavation**: Important Palaeolithic site.
+- **Material Culture & Finds**: Yields structural and epigraphic remains documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Palaeolithic.

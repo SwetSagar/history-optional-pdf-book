@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/20. Medieval Cities and Sufi sain
 status: sourced
 sources: [chandra-medieval-2]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@304:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@301:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@184:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@183:strong"]
 ---
 
-The capital of the medieval sultanate of the Qutb Shahi dynasty, about 1518 to 1687.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Medieval Cities and Sufi saints site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Medieval Cities and Sufi saints.

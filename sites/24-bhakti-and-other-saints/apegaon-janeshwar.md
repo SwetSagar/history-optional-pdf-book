@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Dnyaneshwar, a thirteenth-century Marathi saint under the Yadava dynasty. He wrote the Dnyaneshwari and the Amrutanubhav in Marathi, and his philosophy was the non-dualist Advaita Vedanta.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Bhakti and other saints site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Bhakti and other saints.

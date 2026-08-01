@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/4 Chalcolithic/Ahar.jpg, Individu
 status: sourced
 sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@66:strong", "upinder2008#3. Neolithic - Chalcolithic@34:strong", "sharma2005#India Ancient Past By RS Sharma@79:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@58:strong"]
 ---
 
 A Late Harappan site in Rajasthan with lustrous pottery and black-and-red ware bearing linear designs.

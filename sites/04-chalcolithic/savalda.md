@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/4 Chalcolithic/Savalda.jpg]
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@37:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@69:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@71:weak", "upinder2008#3. Neolithic - Chalcolithic@38:weak"]
 ---
 
 A Chalcolithic site in Maharashtra whose pottery is wheel-made and chocolate-coloured, of medium to coarse fabric with a thick crackled slip.

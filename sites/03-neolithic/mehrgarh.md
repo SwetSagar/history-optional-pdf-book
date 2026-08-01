@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/3 Neolithic/Mehrgarh.jpg, Individ
 status: sourced
 sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@14:strong", "upinder2008#3. Neolithic - Chalcolithic@12:strong", "sharma2005#India Ancient Past By RS Sharma@71:strong", "upinder2008#3. Neolithic - Chalcolithic@11:strong"]
 ---
 
 A site in Pakistan spanning the Neolithic, Chalcolithic and Early Harappan periods, and one of the earliest to yield evidence of agriculture and animal domestication, with barley and wheat as the main crops.

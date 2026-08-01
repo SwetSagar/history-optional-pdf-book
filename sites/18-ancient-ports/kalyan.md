@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/18. Ancient Ports/Kalyan.jpg]
 status: sourced
 sources: [chandra-medieval-2]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@101:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@284:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@291:weak", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@531:weak"]
 ---
 
 An ancient port which flourished during the Gupta period.

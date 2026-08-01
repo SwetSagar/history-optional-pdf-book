@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/5 Harappa/Late and Mature/Mohenjo
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#4. Harappan Civilization@26:strong", "upinder2008#4. Harappan Civilization@81:strong", "upinder2008#4. Harappan Civilization@75:strong", "upinder2008#4. Harappan Civilization@80:strong"]
 ---
 
 A Mature and Late Harappan site in Sindh, Pakistan, consisting of two mounds — a smaller western mound, known as the citadel, and a larger eastern mound.

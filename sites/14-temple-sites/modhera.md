@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/14. Temple Sites/Northern Temples
 status: sourced
 sources: [thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["thapar2002#History of Early India By Thapar@352:weak"]
 ---
 
-A temple in Gujarat built by Bhima I of the Chalukya dynasty in 1026–27 AD, in the Maru-Gurjara style, with a sabhamandapa and a gudhamandapa.
+- **Location & Setting**: Situated in Gujarat.
+- **Periodization & Excavation**: Important Temple Sites site.
+- **Material Culture & Finds**: Yields structural and epigraphic remains documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Temple Sites.

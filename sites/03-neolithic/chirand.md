@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/3 Neolithic/Chirand.jpg, Individu
 status: sourced
 sources: [sharma2005, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@56:strong", "upinder2008#3. Neolithic - Chalcolithic@38:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@63:strong", "sharma2005#India Ancient Past By RS Sharma@75:strong"]
 ---
 
 A site in Bihar occupied continuously from the Palaeolithic to the Pala period.

@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Kushinagar.jpg,
 status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@152:weak"]
 ---
 
 The capital of the Malla confederates, in Uttar Pradesh, ruled as a republican oligarchy or gana.

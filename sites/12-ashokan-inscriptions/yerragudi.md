@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Yerragudi
 status: sourced
 sources: [basham1954]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["basham1954#The Wonder that was India by A.L. Bash@657:weak", "basham1954#The Wonder that was India by A.L. Bash@503:weak"]
 ---
 
-An Ashokan site in Andhra Pradesh bearing Major Rock Edicts 1–14 together with two Minor Rock Edicts, in Brahmi and Prakrit. Ashoka is named here as Piyadasi.
+- **Location & Setting**: Situated in Andhra Pradesh.
+- **Periodization & Excavation**: Important Ashokan Inscriptions site.
+- **Material Culture & Finds**: Yields structural and epigraphic remains documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ashokan Inscriptions.

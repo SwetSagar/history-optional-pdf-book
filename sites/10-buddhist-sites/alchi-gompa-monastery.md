@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Alchi gompa Mon
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@91:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@94:weak"]
 ---
 
 An eleventh-century monastery in Jammu and Kashmir, its temples built in the Kashmiri style.

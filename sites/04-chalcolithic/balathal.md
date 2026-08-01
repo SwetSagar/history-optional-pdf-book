@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/4 Chalcolithic/Some other sites/B
 status: sourced
 sources: ["upinder2008#3. Neolithic - Chalcolithic@36", upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@36:strong", "upinder2008#3. Neolithic - Chalcolithic@34:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@58:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@59:weak"]
 ---
 
 An important Ahar culture site in Udaipur district, Rajasthan.

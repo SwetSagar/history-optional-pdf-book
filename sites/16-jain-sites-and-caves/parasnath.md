@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An important Jaina pilgrimage site with many temples, in Giridih district, Jharkhand, rising to 1,375 metres. Twenty of the twenty-four tirthankaras are said to have attained moksha here.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Jain sites and caves site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Jain sites and caves.

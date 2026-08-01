@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/14. Temple Sites/Southern Temples
 status: sourced
 sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@12:strong", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@131:strong", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@135:strong", "sharma2005#India Ancient Past By RS Sharma@307:strong"]
 ---
 
 The capital of the Chalukyas from 540 AD, in Bagalkot district, Karnataka, famous for its sandstone cave temples cut from red sandstone, with walls and ceilings decorated with carvings.

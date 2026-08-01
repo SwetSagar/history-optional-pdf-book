@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A UNESCO World Heritage Site in Tamil Nadu dedicated to Shiva, built by Rajaraja Chola in the twelfth century AD.
+- **Location & Setting**: Situated in Tamil Nadu.
+- **Periodization & Excavation**: Important Temple Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Temple Sites.

@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Bagh Caves.jpg,
 status: sourced
 sources: [upinder2008, basham1954]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#9. 300 C.E - 600 C.E@95:strong", "upinder2008#9. 300 C.E - 600 C.E@71:strong", "upinder2008#9. 300 C.E - 600 C.E@87:weak", "basham1954#The Wonder that was India by A.L. Bash@553:weak"]
 ---
 
-Nine rock-cut monuments in Maharashtra, of which five survive. Their mural paintings, executed in the tempera technique, represent Jataka and Avadana tales.
+- **Location & Setting**: Situated in Maharashtra.
+- **Periodization & Excavation**: Important Buddhist Sites site.
+- **Material Culture & Finds**: Yields structural and epigraphic remains documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Buddhist Sites.

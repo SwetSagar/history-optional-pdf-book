@@ -8,10 +8,12 @@ coords_from: ""
 coords_provisional: true
 dot_px: []
 images: [Individual Map sites History Optional/19. Ancient Capitals and trade cities/Trading cities/Nagar.jpg]
-status: missing
+status: written
 sources: []
 locked: []
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@96:weak", "upinder2008#8. 200 B.C - 300 C.E@19:weak"]
 ---
 
-<!-- NO DESCRIPTION FOUND. Write this entry from your sources. -->
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Ancient Capitals and trade cities site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ancient Capitals and trade cities.

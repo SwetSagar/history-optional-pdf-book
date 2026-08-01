@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/18. Ancient Ports/Kannur.jpg]
 status: sourced
 sources: [chandra-medieval-2]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@357:weak"]
 ---
 
 An important trading centre in Kerala in the twelfth century, trading with Persia and Arabia.

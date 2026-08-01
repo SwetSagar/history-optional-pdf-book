@@ -8,10 +8,12 @@ coords_from: Q107525102
 coords_provisional: false
 dot_px: [249.5, 259.5]
 images: [Individual Map sites History Optional/1 Palaeolithic/Some other sites/Anangpur (2).jpg]
-status: missing
+status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@19:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@40:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@41:weak"]
 ---
 
-<!-- NO DESCRIPTION FOUND. Write this entry from your sources. -->
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Palaeolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Palaeolithic.

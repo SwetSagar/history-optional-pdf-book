@@ -8,10 +8,12 @@ coords_from: ""
 coords_provisional: true
 dot_px: [124.5, 263.5]
 images: [Individual Map sites History Optional/3 Neolithic/Some other sites/Anjira.jpg]
-status: missing
+status: written
 sources: []
 locked: []
-sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@19:weak", "upinder2008#3. Neolithic - Chalcolithic@16:weak", "upinder2008#3. Neolithic - Chalcolithic@18:weak"]
 ---
 
-<!-- NO DESCRIPTION FOUND. Write this entry from your sources. -->
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Neolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Neolithic.

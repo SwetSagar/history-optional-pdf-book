@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A temple in Jammu and Kashmir built by Lalitaditya Muktapida of the Karkota dynasty in the eighth century, in Kashmiri architecture.
+- **Location & Setting**: Situated in Jammu and Kashmir.
+- **Periodization & Excavation**: Important Temple Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Temple Sites.

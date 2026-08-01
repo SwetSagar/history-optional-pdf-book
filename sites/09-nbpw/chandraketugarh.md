@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/11 Art Sites/Chandraketugarh.jpg,
 status: sourced
 sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@51:strong", "upinder2008#8. 200 B.C - 300 C.E@52:strong", "sharma2005#India Ancient Past By RS Sharma@205:weak", "upinder2008#8. 200 B.C - 300 C.E@158:weak"]
 ---
 
 An art site in West Bengal which has yielded coins, pottery, seals and sealings, and figurines of ivory, wood and bronze.

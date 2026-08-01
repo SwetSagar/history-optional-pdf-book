@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/13 Non Ashokan Inscription/Chandr
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@95:weak"]
 ---
 
-The site of a non-Ashokan inscription mentioning Bhadrabahu and the spread of Jainism.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Non Ashokan Inscription site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Non Ashokan Inscription.

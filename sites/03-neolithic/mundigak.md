@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/3 Neolithic/Mundigak.jpg, Individ
 status: sourced
 sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@16:strong", "upinder2008#3. Neolithic - Chalcolithic@18:weak", "upinder2008#3. Neolithic - Chalcolithic@51:weak"]
 ---
 
 A Neolithic and Chalcolithic site in Afghanistan dated between 4000 and 3500 BCE.

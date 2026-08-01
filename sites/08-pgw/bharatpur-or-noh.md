@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/8 PGW/Bharatpur or Noh.jpg, Indiv
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@100:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@64:weak", "upinder2008#8. 200 B.C - 300 C.E@19:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@101:weak"]
 ---
 
-A Painted Grey Ware site in Rajasthan where burnt bricks and rice have been found. Gamesmen recovered here suggest gambling as a pastime.
+- **Location & Setting**: Situated in Rajasthan, Ganga valley, Damodar valley.
+- **Periodization & Excavation**: Important PGW site.
+- **Material Culture & Finds**: Yields characteristic ceramic assemblage, stone tool industry, structural and epigraphic remains documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in PGW.

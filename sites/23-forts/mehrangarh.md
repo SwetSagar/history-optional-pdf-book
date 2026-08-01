@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A fort in Rajasthan built in 1459 by Rao Jodha. Its foundation was laid by Karni Mata, a saint worshipped as a local deity.
+- **Location & Setting**: Situated in Rajasthan.
+- **Periodization & Excavation**: Important Forts site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Forts.

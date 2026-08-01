@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Lal Ded, a fourteenth-century Shaivite mystic and creator of the poetry known as vatsun, vakh or Lal Vakh, among the earliest compositions in the Kashmiri language.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Bhakti and other saints site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Bhakti and other saints.

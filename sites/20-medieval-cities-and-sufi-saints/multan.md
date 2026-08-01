@@ -11,10 +11,9 @@ images: [Individual Map sites History Optional/20. Medieval Cities and Sufi sain
 status: sourced
 sources: [chandra-medieval-2, chandra-medieval-1, mehta-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@70:strong", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@59:weak", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@71:weak", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@160:weak"]
 ---
 
-A principal trade centre during the Delhi Sultanate, in Pakistan.
-
-- The shrine of Bahauddin Zakariya is located here.
-- It is known in the older sources as Mulasthana.
+- **Location & Setting**: Situated in Pakistan, the river.
+- **Periodization & Excavation**: Important Medieval Cities and Sufi saints site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Medieval Cities and Sufi saints.

@@ -9,9 +9,11 @@ coords_provisional: true
 dot_px: [427.5, 289.5]
 images: [Individual Map sites History Optional/3 Neolithic/Sarutaru.jpg]
 status: sourced
-sources: [upinder2008]
+sources: [upinder2008, thapar2002, sharma2005]
 locked: []
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@65:weak", "upinder2008#3. Neolithic - Chalcolithic@42:weak", "thapar2002#History of Early India By Thapar@74:weak", "sharma2005#India Ancient Past By RS Sharma@73:weak"]
 ---
 
-A Neolithic site in Assam which has yielded wheel-made pottery of fine kaolin clay.
+- **Location & Setting**: Situated in Assam.
+- **Periodization & Excavation**: Important Neolithic site.
+- **Material Culture & Finds**: Yields characteristic ceramic assemblage documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Neolithic.

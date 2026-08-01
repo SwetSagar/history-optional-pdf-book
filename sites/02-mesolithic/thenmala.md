@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Mesolithic site in Kerala, dated to about 5000 BC, which has yielded wood charcoal and carvings.
+- **Location & Setting**: Situated in Kerala.
+- **Periodization & Excavation**: Important Mesolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Mesolithic.

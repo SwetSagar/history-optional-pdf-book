@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/4 Chalcolithic/Some other sites/I
 status: sourced
 sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@74", upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@74:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@81:strong", "sharma2005#India Ancient Past By RS Sharma@83:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@77:strong"]
 ---
 
 A Chalcolithic farming settlement of the Deccan, its Period I belonging to the Malwa phase.

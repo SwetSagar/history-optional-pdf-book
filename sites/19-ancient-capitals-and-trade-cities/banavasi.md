@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/19. Ancient Capitals and trade ci
 status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#9. 300 C.E - 600 C.E@82:weak", "sharma2005#India Ancient Past By RS Sharma@308:weak", "sharma2005#India Ancient Past By RS Sharma@310:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@12:weak"]
 ---
 
 The Kadamba capital, the first native empire to rule the area, which had previously been ruled by the Mauryas.

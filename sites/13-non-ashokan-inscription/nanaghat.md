@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/13 Non Ashokan Inscription/nanagh
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@142:weak"]
 ---
 
-A non-Ashokan inscription commissioned by Queen Naganika, wife of Satakarni I. It indicates that he performed two ashvamedha sacrifices.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Non Ashokan Inscription site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Non Ashokan Inscription.

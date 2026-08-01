@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Temples of the Kalachuri period in Anuppur district, Madhya Pradesh, built by Karnadeva, who reigned 1041–1073 AD.
+- **Location & Setting**: Situated in Madhya Pradesh.
+- **Periodization & Excavation**: Important Temple Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Temple Sites.

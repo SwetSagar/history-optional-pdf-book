@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Sirpur.jpg, Ind
 status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@123:weak", "upinder2008#9. 300 C.E - 600 C.E@83:weak", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@175:weak", "upinder2008#9. 300 C.E - 600 C.E@85:weak"]
 ---
 
 The capital of South Kosala or Dakshina Kosala, south of the Vindhyas, in Chhattisgarh, and later capital of the Somavanshi kings.

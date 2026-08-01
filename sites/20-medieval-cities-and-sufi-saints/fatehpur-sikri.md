@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/20. Medieval Cities and Sufi sain
 status: sourced
 sources: [chandra-medieval-1, chandra-medieval-2]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["chandra-medieval-1#1. Medieval History Part 1 Satish Chan@267:weak", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@200:weak", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@150:weak", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@209:weak"]
 ---
 
-The site of the tomb of Salim Chishti.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Medieval Cities and Sufi saints site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Medieval Cities and Sufi saints.

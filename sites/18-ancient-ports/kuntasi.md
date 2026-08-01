@@ -8,10 +8,12 @@ coords_from: Q6445076
 coords_provisional: false
 dot_px: [162.8, 338.5]
 images: [Individual Map sites History Optional/18. Ancient Ports/Kuntasi.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#4. Harappan Civilization@42:weak", "upinder2008#4. Harappan Civilization@60:weak", "upinder2008#4. Harappan Civilization@51:weak", "upinder2008#4. Harappan Civilization@8:weak"]
 ---
 
-A Harappan site and port which imported gold and sapphire from Afghanistan and exported to Oman.
+- **Location & Setting**: Situated in Maharashtra, Phulki river, nagar district.
+- **Periodization & Excavation**: Important Ancient Ports site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ancient Ports.

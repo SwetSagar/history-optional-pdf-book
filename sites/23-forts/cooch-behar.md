@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A palace also called the Victor Jubilee Palace, designed on the model of Buckingham Palace with Corinthian columns, built in 1887 during the reign of Maharaja Nripendra Narayan.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Forts site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Forts.

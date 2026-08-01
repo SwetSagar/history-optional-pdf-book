@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A Mesolithic site in Meghalaya which has yielded microliths and evidence of domesticated cattle.
+- **Location & Setting**: Situated in Meghalaya.
+- **Periodization & Excavation**: Important Mesolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Mesolithic.

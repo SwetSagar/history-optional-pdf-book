@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/1 Palaeolithic/Pallavaram.jpg]
 status: sourced
 sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@2:weak", "upinder2008#2. Palaeolithic and Mesolithic@3:weak"]
 ---
 
-A Palaeolithic site in Tamil Nadu, where the first Palaeolithic tool in the subcontinent was discovered.
+- **Location & Setting**: Situated in Tamil Nadu.
+- **Periodization & Excavation**: Important Palaeolithic site.
+- **Material Culture & Finds**: Yields stone tool industry documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Palaeolithic.

@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/5 Harappa/Early Harappa/Banawali.
 status: sourced
 sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#4. Harappan Civilization@32:strong", "upinder2008#4. Harappan Civilization@41:strong", "upinder2008#4. Harappan Civilization@19:weak", "sharma2005#India Ancient Past By RS Sharma@118:weak"]
 ---
 
 An Early and Mature Harappan site in Haryana with mud-brick houses containing hearths and plastered storage-pit jars. Beads of gold and semi-precious stones were found, together with a cubical chert blade.

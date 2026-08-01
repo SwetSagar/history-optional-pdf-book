@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/19. Ancient Capitals and trade ci
 status: written
 sources: []
 locked: []
-sources_proposed: ["chandra-medieval-1#1. Medieval History Part 1 Satish Chan@15:weak", "upinder2008#8. 200 B.C - 300 C.E@17:weak", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@70:weak", "upinder2008#3. Neolithic - Chalcolithic@17:weak"]
 ---
 
 The capital of the Kushana king Kanishka and an important trade centre lying at the confluence of routes from Central Asia, China and India. As a Buddhist site it has many chaityas and a large stupa holding relics of the Buddha.

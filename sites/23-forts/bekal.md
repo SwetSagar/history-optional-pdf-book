@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The largest fort in Kerala, constructed in 1650 AD by Shivappa Nayaka of Keladi, successors of the Nayakas of the Vijayanagara empire.
+- **Location & Setting**: Situated in Kerala.
+- **Periodization & Excavation**: Important Forts site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Forts.

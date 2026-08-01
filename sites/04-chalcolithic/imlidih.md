@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/4 Chalcolithic/Some other sites/I
 status: sourced
 sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@62", upinder2008]
 locked: []
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@62:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@61:weak", "upinder2008#3. Neolithic - Chalcolithic@39:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@62:weak"]
 ---
 
 A site on the banks of the Kuwana river, in the middle Ganga plains.

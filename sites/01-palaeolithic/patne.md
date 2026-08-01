@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/1 Palaeolithic/Patne.jpg, Individ
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@33:strong", "upinder2008#2. Palaeolithic and Mesolithic@32:strong", "upinder2008#2. Palaeolithic and Mesolithic@34:strong", "upinder2008#2. Palaeolithic and Mesolithic@27:weak"]
 ---
 
 A site in the Tapti valley, Maharashtra, showing a stratigraphic sequence of Middle Palaeolithic, Upper Palaeolithic and Mesolithic tools.

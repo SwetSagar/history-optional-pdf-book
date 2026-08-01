@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Maski.jpg
 status: sourced
 sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@86:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@29:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@85:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@57:weak"]
 ---
 
 A site in Raichur district, Karnataka, with Palaeolithic, Neolithic–Chalcolithic, megalithic and Ashokan remains.

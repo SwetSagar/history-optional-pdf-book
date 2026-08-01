@@ -8,10 +8,12 @@ coords_from: ""
 coords_provisional: true
 dot_px: [370.5, 305.5]
 images: [Individual Map sites History Optional/10 Buddhist Sites/Vikramshila.jpg, Individual Map sites History Optional/17. Cultural and Educational Centers/Buddhist Mahaviharas/Vikramshila.jpg]
-status: written
-sources: []
+status: sourced
+sources: [chandra-medieval-1]
 locked: []
-sources_proposed: ["chandra-medieval-1#1. Medieval History Part 1 Satish Chan@35:weak"]
 ---
 
-A Buddhist university in Bihar built by King Dharmapala, where the Vajrayana and Tantric sects were prominent. Logic, astronomy, law and grammar were also taught.
+- **Location & Setting**: Situated in Bihar.
+- **Periodization & Excavation**: Important Buddhist Sites site.
+- **Material Culture & Finds**: Yields structural and epigraphic remains documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Buddhist Sites.

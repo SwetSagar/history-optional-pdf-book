@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A Palaeolithic site near the Narmada river in Gujarat. Study of its microblades has been used to argue for out-of-Africa migration.
+- **Location & Setting**: Situated in Gujarat.
+- **Periodization & Excavation**: Important Palaeolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Palaeolithic.

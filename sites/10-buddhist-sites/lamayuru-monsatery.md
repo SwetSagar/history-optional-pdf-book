@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A Tibetan Buddhist monastery in Jammu and Kashmir, affiliated to the Drikung Kagyu school of Buddhism.
+- **Location & Setting**: Situated in Jammu and Kashmir.
+- **Periodization & Excavation**: Important Buddhist Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Buddhist Sites.

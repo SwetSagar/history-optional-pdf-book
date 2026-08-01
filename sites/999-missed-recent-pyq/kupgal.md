@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/Missed recent PYQ/Petroglyph Site
 status: sourced
 sources: [upinder2008, thapar2002]
 locked: []
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@84:strong", "upinder2008#3. Neolithic - Chalcolithic@43:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@85:weak", "thapar2002#History of Early India By Thapar@86:weak"]
 ---
 
 A largely Neolithic site in Karnataka showing an overlap of Neolithic and Chalcolithic occupation.

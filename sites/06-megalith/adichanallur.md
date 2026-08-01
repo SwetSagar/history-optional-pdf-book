@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/6 Megalith/Adichanallur.jpg]
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@93:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@103:weak"]
 ---
 
 A megalithic Iron Age burial site in Tamil Nadu dating to 1500 BC.

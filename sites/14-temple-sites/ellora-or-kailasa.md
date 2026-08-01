@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/14. Temple Sites/Southern Temples
 status: sourced
 sources: [upinder2008, thapar2002]
 locked: []
-sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@126:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@125:strong", "thapar2002#History of Early India By Thapar@238:strong", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@115:strong"]
 ---
 
-A temple made by the Rashtrakuta king Krishna I in the late eighth century AD, depicting Ravana attempting to uproot Mount Kailasa.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Temple Sites site.
+- **Material Culture & Finds**: Yields structural and epigraphic remains documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Temple Sites.

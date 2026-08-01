@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A monastery of the Gelugpa sect in the Spiti valley, Himachal Pradesh, where lamas were trained. Its paintings and murals show Chinese influence.
+- **Location & Setting**: Situated in Himachal Pradesh.
+- **Periodization & Excavation**: Important Buddhist Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Buddhist Sites.

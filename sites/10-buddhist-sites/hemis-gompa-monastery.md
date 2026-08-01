@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-The wealthiest monastery of Ladakh and of India, in Jammu and Kashmir, belonging to the Drukpa lineage of Tibetan Buddhism. Its origins predate the eleventh century.
+- **Location & Setting**: Situated in Jammu and Kashmir.
+- **Periodization & Excavation**: Important Buddhist Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Buddhist Sites.

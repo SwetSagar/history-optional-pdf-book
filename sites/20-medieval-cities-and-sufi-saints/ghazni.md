@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/20. Medieval Cities and Sufi sain
 status: sourced
 sources: [mehta-medieval-1, chandra-medieval-1]
 locked: []
-sources_proposed: ["mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@94:strong", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@23:strong", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@15:strong", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@66:strong"]
 ---
 
 The capital of the Ghaznavids. The pre-Islamic city was largely tribal and practised Buddhism and Hinduism.

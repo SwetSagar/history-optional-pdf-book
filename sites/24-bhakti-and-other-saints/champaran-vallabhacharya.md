@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Vallabhacharya, who founded the Pushti sect of Vaishnavism in the Braj region and the philosophy of Shuddhadvaita, or pure non-dualism.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Bhakti and other saints site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Bhakti and other saints.

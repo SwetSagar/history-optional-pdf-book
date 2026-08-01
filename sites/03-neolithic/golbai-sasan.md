@@ -9,9 +9,11 @@ coords_provisional: true
 dot_px: [349.5, 374.5]
 images: [Individual Map sites History Optional/3 Neolithic/Some other sites/Golbai Sasan.jpg, Individual Map sites History Optional/4 Chalcolithic/Golbai Sasan.jpg]
 status: sourced
-sources: [upinder2008, sharma2005]
+sources: [upinder2008, sharma2005, thapar2002]
 locked: []
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@64:weak", "sharma2005#India Ancient Past By RS Sharma@73:weak", "thapar2002#History of Early India By Thapar@85:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@65:weak"]
 ---
 
-A Chalcolithic site in Odisha with red and grey pottery, both handmade and wheel-made. Copper objects recovered include a chisel, a bangle, a fishhook and a ring.
+- **Location & Setting**: Situated in Odisha, Sundargarh district, Mandakini river.
+- **Periodization & Excavation**: Important Neolithic site.
+- **Material Culture & Finds**: Yields characteristic ceramic assemblage documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Neolithic.

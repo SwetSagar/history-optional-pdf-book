@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/4 Chalcolithic/Jaipur.jpg]
 status: sourced
 sources: [upinder2008, sharma2005, chandra-medieval-2]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@41:weak", "sharma2005#India Ancient Past By RS Sharma@139:weak", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@247:weak"]
 ---
 
 A Chalcolithic site in Rajasthan on the Sahibi river, and a copper-working centre which has yielded the largest number of copper implements. Harappan pottery occurs here; the local pottery is fine and wheel-made, orange to red, with incised designs of various shapes.

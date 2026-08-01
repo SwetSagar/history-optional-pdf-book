@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A sixth-century Shiva temple in Assam, built of bricks made during the Ahom kingdom. Its doorways are intricately decorated with various motifs, though birds are absent.
+- **Location & Setting**: Situated in Assam.
+- **Periodization & Excavation**: Important Temple Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Temple Sites.

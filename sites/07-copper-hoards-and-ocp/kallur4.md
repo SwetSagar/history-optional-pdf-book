@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A copper hoard site in Karnataka, famous for its antennae swords, which exceed thirty-six inches in length.
+- **Location & Setting**: Situated in Karnataka.
+- **Periodization & Excavation**: Important Copper Hoards and OCP site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Copper Hoards and OCP.

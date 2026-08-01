@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A building in Rajasthan built by Sawai Pratap Singh in 1799, in Rajput architecture, with elaborate jharokhas and latticework.
+- **Location & Setting**: Situated in Rajasthan.
+- **Periodization & Excavation**: Important Forts site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Forts.

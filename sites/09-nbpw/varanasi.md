@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/17. Cultural and Educational Cent
 status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#9. 300 C.E - 600 C.E@41:weak", "sharma2005#India Ancient Past By RS Sharma@373:weak", "sharma2005#India Ancient Past By RS Sharma@167:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@40:weak"]
 ---
 
 A city in Uttar Pradesh which the Jataka stories describe as one of the most powerful of the mahajanapadas, famed for fine textiles and an important trade centre.

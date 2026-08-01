@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/20. Medieval Cities and Sufi sain
 status: sourced
 sources: [chandra-medieval-2, chandra-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@206:strong", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@31:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@26:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@25:strong"]
 ---
 
 A city whose early occupants included Mahmud of Ghazni, for whom it served as a second capital.

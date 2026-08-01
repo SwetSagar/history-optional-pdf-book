@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A university in Bangladesh established by Ramapala, where the Vajrayana sect was taught. It flourished after the decline of Nalanda and Vikramshila.
+- **Location & Setting**: Situated in Bangladesh.
+- **Periodization & Excavation**: Important Buddhist Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Buddhist Sites.

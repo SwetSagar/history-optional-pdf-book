@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A site famous for the Sharda Devi temple, where Sanskrit scholars resided.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Cultural and Educational Centers site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Cultural and Educational Centers.

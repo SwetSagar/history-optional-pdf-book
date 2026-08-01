@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Rock-cut caves in Visakhapatnam, Andhra Pradesh, where all three phases of Buddhism — Hinayana, Mahayana and Vajrayana — can be seen. A brick stupa is surrounded by small chaityas.
+- **Location & Setting**: Situated in Andhra Pradesh.
+- **Periodization & Excavation**: Important Buddhist Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Buddhist Sites.

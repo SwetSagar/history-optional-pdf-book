@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Some other site
 status: sourced
 sources: [thapar2002, sharma2005]
 locked: []
-sources_proposed: ["thapar2002#History of Early India By Thapar@367:weak", "thapar2002#History of Early India By Thapar@370:weak", "sharma2005#India Ancient Past By RS Sharma@227:weak", "sharma2005#India Ancient Past By RS Sharma@307:weak"]
 ---
 
 A Satavahana capital in Guntur district and a Buddhist centre, patronised by the Satavahanas and the Ikshvakus. Stupas and maha chaityas survive, with marble and limestone sculptures showing Greco-Roman influence.

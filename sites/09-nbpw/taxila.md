@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Taxila.jpg, Ind
 status: sourced
 sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#6. 600 B.C -300 B.C North India Mahaja@36:strong", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@14:strong", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@15:strong", "thapar2002#History of Early India By Thapar@120:strong"]
 ---
 
 A city in Khyber Pakhtunkhwa, Pakistan, connected to the overland routes into Afghanistan and Central Asia, and a UNESCO World Heritage Site.

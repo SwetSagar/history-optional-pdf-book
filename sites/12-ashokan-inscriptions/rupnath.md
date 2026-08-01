@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Rupnath.j
 status: sourced
 sources: [thapar2002, upinder2008]
 locked: []
-sources_proposed: ["thapar2002#History of Early India By Thapar@365:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@13:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@43:weak"]
 ---
 
 An Ashokan site in Madhya Pradesh bearing Minor Rock Edict I, addressed to the local Buddhist sangha. It expresses Ashoka's belief in the Buddha and the Dhamma and his aim to propagate it.

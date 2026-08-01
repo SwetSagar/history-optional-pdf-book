@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Karle Caves.jpg
 status: sourced
 sources: [thapar2002, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["thapar2002#History of Early India By Thapar@206:strong", "upinder2008#8. 200 B.C - 300 C.E@146:strong", "upinder2008#8. 200 B.C - 300 C.E@167:strong", "upinder2008#8. 200 B.C - 300 C.E@140:weak"]
 ---
 
 Caves in Maharashtra developed from the second century BC to the fifth century AD, whose Great Chaitya hall is their characteristic feature. The site was associated with the Mahasamghika sect of Buddhism and later with Hinduism.

@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/17. Cultural and Educational Cent
 status: sourced
 sources: [basham1954, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["basham1954#The Wonder that was India by A.L. Bash@120:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@18:weak"]
 ---
 
 The late Rashtrakuta capital, in Gulbarga district, which gained prominence under the Rashtrakuta rulers.

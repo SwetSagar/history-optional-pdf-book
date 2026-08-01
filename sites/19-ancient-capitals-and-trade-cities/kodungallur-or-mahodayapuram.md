@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/19. Ancient Capitals and trade ci
 status: sourced
 sources: [thapar2002]
 locked: []
-sources_proposed: ["thapar2002#History of Early India By Thapar@277:weak", "thapar2002#History of Early India By Thapar@189:weak", "upinder2008#8. 200 B.C - 300 C.E@59:weak", "upinder2008#8. 200 B.C - 300 C.E@68:weak"]
 ---
 
 A city on the banks of the Periyar river at Cranganore, Kerala, capital of the Perumal Chera kings.

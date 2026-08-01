@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Kapilavastu.jpg
 status: sourced
 sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#6. 600 B.C -300 B.C North India Mahaja@41:weak", "sharma2005#India Ancient Past By RS Sharma@167:weak", "sharma2005#India Ancient Past By RS Sharma@157:weak", "sharma2005#India Ancient Past By RS Sharma@180:weak"]
 ---
 
 The capital of the Shakya kingdom, in Nepal, and an important trade centre, where the Buddha lived until the age of twenty-nine. Sculptures carved here depict Maya's dream and the Buddha's departure.

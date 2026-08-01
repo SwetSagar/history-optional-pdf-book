@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/4 Chalcolithic/Some other sites/N
 status: sourced
 sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@61", upinder2008, sharma2005]
 locked: []
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@62:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@61:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@101:strong", "sharma2005#India Ancient Past By RS Sharma@79:weak"]
 ---
 
 A protohistoric site in Gorakhpur district, Uttar Pradesh, on the northern bank of the Sarayu or Ghaghara, about 30 km east of Imlidih.

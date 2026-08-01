@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/5 Harappa/Late and Mature/Alamgir
 status: sourced
 sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@45:strong", "sharma2005#India Ancient Past By RS Sharma@106:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@96:strong", "upinder2008#4. Harappan Civilization@22:weak"]
 ---
 
 The easternmost Mature Harappan site, in Uttar Pradesh, where burnt brick was found and the pottery suggests a workshop was established here.

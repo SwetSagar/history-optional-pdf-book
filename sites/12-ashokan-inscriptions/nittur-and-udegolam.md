@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Ashokan sites in Karnataka bearing Minor Rock Edicts I and II, which mention Ashoka by his personal name. The minor rock inscriptions predate the major rock edicts.
+- **Location & Setting**: Situated in Karnataka.
+- **Periodization & Excavation**: Important Ashokan Inscriptions site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ashokan Inscriptions.

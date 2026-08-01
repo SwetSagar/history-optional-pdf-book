@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/1 Palaeolithic/Chopani Mando.jpg,
 status: sourced
 sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@40:strong", "upinder2008#3. Neolithic - Chalcolithic@23:weak", "upinder2008#2. Palaeolithic and Mesolithic@29:weak", "upinder2008#3. Neolithic - Chalcolithic@24:weak"]
 ---
 
 A habitation site in Uttar Pradesh occupied from the Upper Palaeolithic to the Neolithic, recording the transition from food gathering to food production.

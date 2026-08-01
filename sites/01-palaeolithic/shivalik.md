@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A Palaeolithic locality in Himachal Pradesh from which prehistoric vertebrate fossils and skeletons have been recovered. The geological formation at Suketi consists of sandstones and clay.
+- **Location & Setting**: Situated in Himachal Pradesh.
+- **Periodization & Excavation**: Important Palaeolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Palaeolithic.

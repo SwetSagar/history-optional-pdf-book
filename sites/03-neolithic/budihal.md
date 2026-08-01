@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/3 Neolithic/Budihal.jpg, Individu
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@46:strong", "upinder2008#3. Neolithic - Chalcolithic@47:strong", "upinder2008#3. Neolithic - Chalcolithic@44:strong", "upinder2008#3. Neolithic - Chalcolithic@49:weak"]
 ---
 
 A Neolithic site in Karnataka with ash mounds at its centre, together with a cattle-penning area and a dung disposal area.

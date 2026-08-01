@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Sarnath.jpg, In
 status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@287:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@57:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@64:weak", "upinder2008#9. 300 C.E - 600 C.E@101:weak"]
 ---
 
 The site in Uttar Pradesh where the Buddha delivered his first sermon, the Dhammachakkappavattana, and where the Sangha came into existence.

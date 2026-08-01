@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/5 Harappa/Late and Mature/Harappa
 status: sourced
 sources: [basham1954, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["basham1954#The Wonder that was India by A.L. Bash@52:strong", "basham1954#The Wonder that was India by A.L. Bash@43:strong", "upinder2008#4. Harappan Civilization@3:strong", "basham1954#The Wonder that was India by A.L. Bash@40:strong"]
 ---
 
 A Mature Harappan site in Punjab, Pakistan, also a Neolithic–Chalcolithic site yielding Hakra ware.

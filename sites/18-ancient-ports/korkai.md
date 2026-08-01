@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/18. Ancient Ports/Korkai.jpg, Ind
 status: sourced
 sources: [upinder2008, thapar2002, basham1954]
 locked: []
-sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@59:strong", "thapar2002#History of Early India By Thapar@367:weak", "thapar2002#History of Early India By Thapar@370:weak", "basham1954#The Wonder that was India by A.L. Bash@674:weak"]
 ---
 
 The capital of the early Pandyas and an important Pandya port, on the banks of the Tamraparni river in Thoothukudi district, Tamil Nadu. It is celebrated in Sangam poems for its pearls, and pearl oysters have been found in excavations, together with black-and-red ware and potsherds dated 200 BC to 200 CE.

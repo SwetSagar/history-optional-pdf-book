@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/18. Ancient Ports/Bharuch.jpg]
 status: sourced
 sources: [thapar2002, upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["thapar2002#History of Early India By Thapar@188:strong", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@29:weak", "sharma2005#India Ancient Past By RS Sharma@265:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@46:weak"]
 ---
 
 An international port since pre-Mauryan days, in Gujarat, serving the Sakas, Kushanas and Satavahanas.

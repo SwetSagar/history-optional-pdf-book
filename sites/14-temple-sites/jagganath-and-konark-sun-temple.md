@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A thirteenth-century sun temple built by Narasimhadeva I of the Eastern Ganga dynasty, shaped like a ratha with a mandapa on a raised platform.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Temple Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Temple Sites.

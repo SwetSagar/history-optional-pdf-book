@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Kanheri Caves.j
 status: sourced
 sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@144:weak", "upinder2008#9. 300 C.E - 600 C.E@102:weak", "thapar2002#History of Early India By Thapar@367:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@125:weak"]
 ---
 
 Caves in Maharashtra dating from the first to the tenth century CE, with evidence of all three forms of Buddhism.

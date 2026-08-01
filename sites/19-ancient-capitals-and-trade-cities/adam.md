@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/19. Ancient Capitals and trade ci
 status: sourced
 sources: ["upinder2008#8. 200 B.C - 300 C.E@56", upinder2008]
 locked: []
-sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@56:strong", "upinder2008#3. Neolithic - Chalcolithic@19:strong", "upinder2008#8. 200 B.C - 300 C.E@57:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@46:weak"]
 ---
 
 A site in Nagpur district, Maharashtra, which yields important evidence for the material culture of the Deccan in this period.

@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Adi Shankaracharya, who consolidated the Advaita Vedanta philosophy. His works concentrate on the atman and nirguna brahman, and he organised the Dashanami monastic order.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Bhakti and other saints site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Bhakti and other saints.

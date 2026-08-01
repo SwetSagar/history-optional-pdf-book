@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Ashokan sites in Karnataka bearing Minor Rock Edict I, which preaches the Dhamma and the importance of practising it.
+- **Location & Setting**: Situated in Karnataka.
+- **Periodization & Excavation**: Important Ashokan Inscriptions site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ashokan Inscriptions.

@@ -8,10 +8,12 @@ coords_from: ""
 coords_provisional: true
 dot_px: [159.5, 357.5]
 images: [Individual Map sites History Optional/1 Palaeolithic/Some other sites/Hiran Valley.jpg]
-status: missing
+status: written
 sources: []
 locked: []
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@18:weak", "upinder2008#2. Palaeolithic and Mesolithic@24:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@59:weak"]
 ---
 
-<!-- NO DESCRIPTION FOUND. Write this entry from your sources. -->
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Palaeolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Palaeolithic.

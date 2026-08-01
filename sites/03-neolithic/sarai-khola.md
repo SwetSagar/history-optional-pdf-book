@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/3 Neolithic/Sarai Khola.jpg, Indi
 status: sourced
 sources: [upinder2008, sharma2005]
 locked: []
-sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@18:strong", "sharma2005#India Ancient Past By RS Sharma@73:weak", "upinder2008#4. Harappan Civilization@18:weak"]
 ---
 
 A site in Khyber Pakhtunkhwa, Pakistan, of the fourth millennium BC.

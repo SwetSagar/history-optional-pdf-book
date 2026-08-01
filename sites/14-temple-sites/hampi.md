@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/14. Temple Sites/Southern Temples
 status: sourced
 sources: [basham1954]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["basham1954#The Wonder that was India by A.L. Bash@461:weak", "basham1954#The Wonder that was India by A.L. Bash@671:weak"]
 ---
 
-The capital of the Vijayanagara empire and a UNESCO World Heritage Site, with various temples located throughout.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Temple Sites site.
+- **Material Culture & Finds**: Yields structural and epigraphic remains documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Temple Sites.

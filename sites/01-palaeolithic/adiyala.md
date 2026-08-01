@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A Palaeolithic site in Punjab, Pakistan, which has yielded edged pebble tools.
+- **Location & Setting**: Situated in Punjab.
+- **Periodization & Excavation**: Important Palaeolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Palaeolithic.

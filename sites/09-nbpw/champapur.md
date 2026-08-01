@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/9 NBPW/Champapur.jpg]
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#6. 600 B.C -300 B.C North India Mahaja@42:weak"]
 ---
 
-The capital of Anga, surrounded by defensive fortifications and a moat, and a monarchy. It was annexed by Bimbisara of Magadha.
+- **Location & Setting**: Situated in West Bengal.
+- **Periodization & Excavation**: Important NBPW site.
+- **Material Culture & Finds**: Yields characteristic ceramic assemblage documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in NBPW.

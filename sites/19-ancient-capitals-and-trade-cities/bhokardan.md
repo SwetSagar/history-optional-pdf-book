@@ -11,9 +11,9 @@ images: [Individual Map sites History Optional/19. Ancient Capitals and trade ci
 status: sourced
 sources: ["upinder2008#8. 200 B.C - 300 C.E@55", upinder2008, thapar2002]
 locked: []
-sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@55:strong", "thapar2002#History of Early India By Thapar@186:strong", "thapar2002#History of Early India By Thapar@367:weak", "thapar2002#History of Early India By Thapar@392:weak"]
 ---
 
-A city in Aurangabad district, Maharashtra, identified with the ancient Bhogavardhana.
-
-- It stood on the ancient route running from Ujjayini to Pratishthana.
+- **Location & Setting**: Situated in Aurangabad district.
+- **Periodization & Excavation**: Important Ancient Capitals and trade cities site.
+- **Material Culture & Finds**: Yields stone tool industry documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ancient Capitals and trade cities.

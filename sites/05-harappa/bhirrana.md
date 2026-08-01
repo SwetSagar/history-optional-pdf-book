@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/5 Harappa/Early Harappa/Bhirrana.
 status: sourced
 sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@22:weak", "upinder2008#4. Harappan Civilization@34:weak", "upinder2008#4. Harappan Civilization@8:weak", "upinder2008#4. Harappan Civilization@20:weak"]
 ---
 
 An Early and Mature Harappan site in Haryana, also a Neolithic–Chalcolithic site yielding Hakra ware.

@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/19. Ancient Capitals and trade ci
 status: sourced
 sources: ["upinder2008#8. 200 B.C - 300 C.E@40", upinder2008]
 locked: []
-sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@40:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@36:weak", "upinder2008#9. 300 C.E - 600 C.E@86:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@7:weak"]
 ---
 
 The mounds identified with Pushkalavati, one of the important cities of the period, spread over some four square miles.

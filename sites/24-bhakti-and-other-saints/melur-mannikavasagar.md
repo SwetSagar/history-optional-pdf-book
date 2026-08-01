@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Manikkavasagar, a ninth-century poet who lived in Madurai and wrote the Tiruvasakam, a key text of Shaiva Siddhanta, and also the Tirumurai.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Bhakti and other saints site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Bhakti and other saints.

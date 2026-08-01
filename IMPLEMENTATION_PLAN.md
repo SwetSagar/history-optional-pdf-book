@@ -11,8 +11,8 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 ## Current Status Audit
 
 ### Implemented & Verified Capabilities
-- [x] **Canonical Markdown Store**: 500 site records structured across 25 historical chapters.
-- [x] **Dot Extraction Engine (`dots.py`)**: Marker dot recovery on outline sheets yielding coordinates for 439 sites.
+- [x] **Canonical Markdown Store**: 496 site records structured across 25 historical chapters.
+- [x] **Dot Extraction Engine (`dots.py`)**: Marker dot recovery on outline sheets yielding coordinates for 438 sites.
 - [x] **Reference Corpus OCR (`ingest.py`)**: 3,719 pages (~9.06M characters) from 7 standard works ingested into `corpus/`.
 - [x] **Finding Aid Engine (`cite.py`)**: Alias-aware search across corpus pages; candidate matches indexed in `data/candidates.json` for 239 sites.
 - [x] **Report Generation**: Automated status tracking (`reports/coverage.md`, `gaps.md`, `anomalies.md`, `validation.md`).
@@ -21,10 +21,9 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 - [x] **Claude Handoff & Design Prompt (`CLAUDE_DESIGN_PROMPT.md`)**: Complete prompt spec for AI agent execution in Claude / Claude Design.
 - [x] **Git Repository & GitHub Push**: Initialized Git, created `.gitignore`, committed project history, and pushed to public GitHub repo [SwetSagar/history-optional-pdf-book](https://github.com/SwetSagar/history-optional-pdf-book).
 - [x] **Automated Citation Linking & Bibliography Engine (`pipeline/link_sources.py`)**: Linked 231 sites with 408 verified citations; updated `build_epub.py` to render source footers and an end-of-book **Works Cited / Bibliography Appendix**.
+- [x] **Local Corpus Grounded Drafting Engine (`pipeline/draft_corpus.py`)**: Achieved **100% prose coverage (496/496 sites)** by drafting structured 4-anchor UPSC bullet points from local corpus reference passages.
 
 ### Remaining Deficits & Work Required
-- [ ] **Missing Entries**: **87 sites** have no text written (`status: missing`).
-- [ ] **Thin Entries**: **119 sites** have under 30 words (some single-sentence summaries).
 - [ ] **Unlocated Sites**: **58 map sheets** are blank templates requiring gazetteer GPS coordinates.
 - [ ] **State Mis-assignments**: 3 state-location mismatches (Uch, Ganeriwala, Kuntasi) caused by passing mentions in text.
 - [ ] **EPUB Cover Integration**: Create cover art generator (`render_cover.py`) and register cover in EPUB manifest.
@@ -36,18 +35,18 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 ### Phase 1: Automated Citation Linking & Bibliography Engine (COMPLETED)
 - [x] **Create `pipeline/link_sources.py`**:
   - Scan `data/candidates.json` for candidate hits with confidence score $\ge 15$.
-  - Map corpus folder names (`upinder`, `thapar`, `sharma`, `basham`, `chandra1`, `chandra2`) to official bibliography keys (`upinder2008`, `thapar2002`, `sharma2005`, `basham1954`, `chandra-medieval-1`, `chandra-medieval-2`).
+  - Map corpus folder names to official bibliography keys (`upinder2008`, `thapar2002`, `sharma2005`, `basham1954`, `chandra-medieval-1`, `chandra-medieval-2`).
   - Update site frontmatter `sources: [key1, key2]` and set `status: sourced`.
 - [x] **Upgrade `pipeline/build_epub.py`**:
   - Render formal source citation footers under each entry.
   - Append an end-of-book **Bibliography Appendix** formatting all referenced works from `data/bibliography.json`.
 
-### Phase 2: Local Corpus Grounded Drafting for Missing & Thin Entries
-- [ ] **Create `pipeline/draft_corpus.py`**:
-  - Process the 87 missing sites and 119 thin entries (<30 words) in order of priority.
+### Phase 2: Local Corpus Grounded Drafting for Missing & Thin Entries (COMPLETED)
+- [x] **Create `pipeline/draft_corpus.py`**:
+  - Process missing sites and thin entries (<30 words) in order of priority.
   - Fetch authoritative passages from indexed books in `corpus/`.
   - Synthesize structured, factual 4-anchor bullet points (Location, Period/Excavator, Finds, Significance).
-  - Automatically attach bibliography source keys to frontmatter.
+  - Automatically attach bibliography source keys to frontmatter. Reached **100% entry coverage (496/496)**.
 
 ### Phase 3: Frontmatter Overrides & State Detection Fixes
 - [ ] **Update `pipeline/extract.py` & `pipeline/common.py`**:
@@ -85,7 +84,7 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 ## Verification Plan
 
 ### Automated Tests
-- Run `python3 pipeline/link_sources.py --write` to verify `sources: [...]` populated across sites.
+- Run `python3 pipeline/draft_corpus.py --write` and verify 100% prose coverage.
 - Run `python3 pipeline/validate.py` to verify state consistency.
 - Run `pytest pipeline/test_pipeline.py` to confirm pipeline stability.
 

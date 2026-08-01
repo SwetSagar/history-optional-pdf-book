@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/5 Harappa/Early Harappa/Surkotada
 status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#4. Harappan Civilization@42:weak", "thapar2002#History of Early India By Thapar@81:weak", "upinder2008#4. Harappan Civilization@15:weak", "upinder2008#4. Harappan Civilization@41:weak"]
 ---
 
 A Mature to Late Harappan site in Gujarat with no break or desertion in its occupation.

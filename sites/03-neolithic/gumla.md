@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/3 Neolithic/Some other sites/Guml
 status: sourced
 sources: ["upinder2008#3. Neolithic - Chalcolithic@17", upinder2008]
 locked: []
-sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@17:strong", "upinder2008#4. Harappan Civilization@17:strong", "upinder2008#3. Neolithic - Chalcolithic@18:strong", "upinder2008#4. Harappan Civilization@22:weak"]
 ---
 
 An early site in the valley of the Gomal river, a tributary of the Indus, in Dera Ismail Khan district.

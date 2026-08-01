@@ -9,11 +9,11 @@ coords_provisional: true
 dot_px: []
 images: [Individual Map sites History Optional/19. Ancient Capitals and trade cities/Some other sites/Thanesar or Sthanisvara.jpg]
 status: sourced
-sources: ["mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-History@52", mehta-medieval-1]
+sources: ["mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-History@52", mehta-medieval-1, sharma2005, upinder2008]
 locked: []
-sources_proposed: ["mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@52:weak", "sharma2005#India Ancient Past By RS Sharma@300:weak", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@75:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@28:weak"]
 ---
 
-The ancestral estate of Harsha Vardhana.
-
-- It most probably constituted an independent principality at the beginning of the eleventh century.
+- **Location & Setting**: Situated in the valley.
+- **Periodization & Excavation**: Important Ancient Capitals and trade cities site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ancient Capitals and trade cities.

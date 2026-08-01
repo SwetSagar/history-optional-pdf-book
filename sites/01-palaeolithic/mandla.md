@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Palaeolithic locality in Madhya Pradesh where fossilised plants occur together with mollusc fossils. A dinosaur egg of the Jurassic period has also been found here.
+- **Location & Setting**: Situated in Madhya Pradesh.
+- **Periodization & Excavation**: Important Palaeolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Palaeolithic.

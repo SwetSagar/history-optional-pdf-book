@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/1 Palaeolithic/Mandsaur.jpg, Indi
 status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["thapar2002#History of Early India By Thapar@85:weak"]
 ---
 
 A site in Madhya Pradesh with remains spanning several periods.

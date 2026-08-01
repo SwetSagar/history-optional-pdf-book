@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/10 Buddhist Sites/Some other site
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@21:weak"]
 ---
 
 A site near the bank of the Bhima river.

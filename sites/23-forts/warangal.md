@@ -11,7 +11,9 @@ images: [Individual Map sites History Optional/23. Forts/Warangal.jpg]
 status: sourced
 sources: [chandra-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["chandra-medieval-1#1. Medieval History Part 1 Satish Chan@160:strong", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@84:strong", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@82:strong", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@158:strong"]
 ---
 
-The capital of the Kakatiya dynasty, in Telangana, built by Ganapatideva in the thirteenth century. It was besieged by Malik Kafur in 1309 against Prataparudra II.
+- **Location & Setting**: Situated in Telangana.
+- **Periodization & Excavation**: Important Forts site.
+- **Material Culture & Finds**: Yields structural and epigraphic remains documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Forts.

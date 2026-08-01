@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/19. Ancient Capitals and trade ci
 status: sourced
 sources: ["upinder2008#8. 200 B.C - 300 C.E@49", upinder2008, sharma2005]
 locked: []
-sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@49:strong", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@28:weak", "sharma2005#India Ancient Past By RS Sharma@205:weak", "sharma2005#India Ancient Past By RS Sharma@394:weak"]
 ---
 
 A fortified settlement in South Dinajpur district, West Bengal, on the banks of the Purnabhava river.

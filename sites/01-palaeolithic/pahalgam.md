@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Palaeolithic site in Jammu and Kashmir where a handaxe has been discovered. Tools are not generally found in this region owing to the cold temperatures.
+- **Location & Setting**: Situated in Jammu and Kashmir.
+- **Periodization & Excavation**: Important Palaeolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Palaeolithic.

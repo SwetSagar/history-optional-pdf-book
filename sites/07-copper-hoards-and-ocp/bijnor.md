@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/7 Copper Hoards and OCP/Bijnor.jp
 status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#6. 600 B.C -300 B.C North India Mahaja@49:weak"]
 ---
 
 An ochre-coloured pottery site in Uttar Pradesh excavated by B. B. Lal.

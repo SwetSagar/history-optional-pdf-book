@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/1 Palaeolithic/Some other sites/L
 status: sourced
 sources: ["upinder2008#2. Palaeolithic and Mesolithic@25", upinder2008, basham1954]
 locked: []
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@18:weak", "upinder2008#2. Palaeolithic and Mesolithic@25:strong", "upinder2008#2. Palaeolithic and Mesolithic@19:weak", "basham1954#The Wonder that was India by A.L. Bash@615:weak"]
 ---
 
 A Middle Palaeolithic region along the now virtually extinct Luni river system.

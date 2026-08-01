@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/14. Temple Sites/Southern Temples
 status: sourced
 sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@79:strong", "thapar2002#History of Early India By Thapar@270:strong", "thapar2002#History of Early India By Thapar@259:strong", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@154:strong"]
 ---
 
 The capital of the early Cholas and later a Pallava capital, from about 300 to 800 AD, in Tamil Nadu, and an important commercial centre in the Satavahana period.

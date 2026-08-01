@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Sopara.jp
 status: sourced
 sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@11:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@29:weak", "sharma2005#India Ancient Past By RS Sharma@269:weak", "basham1954#The Wonder that was India by A.L. Bash@314:weak"]
 ---
 
 An important port in Maharashtra under Ashoka and later, carrying sea trade with the Romans in the pre- and post-Mauryan age and with the Arabs in the early medieval period.

@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Thirty-three rock-cut caves used by Jaina monks and made under the Kharavela kings. The Rani Gumpha is a two-storeyed cave, and the Hathigumpha inscription is found here.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Jain sites and caves site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Jain sites and caves.

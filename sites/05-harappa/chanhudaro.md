@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/5 Harappa/Late and Mature/Chanhud
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#4. Harappan Civilization@54:strong", "upinder2008#4. Harappan Civilization@29:strong", "upinder2008#4. Harappan Civilization@51:strong", "upinder2008#4. Harappan Civilization@22:weak"]
 ---
 
 A Mature Harappan site in Sindh, Pakistan, without fortifications, its drains covered with burnt bricks.

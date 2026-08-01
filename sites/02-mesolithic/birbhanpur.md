@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/2 Mesolithic/Birbhanpur.jpg]
 status: sourced
 sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@37:strong", "upinder2008#2. Palaeolithic and Mesolithic@44:weak", "upinder2008#2. Palaeolithic and Mesolithic@45:weak"]
 ---
 
 A Mesolithic site in West Bengal, occupied under a drier climate, serving both as a habitation and as a factory site. Its stone tools are of quartz, chert and chalcedony.

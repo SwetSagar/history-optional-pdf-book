@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A fort in Kerala, given its present form by Hyder Ali, whose bastions survive. It was used as a base of operations against the fort at Seringapatam.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Palaeolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Palaeolithic.

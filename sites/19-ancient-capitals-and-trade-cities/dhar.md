@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/19. Ancient Capitals and trade ci
 status: sourced
 sources: [chandra-medieval-1, mehta-medieval-1, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["chandra-medieval-1#1. Medieval History Part 1 Satish Chan@198:weak", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@53:weak", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@89:weak", "thapar2002#History of Early India By Thapar@313:weak"]
 ---
 
 The Paramara capital in Madhya Pradesh, from which they defeated the Rashtrakutas. It housed the Bhojashala, a university of Sanskrit studies, and was a major centre of the revolt of 1857.

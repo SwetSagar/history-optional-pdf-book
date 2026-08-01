@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/23. Forts/Gwalior.jpg]
 status: sourced
 sources: [mehta-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@77:strong", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@100:strong", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@203:strong", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@270:weak"]
 ---
 
 A fort in Madhya Pradesh in its present form built by Man Singh Tomar in the fifteenth century. A sun temple predating the fort was built by the Huna emperor Mihirakula, and Jaina rock-cut caves and monuments stand nearby.

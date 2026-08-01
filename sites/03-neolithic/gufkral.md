@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/3 Neolithic/Gufkral.jpg]
 status: sourced
 sources: [upinder2008]
 locked: []
-sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@31:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@43:strong", "upinder2008#3. Neolithic - Chalcolithic@26:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@95:weak"]
 ---
 
 A Neolithic site in Jammu and Kashmir with pit dwellings similar to those at Burzahom, surrounded by storage pits and hearths; the use of pits declined in the later phases.

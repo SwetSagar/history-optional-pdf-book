@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/20. Medieval Cities and Sufi sain
 status: sourced
 sources: [mehta-medieval-1, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@285:strong"]
 ---
 
 A city in Karnataka, now known as Kalaburagi, in existence since the sixth century in Rashtrakuta times.

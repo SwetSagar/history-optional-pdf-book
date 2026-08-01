@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A Palaeolithic site in Madhya Pradesh with artefacts dated to about 50,000 years ago, including an ostrich egg of the Upper Palaeolithic era.
+- **Location & Setting**: Situated in Madhya Pradesh.
+- **Periodization & Excavation**: Important Palaeolithic site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Palaeolithic.

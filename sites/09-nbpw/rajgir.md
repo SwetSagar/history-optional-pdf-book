@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/9 NBPW/Rajgir.jpg]
 status: sourced
 sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#6. 600 B.C -300 B.C North India Mahaja@42:strong", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@24:strong", "upinder2008#8. 200 B.C - 300 C.E@98:weak", "thapar2002#History of Early India By Thapar@129:weak"]
 ---
 
 The capital of Magadha, in Bihar, a fortified city surrounded by five hills, until Udayin moved the capital to Pataliputra.

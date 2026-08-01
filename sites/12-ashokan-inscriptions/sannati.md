@@ -11,7 +11,6 @@ images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Sannati.j
 status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
-sources_proposed: ["upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@21:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@29:weak", "upinder2008#8. 200 B.C - 300 C.E@160:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@13:weak"]
 ---
 
 An Ashokan site near the bank of the Bhima river at Kanganahalli.

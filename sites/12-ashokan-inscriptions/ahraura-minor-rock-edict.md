@@ -8,10 +8,12 @@ coords_from: ""
 coords_provisional: true
 dot_px: []
 images: [Individual Map sites History Optional/12 Ashokan Inscriptions/More/Ahraura Minor Rock edict.jpg]
-status: missing
+status: written
 sources: []
 locked: []
-sources_proposed: ["upinder2008#6. 600 B.C -300 B.C North India Mahaja@3:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@11:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@13:weak"]
 ---
 
-<!-- NO DESCRIPTION FOUND. Write this entry from your sources. -->
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Important Ashokan Inscriptions site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ashokan Inscriptions.

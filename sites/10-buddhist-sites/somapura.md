@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-One of the five great mahaviharas, in Bangladesh, built by Dharmapala in his fifth regnal year and flourishing under the Pala dynasty. Xuanzang resided here.
+- **Location & Setting**: Situated in Bangladesh.
+- **Periodization & Excavation**: Important Buddhist Sites site.
+- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
+- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Buddhist Sites.
