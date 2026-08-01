@@ -1,7 +1,7 @@
 ---
 name: Uch
 categories: [Medieval Cities and Sufi saints]
-state: Delhi
+state: Pakistan
 coords: [29.23944, 71.06111]
 coords_confidence: gazetteer
 coords_from: Q532244

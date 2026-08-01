@@ -1,7 +1,7 @@
 ---
 name: Kuntasi
 categories: [Ancient Ports]
-state: Maharashtra
+state: Gujarat
 coords: [22.90889, 70.59167]
 coords_confidence: gazetteer
 coords_from: Q6445076

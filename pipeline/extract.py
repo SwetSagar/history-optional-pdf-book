@@ -368,6 +368,9 @@ def apply_overrides(fresh: dict, prev: dict) -> dict:
     if prior_sources:
         out["sources"] = prior_sources
 
+    if prev.get("state"):
+        out["state"] = prev["state"]
+
     locked = prev.get("locked") or []
     if isinstance(locked, str):
         locked = [locked]

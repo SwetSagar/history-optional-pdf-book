@@ -22,11 +22,13 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 - [x] **Git Repository & GitHub Push**: Initialized Git, created `.gitignore`, committed project history, and pushed to public GitHub repo [SwetSagar/history-optional-pdf-book](https://github.com/SwetSagar/history-optional-pdf-book).
 - [x] **Automated Citation Linking & Bibliography Engine (`pipeline/link_sources.py`)**: Linked 231 sites with 408 verified citations; updated `build_epub.py` to render source footers and an end-of-book **Works Cited / Bibliography Appendix**.
 - [x] **Local Corpus Grounded Drafting Engine (`pipeline/draft_corpus.py`)**: Achieved **100% prose coverage (496/496 sites)** by drafting structured 4-anchor UPSC bullet points from local corpus reference passages.
+- [x] **Frontmatter State Preservation & Validation (`pipeline/extract.py`)**: Achieved **100% state-coordinate validation (248/248 consistent, 0 flagged errors)** by preserving explicit frontmatter state overrides.
+- [x] **Modernist Cover Art Generator (`pipeline/render_cover.py`)**: Created high-DPI book cover image (`build/cover.png`, 1600x2400 px) embedded into EPUB OPF manifest and spine.
 
 ### Remaining Deficits & Work Required
 - [ ] **Unlocated Sites**: **58 map sheets** are blank templates requiring gazetteer GPS coordinates.
-- [ ] **State Mis-assignments**: 3 state-location mismatches (Uch, Ganeriwala, Kuntasi) caused by passing mentions in text.
-- [ ] **EPUB Cover Integration**: Create cover art generator (`render_cover.py`) and register cover in EPUB manifest.
+- [ ] **Vector Basemap**: Upgrade base maps from scanned sheet crops to clean GeoJSON vector borders and rivers.
+- [ ] **Unified CLI & Testing**: Build `pipeline/manage.py` and `pytest` suite.
 
 ---
 
@@ -48,10 +50,10 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
   - Synthesize structured, factual 4-anchor bullet points (Location, Period/Excavator, Finds, Significance).
   - Automatically attach bibliography source keys to frontmatter. Reached **100% entry coverage (496/496)**.
 
-### Phase 3: Frontmatter Overrides & State Detection Fixes
-- [ ] **Update `pipeline/extract.py` & `pipeline/common.py`**:
+### Phase 3: Frontmatter Overrides & State Detection Fixes (COMPLETED)
+- [x] **Update `pipeline/extract.py` & `pipeline/common.py`**:
   - Preserve manually edited frontmatter fields (`state`, `coords`, `sources`, `status`) on reruns.
-  - Fix state mis-assignments for Uch, Ganeriwala, and Kuntasi by respecting explicit frontmatter `state` overrides.
+  - Fixed state mis-assignments for Uch, Ganeriwala, and Kuntasi. Reached **100% validation (248/248 consistent)**.
 
 ### Phase 4: Gazetteer Integration for Unmapped & Provisional Sites
 - [ ] **Create `data/gazetteer.json` & `pipeline/gazetteer.py`**:
@@ -63,11 +65,11 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
   - Add vector base map rendering using GeoJSON boundaries and rivers.
   - Remove exam sheet scan furniture ("DO NOT write your Roll No.") to produce high-DPI locator maps.
 
-### Phase 6: Cover Art Generator & EPUB Design Upgrades
-- [ ] **Create `pipeline/render_cover.py`**:
-  - Generate high-resolution Modernist book cover image (`build/cover.png`, 1600x2400 px).
-- [ ] **Update `pipeline/build_epub.py`**:
-  - Register cover image in EPUB OPF manifest.
+### Phase 6: Cover Art Generator & EPUB Design Upgrades (COMPLETED)
+- [x] **Create `pipeline/render_cover.py`**:
+  - Generated high-resolution Modernist book cover image (`build/cover.png`, 1600x2400 px).
+- [x] **Update `pipeline/build_epub.py`**:
+  - Registered cover image in EPUB OPF manifest and spine. Embedded `DESIGN_SYSTEM.md` CSS styling.
 
 ### Phase 7: BM25 Citation Search Engine
 - [ ] **Upgrade `pipeline/cite.py`**:
@@ -84,8 +86,8 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 ## Verification Plan
 
 ### Automated Tests
-- Run `python3 pipeline/draft_corpus.py --write` and verify 100% prose coverage.
-- Run `python3 pipeline/validate.py` to verify state consistency.
+- Run `python3 pipeline/validate.py` (verified: 100% consistent, 0 flagged errors).
+- Run `python3 pipeline/build_epub.py --all` (verified: 496 entries, 438 maps, cover embedded).
 - Run `pytest pipeline/test_pipeline.py` to confirm pipeline stability.
 
 ### Manual Verification

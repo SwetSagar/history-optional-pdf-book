@@ -1,7 +1,7 @@
 ---
 name: Ganeriwala
 categories: [Harappa]
-state: Punjab
+state: Pakistan
 coords: [28.5, 71.06667]
 coords_confidence: gazetteer
 coords_from: Q3095220
