@@ -19,6 +19,7 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 - [x] **UPSC Description Quality Standard (`CLAUDE_IMPLEMENTATION_PLAN.md`)**: Established 4-anchor template (Location & Setting, Periodization & Excavation, Material Culture & Finds, Historical Significance).
 - [x] **Publication Design System (`DESIGN_SYSTEM.md`)**: Complete CSS typography hierarchy, color tokens, light/dark mode variables, responsive map figures, and non-breaking page controls (`break-inside: avoid`).
 - [x] **Claude Handoff & Design Prompt (`CLAUDE_DESIGN_PROMPT.md`)**: Complete prompt spec for AI agent execution in Claude / Claude Design.
+- [x] **Git Repository & GitHub Push**: Initialized Git, created `.gitignore`, committed project history, and pushed to public GitHub repo [SwetSagar/history-optional-pdf-book](https://github.com/SwetSagar/history-optional-pdf-book).
 
 ### Remaining Deficits & Work Required
 - [ ] **Sources Attached**: **0 / 500 sites** currently have citation sources linked in `sources: []` frontmatter.
