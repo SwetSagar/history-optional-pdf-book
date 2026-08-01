@@ -13,8 +13,7 @@ sources: [basham1954, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The capital of Avanti, in Madhya Pradesh, and part of the Dakshinapatha trade.
-
-- It stood on the southern high road, the Dakshinapatha, which ran from Rajagriha to Pratishthana, and Ashoka served as its provincial governor during the reign of Bindusara.
-- As a commercial centre it has yielded terracotta spindle whorls, arrowheads, spearheads and crowbars.
-- The settlement was fortified with mud, and a massive burnt-brick tank for water storage and terracotta ring wells were found.
+- **Location & Setting**: Situated in Madhya Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to NBPW.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (It stood on the southern high road, the Dakshinapatha, which ran from Rajagriha to Pratishthana, and Ashoka served as its provincial governor during the reign of Bindusara.; As a commercial centre it has yielded terracotta spindle whorls, arrowheads, spearheads and crowbars.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in NBPW.

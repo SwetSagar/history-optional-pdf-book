@@ -13,4 +13,7 @@ sources: [mehta-medieval-1, chandra-medieval-2, chandra-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A city to which Sultan Ala-ud-din Bahman Shah shifted the capital from Gulbarga in 1427, from [gap in notes]. It had better climatic conditions and lay in fertile, fruit-bearing land, and was also a religious and cultural centre.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Cultural and Educational Centers.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Cultural and Educational Centers.

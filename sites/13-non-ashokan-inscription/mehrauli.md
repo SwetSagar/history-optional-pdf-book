@@ -13,7 +13,7 @@ sources: [sharma2005, upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The site of the corrosion-resistant Iron Pillar of Delhi, which belonged to King Chandragupta II.
-
-- It is surmounted by a Garuda and dedicated to Vishnu.
-- The inscription indicates that he fought against Bengal and campaigned in Punjab.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Non Ashokan Inscription.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (It is surmounted by a Garuda and dedicated to Vishnu.; The inscription indicates that he fought against Bengal and campaigned in Punjab.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Non Ashokan Inscription.

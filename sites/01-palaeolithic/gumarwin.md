@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-A Palaeolithic site at which Acheulian and Soanian material occurs together, indicating continuity between the two.
-
-- Finds include bifacial handaxes, cleavers, scrapers and Acheulian choppers.
-- Fossil remains of Sivapithecus, an ancestor of orangutans and humans, have been recovered, along with vertebrates, invertebrates and the fossilised tuber of a tree, which together help reconstruct the ecology of the period.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
+- **Material Culture & Finds**: Yields lithic/stone tool industry (Finds include bifacial handaxes, cleavers, scrapers and Acheulian choppers.; Fossil remains of Sivapithecus, an ancestor of orangutans and humans, have been recovered, along with vertebrates, invertebrates and the fossilised tuber of a tree, which together help reconstruct the ecology of the period.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.

@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-A Chalcolithic site in Maharashtra whose pottery is wheel-made and chocolate-coloured, of medium to coarse fabric with a thick crackled slip.
-
-- Houses were round or oval with sloping roofs.
-- Bone tools were recovered, together with objects of shell, opal, carnelian and terracotta.
+- **Location & Setting**: Situated in Maharashtra, Tapi valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry (Houses were round or oval with sloping roofs.; Bone tools were recovered, together with objects of shell, opal, carnelian and terracotta.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

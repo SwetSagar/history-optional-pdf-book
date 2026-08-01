@@ -13,4 +13,7 @@ sources: [thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A port of the Chola period in Tamil Nadu which exported textiles and muslin to Malacca and also traded with the Greeks. It was later revived by the Portuguese and other Europeans.
+- **Location & Setting**: Situated in Tamil Nadu.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Ports.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Ports.

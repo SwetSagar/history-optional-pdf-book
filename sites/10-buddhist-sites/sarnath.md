@@ -8,13 +8,12 @@ coords_from: Q324394
 coords_provisional: false
 dot_px: [319.5, 301.5]
 images: [Individual Map sites History Optional/10 Buddhist Sites/Sarnath.jpg, Individual Map sites History Optional/12 Ashokan Inscriptions/Sarnath.jpg]
-status: written
-sources: []
+status: sourced
+sources: [sharma2005, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The site in Uttar Pradesh where the Buddha delivered his first sermon, the Dhammachakkappavattana, and where the Sangha came into existence.
-
-- Ashoka built a stupa here.
-- It is famous for the Lion Capital of Ashoka, carved from a single block of polished sandstone.
-- It is known in the older sources as Isipatana.
+- **Location & Setting**: Situated in Uttar Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (Ashoka built a stupa here.; It is famous for the Lion Capital of Ashoka, carved from a single block of polished sandstone.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

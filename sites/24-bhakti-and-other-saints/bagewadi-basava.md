@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Basava, a Shaivite saint of the Sharana sect who flourished during the reign of Bijjala II of the Chalukya-Kalachuri dynasty in the twelfth century. He wrote Vachana Sahitya in Kannada, gave people the ishtalinga, a necklace, and introduced new public institutions such as the Anubhava Mandapa.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Bhakti and other saints.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Bhakti and other saints.

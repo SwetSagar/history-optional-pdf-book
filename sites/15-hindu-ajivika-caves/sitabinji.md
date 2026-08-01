@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-A Hindu cave site in Odisha whose object of worship was a mukhalinga, a linga with four faces of Shiva, showing that Shaivism was dominant in Odisha by the fifth century.
-
-- A painting depicts a royal procession, with a figure seated on an elephant, footmen leading and horsemen and dancing women following; it may have been a royal hunting retreat.
-- Writing within the painting mentions a Bhanja king.
+- **Location & Setting**: Situated in Odisha.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Hindu, Ajivika caves.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (A painting depicts a royal procession, with a figure seated on an elephant, footmen leading and horsemen and dancing women following; it may have been a royal hunting retreat.; Writing within the painting mentions a Bhanja king.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Hindu, Ajivika caves.

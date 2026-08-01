@@ -14,6 +14,6 @@ locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
 - **Location & Setting**: Situated in Pakistan, the river.
-- **Periodization & Excavation**: Important Medieval Cities and Sufi saints site.
-- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Medieval Cities and Sufi saints.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Medieval Cities and Sufi saints.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Medieval Cities and Sufi saints.

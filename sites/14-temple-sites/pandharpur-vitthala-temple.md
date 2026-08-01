@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A temple in Maharashtra dedicated to Vishnu, near the Chandrabhaga river and on the south bank of the Tungabhadra. It was built by Vishnuvardhana of the Hoysalas, and its worshippers are mainly Warkaris.
+- **Location & Setting**: Situated in Maharashtra, Chandrabhaga river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Temple Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Temple Sites.

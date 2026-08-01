@@ -13,7 +13,7 @@ sources: ["upinder2008#8. 200 B.C - 300 C.E@130", upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A major Buddhist monastic establishment in Guntur district, Andhra Pradesh, in the eastern Deccan.
-
-- It was submerged when the Nagarjunasagar dam was built across the Krishna; salvage archaeology recorded the site before the flooding.
-- It stood among the important Buddhist establishments of the eastern Deccan alongside Amaravati and Jaggayyapeta.
+- **Location & Setting**: Situated in Guntur district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Megalith.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (It was submerged when the Nagarjunasagar dam was built across the Krishna; salvage archaeology recorded the site before the flooding.; It stood among the important Buddhist establishments of the eastern Deccan alongside Amaravati and Jaggayyapeta.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Megalith.

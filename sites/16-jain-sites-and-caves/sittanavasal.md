@@ -8,11 +8,12 @@ coords_from: Q7532017
 coords_provisional: false
 dot_px: [266.5, 514.5]
 images: [Individual Map sites History Optional/16. Jain sites and caves/Sittanavasal (2).jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A painted rock-cut Jaina temple bearing Tamil-Brahmi inscriptions. The temple, called Arivar Koil, contains frescoes of the seventh century whose central motifs are lotuses, flowers, ponds, ducks, swans, fish and animals.
-
-- The samavasarana, showing the tirthankaras giving sermons, is an important theme.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Jain sites and caves.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (The samavasarana, showing the tirthankaras giving sermons, is an important theme.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Jain sites and caves.

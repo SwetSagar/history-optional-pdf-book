@@ -13,7 +13,7 @@ sources: [basham1954, upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-Caves used by ascetics of the Ajivika sect, whose inscriptions mention King Piyadasi.
-
-- The most prominent is the Lomas Rishi cave, with an arch-like facade and carved elephants worked in a curved fashion.
-- The interior is of polished granite.
+- **Location & Setting**: Situated in Guntur district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Hindu, Ajivika caves.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (The most prominent is the Lomas Rishi cave, with an arch-like facade and carved elephants worked in a curved fashion.; The interior is of polished granite.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Hindu, Ajivika caves.

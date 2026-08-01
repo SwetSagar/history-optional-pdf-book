@@ -13,7 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Late Harappan site in Rajasthan with lustrous pottery and black-and-red ware bearing linear designs.
-
-- Seals similar to those of the Indus civilisation were recovered, together with copper tools.
-- A seal impression found by Deccan College shows similarity to Central Asian cultures.
+- **Location & Setting**: Situated in Rajasthan, ore district, Berach river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry, architectural and epigraphic remains (Seals similar to those of the Indus civilisation were recovered, together with copper tools.; A seal impression found by Deccan College shows similarity to Central Asian cultures.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

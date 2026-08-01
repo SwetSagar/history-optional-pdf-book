@@ -13,7 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Chalcolithic site in Madhya Pradesh. Its pottery is fine, sturdy and wheel-made, with linear designs in violet.
-
-- Houses were of mud and reed with mud-plastered floors.
-- Copper axes cast in moulds were recovered, together with a fragmentary chisel and copper bangles.
+- **Location & Setting**: Situated in Madhya Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage (Houses were of mud and reed with mud-plastered floors.; Copper axes cast in moulds were recovered, together with a fragmentary chisel and copper bangles.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

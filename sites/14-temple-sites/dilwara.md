@@ -13,4 +13,7 @@ sources: [upinder2008, chandra-medieval-1]
 locked: []
 ---
 
-Five Jaina temples of the eleventh to thirteenth centuries, part of a complex spanning the eleventh to sixteenth centuries, built by Vimal Shah, minister of the Chalukya king Bhima I, and designed by Vastupala. They are famous for their marble carving, using white marble worked with intricate detail, and are dedicated to various Jaina tirthankaras.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Temple Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Temple Sites.

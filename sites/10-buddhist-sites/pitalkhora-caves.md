@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-Fourteen rock-cut caves in Maharashtra comprising chaityas and viharas, with an ancient rainwater harvesting system.
-
-- They belong to the Hinayana period, though Mahayana paintings also occur.
-- Ptolemy mentions the site as Petrigala.
+- **Location & Setting**: Situated in Maharashtra.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (They belong to the Hinayana period, though Mahayana paintings also occur.; Ptolemy mentions the site as Petrigala.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

@@ -14,6 +14,6 @@ locked: []
 ---
 
 - **Location & Setting**: Situated in Assam.
-- **Periodization & Excavation**: Important Neolithic site.
-- **Material Culture & Finds**: Yields characteristic ceramic assemblage documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Neolithic.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Neolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Neolithic.

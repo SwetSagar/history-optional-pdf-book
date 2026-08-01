@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-Associated with Karaikal Ammaiyar, a sixth-century Shiva worshipper of the Chola period and one of only three such saints.
-
-- Born to a merchant family as Punithavathi, she married a wealthy merchant, and is associated with the mango story.
-- Her two works are the Tiruvantadi and the Tiru-irattai.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Bhakti and other saints.
+- **Material Culture & Finds**: Yields material culture artefacts (Born to a merchant family as Punithavathi, she married a wealthy merchant, and is associated with the mango story.; Her two works are the Tiruvantadi and the Tiru-irattai.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Bhakti and other saints.

@@ -13,4 +13,7 @@ sources: [chandra-medieval-2]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Mesolithic locality in Rajasthan with fifty-five sites bearing rock-shelter paintings, dated to between 10,000 and 15,000 years old. Executed in ochre and dark red, they depict humans, animals, hunting, dancing and geometric designs.
+- **Location & Setting**: Situated in Rajasthan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Mesolithic.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Mesolithic.

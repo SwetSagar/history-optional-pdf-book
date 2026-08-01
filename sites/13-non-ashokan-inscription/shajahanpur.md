@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Copper plates of Harshavardhana bearing his signature and recording the ancestry of Harsha, associated with the Madhuban inscription and dated 628 AD. They record the grant of villages to two brahmanas and the victory of Rajyavardhana over Malwa.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Non Ashokan Inscription.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Non Ashokan Inscription.

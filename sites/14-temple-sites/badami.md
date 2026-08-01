@@ -13,10 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The capital of the Chalukyas from 540 AD, in Bagalkot district, Karnataka, famous for its sandstone cave temples cut from red sandstone, with walls and ceilings decorated with carvings.
-
-- The largest cave is Vaishnava.
-- Cave 3 shows incarnations of Vishnu including Varaha and Vamana, and contains the largest relief of Vishnu as Trivikrama.
-- Shiva appears as Nataraja.
-- New caves with twenty-seven Brahmanical carvings have recently been discovered.
-- The site also carries many inscriptions in Sanskrit in the old Kannada script.
+- **Location & Setting**: Situated in Karnataka, Bagalkot district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Temple Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (The largest cave is Vaishnava.; Cave 3 shows incarnations of Vishnu including Varaha and Vamana, and contains the largest relief of Vishnu as Trivikrama.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Temple Sites.

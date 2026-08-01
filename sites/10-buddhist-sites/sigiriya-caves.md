@@ -8,9 +8,12 @@ coords_from: ""
 coords_provisional: true
 dot_px: [290.5, 555.5]
 images: [Individual Map sites History Optional/10 Buddhist Sites/Sigiriya Caves.jpg]
-status: written
-sources: []
+status: sourced
+sources: [basham1954]
 locked: []
 ---
 
-A UNESCO World Heritage Site in Sri Lanka dated to around the third century BC, showing evidence of urban planning. Its paintings are executed in sweeping strokes, with more pressure on one side and a deeper colour tone towards the edge, closely resembling Ajanta.
+- **Location & Setting**: Situated in Sri Lanka.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

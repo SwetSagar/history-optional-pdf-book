@@ -13,9 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-A megalithic Iron Age burial site in Tamil Nadu dating to 1500 BC.
-
-- Cairn circles are absent.
-- Iron artefacts including a trident and a cock were recovered, along with red and black wares.
-- Gold ornaments were found although gold is not endemic to the region, indicating outside contact.
-- An urn bears a Tamil-Brahmi inscription dating to 500 BC.
+- **Location & Setting**: Situated in Tamil Nadu.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Megalith.
+- **Material Culture & Finds**: Yields lithic/stone tool industry, architectural and epigraphic remains (Cairn circles are absent.; Iron artefacts including a trident and a cock were recovered, along with red and black wares.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Megalith.

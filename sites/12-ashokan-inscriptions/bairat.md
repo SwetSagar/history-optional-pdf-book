@@ -13,4 +13,7 @@ sources: [upinder2008, thapar2002, basham1954, sharma2005]
 locked: []
 ---
 
-An Ashokan site where Minor Rock Edict III is engraved. It also carries the Bhabru edict, in which Ashoka declares his full faith in the Buddha, the Sangha and the Dhamma.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

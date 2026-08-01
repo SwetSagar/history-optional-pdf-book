@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A temple in Aravalli district, Gujarat, on the banks of the Meshvo river, dedicated to Vishnu and a Chalukya site. It is built of white sandstone, variously carved with scenes from the epics.
+- **Location & Setting**: Situated in Gujarat, Aravalli district, Meshvo river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Temple Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Temple Sites.

@@ -13,4 +13,7 @@ sources: [chandra-medieval-1, upinder2008]
 locked: []
 ---
 
-An Ashokan site where all fourteen major rock edicts are engraved on a granite boulder. The same rock carries a later inscription of the Saka ruler Rudradaman I, in Sanskrit, added around 150 BC, which records the public works undertaken by various rulers to repair the Sudarshana reservoir.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

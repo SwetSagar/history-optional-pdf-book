@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-An Ashokan site where a pillar was erected in the twentieth regnal year of Ashoka, about 249 BCE, to commemorate his pilgrimage here.
-
-- The capital is missing but was apparently a horse.
-- The inscription mentions the exemption of [gap in notes] from taxation.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (The capital is missing but was apparently a horse.; The inscription mentions the exemption of [gap in notes] from taxation.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

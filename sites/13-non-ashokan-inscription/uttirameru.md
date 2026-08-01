@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-A temple site whose earliest inscription dates to the reign of the Pallava king Dantivarman, 795–846 CE, recording an endowment of funds and indicating that the sabha and the ur were well-established institutions by this time.
-
-- Two later inscriptions of the Chola king Parantaka I record the election of members to a local assembly called the variyam.
-- The Vaikunta Perumal temple here is dedicated to Vishnu and Lakshmi.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Non Ashokan Inscription.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (Two later inscriptions of the Chola king Parantaka I record the election of members to a local assembly called the variyam.; The Vaikunta Perumal temple here is dedicated to Vishnu and Lakshmi.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Non Ashokan Inscription.

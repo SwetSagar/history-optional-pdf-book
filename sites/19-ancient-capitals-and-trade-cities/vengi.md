@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-The capital of the Eastern Chalukyas in the second half of the eighth century, spread between the Krishna and Godavari rivers.
-
-- It had been prominent since Mauryan times and was ruled also by the Salankayanas and Vishnukundins.
-- Pulakesin II conquered it from the Vishnukundins.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities.
+- **Material Culture & Finds**: Yields material culture artefacts (It had been prominent since Mauryan times and was ruled also by the Salankayanas and Vishnukundins.; Pulakesin II conquered it from the Vishnukundins.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

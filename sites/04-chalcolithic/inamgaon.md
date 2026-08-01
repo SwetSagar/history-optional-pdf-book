@@ -13,7 +13,7 @@ sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@74", upin
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Chalcolithic farming settlement of the Deccan, its Period I belonging to the Malwa phase.
-
-- The early Chalcolithic farmers here obtained their food by farming, hunting and fishing.
-- X-ray diffraction analysis of pottery indicates that Inamgaon supplied earthen pots to Walki, 27 km away.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage (The early Chalcolithic farmers here obtained their food by farming, hunting and fishing.; X-ray diffraction analysis of pottery indicates that Inamgaon supplied earthen pots to Walki, 27 km away.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

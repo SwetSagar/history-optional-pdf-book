@@ -13,7 +13,7 @@ sources: [mehta-medieval-1, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A city in Karnataka, now known as Kalaburagi, in existence since the sixth century in Rashtrakuta times.
-
-- It fell to the Delhi Sultanate after the defeat of the Kakatiyas in 1321.
-- The tomb of the Sufi saint Syed Shah Qhabulullah is located here.
+- **Location & Setting**: Situated in Karnataka, Gulbarga district, Krishna river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Medieval Cities and Sufi saints.
+- **Material Culture & Finds**: Yields lithic/stone tool industry (It fell to the Delhi Sultanate after the defeat of the Kakatiyas in 1321.; The tomb of the Sufi saint Syed Shah Qhabulullah is located here.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Medieval Cities and Sufi saints.

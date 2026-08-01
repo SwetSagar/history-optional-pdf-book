@@ -9,14 +9,11 @@ coords_provisional: false
 dot_px: [261.5, 253.5]
 images: [Individual Map sites History Optional/8 PGW/Hastinapur.jpg, Individual Map sites History Optional/9 NBPW/Hastinapur.jpg]
 status: sourced
-sources: [sharma2005]
+sources: [sharma2005, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A site in Uttar Pradesh and capital of the Kurus, abandoned after a flood, when the capital moved to Kaushambi;
-
-- Rishabha is said to have lived here.
-- There is a break in occupation between the ochre-coloured pottery phase and the Painted Grey Ware.
-- Period II, from 1100 to 800 BC, is Painted Grey Ware, with black-slipped ware, ordinary red and red-slipped wares, and houses of mud, mud brick and reed.
-- Iron slag occurs in the upper levels, along with chert and jasper weights, glass bangles, bone needles, charred grains of rice, and bones of pig, horse and cattle.
-- Period III is Northern Black Polished Ware, accompanied by coarse grey ware and unslipped red ware, with houses of mud brick and kiln-burnt brick, brick-lined drains and terracotta ring wells; copper objects, an iron arrowhead, chisel and sickle, punch-marked and unincised cast coins, and beads and rings of carnelian, copper and gold were recovered.
+- **Location & Setting**: Situated in Uttar Pradesh, Meerut district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to PGW.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry, architectural and epigraphic remains (Rishabha is said to have lived here.; There is a break in occupation between the ochre-coloured pottery phase and the Painted Grey Ware.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in PGW.

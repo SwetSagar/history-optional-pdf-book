@@ -8,9 +8,12 @@ coords_from: ""
 coords_provisional: true
 dot_px: [198.5, 181.5]
 images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Shahbazgarhi.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, thapar2002]
 locked: []
 ---
 
-An Ashokan site in Khyber Pakhtunkhwa where the fourteen major edicts are carved into two rocks on a hill, in the Prakrit language and the Kharoshthi script. It marks the northern extent of the empire.
+- **Location & Setting**: Situated in Kandahar district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

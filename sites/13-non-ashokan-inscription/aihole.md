@@ -13,8 +13,7 @@ sources: [thapar2002, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The first capital of the Western Chalukyas, in Karnataka, later moved, and a centre of Chalukyan architecture with many stone temples.
-
-- The Meguti temple carries the Aihole Prashasti, composed by Ravikirti, court poet of Pulakesin II, in 634 CE, in Sanskrit and the old Kannada script; it gives a detailed account of the king's exploits against kingdoms such as the Pallavas and of the defeat of Harsha, of whom it says that after this defeat Harsha was no longer harsha, or happy.
-- It also contains information on the administration of Amoghavarsha I. The temple dedicated to Vishnu and Surya is apsidal in form, with an ambulatory passage running along the outer apse, a shikhara in the Nagara style and a mandapa in the Dravida style; various gods and goddesses are depicted along with mithuna figures, the Vishnu themes including the Narasimha avatara and Vishnu on Garuda, alongside Shiva with Nandi, Mahishasuramardini and Harihara.
-- The Lad Khan temple stands nearby and carries iconography from all three sects of Hinduism.
+- **Location & Setting**: Situated in Karnataka.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Non Ashokan Inscription.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (The Meguti temple carries the Aihole Prashasti, composed by Ravikirti, court poet of Pulakesin II, in 634 CE, in Sanskrit and the old Kannada script; it gives a detailed account of the king's exploits against kingdoms such as the Pallavas and of the defeat of Harsha, of whom it says that after this defeat Harsha was no longer harsha, or happy.; It also contains information on the administration of Amoghavarsha I. The temple dedicated to Vishnu and Surya is apsidal in form, with an ambulatory passage running along the outer apse, a shikhara in the Nagara style and a mandapa in the Dravida style; various gods and goddesses are depicted along with mithuna figures, the Vishnu themes including the Narasimha avatara and Vishnu on Garuda, alongside Shiva with Nandi, Mahishasuramardini and Harihara.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Non Ashokan Inscription.

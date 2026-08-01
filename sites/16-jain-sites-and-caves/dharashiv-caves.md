@@ -14,6 +14,6 @@ locked: []
 ---
 
 - **Location & Setting**: Situated in Maharashtra.
-- **Periodization & Excavation**: Important Jain sites and caves site.
-- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Jain sites and caves.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Jain sites and caves.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Jain sites and caves.

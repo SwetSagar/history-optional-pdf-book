@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-The capital of the Gandhara kingdom, in Khyber Pakhtunkhwa, Pakistan, and home of the grammarian Panini in the fourth century BC.
-
-- Arrian mentions it as a Graeco-Roman city, and a Macedonian garrison was placed here after it revolted against Alexander.
-- Mud fortifications were found; the city had a rectangular plan with parallel streets and blocks of houses, and a room with a fireplace in the middle was identified.
+- **Location & Setting**: Situated in Pakistan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to NBPW.
+- **Material Culture & Finds**: Yields material culture artefacts (Arrian mentions it as a Graeco-Roman city, and a Macedonian garrison was placed here after it revolted against Alexander.; Mud fortifications were found; the city had a rectangular plan with parallel streets and blocks of houses, and a room with a fireplace in the middle was identified.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in NBPW.

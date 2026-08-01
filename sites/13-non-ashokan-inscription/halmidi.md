@@ -14,6 +14,6 @@ locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
 - **Location & Setting**: Located in India.
-- **Periodization & Excavation**: Important Non Ashokan Inscription site.
-- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Non Ashokan Inscription.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Non Ashokan Inscription.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Non Ashokan Inscription.

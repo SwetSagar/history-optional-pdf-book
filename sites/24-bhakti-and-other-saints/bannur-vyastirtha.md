@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Vyasatirtha, a fifteenth-century saint of the Dvaita Vedanta from Karnataka, and patron saint of the Vijayanagara empire under Krishnadevaraya. Among his works are the Nyayamrita and the Tarkatandava.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Bhakti and other saints.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Bhakti and other saints.

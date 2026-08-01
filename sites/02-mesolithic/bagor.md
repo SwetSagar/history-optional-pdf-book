@@ -13,8 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Mesolithic site in Rajasthan whose Period I, dated 5800–2800 BC, is Mesolithic, with continuous occupation from the Mesolithic to the Iron Age.
-
-- Its microliths are of quartz, chert and chalcedony, and are geometric in form.
-- Finished tools are relatively few, suggesting that tools made here were taken elsewhere.
-- Large shelters have been identified, and domesticated cattle, sheep and goats are attested.
+- **Location & Setting**: Situated in Rajasthan, the river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Mesolithic.
+- **Material Culture & Finds**: Yields lithic/stone tool industry (Its microliths are of quartz, chert and chalcedony, and are geometric in form.; Finished tools are relatively few, suggesting that tools made here were taken elsewhere.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Mesolithic.

@@ -13,4 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-A Late Harappan site in Uttar Pradesh with ochre-coloured ware, where the Late Harappan and ochre-coloured pottery cultures overlap. Over eighty copper sites are located here, and the site served as a manufacturing area.
+- **Location & Setting**: Situated in Uttar Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Copper Hoards and OCP.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Copper Hoards and OCP.

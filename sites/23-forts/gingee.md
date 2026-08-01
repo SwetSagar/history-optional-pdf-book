@@ -13,8 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A fort in Villupuram district, originally built by the Konar dynasty and later by the Chola and Vijayanagara empires.
-
-- It served as headquarters of the [gap in notes] Nayakas.
-- Its occupants included Shivaji, the Sultan of Bijapur, the French and the British.
-- It is associated with Raja Tej Singh, who revolted against the Nawab of Arcot.
+- **Location & Setting**: Situated in Villupuram district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Forts.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (It served as headquarters of the [gap in notes] Nayakas.; Its occupants included Shivaji, the Sultan of Bijapur, the French and the British.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Forts.

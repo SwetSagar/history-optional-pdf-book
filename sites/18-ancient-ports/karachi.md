@@ -13,4 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An ancient port in Sindh, Pakistan, in use since the time of Alexander, trading with the Romans and Greeks and mentioned in the Periplus. Topaz, gold, silver, cotton, silk and indigo passed through it, and it was the point for the overland supply of Persian turquoise and lapis lazuli to Egypt.
+- **Location & Setting**: Situated in Pakistan, Luni Valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Ports.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Ports.

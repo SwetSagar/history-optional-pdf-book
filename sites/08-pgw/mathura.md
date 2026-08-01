@@ -13,7 +13,7 @@ sources: [sharma2005, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-One of the largest Painted Grey Ware sites, in Uttar Pradesh, and capital of the Shaurasenas, showing the gradual growth of a village settlement; its Painted Grey Ware occurs with black-and-red ware, dated 800–400 BCE.
-
-- Associated with the Yadavas in the Mahabharata, it stood at a junction of trade routes.
-- As an art centre it produced images of Vishnu and Shiva with their ayudhas, the garments clearly rendered, a style that spread to other centres such as Sanghol.
+- **Location & Setting**: Situated in Uttar Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to PGW.
+- **Material Culture & Finds**: Yields ceramic assemblage (Associated with the Yadavas in the Mahabharata, it stood at a junction of trade routes.; As an art centre it produced images of Vishnu and Shiva with their ayudhas, the garments clearly rendered, a style that spread to other centres such as Sanghol.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in PGW.

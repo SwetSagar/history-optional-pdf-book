@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A capital of the Rashtrakutas and later of the Paramaras of Malwa. It has the temple of Achaleshwar Mahadev and the Kembhaswami temple, together with Achalpur fort and inscriptions of the Paramaras and Solankis.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

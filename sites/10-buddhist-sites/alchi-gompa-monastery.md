@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-An eleventh-century monastery in Jammu and Kashmir, its temples built in the Kashmiri style.
-
-- The third temple, called the Manjusri temple, contains a wood-carved Buddha.
-- The oldest paintings of the region are found here.
+- **Location & Setting**: Situated in Jammu and Kashmir.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (The third temple, called the Manjusri temple, contains a wood-carved Buddha.; The oldest paintings of the region are found here.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

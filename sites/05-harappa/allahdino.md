@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-A Mature Harappan site in Sindh, Pakistan, near the coast of the Arabian Sea.
-
-- Its houses were of brick resting on stone foundations, and its well had a narrow diameter to make the water rise.
-- A terracotta jar was found containing a profusion of gold, silver, bronze, agate and carnelian ornaments.
+- **Location & Setting**: Situated in Pakistan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (Its houses were of brick resting on stone foundations, and its well had a narrow diameter to make the water rise.; A terracotta jar was found containing a profusion of gold, silver, bronze, agate and carnelian ornaments.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

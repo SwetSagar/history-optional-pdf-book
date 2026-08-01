@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-A Mature and Late Harappan site in Sindh, Pakistan, consisting of two mounds — a smaller western mound, known as the citadel, and a larger eastern mound.
-
-- The Great Bath lies in the north, the granary in the west and the assembly hall in the south, and the Priest King was found here.
-- Numerous shops and workers' quarters have been excavated, along with over seven hundred wells.
+- **Location & Setting**: Situated in Pakistan, the river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields material culture artefacts (The Great Bath lies in the north, the granary in the west and the assembly hall in the south, and the Priest King was found here.; Numerous shops and workers' quarters have been excavated, along with over seven hundred wells.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

@@ -13,9 +13,7 @@ sources: []
 locked: []
 ---
 
-A site partly rock-cut and partly stone-built, with iconography of all three Hindu sects.
-
-- The most iconic image is the Varaha, the boar avatara of Vishnu, in Cave 5, showing Vishnu rescuing the earth goddess from the depths of the cosmic ocean.
-- It has a pillared portico in front, a carved doorway and pillars with purnaghata capitals.
-- Sculptures found here include the Varaha avatara, a four-armed standing Vishnu, an ekamukha linga, pratiharas and Durga Mahishasuramardini.
-- An inscription of Chandragupta II survives.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Hindu, Ajivika caves.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (The most iconic image is the Varaha, the boar avatara of Vishnu, in Cave 5, showing Vishnu rescuing the earth goddess from the depths of the cosmic ocean.; It has a pillared portico in front, a carved doorway and pillars with purnaghata capitals.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Hindu, Ajivika caves.

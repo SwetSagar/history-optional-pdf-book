@@ -13,7 +13,7 @@ sources: [chandra-medieval-2, thapar2002]
 locked: []
 ---
 
-A city known to the Arabs as the Mother of Cities, a centre of worship with flourishing trade, annexed by the Kushanas.
-
-- Xuanzang passed through during Sassanian rule.
-- It was destroyed after the Mongol invasion of 1220.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Silk Route sites.
+- **Material Culture & Finds**: Yields material culture artefacts (Xuanzang passed through during Sassanian rule.; It was destroyed after the Mongol invasion of 1220.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Silk Route sites.

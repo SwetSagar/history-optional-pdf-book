@@ -13,10 +13,7 @@ sources: [upinder2008, sharma2005, basham1954]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A mahavihara and monastery in Bihar, and a centre of Mahayana Buddhist learning, patronised by the Gupta kings and by Harsha.
-
-- The university gained prominence in the reigns of Harshavardhana and the Pala kings.
-- All three doctrines were taught here, Mahayana chiefly, along with secular subjects, and it had dormitories for students.
-- Nagarjuna, Aryabhata, Xuanzang and Yijing were among its famous students.
-- Xuanzang and Yijing both visited.
-- It was destroyed by Bakhtiyar Khalji.
+- **Location & Setting**: Situated in Bihar.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields material culture artefacts (The university gained prominence in the reigns of Harshavardhana and the Pala kings.; All three doctrines were taught here, Mahayana chiefly, along with secular subjects, and it had dormitories for students.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

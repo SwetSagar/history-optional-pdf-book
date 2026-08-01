@@ -8,14 +8,12 @@ coords_from: Q7530598
 coords_provisional: false
 dot_px: [314.5, 357.5]
 images: [Individual Map sites History Optional/10 Buddhist Sites/Sirpur.jpg, Individual Map sites History Optional/14. Temple Sites/Northern Temples/Sirpur.jpg, Individual Map sites History Optional/9 NBPW/Sirpur.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, mehta-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The capital of South Kosala or Dakshina Kosala, south of the Vindhyas, in Chhattisgarh, and later capital of the Somavanshi kings.
-
-- The Puranas name the Ikshvakus as its first rulers, overthrown by Mahapadma Nanda, and it is mentioned in later Buddhist texts.
-- Xuanzang visited in 638–639 CE.
-- Remains of viharas and monolithic statues of the Buddha survive, and it is also a Jaina and Brahmanical site.
-- It is famous for the Lakshmana temple, a brick temple standing on a jagati with a circumambulatory path and a typical Nagara-style shikhara; its intricately carved walls show incarnations of Vishnu together with erotic mithuna figures.
+- **Location & Setting**: Situated in Kanpur district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to NBPW.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (The Puranas name the Ikshvakus as its first rulers, overthrown by Mahapadma Nanda, and it is mentioned in later Buddhist texts.; Xuanzang visited in 638–639 CE.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in NBPW.

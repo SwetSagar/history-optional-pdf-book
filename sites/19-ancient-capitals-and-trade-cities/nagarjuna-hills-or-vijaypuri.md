@@ -13,4 +13,7 @@ sources: [basham1954, upinder2008, sharma2005]
 locked: []
 ---
 
-The capital of the Ikshvakus, named after the second-century philosopher of Mahayana Buddhism. An Ikshvaku queen funded many temples and monasteries, and the original stupa here was renovated by an Ikshvaku princess.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

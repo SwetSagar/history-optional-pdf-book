@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-The largest monastery in India and the second largest in the world, where Vajrayana Buddhism is practised.
-
-- It was built in the seventeenth century at the behest of the fifth Dalai Lama.
-- It was occupied by China for six months during the war of 1962.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields material culture artefacts (It was built in the seventeenth century at the behest of the fifth Dalai Lama.; It was occupied by China for six months during the war of 1962.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

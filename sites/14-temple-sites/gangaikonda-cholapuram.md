@@ -13,7 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The Chola capital from 1025 for two hundred and fifty years, in Tamil Nadu.
-
-- Its temple, dedicated to Shiva, was begun by Rajendra Chola I in 1035 AD to commemorate his expedition to north India.
-- It contains the second largest Nandi in India, carved from a single granite block, and wall paintings.
+- **Location & Setting**: Situated in Tamil Nadu.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Temple Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (Its temple, dedicated to Shiva, was begun by Rajendra Chola I in 1035 AD to commemorate his expedition to north India.; It contains the second largest Nandi in India, carved from a single granite block, and wall paintings.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Temple Sites.

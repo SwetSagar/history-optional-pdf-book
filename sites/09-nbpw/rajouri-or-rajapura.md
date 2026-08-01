@@ -14,6 +14,6 @@ locked: []
 ---
 
 - **Location & Setting**: Situated in Jammu and Kashmir.
-- **Periodization & Excavation**: Important NBPW site.
-- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in NBPW.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to NBPW.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in NBPW.

@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A Jaina temple built between the eighth and tenth centuries in Dravidian temple architecture under the Western Ganga kings, later renovated by the Hoysala empire. The main central shrine is dedicated to Adinatha.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Jain sites and caves.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Jain sites and caves.

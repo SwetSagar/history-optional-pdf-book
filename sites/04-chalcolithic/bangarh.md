@@ -13,7 +13,7 @@ sources: ["upinder2008#8. 200 B.C - 300 C.E@49", upinder2008, sharma2005]
 locked: []
 ---
 
-A fortified settlement in South Dinajpur district, West Bengal, on the banks of the Purnabhava river.
-
-- Excavation revealed a settlement of some 1800 × 1000 feet enclosed by fortifications.
-- It lay within networks connecting the Bengal plains, Bihar, Tibet and the Brahmaputra valley of Assam.
+- **Location & Setting**: Situated in Dinajpur district, Brahmaputra valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, architectural and epigraphic remains (Excavation revealed a settlement of some 1800 × 1000 feet enclosed by fortifications.; It lay within networks connecting the Bengal plains, Bihar, Tibet and the Brahmaputra valley of Assam.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

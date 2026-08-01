@@ -13,8 +13,7 @@ sources: [upinder2008, thapar2002]
 locked: []
 ---
 
-A port and terracotta centre in Midnapur district, West Bengal, the exit point of the Mauryan trade route to the south and south-east, and also connected to Taxila by land.
-
-- Roman Arretine ware, rouletted ware and red polished ware have been found, along with a Chalcolithic and Northern Black Polished Ware phase, terracotta figurines, coins, beads and semi-precious stones.
-- Its terracottas date to the Mauryan period and were hand modelled, with dress and accessories added afterwards; pre-Mauryan objects depict mother goddesses and fertility goddesses, and clay figurines represent yakshas, toys, animals, birds, erotic motifs, nagas, naginis and apsaras.
-- It is known in the older sources as Tamralipta.
+- **Location & Setting**: Situated in West Bengal, Midnapur district, Rupnarayan river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Art Sites.
+- **Material Culture & Finds**: Yields ceramic assemblage, architectural and epigraphic remains (Roman Arretine ware, rouletted ware and red polished ware have been found, along with a Chalcolithic and Northern Black Polished Ware phase, terracotta figurines, coins, beads and semi-precious stones.; Its terracottas date to the Mauryan period and were hand modelled, with dress and accessories added afterwards; pre-Mauryan objects depict mother goddesses and fertility goddesses, and clay figurines represent yakshas, toys, animals, birds, erotic motifs, nagas, naginis and apsaras.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Art Sites.

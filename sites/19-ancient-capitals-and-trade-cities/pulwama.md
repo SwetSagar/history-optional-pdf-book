@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The capital of Avantivarman of the Utpala dynasty, mentioned in Kalhana's Rajatarangini. Its famous temple, the Avantishvara, is dedicated to Shiva; it is of the panchayatana type and its gateway is double-chambered.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

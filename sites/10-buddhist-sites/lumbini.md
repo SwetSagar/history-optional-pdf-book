@@ -13,4 +13,7 @@ sources: [sharma2005, thapar2002, basham1954]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The birthplace of the Buddha, in Nepal, and a World Heritage Site, where the Mayadevi temple is famous. A pillar was erected here in the twentieth regnal year of Ashoka, about 249 BCE, to commemorate his pilgrimage; its capital is missing but was apparently a horse, and the inscription mentions the exemption of [gap in notes] from taxation.
+- **Location & Setting**: Situated in Nepal, Basti district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

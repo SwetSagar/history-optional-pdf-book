@@ -13,4 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Mature Harappan site in Gujarat with hard red to buff ware, of which a hemispherical red ware bowl is the commonest form. Short Harappan inscriptions occur on the rims of potsherds.
+- **Location & Setting**: Situated in Gujarat, Ganga valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

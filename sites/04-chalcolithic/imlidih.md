@@ -13,8 +13,7 @@ sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@62", upin
 locked: []
 ---
 
-A site on the banks of the Kuwana river, in the middle Ganga plains.
-
-- Period I represents the pre-Narhan culture and goes back to about 1300 BCE, yielding a crude handmade pottery.
-- Rice, barley, ragi, foxtail millet, lentil, field-pea, khesari and moong have been identified from the sequence, along with arrowheads.
-- Period II began about 1300 BCE and gave evidence of iron.
+- **Location & Setting**: Situated in Gorakhpur district, Kuwana river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage (Period I represents the pre-Narhan culture and goes back to about 1300 BCE, yielding a crude handmade pottery.; Rice, barley, ragi, foxtail millet, lentil, field-pea, khesari and moong have been identified from the sequence, along with arrowheads.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

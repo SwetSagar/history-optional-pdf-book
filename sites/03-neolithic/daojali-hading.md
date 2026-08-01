@@ -13,7 +13,7 @@ sources: [upinder2008, thapar2002]
 locked: []
 ---
 
-A Neolithic site in Assam which has yielded polished stone tools, ceramics, wooden tools, and kitchen items such as grinders, pestles and mortars.
-
-- The domestication of grains is attested.
-- Jadeite found here indicates contacts with China.
+- **Location & Setting**: Situated in Assam.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Neolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry (The domestication of grains is attested.; Jadeite found here indicates contacts with China.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Neolithic.

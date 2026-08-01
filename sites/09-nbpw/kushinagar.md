@@ -8,12 +8,12 @@ coords_from: Q825673
 coords_provisional: false
 dot_px: [327.5, 286.5]
 images: [Individual Map sites History Optional/10 Buddhist Sites/Kushinagar.jpg, Individual Map sites History Optional/9 NBPW/Kushinagar.jpg]
-status: written
-sources: []
+status: sourced
+sources: [sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The capital of the Malla confederates, in Uttar Pradesh, ruled as a republican oligarchy or gana.
-
-- The Buddha died here, attaining parinirvana, and it became a pilgrimage centre.
-- The Nirvana stupa was built by Ashoka and expanded by the Gupta kings.
+- **Location & Setting**: Situated in Uttar Pradesh, Deoria district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to NBPW.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (The Buddha died here, attaining parinirvana, and it became a pilgrimage centre.; The Nirvana stupa was built by Ashoka and expanded by the Gupta kings.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in NBPW.

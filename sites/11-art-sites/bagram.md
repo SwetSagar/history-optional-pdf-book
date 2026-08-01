@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-An art site dated to the first and second centuries CE, famous for its ivories, an example of Kushana art.
-
-- The [gap in notes] hoard found here contained bronze, glass, alabaster, coins and ivory objects.
-- The ivories were carved, smoothed and lightly polished, with red and blue pigments used for colour.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Art Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (The [gap in notes] hoard found here contained bronze, glass, alabaster, coins and ivory objects.; The ivories were carved, smoothed and lightly polished, with red and blue pigments used for colour.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Art Sites.

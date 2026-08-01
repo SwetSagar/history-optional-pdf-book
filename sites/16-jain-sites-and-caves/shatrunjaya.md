@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Jaina site in Gujarat where Rishabha, the first tirthankara, is said to have given his first sermon. Hundreds of temples and shrines stand enclosed within walls, restored many times; the Palitana temple is an important pilgrimage complex here.
+- **Location & Setting**: Situated in Gujarat.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Jain sites and caves.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Jain sites and caves.

@@ -13,7 +13,7 @@ sources: ["upinder2008#3. Neolithic - Chalcolithic@24", upinder2008]
 locked: []
 ---
 
-A Neolithic site in the Son valley, Sidhi district, Madhya Pradesh, not far from Koldihwa.
-
-- The neolithic settlement goes back to the fourth millennium BCE.
-- Bone and plant remains indicate that people hunted wild animals, collected wild plant food, and domesticated both plants and animals.
+- **Location & Setting**: Situated in Sidhi district, Son valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Neolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage (The neolithic settlement goes back to the fourth millennium BCE.; Bone and plant remains indicate that people hunted wild animals, collected wild plant food, and domesticated both plants and animals.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Neolithic.

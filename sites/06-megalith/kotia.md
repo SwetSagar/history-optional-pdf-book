@@ -3,7 +3,7 @@ name: Kotia
 categories: [Megalith]
 state: Uttar Pradesh
 coords: [24.95, 82.05]
-coords_confidence: gazetteer
+coords_confidence: none
 coords_from: ""
 coords_provisional: false
 dot_px: []
@@ -13,7 +13,7 @@ sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@63", upin
 locked: [coords, coords_provisional, state]
 ---
 
-A megalithic site on the northern fringes of the Vindhyas in south-eastern Uttar Pradesh, grouped with Kakoria and Jang Mahal.
-
-- Cairns and stone circles are the main types of megalith in this group.
-- Some of the graves gave evidence of fractional burial.
+- **Location & Setting**: Situated in Uttar Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Megalith.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (Cairns and stone circles are the main types of megalith in this group.; Some of the graves gave evidence of fractional burial.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Megalith.

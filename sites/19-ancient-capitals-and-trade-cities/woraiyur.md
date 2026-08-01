@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-The early Chola capital, in Trichy district, Tamil Nadu.
-
-- Sangam literature describes it as fortified, with burial grounds outside the city.
-- It was famous for textiles, and Roman pottery has been found here.
+- **Location & Setting**: Situated in Tamil Nadu, Trichy district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities.
+- **Material Culture & Finds**: Yields ceramic assemblage (Sangam literature describes it as fortified, with burial grounds outside the city.; It was famous for textiles, and Roman pottery has been found here.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

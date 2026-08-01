@@ -13,8 +13,7 @@ sources: [upinder2008, sharma2005, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Chalcolithic site dated 2000–1750 BC, showing an overlap of Chalcolithic and Harappan culture and no signs of planning.
-
-- Its pottery has a coarse core and thick buff fabric with an orange slip, the designs in black or dark brown depicting plants, animals and humans, including blackbuck, deer and peacock.
-- Houses were circular or oblong wattle and daub, with chulhas and storage jars; each household made its own tools, so the industry was widely distributed.
-- Fire altars and storage jars bearing a large female figure indicate religious activity.
+- **Location & Setting**: Situated in Maharashtra.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry (Its pottery has a coarse core and thick buff fabric with an orange slip, the designs in black or dark brown depicting plants, animals and humans, including blackbuck, deer and peacock.; Houses were circular or oblong wattle and daub, with chulhas and storage jars; each household made its own tools, so the industry was widely distributed.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

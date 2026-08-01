@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Mirabai, a sixteenth-century Bhakti saint of Rajasthan and devotee of Krishna, whom she treated as her husband.
-
-- Married to Bhoj Raj, prince of Mewar, she was persecuted by her in-laws.
-- Her hymns are known as bhajans.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Bhakti and other saints.
+- **Material Culture & Finds**: Yields material culture artefacts (Married to Bhoj Raj, prince of Mewar, she was persecuted by her in-laws.; Her hymns are known as bhajans.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Bhakti and other saints.

@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Tukaram, a Bhakti saint of Maharashtra whose poetry is known as abhanga and whose spiritual songs are kirtans, both devoted to Vitthala.
-
-- The abhanga is a simple, direct poetic form fused with folk stories and spiritual in theme.
-- He was a disciple of Babaji Chaitanya.
+- **Location & Setting**: Situated in Maharashtra.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Bhakti and other saints.
+- **Material Culture & Finds**: Yields material culture artefacts (The abhanga is a simple, direct poetic form fused with folk stories and spiritual in theme.; He was a disciple of Babaji Chaitanya.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Bhakti and other saints.

@@ -13,7 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An art site in West Bengal which has yielded coins, pottery, seals and sealings, and figurines of ivory, wood and bronze.
-
-- It is best known for terracotta objects, mostly representing women wearing elaborate jewellery, but also male figures, dwarfs, winged humans and carts.
-- These are red or reddish-brown, and the moulds range from single to multiple, best suited to mass production.
+- **Location & Setting**: Situated in West Bengal, Parganas district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to NBPW.
+- **Material Culture & Finds**: Yields ceramic assemblage, architectural and epigraphic remains (It is best known for terracotta objects, mostly representing women wearing elaborate jewellery, but also male figures, dwarfs, winged humans and carts.; These are red or reddish-brown, and the moulds range from single to multiple, best suited to mass production.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in NBPW.

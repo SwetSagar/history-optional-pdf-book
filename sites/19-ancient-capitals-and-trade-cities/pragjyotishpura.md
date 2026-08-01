@@ -14,6 +14,6 @@ locked: []
 ---
 
 - **Location & Setting**: Located in India.
-- **Periodization & Excavation**: Important Ancient Capitals and trade cities site.
-- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ancient Capitals and trade cities.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

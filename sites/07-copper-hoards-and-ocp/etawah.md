@@ -13,7 +13,7 @@ sources: [upinder2008, chandra-medieval-2, chandra-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-- **Location & Setting**: Situated in Uttar Pradesh, Etawah district, Bulandshahr district.
-- **Periodization & Excavation**: Important Copper Hoards and OCP site.
-- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Copper Hoards and OCP.
+- **Location & Setting**: Situated in Uttar Pradesh, Etawah district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Copper Hoards and OCP.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Copper Hoards and OCP.

@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-A Mature Harappan site in Sindh, Pakistan, without fortifications, its drains covered with burnt bricks.
-
-- It was an important craft centre for seal making, shell working and the production of stone weights, and yielded raw materials including carnelian, agate, amethyst and crystal.
-- A bead factory worked mostly in steatite.
+- **Location & Setting**: Situated in Pakistan, the river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields lithic/stone tool industry (It was an important craft centre for seal making, shell working and the production of stone weights, and yielded raw materials including carnelian, agate, amethyst and crystal.; A bead factory worked mostly in steatite.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

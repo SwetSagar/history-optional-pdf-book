@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-A temple of the fifth to sixth century, of the Gupta empire, in Madhya Pradesh.
-
-- The Parvati temple has an upper storey, and its walls carry secular, mithuna and Ramayana images.
-- The beginnings of the typical Nagara shikhara appear here.
+- **Location & Setting**: Situated in Madhya Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Temple Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (The Parvati temple has an upper storey, and its walls carry secular, mithuna and Ramayana images.; The beginnings of the typical Nagara shikhara appear here.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Temple Sites.

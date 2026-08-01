@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-The westernmost Mature Harappan site, in Balochistan, Pakistan, from which sea trade ran to Lothal and Dholavira and outwards to the Persian Gulf and Arabian Sea. Stone vessels, stone and copper arrowheads, shell beads and pottery were recovered.
+- **Location & Setting**: Situated in Pakistan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

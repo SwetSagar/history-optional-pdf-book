@@ -13,4 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-A megalithic site in Maharashtra with stone-circle graves containing the remains of horses with iron bits and copper ornaments. Circular huts with wooden posts were excavated, along with black-and-red ware and charred grains.
+- **Location & Setting**: Situated in Maharashtra.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Megalith.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Megalith.

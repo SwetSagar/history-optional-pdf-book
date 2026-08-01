@@ -13,4 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-A non-Ashokan inscription of the Kushana king Kanishka, written in the Bactrian language in the Greek script. It records that he built a temple of the goddess Nana, and of his ancestors and himself; it gives his genealogy and compares him to the gods.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Non Ashokan Inscription.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Non Ashokan Inscription.

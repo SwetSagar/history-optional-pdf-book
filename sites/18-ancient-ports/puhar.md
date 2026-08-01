@@ -13,4 +13,7 @@ sources: [thapar2002, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A port city of the early Cholas, mentioned in the Periplus. The fifth book of the Silappadikaram describes the general plan of the city, which is referred to as a mahapuram; it is also mentioned in the Manimekalai.
+- **Location & Setting**: Situated in Kaveri river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Ports.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Ports.

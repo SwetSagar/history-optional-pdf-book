@@ -13,4 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Late Harappan submerged settlement in Gujarat, with inner and outer walls, bastions and a jetty. Stone anchors were recovered, together with lustrous red ware, black-and-red ware, and a Harappan seal bearing writing.
+- **Location & Setting**: Situated in Gujarat, Godavari valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

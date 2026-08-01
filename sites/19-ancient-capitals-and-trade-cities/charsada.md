@@ -13,7 +13,7 @@ sources: ["upinder2008#8. 200 B.C - 300 C.E@40", upinder2008]
 locked: []
 ---
 
-The mounds identified with Pushkalavati, one of the important cities of the period, spread over some four square miles.
-
-- Pushkalavati is known as Peucelaotis or Proclais in Graeco-Roman accounts.
-- Arrian mentions it in connection with Philip.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (Pushkalavati is known as Peucelaotis or Proclais in Graeco-Roman accounts.; Arrian mentions it in connection with Philip.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

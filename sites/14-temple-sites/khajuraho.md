@@ -13,4 +13,7 @@ sources: [basham1954, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-Temples built by the Chandela rulers in the Khajuraho school technique, using sandstone and following the panchayatana style. The principal temple is dedicated to Shiva, and the group includes both Hindu and Jaina temples.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Temple Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Temple Sites.

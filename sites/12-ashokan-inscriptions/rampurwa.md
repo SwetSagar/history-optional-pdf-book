@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An Ashokan site in Champaran, Bihar, with two columns: a lion capital carrying Pillar Edicts I to VI, and a bull without inscriptions. The abacus bears honeysuckle and palmette designs derived from Greek models.
+- **Location & Setting**: Situated in Bihar.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

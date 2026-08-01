@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-An Early and Mature Harappan site in Gujarat with an indigenous tradition distinct from Amri–Nal.
-
-- Rectangular houses and workshops were excavated, and the site was used for salt production.
-- Finds include huge copper fish hooks and sturdy storage jars with buffalo horn motifs; the Harappan writing here is similar to that at Kalibangan and Dholavira.
+- **Location & Setting**: Situated in Gujarat.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields material culture artefacts (Rectangular houses and workshops were excavated, and the site was used for salt production.; Finds include huge copper fish hooks and sturdy storage jars with buffalo horn motifs; the Harappan writing here is similar to that at Kalibangan and Dholavira.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

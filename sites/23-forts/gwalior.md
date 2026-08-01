@@ -13,4 +13,7 @@ sources: [mehta-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A fort in Madhya Pradesh in its present form built by Man Singh Tomar in the fifteenth century. A sun temple predating the fort was built by the Huna emperor Mihirakula, and Jaina rock-cut caves and monuments stand nearby.
+- **Location & Setting**: Situated in Madhya Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Forts.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Forts.

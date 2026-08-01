@@ -13,4 +13,7 @@ sources: [sharma2005, thapar2002, upinder2008]
 locked: []
 ---
 
-A city with huge mud walls, gateways and guardrooms suggesting prosperity, planned with houses laid parallel and streets cutting perpendicularly. At Dhauli are Major Rock Edicts 1–10 and 14, together with the two separate Kalinga edicts.
+- **Location & Setting**: Situated in Dinajpur district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

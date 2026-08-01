@@ -13,4 +13,7 @@ sources: [thapar2002, chandra-medieval-1, mehta-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The capital city of Harshavardhana, and afterwards the focal point of the struggle between the Palas, Pratiharas and Rashtrakutas. It remained the most prosperous and largest cultural centre in northern India until the medieval period.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

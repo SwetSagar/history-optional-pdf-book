@@ -13,4 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A site with Mature Harappan and Northern Black Polished Ware occupation, showing signs of urbanisation from 600 to 200 BC and a Painted Grey Ware phase. Punch-marked coins and unincised cast copper coins were recovered, as were seals bearing Mauryan Brahmi inscriptions.
+- **Location & Setting**: Situated in Haryana, Nainital district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields ceramic assemblage, architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

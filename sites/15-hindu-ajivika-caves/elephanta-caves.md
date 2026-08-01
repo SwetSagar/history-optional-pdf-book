@@ -13,4 +13,7 @@ sources: [upinder2008, basham1954, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-Two groups of rock-cut cave temples on an island in Maharashtra — five Hindu caves and two Buddhist caves, the Hindu caves lying further west. The carvings narrate Hindu mythology and include Shiva as Nataraja, the Trimurti Sadashiva, and Yogishvara.
+- **Location & Setting**: Situated in Maharashtra.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Hindu, Ajivika caves.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Hindu, Ajivika caves.

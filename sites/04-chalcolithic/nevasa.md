@@ -14,6 +14,6 @@ locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
 - **Location & Setting**: Situated in Maharashtra, Tapi valley.
-- **Periodization & Excavation**: Important Chalcolithic site.
-- **Material Culture & Finds**: Yields stone tool industry documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Chalcolithic.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields lithic/stone tool industry.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

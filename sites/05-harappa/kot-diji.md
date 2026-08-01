@@ -13,4 +13,7 @@ sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An Early Harappan site in Sindh, Pakistan, fortified with a wall of limestone rubble and mud brick, with a citadel complex. Its wheel-made pottery is brown, the pots painted with a horned deity, pipal leaves and fish scales.
+- **Location & Setting**: Situated in Pakistan, Indus River.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

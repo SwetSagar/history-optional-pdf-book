@@ -3,7 +3,7 @@ name: Sittanavasa
 categories: ["Rockcut Caves, Petroglyph sites(Cave Painting)"]
 state: Tamil Nadu
 coords: [10.463, 78.723]
-coords_confidence: gazetteer
+coords_confidence: none
 coords_from: ""
 coords_provisional: false
 dot_px: []
@@ -13,6 +13,7 @@ sources: []
 locked: [coords, coords_provisional, state]
 ---
 
-A painted rock-cut Jaina temple bearing Tamil-Brahmi inscriptions. The temple, called Arivar Koil, contains frescoes of the seventh century whose central motifs are lotuses, flowers, ponds, ducks, swans, fish and animals.
-
-- The samavasarana, showing the tirthankaras giving sermons, is an important theme.
+- **Location & Setting**: Situated in Tamil Nadu.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Rockcut Caves, Petroglyph sites(Cave Painting).
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (The samavasarana, showing the tirthankaras giving sermons, is an important theme.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Rockcut Caves, Petroglyph sites(Cave Painting).

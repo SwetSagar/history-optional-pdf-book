@@ -13,4 +13,7 @@ sources: [upinder2008, thapar2002, sharma2005]
 locked: []
 ---
 
-A city in Malda district, West Bengal, which had been the capital of the Gauda kingdom that preceded the Palas. In the seventh century Gopala succeeded by a form of democratic election, becoming the first independent Buddhist king of Bengal and founding the Pala empire.
+- **Location & Setting**: Situated in West Bengal, Malda district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

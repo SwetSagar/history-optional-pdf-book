@@ -13,4 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-The site of a non-Ashokan inscription attributed to Rudradaman I, in Sanskrit, which records the public works undertaken by various rulers to repair the Sudarshana reservoir. It is known in the older sources as Girinagar.
+- **Location & Setting**: Situated in Junagadh district, the river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields ceramic assemblage, architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

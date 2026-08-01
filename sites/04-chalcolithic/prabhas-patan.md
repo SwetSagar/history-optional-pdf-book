@@ -3,7 +3,7 @@ name: Prabhas Patan
 categories: [Chalcolithic, NBPW]
 state: Gujarat
 coords: [20.887, 70.404]
-coords_confidence: gazetteer
+coords_confidence: none
 coords_from: ""
 coords_provisional: false
 dot_px: []
@@ -13,7 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: [coords, coords_provisional, state]
 ---
 
-A site in Gujarat whose Chalcolithic phase runs from 2000 to 1400 BC.
-
-- Houses were rectangular and built of soft stone.
-- Fine painted ware was recovered along with various jars and bowls, as were gold ornaments and a steatite seal.
+- **Location & Setting**: Situated in Gujarat, Junagadh district, the river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage (Houses were rectangular and built of soft stone.; Fine painted ware was recovered along with various jars and bowls, as were gold ornaments and a steatite seal.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

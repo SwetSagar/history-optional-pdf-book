@@ -13,4 +13,7 @@ sources: [sharma2005, upinder2008]
 locked: []
 ---
 
-The northernmost Early Harappan site, in Jammu and Kashmir, positioned to procure wood from the lower Himalayan hills. Harappan red ware was recovered, including jars, dishes on stands, beakers and goblets, together with potsherds bearing the Harappan script.
+- **Location & Setting**: Situated in Jammu and Kashmir, Jammu district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

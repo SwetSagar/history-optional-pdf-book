@@ -13,4 +13,7 @@ sources: [chandra-medieval-2, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A major medieval port, initially under the ruler of Bengal but occupied from time to time by the Arakanese. Under Aurangzeb, Shaista Khan finally drove out the Arakanese pirates and made it a prosperous port.
+- **Location & Setting**: Situated in Medinipur district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Ports.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Ports.

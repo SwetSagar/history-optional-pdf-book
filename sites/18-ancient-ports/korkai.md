@@ -13,4 +13,7 @@ sources: [upinder2008, thapar2002, basham1954]
 locked: []
 ---
 
-The capital of the early Pandyas and an important Pandya port, on the banks of the Tamraparni river in Thoothukudi district, Tamil Nadu. It is celebrated in Sangam poems for its pearls, and pearl oysters have been found in excavations, together with black-and-red ware and potsherds dated 200 BC to 200 CE.
+- **Location & Setting**: Situated in Tamil Nadu, Thoothukudi district, Tamraparni river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Ports.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Ports.

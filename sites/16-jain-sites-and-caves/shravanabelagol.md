@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A Jaina site with thirty-seven temples built between the eighth and eighteenth centuries and over five hundred inscriptions. Its monolithic statue of Gommateshvara, or Bahubali, is the tallest free-standing monolithic statue, carved in highly polished light grey granite.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Jain sites and caves.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Jain sites and caves.

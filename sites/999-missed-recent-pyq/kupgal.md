@@ -13,7 +13,7 @@ sources: [upinder2008, thapar2002]
 locked: []
 ---
 
-A largely Neolithic site in Karnataka showing an overlap of Neolithic and Chalcolithic occupation.
-
-- A distinct Chalcolithic phase is absent, which makes food habits of that period difficult to assess.
-- Its ceramics are burnished wares painted in white.
+- **Location & Setting**: Situated in Karnataka.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Missed recent PYQ.
+- **Material Culture & Finds**: Yields ceramic assemblage (A distinct Chalcolithic phase is absent, which makes food habits of that period difficult to assess.; Its ceramics are burnished wares painted in white.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Missed recent PYQ.

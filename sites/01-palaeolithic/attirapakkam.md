@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-A habitation site in Tamil Nadu preserving Lower, Middle and Upper Palaeolithic cultures, with a break in occupation after the Middle Palaeolithic.
-
-- Acheulian tools and artefacts, including bifacial handaxes and cleavers, were made of quartzite brought to the site from elsewhere; a quartz tool of non-local origin has also been recovered.
-- Animal footprints survive, together with three fossil teeth — of horse, water buffalo and nilgai.
+- **Location & Setting**: Situated in Tamil Nadu.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
+- **Material Culture & Finds**: Yields lithic/stone tool industry (Acheulian tools and artefacts, including bifacial handaxes and cleavers, were made of quartzite brought to the site from elsewhere; a quartz tool of non-local origin has also been recovered.; Animal footprints survive, together with three fossil teeth — of horse, water buffalo and nilgai.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.

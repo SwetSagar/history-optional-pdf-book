@@ -13,12 +13,7 @@ sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A city in Khyber Pakhtunkhwa, Pakistan, connected to the overland routes into Afghanistan and Central Asia, and a UNESCO World Heritage Site.
-
-- Its three major settlements are Bhir, the oldest, Sirkap and Sirsukh.
-- It formed part of Gandhara and traded with Pushkalavati; local copies of Northern Black Polished Ware and silver punch-marked coins have been found.
-- Janamejaya is said to have performed the naga-yajna sacrifice here.
-- Under Ashoka it became a great seat of Buddhist learning; the Jataka and the Dipavamsa mention various of its kings, and Faxian visited during the Gupta period.
-- It was a centre of higher education for ages, particularly for medicine, teaching both Buddhist and Hindu theology alongside secular subjects such as medicine and law, and the eighteen silpas including archery, hunting and elephant lore; the grammarian Panini, the physician Jivaka and Chanakya lived here, and Chanakya is believed to have composed the Arthashastra here.
-- Its importance continued into the reign of Kanishka.
-- A Minor Rock Edict of Ashoka with an Aramaic inscription was found here by John Marshall in 1915.
+- **Location & Setting**: Situated in Pakistan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to NBPW.
+- **Material Culture & Finds**: Yields ceramic assemblage, architectural and epigraphic remains (Its three major settlements are Bhir, the oldest, Sirkap and Sirsukh.; It formed part of Gandhara and traded with Pushkalavati; local copies of Northern Black Polished Ware and silver punch-marked coins have been found.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in NBPW.

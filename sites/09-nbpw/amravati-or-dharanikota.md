@@ -13,4 +13,7 @@ sources: [thapar2002, sharma2005]
 locked: []
 ---
 
-A Satavahana capital in Guntur district and a Buddhist centre, patronised by the Satavahanas and the Ikshvakus. Stupas and maha chaityas survive, with marble and limestone sculptures showing Greco-Roman influence.
+- **Location & Setting**: Situated in Guntur district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to NBPW.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in NBPW.

@@ -13,4 +13,7 @@ sources: [upinder2008, basham1954, chandra-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The capital of the Pandya kingdom, celebrated in Tamil tradition as the place where the third Sangam was held. It is described as a large city enclosed by walls on three sides with the Vaigai river on the fourth, and was a major centre of crafts including gold making, ivory and inlay work.
+- **Location & Setting**: Situated in Madurai district, Vaigai river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

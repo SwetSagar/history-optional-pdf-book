@@ -13,7 +13,7 @@ sources: ["upinder2008#3. Neolithic - Chalcolithic@15", upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A valley in Balochistan reached from Mehrgarh through the Bolan pass, containing a number of early sites.
-
-- Farmers of the valley today compensate for meagre rainfall by irrigating with water drawn from wells and streams.
-- Several large mounds in the neighbouring Kachi plain may represent unexplored sites contemporary with the later periods of Mehrgarh.
+- **Location & Setting**: Situated in Quetta valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Silk Route sites.
+- **Material Culture & Finds**: Yields material culture artefacts (Farmers of the valley today compensate for meagre rainfall by irrigating with water drawn from wells and streams.; Several large mounds in the neighbouring Kachi plain may represent unexplored sites contemporary with the later periods of Mehrgarh.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Silk Route sites.

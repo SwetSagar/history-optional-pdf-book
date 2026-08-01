@@ -9,11 +9,11 @@ coords_provisional: false
 dot_px: [249.5, 259.5]
 images: [Individual Map sites History Optional/9 NBPW/Indraprastha.jpg]
 status: sourced
-sources: [upinder2008]
+sources: [upinder2008, basham1954]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Northern Black Polished Ware site in Uttar Pradesh with mud-brick and burnt-brick houses and drains of rectangular and wedge-shaped bricks.
-
-- Terracotta ring wells were used as soak pits, and terracotta figurines, including a horse and armoured rider, and a clay sealing were recovered.
-- It is the home of the Pandavas in the Mahabharata.
+- **Location & Setting**: Situated in Uttar Pradesh, Hissar district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to NBPW.
+- **Material Culture & Finds**: Yields ceramic assemblage (Terracotta ring wells were used as soak pits, and terracotta figurines, including a horse and armoured rider, and a clay sealing were recovered.; It is the home of the Pandavas in the Mahabharata.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in NBPW.

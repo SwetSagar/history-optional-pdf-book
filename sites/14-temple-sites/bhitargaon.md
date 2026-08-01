@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A brick and terracotta shrine in Uttar Pradesh built during the Gupta period, its walls depicting deities and its outer wall decorated with terracotta.
-
-- It contains the earliest example of a true arch in India.
-- Behta Bujurg is another temple located here.
+- **Location & Setting**: Situated in Uttar Pradesh, Kanpur district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Temple Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (It contains the earliest example of a true arch in India.; Behta Bujurg is another temple located here.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Temple Sites.

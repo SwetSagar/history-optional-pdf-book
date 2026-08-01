@@ -13,9 +13,7 @@ sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A site in Andhra Pradesh with Upper Palaeolithic and Mesolithic occupation.
-
-- It is the only Upper Palaeolithic site in the subcontinent at which tools made of animal bone have been found.
-- Faunal remains include bats, nilgai, antelope, gazelle, cats, chital, sambar deer, fish, hyena and tiger.
-- Naturally formed rock caves occur alongside a painted rock shelter, and the artwork reflects the life, culture, traits and beliefs of its makers.
-- Rock-cut art survives, and ash mounds — the product of repeated burning — show familiarity with fire.
+- **Location & Setting**: Situated in Andhra Pradesh, Ganjam district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
+- **Material Culture & Finds**: Yields lithic/stone tool industry, architectural and epigraphic remains (It is the only Upper Palaeolithic site in the subcontinent at which tools made of animal bone have been found.; Faunal remains include bats, nilgai, antelope, gazelle, cats, chital, sambar deer, fish, hyena and tiger.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.

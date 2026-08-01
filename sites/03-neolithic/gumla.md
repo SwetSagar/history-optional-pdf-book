@@ -13,8 +13,7 @@ sources: ["upinder2008#3. Neolithic - Chalcolithic@17", upinder2008]
 locked: []
 ---
 
-An early site in the valley of the Gomal river, a tributary of the Indus, in Dera Ismail Khan district.
-
-- Excavated by a team from Peshawar University in 1971, when six cultural phases were identified.
-- In Period II new pottery styles appeared, including some similar to Kot Dijian; Period III was dominated by Kot Dijian pottery.
-- It lies in the Dera Jat area of the western Indus plains, where a number of Early Harappan sites are known.
+- **Location & Setting**: Situated in Khan district, the valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Neolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage (Excavated by a team from Peshawar University in 1971, when six cultural phases were identified.; In Period II new pottery styles appeared, including some similar to Kot Dijian; Period III was dominated by Kot Dijian pottery.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Neolithic.

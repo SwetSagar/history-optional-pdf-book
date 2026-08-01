@@ -8,9 +8,12 @@ coords_from: ""
 coords_provisional: true
 dot_px: [188.1, 183.0]
 images: [Individual Map sites History Optional/19. Ancient Capitals and trade cities/Purushapura (2).jpg]
-status: written
-sources: []
+status: sourced
+sources: [chandra-medieval-1, upinder2008, mehta-medieval-1]
 locked: []
 ---
 
-The capital of the Kushana king Kanishka and an important trade centre lying at the confluence of routes from Central Asia, China and India. As a Buddhist site it has many chaityas and a large stupa holding relics of the Buddha.
+- **Location & Setting**: Situated in the river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

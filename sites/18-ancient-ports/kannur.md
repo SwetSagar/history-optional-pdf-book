@@ -13,7 +13,7 @@ sources: [chandra-medieval-2]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An important trading centre in Kerala in the twelfth century, trading with Persia and Arabia.
-
-- It served as the British military headquarters on India's west coast until 1887.
-- It is known in the older sources as Cannanore.
+- **Location & Setting**: Situated in Kerala.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Ports.
+- **Material Culture & Finds**: Yields material culture artefacts (It served as the British military headquarters on India's west coast until 1887.; It is known in the older sources as Cannanore.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Ports.

@@ -13,7 +13,7 @@ sources: [mehta-medieval-1, chandra-medieval-1]
 locked: []
 ---
 
-The capital of the Ghaznavids. The pre-Islamic city was largely tribal and practised Buddhism and Hinduism.
-
-- Islamic conquest began in the seventh century and resumed in the ninth.
-- It fell to the British in 1839.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Medieval Cities and Sufi saints.
+- **Material Culture & Finds**: Yields material culture artefacts (Islamic conquest began in the seventh century and resumed in the ninth.; It fell to the British in 1839.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Medieval Cities and Sufi saints.

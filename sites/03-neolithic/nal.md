@@ -13,7 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Neolithic site in Sindh, Pakistan, with fractional burials in pots and a child burial accompanied by grave goods including a necklace and a crystal pendant.
-
-- Its pottery is polychrome with varied bases, carrying geometric and naturalistic designs of ibex and fish in blue, red and yellow.
-- Beads of agate, crystal, carnelian and lapis lazuli were recovered, and a water management system of embankments and channels has been identified.
+- **Location & Setting**: Situated in Pakistan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Neolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage (Its pottery is polychrome with varied bases, carrying geometric and naturalistic designs of ibex and fish in blue, red and yellow.; Beads of agate, crystal, carnelian and lapis lazuli were recovered, and a water management system of embankments and channels has been identified.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Neolithic.

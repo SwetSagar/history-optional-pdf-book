@@ -13,7 +13,7 @@ sources: [chandra-medieval-2]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An ancient port which flourished during the Gupta period.
-
-- The Periplus mentions it in the context of the rivalry between the Satavahanas and the Western Satraps.
-- It later came under the influence of the Mughals, the Portuguese, the British and the Marathas.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Ports.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (The Periplus mentions it in the context of the rivalry between the Satavahanas and the Western Satraps.; It later came under the influence of the Mughals, the Portuguese, the British and the Marathas.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Ports.

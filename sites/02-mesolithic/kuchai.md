@@ -13,4 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A site in Odisha, the first Mesolithic site identified in the state, with continuous occupation from the Mesolithic into the Neolithic. The Neolithic phase dates from 1750 BC and produced reddish-brown pottery with a slip and incised decoration.
+- **Location & Setting**: Situated in Odisha, Mayurbhanj district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Mesolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Mesolithic.

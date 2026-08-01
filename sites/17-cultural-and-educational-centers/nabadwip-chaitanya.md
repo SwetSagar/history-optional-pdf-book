@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Chaitanya, proponent of the Achintya Bheda Abheda school of Vedanta and of Gaudiya Vaishnavism. A Vaishnava worshipper, he popularised the Hare Krishna mantra, and spent twenty-four years at Puri in Odisha.
+- **Location & Setting**: Situated in Odisha.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Cultural and Educational Centers.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Cultural and Educational Centers.

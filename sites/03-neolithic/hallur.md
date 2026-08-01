@@ -13,9 +13,7 @@ sources: [upinder2008, thapar2002, sharma2005]
 locked: []
 ---
 
-A site in Karnataka on the Tungabhadra river, with Neolithic, Chalcolithic and megalithic occupation running continuously through Periods I and II into the Iron Age.
-
-- Round wattle-and-daub huts had floors of stone chips and river sand, and subsistence rested on horse gram and ragi.
-- The Chalcolithic yielded blade tools of black quartzite, small copper axes and fish hooks.
-- The megalithic phase produced black-and-red ware, iron arrowheads and spearheads, and beads of bone, carnelian and gold; remains of millets and cattle indicate a pastoral economy.
-- Iron implements here are dated to 1100 BC, showing early use of iron in the region.
+- **Location & Setting**: Situated in Karnataka, the river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Neolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry (Round wattle-and-daub huts had floors of stone chips and river sand, and subsistence rested on horse gram and ragi.; The Chalcolithic yielded blade tools of black quartzite, small copper axes and fish hooks.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Neolithic.

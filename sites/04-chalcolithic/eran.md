@@ -13,4 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A site in Madhya Pradesh whose Period I, from 1800 to 700 BC, is Chalcolithic, yielding stone and copper implements and ochre-coloured pottery. It also carries non-Ashokan inscriptions: one attributed to the Saka king Sridharavarman, of 339–368 CE, and others of Samudragupta and, later, of Bhanugupta dated 510 CE.
+- **Location & Setting**: Situated in Madhya Pradesh, Narmada valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

@@ -13,7 +13,7 @@ sources: ["thapar2002#History of Early India By Thapar@152", upinder2008, sharma
 locked: []
 ---
 
-Ashoka's inscription at Lumbini, commemorating the birthplace of the Buddha.
-
-- It speaks of bali and bhaga, which may correspond to the two kinds of land revenue: a tax on the area of land cultivated, and an assessment of the produce.
-- The inscription exempts the people of Lumbini from taxation.
+- **Location & Setting**: Situated in Basti district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (It speaks of bali and bhaga, which may correspond to the two kinds of land revenue: a tax on the area of land cultivated, and an assessment of the produce.; The inscription exempts the people of Lumbini from taxation.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

@@ -13,8 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Palaeolithic locality in Andhra Pradesh, near Rengunta in the Velikonda and Nagari hills, showing continuity from the Palaeolithic to megalithic culture.
-
-- Acheulian tools occur together with Lower, Middle and Upper Palaeolithic material.
-- Two sites have been identified, one of them dominant.
-- The tools include handaxes and pebbles of varying size, and their large number and distinctive flaking suggest a raw-material source close by.
+- **Location & Setting**: Situated in Andhra Pradesh, Bellary district, Godavari valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
+- **Material Culture & Finds**: Yields lithic/stone tool industry, architectural and epigraphic remains (Acheulian tools occur together with Lower, Middle and Upper Palaeolithic material.; Two sites have been identified, one of them dominant.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.

@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-A monastery in Himachal Pradesh founded around 996 AD, resembling a fortress made of sand and clay.
-
-- Its caves were used as assembly halls for monks, and traces of hearths, seats and grain storage sites survive.
-- The paintings date to the tenth and eleventh centuries CE.
+- **Location & Setting**: Situated in Himachal Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields material culture artefacts (Its caves were used as assembly halls for monks, and traces of hearths, seats and grain storage sites survive.; The paintings date to the tenth and eleventh centuries CE.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

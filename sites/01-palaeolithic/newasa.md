@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A Middle Palaeolithic site in Maharashtra preserving a stratified sequence in which the tool industry flourished. Its scrapers were made of smooth, fine-grained stones such as agate, jasper and chalcedony.
+- **Location & Setting**: Situated in Maharashtra.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.

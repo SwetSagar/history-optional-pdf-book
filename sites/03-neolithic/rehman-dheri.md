@@ -13,4 +13,7 @@ sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An Early Harappan site in Khyber Pakhtunkhwa, Pakistan, laid out as a planned rectangular settlement with a grid of streets and houses. Beads of lapis lazuli and turquoise were recovered, and the pottery is Kot Dijian with graffiti.
+- **Location & Setting**: Situated in Pakistan, Gomal valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Neolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Neolithic.

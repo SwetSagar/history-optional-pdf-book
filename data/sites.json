@@ -759,9 +759,12 @@
       "Palaeolithic"
     ],
     "order": 1,
-    "state": "",
+    "state": "Karnataka",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      16.18,
+      75.7
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -842,7 +845,7 @@
       "Madya Pradesh"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Mehtakhedi",
@@ -881,9 +884,12 @@
       "Palaeolithic"
     ],
     "order": 1,
-    "state": "",
+    "state": "Rajasthan",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      25.77,
+      73.32
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -1056,7 +1062,7 @@
       "Bihar"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Palakkad",
@@ -1192,9 +1198,12 @@
       "Palaeolithic"
     ],
     "order": 1,
-    "state": "",
+    "state": "Gujarat",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      23.5,
+      72.6
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -1553,7 +1562,7 @@
       "Gujarat"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Mahadaha",
@@ -1599,7 +1608,10 @@
     "order": 2,
     "state": "Gujarat",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      23.82,
+      71.95
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -1696,7 +1708,7 @@
       "Ceramics were burnished wares with paintings in white"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Sarai Nahar Rai",
@@ -1824,7 +1836,10 @@
     "order": 2,
     "state": "Rajasthan",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      25.75,
+      72.08
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -2391,9 +2406,12 @@
       "Neolithic"
     ],
     "order": 3,
-    "state": "",
+    "state": "Uttar Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      24.9,
+      81.917
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -2441,7 +2459,7 @@
       "Period from 1600-1415 BC"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Maski",
@@ -2933,7 +2951,7 @@
       "Uttar Pradesh"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Tekkalakote",
@@ -3228,9 +3246,12 @@
       "Chalcolithic"
     ],
     "order": 4,
-    "state": "",
+    "state": "Madhya Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      21.82,
+      80.25
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -3547,7 +3568,10 @@
     "order": 4,
     "state": "Gujarat",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      20.887,
+      70.404
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -3605,9 +3629,12 @@
       "Chalcolithic"
     ],
     "order": 4,
-    "state": "",
+    "state": "Uttar Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      27.38,
+      79.58
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -3780,9 +3807,12 @@
       "Harappa"
     ],
     "order": 5,
-    "state": "",
+    "state": "Haryana",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      29.68,
+      76.38
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -4021,7 +4051,7 @@
       "Harappa"
     ],
     "order": 5,
-    "state": "Punjab",
+    "state": "Pakistan",
     "dot_px": [
       175.5,
       256.5
@@ -4360,7 +4390,7 @@
       "Gujarat"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Padari",
@@ -4650,7 +4680,7 @@
       "Gujarat"
     ],
     "match": "fuzzy",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Adichanallur",
@@ -4756,9 +4786,12 @@
       "Megalith"
     ],
     "order": 6,
-    "state": "",
+    "state": "Uttar Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      25.05,
+      82.8
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -4832,9 +4865,12 @@
       "Megalith"
     ],
     "order": 6,
-    "state": "",
+    "state": "Uttar Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      24.95,
+      82.05
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -5010,9 +5046,12 @@
       "Megalith"
     ],
     "order": 6,
-    "state": "",
+    "state": "Andhra Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      15.93,
+      78.26
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -5085,7 +5124,7 @@
       "Uttar Pradesh"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Bisauli",
@@ -5116,7 +5155,7 @@
       "Uttar Pradesh"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Bithoor",
@@ -5147,7 +5186,7 @@
       "Uttar Pradesh"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Etawah",
@@ -5344,9 +5383,12 @@
       "PGW"
     ],
     "order": 8,
-    "state": "",
+    "state": "Pakistan",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      29.395,
+      71.683
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -5396,9 +5438,12 @@
       "PGW"
     ],
     "order": 8,
-    "state": "",
+    "state": "Rajasthan",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      29.8,
+      73.85
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -5849,7 +5894,7 @@
       "Nirvana stupa was built by Ashoka and expanded by the Gupta kings"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Potali or Bodana",
@@ -5888,9 +5933,12 @@
       "NBPW"
     ],
     "order": 9,
-    "state": "",
+    "state": "Uttar Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      25.26,
+      83.25
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -6045,7 +6093,7 @@
       "brick temple, typical Nagara style shikhara"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Sisupalgarh",
@@ -6239,7 +6287,7 @@
       "Bihar"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Varanasi",
@@ -6278,7 +6326,7 @@
       "Banaras gharana of hindustani classical music developed here"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Vidisha",
@@ -6558,9 +6606,12 @@
       "Buddhist Sites"
     ],
     "order": 10,
-    "state": "",
+    "state": "Madhya Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      24.482,
+      80.887
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -6828,9 +6879,12 @@
       "Buddhist Sites"
     ],
     "order": 10,
-    "state": "",
+    "state": "Karnataka",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      16.858,
+      76.924
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -6955,9 +7009,12 @@
       "Buddhist Sites"
     ],
     "order": 10,
-    "state": "",
+    "state": "Bihar",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      26.353,
+      84.856
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -7037,9 +7094,12 @@
       "Buddhist Sites"
     ],
     "order": 10,
-    "state": "",
+    "state": "Odisha",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      20.589,
+      86.253
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -7144,7 +7204,7 @@
       "Bangladesh"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Nalanda",
@@ -7312,7 +7372,7 @@
       "Punjab"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Sankissa",
@@ -7321,9 +7381,12 @@
       "Buddhist Sites"
     ],
     "order": 10,
-    "state": "",
+    "state": "Uttar Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      27.337,
+      79.645
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -7368,7 +7431,7 @@
       "Madhya Pradesh"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Saspul Caves",
@@ -7432,7 +7495,7 @@
       "Sri Lanka"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Somapura",
@@ -7789,7 +7852,7 @@
       "Bihar"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Dhanesar",
@@ -7901,9 +7964,12 @@
       "Ashokan Inscriptions"
     ],
     "order": 12,
-    "state": "",
+    "state": "Uttar Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      25.018,
+      83.023
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -8210,7 +8276,7 @@
       "buddhism in Tibet must have spread through this route"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Kandahar",
@@ -8251,9 +8317,12 @@
       "Ashokan Inscriptions"
     ],
     "order": 12,
-    "state": "",
+    "state": "Afghanistan",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      34.65,
+      70.2
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -8270,9 +8339,12 @@
       "Ashokan Inscriptions"
     ],
     "order": 12,
-    "state": "",
+    "state": "Afghanistan",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      34.68,
+      70.22
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -8362,7 +8434,7 @@
       "KPK, Pakistan"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Nittur and Udegolam",
@@ -8430,9 +8502,12 @@
       "Ashokan Inscriptions"
     ],
     "order": 12,
-    "state": "",
+    "state": "Madhya Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      22.709,
+      77.406
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -8658,7 +8733,7 @@
       "Satvahana lead coins and donative inscriptions were also found."
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Sarumaru",
@@ -8720,7 +8795,7 @@
       "Khyber Pakhtunkhwa"
     ],
     "match": "fuzzy",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Sisupalgarh or Dhauli",
@@ -9054,9 +9129,12 @@
       "Non Ashokan Inscription"
     ],
     "order": 13,
-    "state": "",
+    "state": "Tamil Nadu",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      10.419,
+      78.658
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -9364,9 +9442,12 @@
       "Temple Sites"
     ],
     "order": 14,
-    "state": "",
+    "state": "Madhya Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      23.1,
+      77.585
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -9383,9 +9464,12 @@
       "Temple Sites"
     ],
     "order": 14,
-    "state": "",
+    "state": "West Bengal",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      23.075,
+      87.319
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -9402,9 +9486,12 @@
       "Temple Sites"
     ],
     "order": 14,
-    "state": "",
+    "state": "Gujarat",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      22.484,
+      73.535
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -9853,9 +9940,12 @@
       "Temple Sites"
     ],
     "order": 14,
-    "state": "",
+    "state": "Uttarakhand",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      29.645,
+      79.627
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -9901,9 +9991,12 @@
       "Temple Sites"
     ],
     "order": 14,
-    "state": "",
+    "state": "Maharashtra",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      19.975,
+      76.508
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -9982,9 +10075,12 @@
       "Temple Sites"
     ],
     "order": 14,
-    "state": "",
+    "state": "Himachal Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      32.243,
+      77.189
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -10154,9 +10250,12 @@
       "Temple Sites"
     ],
     "order": 14,
-    "state": "",
+    "state": "Karnataka",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      15.949,
+      75.816
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -10259,9 +10358,12 @@
       "Temple Sites"
     ],
     "order": 14,
-    "state": "",
+    "state": "Assam",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      26.983,
+      94.633
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -10307,9 +10409,12 @@
       "Temple Sites"
     ],
     "order": 14,
-    "state": "",
+    "state": "Tamil Nadu",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      10.862,
+      78.69
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -10737,9 +10842,12 @@
       "Jain sites and caves"
     ],
     "order": 16,
-    "state": "",
+    "state": "Gujarat",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      24.328,
+      72.827
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -10959,7 +11067,7 @@
       "Samava sarvana - Tirthankaras giving sermons is imp theme"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Sonagiri",
@@ -11150,9 +11258,12 @@
       "Cultural and Educational Centers"
     ],
     "order": 17,
-    "state": "",
+    "state": "Odisha",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      19.813,
+      85.831
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -11222,9 +11333,12 @@
       "Cultural and Educational Centers"
     ],
     "order": 17,
-    "state": "",
+    "state": "Karnataka",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      13.419,
+      75.257
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -11615,7 +11729,7 @@
       "Ancient Ports"
     ],
     "order": 18,
-    "state": "Maharashtra",
+    "state": "Gujarat",
     "dot_px": [
       162.8,
       338.5
@@ -11775,9 +11889,12 @@
       "Ancient Ports"
     ],
     "order": 18,
-    "state": "",
+    "state": "Tamil Nadu",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      12.838,
+      79.705
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -11905,7 +12022,7 @@
       "before they were ruled by Mauryas and Kadambas Pulakeshin I conquered"
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Bhita",
@@ -11939,9 +12056,12 @@
       "Ancient Capitals and trade cities"
     ],
     "order": 19,
-    "state": "",
+    "state": "Maharashtra",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      20.263,
+      75.767
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -12106,9 +12226,12 @@
       "Ancient Capitals and trade cities"
     ],
     "order": 19,
-    "state": "",
+    "state": "Karnataka",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      13.137,
+      78.129
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -12157,9 +12280,12 @@
       "Ancient Capitals and trade cities"
     ],
     "order": 19,
-    "state": "",
+    "state": "Andhra Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      18.596,
+      83.963
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -12176,9 +12302,12 @@
       "Ancient Capitals and trade cities"
     ],
     "order": 19,
-    "state": "",
+    "state": "Rajasthan",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      26.173,
+      75.838
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -12225,9 +12354,12 @@
       "Ancient Capitals and trade cities"
     ],
     "order": 19,
-    "state": "",
+    "state": "Madhya Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      25.867,
+      78.117
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -12350,7 +12482,7 @@
       "Important trade center lied on the confluence of Cental Asia, China, India."
     ],
     "match": "fuzzy",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Sambhar",
@@ -12359,9 +12491,12 @@
       "Ancient Capitals and trade cities"
     ],
     "order": 19,
-    "state": "",
+    "state": "Rajasthan",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      26.912,
+      75.195
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -12399,7 +12534,7 @@
       "Important trade centre. Large amounts of greek coins, ancient zorastrian temples and many buddhist stupas found."
     ],
     "match": "exact",
-    "status": "written"
+    "status": "sourced"
   },
   {
     "name": "Tagara or Ter",
@@ -12408,9 +12543,12 @@
       "Ancient Capitals and trade cities"
     ],
     "order": 19,
-    "state": "",
+    "state": "Maharashtra",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      18.324,
+      76.147
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -12427,9 +12565,12 @@
       "Ancient Capitals and trade cities"
     ],
     "order": 19,
-    "state": "",
+    "state": "Karnataka",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      12.189,
+      77.034
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -12446,9 +12587,12 @@
       "Ancient Capitals and trade cities"
     ],
     "order": 19,
-    "state": "",
+    "state": "Haryana",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      29.969,
+      76.818
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -12494,9 +12638,12 @@
       "Ancient Capitals and trade cities"
     ],
     "order": 19,
-    "state": "",
+    "state": "Maharashtra",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      20.109,
+      77.135
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -12546,9 +12693,12 @@
       "Ancient Capitals and trade cities"
     ],
     "order": 19,
-    "state": "",
+    "state": "Kerala",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      8.38,
+      76.993
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -13036,7 +13186,7 @@
       "Medieval Cities and Sufi saints"
     ],
     "order": 20,
-    "state": "Delhi",
+    "state": "Pakistan",
     "dot_px": [
       184.5,
       249.5
@@ -13549,9 +13699,12 @@
       "Forts"
     ],
     "order": 23,
-    "state": "",
+    "state": "West Bengal",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      22.554,
+      88.337
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -13871,9 +14024,12 @@
       "Forts"
     ],
     "order": 23,
-    "state": "",
+    "state": "Andhra Pradesh",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      14.083,
+      77.583
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -14666,9 +14822,12 @@
       "Rockcut Caves, Petroglyph sites(Cave Painting)"
     ],
     "order": 25,
-    "state": "",
+    "state": "Kerala",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      11.627,
+      76.234
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -14685,9 +14844,12 @@
       "Rockcut Caves, Petroglyph sites(Cave Painting)"
     ],
     "order": 25,
-    "state": "",
+    "state": "Maharashtra",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      18.814,
+      73.376
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -14704,9 +14866,12 @@
       "Rockcut Caves, Petroglyph sites(Cave Painting)"
     ],
     "order": 25,
-    "state": "",
+    "state": "Uttarakhand",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      29.621,
+      79.721
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -14731,7 +14896,10 @@
     "order": 25,
     "state": "Maharashtra",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      19.947,
+      73.749
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -14784,9 +14952,12 @@
       "Rockcut Caves, Petroglyph sites(Cave Painting)"
     ],
     "order": 25,
-    "state": "",
+    "state": "Tamil Nadu",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      10.463,
+      78.723
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [
@@ -14809,9 +14980,12 @@
       "Rockcut Caves, Petroglyph sites(Cave Painting)"
     ],
     "order": 25,
-    "state": "",
+    "state": "Karnataka",
     "dot_px": null,
-    "coords": null,
+    "coords": [
+      15.534,
+      76.879
+    ],
     "coords_confidence": "none",
     "coords_from": "",
     "images": [

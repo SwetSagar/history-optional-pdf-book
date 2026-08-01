@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Caves in Jammu and Kashmir dating from the thirteenth to fifteenth century AD, representing a fusion of Indian and Tibetan Buddhist art. The walls are plastered with clay and painted in bright colours, and small miniatures are also present.
+- **Location & Setting**: Situated in Jammu and Kashmir.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

@@ -3,7 +3,7 @@ name: Ratanpura
 categories: [Mesolithic]
 state: Gujarat
 coords: [23.82, 71.95]
-coords_confidence: gazetteer
+coords_confidence: none
 coords_from: ""
 coords_provisional: false
 dot_px: []
@@ -13,9 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_provisional, state]
 ---
 
-A Mesolithic site in Gujarat with occupation continuing to the Indus civilisation.
-
-- Black-and-red ware, lumped terracotta objects and beads were recovered, together with Amri–Nal type pottery associated with the Anarta tradition.
-- Two burials were found.
-- The pottery of Period II resembles that of the Indus civilisation, as at Surkotada.
-- Bones of domesticated sheep, goats and cattle have recently been identified.
+- **Location & Setting**: Situated in Gujarat.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Mesolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage (Black-and-red ware, lumped terracotta objects and beads were recovered, together with Amri–Nal type pottery associated with the Anarta tradition.; Two burials were found.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Mesolithic.

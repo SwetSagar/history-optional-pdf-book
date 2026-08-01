@@ -13,8 +13,7 @@ sources: []
 locked: []
 ---
 
-An Upper Palaeolithic site in the Sidhi district of Madhya Pradesh, excavated jointly by Allahabad University and the University of California, Berkeley.
-
-- Evidence of stone working includes boring and scraping, and cutting, slicing and piercing for food and craft work.
-- A circular platform of sandstone rubble, yellowish-red to dark reddish-brown, is dated to 9000–8000 BCE and may have served for ritual worship.
-- Geometric microliths were recovered, as were human skeletal remains bearing on the earliest human colonisation of the Ganga plains.
+- **Location & Setting**: Situated in Madhya Pradesh, Sidhi district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
+- **Material Culture & Finds**: Yields lithic/stone tool industry (Evidence of stone working includes boring and scraping, and cutting, slicing and piercing for food and craft work.; A circular platform of sandstone rubble, yellowish-red to dark reddish-brown, is dated to 9000–8000 BCE and may have served for ritual worship.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.

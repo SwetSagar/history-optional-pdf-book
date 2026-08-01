@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-A Neolithic site in Jammu and Kashmir with pit dwellings similar to those at Burzahom, surrounded by storage pits and hearths; the use of pits declined in the later phases.
-
-- Tools were made of bone and horn, and steatite beads and broken terracotta marble were recovered.
-- Pottery is both handmade and wheel-made.
+- **Location & Setting**: Situated in Jammu and Kashmir, Swat valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Neolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry (Tools were made of bone and horn, and steatite beads and broken terracotta marble were recovered.; Pottery is both handmade and wheel-made.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Neolithic.

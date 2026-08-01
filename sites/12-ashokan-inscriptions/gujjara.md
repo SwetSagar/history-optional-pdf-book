@@ -13,4 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-An Ashokan site in Madhya Pradesh bearing Minor Rock Edict I, which refers to Ashoka by his personal name. It lay on the ancient trade route connecting Pataliputra to Broach.
+- **Location & Setting**: Situated in Madhya Pradesh, Jaipur district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

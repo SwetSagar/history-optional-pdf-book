@@ -13,4 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-The capital of the Chedi, said to have been built by King Uparichara Vasu and mentioned in the Mahabharata. Its location is uncertain: Raychaudhuri and Pargiter place it near Banda in Uttar Pradesh, while Chakrabarti identifies it with modern Rewa in Madhya Pradesh.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to NBPW.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in NBPW.

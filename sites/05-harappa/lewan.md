@@ -13,4 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-An Early Harappan site in the Quetta valley, Pakistan, with no evidence of agriculture. Heavily polished stone tools were recovered, including stone grinders, saddle querns and ringstones, together with ceramic bangles and beads.
+- **Location & Setting**: Situated in Pakistan, Bannu basin.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

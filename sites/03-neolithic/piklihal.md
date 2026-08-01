@@ -13,7 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Neolithic and megalithic site in Karnataka dated as early as 2700 BC, with circular huts and microlithic blades.
-
-- Its pottery is handmade, in grey burnished, grey, black, buff and red or brown wares, and terracotta figurines of humans, animals and birds were recovered, along with cave drawings of animals, humans and weapons.
-- Rock paintings show horse riders carrying metal axes, and some of the earliest use of iron in the region is reported here.
+- **Location & Setting**: Situated in Karnataka.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Neolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, architectural and epigraphic remains (Its pottery is handmade, in grey burnished, grey, black, buff and red or brown wares, and terracotta figurines of humans, animals and birds were recovered, along with cave drawings of animals, humans and weapons.; Rock paintings show horse riders carrying metal axes, and some of the earliest use of iron in the region is reported here.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Neolithic.

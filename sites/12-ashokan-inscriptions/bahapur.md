@@ -13,4 +13,7 @@ sources: [thapar2002, upinder2008]
 locked: []
 ---
 
-An Ashokan site bearing a Minor Rock Edict in the Brahmi script, part of the Uttarapatha and a trade site. The edict is the first personal message of Ashoka and asks people to follow the Buddhist way of life.
+- **Location & Setting**: Situated in Champaran district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

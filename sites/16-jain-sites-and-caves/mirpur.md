@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-A temple in Rajasthan built in the ninth century AD during the reign of the Rajputs and dedicated to Parshvanatha, the twenty-third Jaina tirthankara.
-
-- Its carvings and murals are comparable to those at Dilwara, and it is thought to be the oldest marble monument in Rajasthan.
-- It was destroyed by Mahmud Begarha and rebuilt in the fifteenth century.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Jain sites and caves.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (Its carvings and murals are comparable to those at Dilwara, and it is thought to be the oldest marble monument in Rajasthan.; It was destroyed by Mahmud Begarha and rebuilt in the fifteenth century.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Jain sites and caves.

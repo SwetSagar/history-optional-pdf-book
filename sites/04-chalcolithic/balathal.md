@@ -13,8 +13,7 @@ sources: ["upinder2008#3. Neolithic - Chalcolithic@36", upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An important Ahar culture site in Udaipur district, Rajasthan.
-
-- The first phase of occupation, Period I, covered a site of about 2 hectares.
-- Finds include microliths, fragments of copper and beads of semi-precious stones.
-- Terracotta gamesmen were recovered, along with animal figurines including humped bulls with long horns.
+- **Location & Setting**: Situated in Udaipur district, Berach river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry (The first phase of occupation, Period I, covered a site of about 2 hectares.; Finds include microliths, fragments of copper and beads of semi-precious stones.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

@@ -13,9 +13,7 @@ sources: []
 locked: []
 ---
 
-A site in Madhya Pradesh occupied across the Palaeolithic and Mesolithic and continuing into the Neolithic–Chalcolithic.
-
-- The Lower and Middle levels are Palaeolithic; the upper layers are Mesolithic and pass into the Neolithic–Chalcolithic.
-- Microliths of chert, chalcedony, jasper and agate occur alongside potsherds, dated to 5500 BCE.
-- Geometric microliths are common, and the bones of both domesticated and wild animals indicate the domestication of animals.
-- Pottery remains have also been recovered.
+- **Location & Setting**: Situated in Madhya Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry (The Lower and Middle levels are Palaeolithic; the upper layers are Mesolithic and pass into the Neolithic–Chalcolithic.; Microliths of chert, chalcedony, jasper and agate occur alongside potsherds, dated to 5500 BCE.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.

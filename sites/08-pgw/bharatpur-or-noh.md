@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-- **Location & Setting**: Situated in Rajasthan, Ganga valley, Damodar valley.
-- **Periodization & Excavation**: Important PGW site.
-- **Material Culture & Finds**: Yields characteristic ceramic assemblage, stone tool industry, structural and epigraphic remains documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in PGW.
+- **Location & Setting**: Situated in Rajasthan, Ganga valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to PGW.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry, architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in PGW.

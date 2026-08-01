@@ -13,4 +13,7 @@ sources: [thapar2002, upinder2008]
 locked: []
 ---
 
-An Ashokan site in Madhya Pradesh bearing Minor Rock Edict I, addressed to the local Buddhist sangha. It expresses Ashoka's belief in the Buddha and the Dhamma and his aim to propagate it.
+- **Location & Setting**: Situated in Madhya Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

@@ -13,8 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An ancient Buddhist university at Bhavnagar in Gujarat, capital of the Maitraka dynasty and patronised by the Maitraka rulers.
-
-- It was a centre of Hinayana Buddhism where statecraft, law and philosophy were taught, and Buddhist monasteries were built here.
-- Xuanzang and Yijing visited in the seventh century, and Xuanzang mentions the site.
-- The second Jaina council was held here under Devarddhi in the sixth century.
+- **Location & Setting**: Situated in Gujarat.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields material culture artefacts (It was a centre of Hinayana Buddhism where statecraft, law and philosophy were taught, and Buddhist monasteries were built here.; Xuanzang and Yijing visited in the seventh century, and Xuanzang mentions the site.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

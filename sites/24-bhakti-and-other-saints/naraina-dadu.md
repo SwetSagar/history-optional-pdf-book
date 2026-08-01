@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Dadu, founder of the Dadupanth, who preached near Jaipur and held that devotion to God should be beyond sectarian belief. His disciple Rajjab composed his verses as the Dadu Anubhav Vani.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Bhakti and other saints.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Bhakti and other saints.

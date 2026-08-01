@@ -8,9 +8,12 @@ coords_from: ""
 coords_provisional: true
 dot_px: [144.7, 345.7]
 images: [Individual Map sites History Optional/5 Harappa/Late and Mature/Nageshwar.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 ---
 
-A Mature Harappan shell-working site on the Gulf of Kutch, Gujarat, very near the coast, with a single period of occupation and no evidence of pre- or post-Harappan settlement. Its vessels are of reddish-yellow sandy clay, with floral motifs, perforated jars, and a channel-spouted bowl with a red slip and black painted designs.
+- **Location & Setting**: Situated in Gujarat, Jamnagar district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

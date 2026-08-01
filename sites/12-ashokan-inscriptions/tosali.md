@@ -14,6 +14,6 @@ locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
 - **Location & Setting**: Situated in Odisha, Ganga valley.
-- **Periodization & Excavation**: Important Ashokan Inscriptions site.
-- **Material Culture & Finds**: Yields structural and epigraphic remains documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ashokan Inscriptions.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

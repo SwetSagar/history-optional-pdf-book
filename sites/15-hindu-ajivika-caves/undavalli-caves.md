@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A rock-cut four-storeyed cave temple in Andhra Pradesh of the fourth and fifth centuries AD, associated with the Vishnukundin kings and earlier used by Buddhists. Its wall sculptures represent Vaishnava deities, the reclining Vishnu being the most important, together with various sculptures of monks.
+- **Location & Setting**: Situated in Andhra Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Hindu, Ajivika caves.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Hindu, Ajivika caves.

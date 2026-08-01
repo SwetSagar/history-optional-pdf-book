@@ -13,4 +13,7 @@ sources: [upinder2008, thapar2002]
 locked: []
 ---
 
-A megalithic site in Maharashtra with three hundred stone circle burials dated to 1000 BC, the stones placed with cup marks, a pattern distinct from southern burial types. A horse burial with horse implements was found.
+- **Location & Setting**: Situated in Maharashtra, The river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Megalith.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Megalith.

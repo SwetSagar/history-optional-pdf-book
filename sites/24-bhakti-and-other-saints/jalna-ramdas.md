@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Ramdas, a seventeenth-century devotee of Rama and Hanuman and patron saint of Shivaji, whom he is said to have blessed to be a champion of Hinduism. His famous work is the Dasbodh.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Bhakti and other saints.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Bhakti and other saints.

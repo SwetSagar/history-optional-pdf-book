@@ -13,7 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The easternmost Mature Harappan site, in Uttar Pradesh, where burnt brick was found and the pottery suggests a workshop was established here.
-
-- Ceramic dishes, cups, vases and cubical dice were recovered, along with beads of steatite, faience, glass and carnelian.
-- There is a break in occupation between the Late Harappan and Painted Grey Ware phases.
+- **Location & Setting**: Situated in Uttar Pradesh, Meerut district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields ceramic assemblage (Ceramic dishes, cups, vases and cubical dice were recovered, along with beads of steatite, faience, glass and carnelian.; There is a break in occupation between the Late Harappan and Painted Grey Ware phases.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

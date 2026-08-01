@@ -13,7 +13,7 @@ sources: [upinder2008, mehta-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Middle Palaeolithic site in Uttar Pradesh dated to about 45,000 years ago.
-
-- Its tools include pebble tools, points and side scrapers, together with bone tools such as points and burins.
-- Vertebrate fossils recovered here include an elephant tusk and shoulder blade, and the molars of equids and bovids.
+- **Location & Setting**: Situated in Uttar Pradesh, Jalaun district, Luni Valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
+- **Material Culture & Finds**: Yields lithic/stone tool industry (Its tools include pebble tools, points and side scrapers, together with bone tools such as points and burins.; Vertebrate fossils recovered here include an elephant tusk and shoulder blade, and the molars of equids and bovids.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.

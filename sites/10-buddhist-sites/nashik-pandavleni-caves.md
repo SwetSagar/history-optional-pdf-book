@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-Twenty-four rock-cut caves in Maharashtra, from the first century BC to the third century CE, with chaityas, viharas and an ancient water management system.
-
-- Their patrons were local Buddhist royalty — mostly the Satavahanas — along with merchants and monks.
-- Idols of Buddhas and Bodhisattvas survive, and the caves carry inscriptions of various rulers including Gautamiputra Satakarni, Vasishthiputra Pulumavi, Ushavadata and the Western Satraps.
+- **Location & Setting**: Situated in Maharashtra.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (Their patrons were local Buddhist royalty — mostly the Satavahanas — along with merchants and monks.; Idols of Buddhas and Bodhisattvas survive, and the caves carry inscriptions of various rulers including Gautamiputra Satakarni, Vasishthiputra Pulumavi, Ushavadata and the Western Satraps.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

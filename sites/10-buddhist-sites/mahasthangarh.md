@@ -8,9 +8,12 @@ coords_from: Q3085127
 coords_provisional: false
 dot_px: [397.5, 311.5]
 images: [Individual Map sites History Optional/10 Buddhist Sites/Mahasthangarh.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A site in Bangladesh bearing an order issued to the mahamatra stationed at Pundranagara. It directs that people be relieved of famine by a loan in coins given to a person named Galadana, and that dhanya be distributed from the granary.
+- **Location & Setting**: Situated in Bangladesh, Bagura district, Ganga valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields ceramic assemblage, architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

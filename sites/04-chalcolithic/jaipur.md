@@ -13,4 +13,7 @@ sources: [upinder2008, sharma2005, chandra-medieval-2]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Chalcolithic site in Rajasthan on the Sahibi river, and a copper-working centre which has yielded the largest number of copper implements. Harappan pottery occurs here; the local pottery is fine and wheel-made, orange to red, with incised designs of various shapes.
+- **Location & Setting**: Situated in Rajasthan, Champaran district, Sahibi river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

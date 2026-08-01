@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Two rock-cut Hindu temples in Tamil Nadu with stone carvings, some of the sculptures covered with painted stucco and depicting Shiva. Old paintings executed in lime show birds and human figures.
+- **Location & Setting**: Situated in Tamil Nadu.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Hindu, Ajivika caves.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Hindu, Ajivika caves.

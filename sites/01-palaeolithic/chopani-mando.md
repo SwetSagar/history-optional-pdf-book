@@ -13,11 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A habitation site in Uttar Pradesh occupied from the Upper Palaeolithic to the Neolithic, recording the transition from food gathering to food production.
-
-- The Palaeolithic levels yielded tools of chert.
-- Periods II and III are Mesolithic, with geometric microliths in Period IIB.
-- Period III produced handmade pottery with cord-impressed patterns.
-- Rice was recovered, though whether domesticated or wild is uncertain.
-- Dwellings were beehive-shaped and, from the Mesolithic, oval clustered huts of wattle and daub; burnt clay bearing reed impressions survives.
-- Non-indigenous sheep and goat bones indicate contact with other communities.
+- **Location & Setting**: Situated in Uttar Pradesh, Belan valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry (The Palaeolithic levels yielded tools of chert.; Periods II and III are Mesolithic, with geometric microliths in Period IIB.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.

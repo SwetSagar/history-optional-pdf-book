@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An early Harappan site in Sindh, Pakistan, where Period I is Early Harappan, Period II transitional and Period III Mature.
-
-- Mud-brick structures were recovered, along with chert, blades and stone balls, and cellular grain storage compartments.
-- Most of the pottery is wheel-made, with geometric designs in brown, black and ochre.
+- **Location & Setting**: Situated in Pakistan, Indus valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Neolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage (Mud-brick structures were recovered, along with chert, blades and stone balls, and cellular grain storage compartments.; Most of the pottery is wheel-made, with geometric designs in brown, black and ochre.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Neolithic.

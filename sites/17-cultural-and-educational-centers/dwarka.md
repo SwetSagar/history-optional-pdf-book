@@ -13,7 +13,7 @@ sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@60", upin
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A submerged coastal settlement in Jamnagar district, Gujarat, investigated by marine archaeologists.
-
-- Marine archaeology identified the inner and outer walls of the settlement, together with bastions.
-- Excavations at Dwarka and at Bet Dwarka off the Gujarat coast have revealed structures, stone images and other objects; both sites have also yielded much earlier remains.
+- **Location & Setting**: Situated in Jamnagar district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Cultural and Educational Centers.
+- **Material Culture & Finds**: Yields material culture artefacts (Marine archaeology identified the inner and outer walls of the settlement, together with bastions.; Excavations at Dwarka and at Bet Dwarka off the Gujarat coast have revealed structures, stone images and other objects; both sites have also yielded much earlier remains.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Cultural and Educational Centers.

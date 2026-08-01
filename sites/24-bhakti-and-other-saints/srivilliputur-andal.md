@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Andal, the only female saint among the twelve Alvars of south India and a follower of the Srivaishnava tradition. Her works include the Thiruppavai and the Nachiar Tirumozhi.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Bhakti and other saints.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Bhakti and other saints.

@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A monastic complex in Khyber Pakhtunkhwa, Pakistan, with a stupa in the central courtyard surrounded by monastic chambers of individual cells, together with an assembly hall and dining area. Later buildings include a temple consisting of many stupas, and a Tantric monastic complex of dark cells with low openings.
+- **Location & Setting**: Situated in Pakistan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

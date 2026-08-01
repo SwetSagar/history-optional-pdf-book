@@ -13,4 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The capital of the Shakya kingdom, in Nepal, and an important trade centre, where the Buddha lived until the age of twenty-nine. Sculptures carved here depict Maya's dream and the Buddha's departure.
+- **Location & Setting**: Situated in Nepal, Basti district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites; excavations led by an Archaeological Survey of India team led by.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

@@ -13,7 +13,7 @@ sources: [mehta-medieval-1, upinder2008]
 locked: []
 ---
 
-An international port in the early medieval age, in Pakistan, and a famous sword-making centre, lying on an important trade route with western Asia.
-
-- Cotton goods and indigo were exported from here to Iran and Arabia.
-- Founded in the first century CE, it was one of the most important cities in Sindh.
+- **Location & Setting**: Situated in Pakistan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Ports.
+- **Material Culture & Finds**: Yields material culture artefacts (Cotton goods and indigo were exported from here to Iran and Arabia.; Founded in the first century CE, it was one of the most important cities in Sindh.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Ports.

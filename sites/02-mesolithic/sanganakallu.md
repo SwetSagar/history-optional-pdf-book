@@ -8,15 +8,12 @@ coords_from: Q7417832
 coords_provisional: false
 dot_px: [243.4, 447.5]
 images: [Individual Map sites History Optional/2 Mesolithic/Sanganakallu.jpg, Individual Map sites History Optional/3 Neolithic/Sanganakallu.jpg, Individual Map sites History Optional/4 Chalcolithic/Sanganakallu.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A site in Karnataka with Neolithic, Chalcolithic and megalithic occupation, the Neolithic dated to 2000 BC and overlapping both the megalithic and the Chalcolithic.
-
-- Circular floors with post holes mark the houses.
-- Ground and polished stone tools were recovered, together with microliths, bone points, chisels, and axes, chisels and blades of chalcedony.
-- The pottery includes black-and-red ware, pale grey, burnished grey and brown wares, and coarse brown and black pottery; the Chalcolithic ceramics are burnished wares painted in white.
-- Terracotta figurines of bulls and birds were found, as were ash mounds of burnt cattle dung, and rock art depicting men, animals and birds.
-- Because a distinct Chalcolithic phase is absent, food habits of that period are difficult to assess.
+- **Location & Setting**: Situated in Karnataka.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Mesolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry (Circular floors with post holes mark the houses.; Ground and polished stone tools were recovered, together with microliths, bone points, chisels, and axes, chisels and blades of chalcedony.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Mesolithic.

@@ -13,11 +13,7 @@ sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The capital of the early Cholas and later a Pallava capital, from about 300 to 800 AD, in Tamil Nadu, and an important commercial centre in the Satavahana period.
-
-- It was a centre of advanced education for Jainism and Buddhism between the first and fifth centuries and important for Tamil and Sanskrit scholarship, known as Ghatikasthanam, a place of learning, with educational institutions called ghatikas.
-- It was a Vaishnava and Shaiva religious and literary centre.
-- The poet Bharavi, author of the Kiratarjuniya, lived here in the sixth century CE.
-- Ramanuja lived here in the eleventh and twelfth centuries; and Dharmapala, born here, became head of Nalanda University.
-- The Kailasanatha temple was built by Rajasimha Pallava in the sixth century, and the Vaikunta Perumal temple also stands here; the Ekambareshwara temple was built by the Nayakas of Thanjavur.
-- It is known in the older sources as Kanchi.
+- **Location & Setting**: Situated in Tamil Nadu.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Temple Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (It was a centre of advanced education for Jainism and Buddhism between the first and fifth centuries and important for Tamil and Sanskrit scholarship, known as Ghatikasthanam, a place of learning, with educational institutions called ghatikas.; It was a Vaishnava and Shaiva religious and literary centre.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Temple Sites.

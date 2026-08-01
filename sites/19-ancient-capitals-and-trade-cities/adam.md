@@ -13,7 +13,7 @@ sources: ["upinder2008#8. 200 B.C - 300 C.E@56", upinder2008]
 locked: []
 ---
 
-A site in Nagpur district, Maharashtra, which yields important evidence for the material culture of the Deccan in this period.
-
-- A hoard of Roman gold coins was found here.
-- Subsequent exploration revealed an ancient fortified settlement.
+- **Location & Setting**: Situated in Nagpur district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities.
+- **Material Culture & Finds**: Yields lithic/stone tool industry, architectural and epigraphic remains (A hoard of Roman gold coins was found here.; Subsequent exploration revealed an ancient fortified settlement.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

@@ -13,7 +13,7 @@ sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-Caves in Maharashtra dating from the first to the tenth century CE, with evidence of all three forms of Buddhism.
-
-- Cave 34 contains images of the Buddha.
-- The site was in close contact with the town of Sopara.
+- **Location & Setting**: Situated in Maharashtra.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (Cave 34 contains images of the Buddha.; The site was in close contact with the town of Sopara.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

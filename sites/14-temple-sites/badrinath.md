@@ -14,6 +14,6 @@ locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
 - **Location & Setting**: Situated in Uttarakhand.
-- **Periodization & Excavation**: Important Temple Sites site.
-- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Temple Sites.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Temple Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Temple Sites.

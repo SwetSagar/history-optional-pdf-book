@@ -13,9 +13,7 @@ sources: [sharma2005, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Mature Harappan site in Ahmedabad district, Gujarat, with pre-Harappan occupation.
-
-- Its dockyard, at the eastern edge, is trapezoidal and enclosed by walls, with provision for maintaining a regular water level through a sluice gate and spill channel; it was built first of mud and later of mud and burnt brick.
-- The citadel is trapezoidal and the burial ground lies to the north-west.
-- Residential buildings, streets, lanes, a bathing pavement and drains have been excavated.
-- The site connected Dholavira, Sutkagen-dor and the Persian Gulf.
+- **Location & Setting**: Situated in Gujarat, Ahmedabad district, Sabarmati river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields ceramic assemblage (Its dockyard, at the eastern edge, is trapezoidal and enclosed by walls, with provision for maintaining a regular water level through a sluice gate and spill channel; it was built first of mud and later of mud and burnt brick.; The citadel is trapezoidal and the burial ground lies to the north-west.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

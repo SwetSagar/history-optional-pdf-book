@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Caves containing eighth-century Jaina paintings, petroglyphs and rock art made by monks. The mural paintings were executed in the fresco and tempera techniques, and Tamil-Brahmi inscriptions survive on the walls.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Jain sites and caves.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Jain sites and caves.

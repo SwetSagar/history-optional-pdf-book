@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-A non-Ashokan inscription in Uttar Pradesh attributed to Skandagupta and dated 455–467 CE.
-
-- It provides genealogies of the Guptas, the Pushyamitras and the Hunas, who were defeated at Skandagupta's hands.
-- The brick temple here has a cruciform plan and a curvilinear shikhara.
+- **Location & Setting**: Situated in Uttar Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Non Ashokan Inscription.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (It provides genealogies of the Guptas, the Pushyamitras and the Hunas, who were defeated at Skandagupta's hands.; The brick temple here has a cruciform plan and a curvilinear shikhara.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Non Ashokan Inscription.

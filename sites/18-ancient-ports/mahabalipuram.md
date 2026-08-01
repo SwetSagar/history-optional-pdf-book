@@ -13,8 +13,7 @@ sources: [sharma2005, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An ancient port city of the Pallava rulers of south India, from which they launched trade and diplomatic missions to Sri Lanka and south-east Asia.
-
-- Chinese and Roman coins have been found here.
-- Monoliths known locally as rathas, or chariots, survive, of which the Pancha Pandava rathas, five rock monoliths, are the most famous.
-- It is known in the older sources as Mamallapuram.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Ports.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (Chinese and Roman coins have been found here.; Monoliths known locally as rathas, or chariots, survive, of which the Pancha Pandava rathas, five rock monoliths, are the most famous.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Ports.

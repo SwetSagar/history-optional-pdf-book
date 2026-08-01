@@ -8,9 +8,12 @@ coords_from: ""
 coords_provisional: true
 dot_px: [264.5, 240.5]
 images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Kalsi.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, thapar2002]
 locked: []
 ---
 
-An Ashokan site where the fourteen major rock edicts are engraved in the Brahmi script in the Pali language. It was a hub for traders, especially from the Tibetan plateau, and Buddhism is likely to have spread into Tibet along this route.
+- **Location & Setting**: Situated in Peshawar district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

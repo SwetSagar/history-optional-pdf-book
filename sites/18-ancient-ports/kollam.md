@@ -13,8 +13,7 @@ sources: [upinder2008, chandra-medieval-1]
 locked: []
 ---
 
-An ancient and medieval port city in Kerala, trading with the Romans, Greeks, Iranians, Chinese and Arabs.
-
-- Arab sources record that Chinese traders bound for the Arab countries changed ships here.
-- It was overthrown by the Pandyas between 1200 and 1300, and Malik Kafur also invaded it.
-- It is known in the older sources as Quilon.
+- **Location & Setting**: Situated in Kerala.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Ports.
+- **Material Culture & Finds**: Yields material culture artefacts (Arab sources record that Chinese traders bound for the Arab countries changed ships here.; It was overthrown by the Pandyas between 1200 and 1300, and Malik Kafur also invaded it.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Ports.

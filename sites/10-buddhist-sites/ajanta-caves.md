@@ -13,11 +13,7 @@ sources: [basham1954, sharma2005, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-Twenty-eight rock-cut Buddhist caves in Maharashtra, from the second century BCE to the seventh century AD.
-
-- Building began under the Satavahanas and continued under the Vakatakas, and the site was abandoned after the fall of Harishena.
-- Its structures were influenced by Sanchi and Bharhut.
-- The paintings, executed in dry fresco, represent Jataka tales and use mainly five colours — red-yellow, lime, lamp black, green, and lapis lazuli blue.
-- Cave 1 is a rock-cut vihara built under the patronage of Harishena.
-- Caves 19 and 26 are chaityas: Cave 19 has a rectangular hall rounded at the end to form an apse, with carved pillars, a stupa at the centre and an elaborately carved facade.
-- Cave 26 carries detailed sculptural decoration, a huge stupa with a seated Buddha, and a seven-metre reclining Buddha on its inner walls.
+- **Location & Setting**: Situated in Maharashtra.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (Building began under the Satavahanas and continued under the Vakatakas, and the site was abandoned after the fall of Harishena.; Its structures were influenced by Sanchi and Bharhut.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-An ancient port in Sindh, Pakistan, at present-day Karachi, in use since the time of Alexander and important during the Hellenistic era.
-
-- It traded with the Romans and Greeks and is mentioned in the Periplus.
-- Topaz, gold, silver, cotton, silk and indigo passed through it, and Persian turquoise and Afghan lapis lazuli were traded from here, including the overland supply to Egypt.
+- **Location & Setting**: Situated in Pakistan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Silk Route sites.
+- **Material Culture & Finds**: Yields material culture artefacts (It traded with the Romans and Greeks and is mentioned in the Periplus.; Topaz, gold, silver, cotton, silk and indigo passed through it, and Persian turquoise and Afghan lapis lazuli were traded from here, including the overland supply to Egypt.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Silk Route sites.

@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-A Mature Harappan site in Balochistan, Pakistan, with a rectangular structure, potsherds and open pit ovens for firing pottery.
-
-- The pottery is black with reddish bands around the neck and geometric motifs.
-- Desertion of the site is attributed to the shifting of the coast.
+- **Location & Setting**: Situated in Pakistan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields ceramic assemblage (The pottery is black with reddish bands around the neck and geometric motifs.; Desertion of the site is attributed to the shifting of the coast.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

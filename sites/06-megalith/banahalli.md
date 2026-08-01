@@ -14,6 +14,6 @@ locked: []
 ---
 
 - **Location & Setting**: Situated in Karnataka.
-- **Periodization & Excavation**: Important Megalith site.
-- **Material Culture & Finds**: Yields stone tool industry documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Megalith.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Megalith.
+- **Material Culture & Finds**: Yields lithic/stone tool industry.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Megalith.

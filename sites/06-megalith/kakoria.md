@@ -13,7 +13,7 @@ sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@63", upin
 locked: []
 ---
 
-A megalithic site on the northern fringes of the Vindhyas in south-eastern Uttar Pradesh, in the Allahabad, Banda, Varanasi and Mirzapur districts.
-
-- The main types of megalith occurring in this group are cairns and stone circles.
-- Some graves gave evidence of fractional burial.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Megalith.
+- **Material Culture & Finds**: Yields material culture artefacts (The main types of megalith occurring in this group are cairns and stone circles.; Some graves gave evidence of fractional burial.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Megalith.

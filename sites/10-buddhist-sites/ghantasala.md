@@ -13,4 +13,7 @@ sources: [thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Buddhist site in Andhra Pradesh of the Satavahana period, with a stupa of unique design built with solid bricks at the centre and a separate vihara. Various relics were recovered, including a lotus flower.
+- **Location & Setting**: Situated in Andhra Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

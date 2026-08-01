@@ -13,4 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Mesolithic site in West Bengal, occupied under a drier climate, serving both as a habitation and as a factory site. Its stone tools are of quartz, chert and chalcedony.
+- **Location & Setting**: Situated in West Bengal, Burdwan district, Damodar river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Mesolithic.
+- **Material Culture & Finds**: Yields lithic/stone tool industry.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Mesolithic.

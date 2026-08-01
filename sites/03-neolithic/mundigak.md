@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Neolithic and Chalcolithic site in Afghanistan dated between 4000 and 3500 BCE.
-
-- The lowest levels lack structures and indicate a semi-nomadic occupation; later walls were of pressed earth, with cooking hearths outside the houses.
-- Finds include a needle and a small bent blade, a terracotta humped bull, the bones of domesticated animals, and plant remains of wheat and ber.
+- **Location & Setting**: Situated in Afghanistan, Arghandab river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Neolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage (The lowest levels lack structures and indicate a semi-nomadic occupation; later walls were of pressed earth, with cooking hearths outside the houses.; Finds include a needle and a small bent blade, a terracotta humped bull, the bones of domesticated animals, and plant remains of wheat and ber.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Neolithic.

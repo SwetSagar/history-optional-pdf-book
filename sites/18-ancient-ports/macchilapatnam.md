@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-A port at the mouth of the river Krishna, in existence since the third century BC in the Satavahana period.
-
-- Ptolemy knew it as Maisolos and the Periplus called it Masalia in the first century BCE.
-- Muslin was traded from the town by the ancient Greeks, and it served as the principal seaport of the Golconda kingdom from the fifteenth to the seventeenth century.
+- **Location & Setting**: Situated in the river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Ports.
+- **Material Culture & Finds**: Yields material culture artefacts (Ptolemy knew it as Maisolos and the Periplus called it Masalia in the first century BCE.; Muslin was traded from the town by the ancient Greeks, and it served as the principal seaport of the Golconda kingdom from the fifteenth to the seventeenth century.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Ports.

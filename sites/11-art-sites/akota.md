@@ -13,7 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A major centre of Jainism and an art site from which sixty-eight sets of bronze Jaina images, of the sixth to twelfth centuries, have been recovered.
-
-- The principal images are of Mahavira while still a prince and of the Tirthankara Parshvanatha.
-- Various inscriptions have also been found.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Art Sites.
+- **Material Culture & Finds**: Yields material culture artefacts (The principal images are of Mahavira while still a prince and of the Tirthankara Parshvanatha.; Various inscriptions have also been found.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Art Sites.

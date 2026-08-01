@@ -13,8 +13,7 @@ sources: [chandra-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A port from the time of the Chera empires until 1102.
-
-- Tondi, to the south of [gap in notes], was a major seaport.
-- Marco Polo visited, and Vasco da Gama landed here in 1498.
-- It is known in the older sources as Calicut.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Ports.
+- **Material Culture & Finds**: Yields ceramic assemblage (Tondi, to the south of [gap in notes], was a major seaport.; Marco Polo visited, and Vasco da Gama landed here in 1498.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Ports.

@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A Mature Harappan site in Afghanistan which has yielded beads and gold ornaments, steatite, lapis lazuli, carnelian and agate, together with Harappan pottery and a square Harappan seal bearing a rhinoceros motif.
+- **Location & Setting**: Situated in Afghanistan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

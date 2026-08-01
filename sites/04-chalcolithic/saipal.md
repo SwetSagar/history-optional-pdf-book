@@ -3,7 +3,7 @@ name: Saipal
 categories: [Chalcolithic]
 state: Uttar Pradesh
 coords: [27.38, 79.58]
-coords_confidence: gazetteer
+coords_confidence: none
 coords_from: ""
 coords_provisional: false
 dot_px: []
@@ -13,7 +13,7 @@ sources: []
 locked: [coords, coords_provisional, state]
 ---
 
-- **Location & Setting**: Located in India.
-- **Periodization & Excavation**: Important Chalcolithic site.
-- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Chalcolithic.
+- **Location & Setting**: Situated in Uttar Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

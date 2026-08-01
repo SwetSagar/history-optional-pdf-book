@@ -9,11 +9,11 @@ coords_provisional: true
 dot_px: [238.5, 404.5]
 images: [Individual Map sites History Optional/22. Early Medieval Capital cities/Kalyani or Basavakalyan.jpg]
 status: sourced
-sources: [thapar2002]
+sources: [thapar2002, basham1954]
 locked: []
 ---
 
-An ancient port which flourished during the Gupta period.
-
-- The Periplus mentions it in the context of the rivalry between the Satavahanas and the Western Satraps.
-- It later came under the influence of the Mughals, the Portuguese, the British and the Marathas.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Early Medieval Capital cities.
+- **Material Culture & Finds**: Yields material culture artefacts (The Periplus mentions it in the context of the rivalry between the Satavahanas and the Western Satraps.; It later came under the influence of the Mughals, the Portuguese, the British and the Marathas.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Early Medieval Capital cities.

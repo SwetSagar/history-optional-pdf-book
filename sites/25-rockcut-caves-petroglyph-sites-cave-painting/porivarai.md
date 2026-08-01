@@ -14,6 +14,6 @@ locked: []
 ---
 
 - **Location & Setting**: Located in India.
-- **Periodization & Excavation**: Important Rockcut Caves, Petroglyph sites(Cave Painting) site.
-- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Rockcut Caves, Petroglyph sites(Cave Painting).
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Rockcut Caves, Petroglyph sites(Cave Painting).
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Rockcut Caves, Petroglyph sites(Cave Painting).

@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A site in Afghanistan with a giant rock-cut Buddha statue of the sixth century, destroyed by the Taliban in 2001. Twelve of its fifty caves carry wall paintings, believed to have been made by travellers on the silk road.
+- **Location & Setting**: Situated in Afghanistan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A site in Rajasthan named after a fourteenth-century ruler said to have possessed miraculous powers, who worked for the upliftment of the poor and downtrodden and is now venerated as a local deity.
+- **Location & Setting**: Situated in Rajasthan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Medieval Cities and Sufi saints.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Medieval Cities and Sufi saints.

@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-Associated with Purandara Dasa, a fifteenth-century saint, poet, devotee of Krishna and social reformer under the Vijayanagara empire, and a disciple of Vyasatirtha. He is said to have composed the basics of Carnatic music, structuring it into svaravalis and alankaras, and also composed gitas, or simple songs, and Dasa Sahitya.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Bhakti and other saints.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Bhakti and other saints.

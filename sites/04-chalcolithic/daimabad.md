@@ -13,9 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Chalcolithic and Late Harappan site in Maharashtra. The mud houses are large and multi-roomed, with hearths and storage pits.
-
-- Finds include microliths, bone and stone artefacts, a phallus-shaped object of agate, an elephant tusk, and black-on-buff cream ware.
-- Pit, urn, symbolic and post-cremation burials all occur.
-- Bronze sculptures of a man on a chariot, a water buffalo, an elephant and a rhinoceros were recovered.
-- Period II is Late Harappan, with an extended grave lined with mud bricks, fine red ware painted in black with linear and geometric designs, two button-shaped seals bearing Harappan writing, and inscribed potsherds.
+- **Location & Setting**: Situated in Maharashtra.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry, architectural and epigraphic remains (Finds include microliths, bone and stone artefacts, a phallus-shaped object of agate, an elephant tusk, and black-on-buff cream ware.; Pit, urn, symbolic and post-cremation burials all occur.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

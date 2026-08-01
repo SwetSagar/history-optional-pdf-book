@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A non-Ashokan inscription in the Udayagiri hills, of King Kharavela. It records important milestones of his reign, such as the restoration of a fort damaged by a storm, and describes his military campaigns against Magadha.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Non Ashokan Inscription.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Non Ashokan Inscription.

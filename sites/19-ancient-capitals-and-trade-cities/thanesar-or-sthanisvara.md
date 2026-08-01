@@ -3,7 +3,7 @@ name: Thanesar or Sthanisvara
 categories: [Ancient Capitals and trade cities]
 state: Haryana
 coords: [29.969, 76.818]
-coords_confidence: gazetteer
+coords_confidence: none
 coords_from: ""
 coords_provisional: false
 dot_px: []
@@ -13,7 +13,7 @@ sources: ["mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-History@52", me
 locked: [coords, coords_provisional, state]
 ---
 
-- **Location & Setting**: Situated in the valley.
-- **Periodization & Excavation**: Important Ancient Capitals and trade cities site.
-- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Ancient Capitals and trade cities.
+- **Location & Setting**: Situated in Haryana, the valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

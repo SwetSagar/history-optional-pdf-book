@@ -13,4 +13,7 @@ sources: [chandra-medieval-1, mehta-medieval-1, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The Paramara capital in Madhya Pradesh, from which they defeated the Rashtrakutas. It housed the Bhojashala, a university of Sanskrit studies, and was a major centre of the revolt of 1857.
+- **Location & Setting**: Situated in Madhya Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

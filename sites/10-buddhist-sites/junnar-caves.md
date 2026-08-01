@@ -13,4 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-A site in Maharashtra with more than two hundred ancient rock-cut temples, of which Lenyadri, or Ganesh Lena, is the most impressive; others include the Manmodi caves, the Shivneri caves and Tulja Lena. It was connected by trade routes to the Satavahana capital at Paithan.
+- **Location & Setting**: Situated in Maharashtra, Pune district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

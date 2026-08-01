@@ -13,4 +13,7 @@ sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An Ashokan site bearing a bilingual rock inscription in Greek and Aramaic, dated 258 BC, and a pillar inscription of the seventh Minor Rock Edict. It was possibly the western end of the empire.
+- **Location & Setting**: Situated in Kandahar district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

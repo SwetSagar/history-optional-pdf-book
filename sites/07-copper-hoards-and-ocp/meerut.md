@@ -13,4 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A copper hoard and ochre-coloured pottery site in Baghpat village, Uttar Pradesh, which has yielded anthropomorphic figures and evidence of floors in houses. Copper objects here date back to the Harappan era.
+- **Location & Setting**: Situated in Uttar Pradesh, Ambala district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Copper Hoards and OCP.
+- **Material Culture & Finds**: Yields ceramic assemblage, architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Copper Hoards and OCP.

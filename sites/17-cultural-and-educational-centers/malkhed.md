@@ -13,7 +13,7 @@ sources: [basham1954, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The late Rashtrakuta capital, in Gulbarga district, which gained prominence under the Rashtrakuta rulers.
-
-- All three religions were taught here, the Advaita school being prominent, and it was a centre of Shaivism and Vaishnavism.
-- It was sacked in the tenth century by the Paramaras, marking the decline of the Rashtrakuta dynasty.
+- **Location & Setting**: Situated in Gulbarga district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Cultural and Educational Centers.
+- **Material Culture & Finds**: Yields material culture artefacts (All three religions were taught here, the Advaita school being prominent, and it was a centre of Shaivism and Vaishnavism.; It was sacked in the tenth century by the Paramaras, marking the decline of the Rashtrakuta dynasty.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Cultural and Educational Centers.

@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-An Ashokan site bearing Minor Rock Edict I, which names Ashoka as Piyadasi.
-
-- He is said to have visited when he was a prince and viceroy of Vidisha.
-- Stupas and natural caves for Buddhist monks have been found here.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields material culture artefacts (He is said to have visited when he was a prince and viceroy of Vidisha.; Stupas and natural caves for Buddhist monks have been found here.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

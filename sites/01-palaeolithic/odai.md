@@ -13,7 +13,7 @@ sources: [upinder2008]
 locked: []
 ---
 
-A site in Tamil Nadu yielding microliths and Upper Palaeolithic tools.
-
-- A skull cap of the middle to upper Pleistocene was recovered, and a complete fossilised human infant skull found with microliths is dated to about 166,000 years ago.
-- Petrified wood fossils roughly 20 million years old also occur; the trees are thought to have been transported here before being petrified.
+- **Location & Setting**: Situated in Tamil Nadu, Villupuram district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
+- **Material Culture & Finds**: Yields lithic/stone tool industry (A skull cap of the middle to upper Pleistocene was recovered, and a complete fossilised human infant skull found with microliths is dated to about 166,000 years ago.; Petrified wood fossils roughly 20 million years old also occur; the trees are thought to have been transported here before being petrified.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.

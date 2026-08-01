@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A fort whose foundation was laid by Sapaldaksha of the Chauhan Rajputs. It was a bastion of Prithviraj III of the Chauhans and later held under Mewar kings such as Rana Sanga.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Forts.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Forts.

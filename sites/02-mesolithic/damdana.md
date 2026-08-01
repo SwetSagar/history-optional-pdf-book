@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-A Mesolithic site in Uttar Pradesh which has yielded microliths, bone objects, querns, mullers, anvils and hammers.
-
-- Forty-one human burials were found, laid west–east or east–west, some of them multiple; an ivory pendant among the grave goods is dated to 7000 BC.
-- Domesticated rice, burnt floor plaster and charred wild grains were also recovered.
+- **Location & Setting**: Situated in Uttar Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Mesolithic.
+- **Material Culture & Finds**: Yields lithic/stone tool industry (Forty-one human burials were found, laid west–east or east–west, some of them multiple; an ivory pendant among the grave goods is dated to 7000 BC.; Domesticated rice, burnt floor plaster and charred wild grains were also recovered.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Mesolithic.

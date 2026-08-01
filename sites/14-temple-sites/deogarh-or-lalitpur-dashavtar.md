@@ -13,4 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: []
 ---
 
-A temple in Madhya Pradesh built during the Gupta period and dedicated to Vishnu, with a cruciform plan and a curvilinear shikhara. Various deities and scenes from the Mahabharata are depicted, along with motifs of birds, attendants, mithuna figures, svastikas and dwarfs, and a carving or painting of conch and lotus on the door jambs.
+- **Location & Setting**: Situated in Madhya Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Temple Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Temple Sites.

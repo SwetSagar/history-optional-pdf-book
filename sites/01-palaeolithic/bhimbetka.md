@@ -13,9 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: []
 ---
 
-Rock shelters in Madhya Pradesh occupied through the Palaeolithic and Mesolithic, offering shelter, food and abundant raw material.
-
-- The Palaeolithic stone tools are of yellowish and grey quartzite; no bones were found.
-- Cave III, the Auditorium Cave, belongs to the Lower and Middle Palaeolithic and carries rock markings made as part of some community ritual.
-- Through the Mesolithic levels tool size reduces gradually, with quartz and chalcedony in use.
-- The paintings, dated to about 15,000 years ago, are linear representations in green and dark red: large animal figures such as bison, elephant, tiger and rhinoceros appear alongside geometric patterns, the green figures depicting dancers and the red ones hunters.
+- **Location & Setting**: Situated in Madhya Pradesh, Raisen district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
+- **Material Culture & Finds**: Yields lithic/stone tool industry, architectural and epigraphic remains (The Palaeolithic stone tools are of yellowish and grey quartzite; no bones were found.; Cave III, the Auditorium Cave, belongs to the Lower and Middle Palaeolithic and carries rock markings made as part of some community ritual.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.

@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-The capital of the Matsya or Machcha tribe, near Jaipur in Rajasthan, later part of the Mauryan empire. Ruins of a Buddhist monastery and a timber shrine survive, and a Rock Edict of Ashoka stands at Bairat.
+- **Location & Setting**: Situated in Rajasthan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to NBPW.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in NBPW.

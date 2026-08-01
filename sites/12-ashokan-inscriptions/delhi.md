@@ -13,7 +13,7 @@ sources: [thapar2002, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An Ashokan site bearing a Minor Rock Edict in the Brahmi script, part of the Uttarapatha and a trade site; the edict is the first personal message of Ashoka and asks people to follow the Buddhist way of life.
-
-- Two pillar edicts also stand here, the Meerut Pillar and the Delhi-Topra pillar at Feroz Shah Kotla, both brought by Feroz Shah; the Delhi-Topra pillar carries information on Ashoka's taxation system.
-- Various Sufi saints lived here, among them Nizamuddin Auliya, Bakhtiyar Kaki and Chirag Dehlavi.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ashokan Inscriptions.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (Two pillar edicts also stand here, the Meerut Pillar and the Delhi-Topra pillar at Feroz Shah Kotla, both brought by Feroz Shah; the Delhi-Topra pillar carries information on Ashoka's taxation system.; Various Sufi saints lived here, among them Nizamuddin Auliya, Bakhtiyar Kaki and Chirag Dehlavi.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ashokan Inscriptions.

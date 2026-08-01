@@ -13,8 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A site in Raichur district, Karnataka, with Palaeolithic, Neolithic–Chalcolithic, megalithic and Ashokan remains.
-
-- The Neolithic–Chalcolithic levels yielded polished stone tools, microlithic blades, a copper rod, red ware and black-and-red ware with incised designs, along with dull red and pinkish buff wares and beads of carnelian, agate, amethyst, chalcedony, shell, coral and glass.
-- The megalithic phase produced iron tools and black-and-red ware, pit burials, and stone alignments unrelated to burials; radial lines on tablet beads are a common feature of southern megalithic culture, and rock paintings show horse riders carrying metal axes.
-- Minor Rock Edict I was found here, and because it refers to Ashoka by name it allowed him to be identified with Devanampiya Piyadasi.
+- **Location & Setting**: Situated in Karnataka, Raichur district, the river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Neolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry (The Neolithic–Chalcolithic levels yielded polished stone tools, microlithic blades, a copper rod, red ware and black-and-red ware with incised designs, along with dull red and pinkish buff wares and beads of carnelian, agate, amethyst, chalcedony, shell, coral and glass.; The megalithic phase produced iron tools and black-and-red ware, pit burials, and stone alignments unrelated to burials; radial lines on tablet beads are a common feature of southern megalithic culture, and rock paintings show horse riders carrying metal axes.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Neolithic.

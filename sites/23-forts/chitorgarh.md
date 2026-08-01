@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-The largest fort in India and a UNESCO World Heritage Site, and capital of Mewar. Alauddin Khalji defeated Ratan Singh here in 1303, and Akbar defeated Maharana Udai Singh in 1567.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Forts.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Forts.

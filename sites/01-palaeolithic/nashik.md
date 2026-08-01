@@ -13,6 +13,7 @@ sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A site in Maharashtra carrying many inscriptions. The inscription in Cave 10 is of Ushavadata, viceroy of the Western Satrap ruler Nahapana, dated to 120 CE; it is the earliest known use of Sanskrit in western India.
-
-- A further inscription, in Cave 3, is of the Satavahana king Gautamiputra Satakarni, made by his mother Gautami Balashri, and records his military conquests and his feud with Nahapana.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (A further inscription, in Cave 3, is of the Satavahana king Gautamiputra Satakarni, made by his mother Gautami Balashri, and records his military conquests and his feud with Nahapana.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.

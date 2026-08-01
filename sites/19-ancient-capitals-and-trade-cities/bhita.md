@@ -13,7 +13,7 @@ sources: ["upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@26", upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A fortified settlement of the Mauryan period in the upper Ganga valley.
-
-- Excavated by John Marshall in 1915, who concentrated on the south-east corner of the site.
-- He uncovered two streets, one of which he named High Street.
+- **Location & Setting**: Situated in Ganga valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Ancient Capitals and trade cities; excavations led by John Marshall in.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (Excavated by John Marshall in 1915, who concentrated on the south-east corner of the site.; He uncovered two streets, one of which he named High Street.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Ancient Capitals and trade cities.

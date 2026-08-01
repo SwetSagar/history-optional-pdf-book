@@ -13,4 +13,7 @@ sources: [chandra-medieval-1, mehta-medieval-1]
 locked: []
 ---
 
-A city which gained prominence under the Sena dynasty and was later controlled by the governors Iltutmish and Muhammad bin Bakhtiyar. It came under the Sultanate of Bengal and was sacked by Sher Shah.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Medieval Cities and Sufi saints.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Medieval Cities and Sufi saints.

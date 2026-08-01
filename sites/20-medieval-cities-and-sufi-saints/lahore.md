@@ -13,7 +13,7 @@ sources: [chandra-medieval-2, chandra-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A city whose early occupants included Mahmud of Ghazni, for whom it served as a second capital.
-
-- It later became Akbar's capital.
-- Jahangir's tomb stands here, and Aurangzeb extended the Lahore Fort.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Medieval Cities and Sufi saints.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (It later became Akbar's capital.; Jahangir's tomb stands here, and Aurangzeb extended the Lahore Fort.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Medieval Cities and Sufi saints.

@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A Painted Grey Ware site in Uttar Pradesh, capital of South Panchala and mentioned in the Mahabharata, occupied from the Painted Grey Ware phase onwards. Early excavations revealed wattle-and-daub structures.
+- **Location & Setting**: Situated in Uttar Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to PGW.
+- **Material Culture & Finds**: Yields ceramic assemblage.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in PGW.

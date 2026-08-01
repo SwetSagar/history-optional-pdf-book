@@ -13,4 +13,7 @@ sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-One of the six hill forts of Rajasthan, with occupants ranging from the Doda Rajputs to Akbar. The mausoleum of the Sufi saint Mitthe Shah, outside the fort, is the venue for a fair during Muharram.
+- **Location & Setting**: Situated in Rajasthan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Forts.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Forts.

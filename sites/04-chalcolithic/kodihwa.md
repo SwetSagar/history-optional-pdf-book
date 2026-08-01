@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-A Chalcolithic site in Uttar Pradesh near the Belan river, with continuity from the Neolithic to the Iron Age.
-
-- Rice was the staple, supplemented by meat, and wheel-made pottery was introduced.
-- Megalithic burials occur in the Chalcolithic period.
+- **Location & Setting**: Situated in Uttar Pradesh, Belan river.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Chalcolithic.
+- **Material Culture & Finds**: Yields ceramic assemblage (Rice was the staple, supplemented by meat, and wheel-made pottery was introduced.; Megalithic burials occur in the Chalcolithic period.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Chalcolithic.

@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A Palaeolithic site in the Kumaon hills bearing cave paintings. The figures include stick-like human forms, dancing scenes and animals, together with geometric patterns, executed in white, black and red ochre.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.

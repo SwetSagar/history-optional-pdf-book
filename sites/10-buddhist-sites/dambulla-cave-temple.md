@@ -13,4 +13,7 @@ sources: []
 locked: []
 ---
 
-A World Heritage Site in Sri Lanka dated to the first century CE, with eighty documented caves, five of them painted. It contains numerous Buddha statues together with images of Sri Lankan kings and other gods and goddesses.
+- **Location & Setting**: Situated in Sri Lanka.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Buddhist Sites.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Buddhist Sites.

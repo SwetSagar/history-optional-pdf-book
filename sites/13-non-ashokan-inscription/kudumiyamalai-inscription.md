@@ -3,7 +3,7 @@ name: Kudumiyamalai Inscription
 categories: [Non Ashokan Inscription]
 state: Tamil Nadu
 coords: [10.419, 78.658]
-coords_confidence: gazetteer
+coords_confidence: none
 coords_from: ""
 coords_provisional: false
 dot_px: []
@@ -13,7 +13,7 @@ sources: []
 locked: [coords, coords_provisional, state]
 ---
 
-- **Location & Setting**: Located in India.
-- **Periodization & Excavation**: Important Non Ashokan Inscription site.
-- **Material Culture & Finds**: Yields archaeological and material culture finds documented in regional surveys.
-- **Historical Significance**: Key reference site for understanding regional socio-economic and cultural sequence in Non Ashokan Inscription.
+- **Location & Setting**: Situated in Tamil Nadu.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Non Ashokan Inscription.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Non Ashokan Inscription.

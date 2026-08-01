@@ -13,4 +13,7 @@ sources: [upinder2008, sharma2005, basham1954]
 locked: []
 ---
 
-A UNESCO World Heritage Site built in the eighth century AD by Narasimhavarman II of the Pallava dynasty. It includes the relief known as the Descent of the Ganga, or Arjuna's Penance, and the pancha ratha monoliths.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Temple Sites.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Temple Sites.

@@ -13,4 +13,7 @@ sources: [chandra-medieval-1, chandra-medieval-2]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A fortified town in Dhar district since ancient times, which gained prominence under the Paramaras, rulers of Malwa, who named it Mandavgarh. The present structures were built under Hoshang Shah of Malwa; the walls slope at seventy-seven degrees to give the effect of swaying.
+- **Location & Setting**: Situated in Dhar district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Forts.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Forts.

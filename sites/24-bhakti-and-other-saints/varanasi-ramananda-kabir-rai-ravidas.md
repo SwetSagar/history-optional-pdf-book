@@ -13,9 +13,7 @@ sources: [chandra-medieval-1, upinder2008, chandra-medieval-2]
 locked: []
 ---
 
-A city in Uttar Pradesh which the Jataka stories describe as one of the most powerful of the mahajanapadas, famed for fine textiles and an important trade centre.
-
-- It was surrounded by a rampart, and remains of a burnt clay floor and terracotta rings survive.
-- It came into conflict with Kosala, Anga and Magadha.
-- It was an educational centre for Hindus, Buddhists and Jainas alike, where the Vedas and Upanishads were taught.
-- The twelfth jyotirlinga is at the Kashi Vishwanath temple, and the Banaras gharana of Hindustani classical music developed here.
+- **Location & Setting**: Situated in Uttar Pradesh.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Bhakti and other saints.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (It was surrounded by a rampart, and remains of a burnt clay floor and terracotta rings survive.; It came into conflict with Kosala, Anga and Magadha.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Bhakti and other saints.

@@ -13,8 +13,7 @@ sources: [basham1954, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A Mature Harappan site in Punjab, Pakistan, also a Neolithic–Chalcolithic site yielding Hakra ware.
-
-- Writing occurs on pottery and seals, with inscribed seals and standardised weights.
-- The citadel, shaped like a parallelogram, lies to the west.
-- Workers' quarters, a grain threshing platform, granaries and an open market area have been identified.
+- **Location & Setting**: Situated in Punjab.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields ceramic assemblage, architectural and epigraphic remains (Writing occurs on pottery and seals, with inscribed seals and standardised weights.; The citadel, shaped like a parallelogram, lies to the west.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.

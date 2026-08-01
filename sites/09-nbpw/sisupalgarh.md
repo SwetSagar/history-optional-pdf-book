@@ -13,4 +13,7 @@ sources: [upinder2008, sharma2005, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-A city with huge mud walls, gateways and guardrooms suggesting prosperity, planned with houses laid parallel and streets cutting perpendicularly. At Dhauli are Major Rock Edicts 1–10 and 14, together with the two separate Kalinga edicts.
+- **Location & Setting**: Situated in Puri district.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to NBPW.
+- **Material Culture & Finds**: Yields material culture artefacts.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in NBPW.

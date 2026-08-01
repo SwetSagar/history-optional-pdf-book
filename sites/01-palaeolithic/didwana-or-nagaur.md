@@ -13,4 +13,7 @@ sources: [upinder2008, chandra-medieval-1, sharma2005]
 locked: []
 ---
 
-A Palaeolithic site in Rajasthan dated between 150,000 and 140,000 BCE, which has yielded choppers and handaxes. Study of the sediments of its salt lake indicates higher rainfall during the Mesolithic period.
+- **Location & Setting**: Situated in Rajasthan, Nagaur district, Hiran valley.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
+- **Material Culture & Finds**: Yields lithic/stone tool industry.
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.

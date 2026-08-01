@@ -13,7 +13,7 @@ sources: []
 locked: []
 ---
 
-A site in Kerala, initially a Jaina cave site.
-
-- Its paintings show scenes from the Ramayana and Mahabharata, sketched first and then painted, and are early examples of the typical Kerala style.
-- It has eleven stone edicts relating to the Sadhaya festival of the imperial Cholas.
+- **Location & Setting**: Located in India.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Hindu, Ajivika caves.
+- **Material Culture & Finds**: Yields architectural and epigraphic remains (Its paintings show scenes from the Ramayana and Mahabharata, sketched first and then painted, and are early examples of the typical Kerala style.; It has eleven stone edicts relating to the Sadhaya festival of the imperial Cholas.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Hindu, Ajivika caves.

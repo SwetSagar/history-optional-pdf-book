@@ -13,7 +13,7 @@ sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-An Early Harappan and Chalcolithic site in Sindh, Pakistan.
-
-- Its pottery is wheel-made and painted, polychrome and similar to that of Nal.
-- Microliths, humped bull figurines, terracotta artefacts and beads of lapis lazuli were recovered.
+- **Location & Setting**: Situated in Pakistan.
+- **Periodization & Excavation**: Multi-layered occupation phase belonging to Harappa.
+- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry (Its pottery is wheel-made and painted, polychrome and similar to that of Nal.; Microliths, humped bull figurines, terracotta artefacts and beads of lapis lazuli were recovered.).
+- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Harappa.
