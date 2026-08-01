@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [267.5, 384.5]
 images: [Individual Map sites History Optional/3 Neolithic/Utnoor.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@43:weak", "upinder2008#3. Neolithic - Chalcolithic@42:weak", "sharma2005#India Ancient Past By RS Sharma@75:weak", "thapar2002#History of Early India By Thapar@74:weak"]
 ---

@@ -8,8 +8,8 @@ coords_from: Q156093
 coords_provisional: false
 dot_px: [202.5, 188.5]
 images: [Individual Map sites History Optional/10 Buddhist Sites/Taxila.jpg, Individual Map sites History Optional/11 Art Sites/Taxila.jpg, Individual Map sites History Optional/12 Ashokan Inscriptions/Taxila.jpg, Individual Map sites History Optional/17. Cultural and Educational Centers/Taxila.jpg, Individual Map sites History Optional/21. Silk Route sites/Taxila.jpg, Individual Map sites History Optional/9 NBPW/Taxila.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#6. 600 B.C -300 B.C North India Mahaja@36:strong", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@14:strong", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@15:strong", "thapar2002#History of Early India By Thapar@120:strong"]
 ---

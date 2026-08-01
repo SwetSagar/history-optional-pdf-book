@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: []
 images: [Individual Map sites History Optional/10 Buddhist Sites/Some other sites/Kanganahalli.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@21:weak"]
 ---

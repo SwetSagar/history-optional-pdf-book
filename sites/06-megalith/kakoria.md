@@ -9,7 +9,7 @@ coords_provisional: true
 dot_px: [319.5, 307.5]
 images: [Individual Map sites History Optional/6 Megalith/Some other sites/Kakoria.jpg]
 status: sourced
-sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@63"]
+sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@63", upinder2008]
 locked: []
 sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@63:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@63:weak"]
 ---

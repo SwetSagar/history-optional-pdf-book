@@ -8,8 +8,8 @@ coords_from: Q477620
 coords_provisional: false
 dot_px: [133.5, 289.5]
 images: [Individual Map sites History Optional/3 Neolithic/Some other sites/Amri.jpg, Individual Map sites History Optional/5 Harappa/Early Harappa/Amri.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#4. Harappan Civilization@15:strong", "upinder2008#4. Harappan Civilization@16:strong", "upinder2008#4. Harappan Civilization@13:weak", "upinder2008#4. Harappan Civilization@22:weak"]
 ---

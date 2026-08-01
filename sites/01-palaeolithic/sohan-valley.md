@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [188.6, 198.5]
 images: [Individual Map sites History Optional/1 Palaeolithic/Sohan Valley.jpg]
-status: written
-sources: []
+status: sourced
+sources: [sharma2005]
 locked: []
 sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@67:weak", "upinder2008#2. Palaeolithic and Mesolithic@12:weak"]
 ---

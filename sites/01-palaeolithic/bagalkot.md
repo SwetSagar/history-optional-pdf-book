@@ -8,8 +8,8 @@ coords_from: Q520858
 coords_provisional: false
 dot_px: [231.7, 432.4]
 images: [Individual Map sites History Optional/1 Palaeolithic/Bagalkot.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 

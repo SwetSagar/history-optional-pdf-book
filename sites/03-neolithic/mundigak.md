@@ -8,8 +8,8 @@ coords_from: Q6935822
 coords_provisional: false
 dot_px: [112.5, 201.5]
 images: [Individual Map sites History Optional/3 Neolithic/Mundigak.jpg, Individual Map sites History Optional/3 Neolithic/Some other sites/Mundigak.jpg, Individual Map sites History Optional/4 Chalcolithic/Mundigak - Copy.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@16:strong", "upinder2008#3. Neolithic - Chalcolithic@18:weak", "upinder2008#3. Neolithic - Chalcolithic@51:weak"]
 ---

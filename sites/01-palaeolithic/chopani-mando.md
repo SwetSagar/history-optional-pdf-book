@@ -8,8 +8,8 @@ coords_from: Q24952204
 coords_provisional: false
 dot_px: [312.3, 305.6]
 images: [Individual Map sites History Optional/1 Palaeolithic/Chopani Mando.jpg, Individual Map sites History Optional/2 Mesolithic/Chopani Mando.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@40:strong", "upinder2008#3. Neolithic - Chalcolithic@23:weak", "upinder2008#2. Palaeolithic and Mesolithic@29:weak", "upinder2008#3. Neolithic - Chalcolithic@24:weak"]
 ---

@@ -8,8 +8,8 @@ coords_from: Q186040
 coords_provisional: false
 dot_px: [309.5, 286.5]
 images: [Individual Map sites History Optional/9 NBPW/Ayodhya.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@46:strong", "thapar2002#History of Early India By Thapar@357:strong", "upinder2008#8. 200 B.C - 300 C.E@8:strong", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@40:weak"]
 ---

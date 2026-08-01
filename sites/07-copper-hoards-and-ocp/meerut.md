@@ -8,8 +8,8 @@ coords_from: Q200237
 coords_provisional: false
 dot_px: [256.5, 256.5]
 images: [Individual Map sites History Optional/7 Copper Hoards and OCP/Meerut.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@60:strong"]
 ---

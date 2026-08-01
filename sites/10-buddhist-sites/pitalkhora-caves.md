@@ -8,8 +8,8 @@ coords_from: Q15040934
 coords_provisional: false
 dot_px: [219.5, 374.5]
 images: [Individual Map sites History Optional/10 Buddhist Sites/Pitalkhora Caves.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@142:strong", "upinder2008#8. 200 B.C - 300 C.E@143:weak", "upinder2008#8. 200 B.C - 300 C.E@140:weak"]
 ---

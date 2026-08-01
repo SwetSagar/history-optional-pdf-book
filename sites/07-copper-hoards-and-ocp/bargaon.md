@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [251.5, 243.5]
 images: [Individual Map sites History Optional/7 Copper Hoards and OCP/Bargaon.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#9. 300 C.E - 600 C.E@75:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@49:strong", "upinder2008#4. Harappan Civilization@83:weak", "upinder2008#4. Harappan Civilization@8:weak"]
 ---

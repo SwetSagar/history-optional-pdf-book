@@ -8,8 +8,8 @@ coords_from: Q6444146
 coords_provisional: false
 dot_px: [232.5, 244.5]
 images: [Individual Map sites History Optional/5 Harappa/Early Harappa/Kunal.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#4. Harappan Civilization@19:strong", "upinder2008#3. Neolithic - Chalcolithic@22:strong", "upinder2008#4. Harappan Civilization@21:strong", "upinder2008#4. Harappan Civilization@15:weak"]
 ---

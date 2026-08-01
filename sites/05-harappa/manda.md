@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [228.5, 197.5]
 images: [Individual Map sites History Optional/5 Harappa/Early Harappa/Manda.jpg]
-status: written
-sources: []
+status: sourced
+sources: [sharma2005, upinder2008]
 locked: []
 sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@92:weak", "upinder2008#4. Harappan Civilization@9:weak", "sharma2005#India Ancient Past By RS Sharma@410:weak", "sharma2005#India Ancient Past By RS Sharma@106:weak"]
 ---

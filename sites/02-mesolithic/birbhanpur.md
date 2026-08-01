@@ -8,8 +8,8 @@ coords_from: Q60754661
 coords_provisional: false
 dot_px: [372.5, 340.5]
 images: [Individual Map sites History Optional/2 Mesolithic/Birbhanpur.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@37:strong", "upinder2008#2. Palaeolithic and Mesolithic@44:weak", "upinder2008#2. Palaeolithic and Mesolithic@45:weak"]
 ---

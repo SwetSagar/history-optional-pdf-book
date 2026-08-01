@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [198.5, 385.5]
 images: [Individual Map sites History Optional/13 Non Ashokan Inscription/nanaghat.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@142:weak"]
 ---

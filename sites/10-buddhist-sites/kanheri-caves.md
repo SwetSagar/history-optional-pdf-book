@@ -8,8 +8,8 @@ coords_from: Q1356198
 coords_provisional: false
 dot_px: [191.8, 386.3]
 images: [Individual Map sites History Optional/10 Buddhist Sites/Kanheri Caves.jpg, "Individual Map sites History Optional/25. Rockcut Caves, Petroglyph sites(Cave Painting)/Kanheri.jpg"]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@144:weak", "upinder2008#9. 300 C.E - 600 C.E@102:weak", "thapar2002#History of Early India By Thapar@367:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@125:weak"]
 ---

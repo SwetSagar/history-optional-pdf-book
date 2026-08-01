@@ -8,8 +8,8 @@ coords_from: Q228405
 coords_provisional: false
 dot_px: [259.5, 525.5]
 images: [Individual Map sites History Optional/19. Ancient Capitals and trade cities/Madurai.jpg, Individual Map sites History Optional/22. Early Medieval Capital cities/Madurai.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, basham1954, chandra-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["basham1954#The Wonder that was India by A.L. Bash@588:strong", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@158:strong", "upinder2008#9. 300 C.E - 600 C.E@81:strong"]
 ---

@@ -8,8 +8,8 @@ coords_from: Q212332
 coords_provisional: false
 dot_px: [279.5, 477.5]
 images: [Individual Map sites History Optional/14. Temple Sites/Southern Temples/Kanchipuram.jpg, Individual Map sites History Optional/17. Cultural and Educational Centers/Kanchipuram.jpg, Individual Map sites History Optional/19. Ancient Capitals and trade cities/Kanchipuram.jpg, Individual Map sites History Optional/22. Early Medieval Capital cities/Kanchipuram.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@79:strong", "thapar2002#History of Early India By Thapar@270:strong", "thapar2002#History of Early India By Thapar@259:strong", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@154:strong"]
 ---

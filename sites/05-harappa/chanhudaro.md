@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [138.5, 291.5]
 images: [Individual Map sites History Optional/5 Harappa/Late and Mature/Chanhudaro.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#4. Harappan Civilization@54:strong", "upinder2008#4. Harappan Civilization@29:strong", "upinder2008#4. Harappan Civilization@51:strong", "upinder2008#4. Harappan Civilization@22:weak"]
 ---

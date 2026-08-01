@@ -8,8 +8,8 @@ coords_from: Q11739
 coords_provisional: false
 dot_px: [212.5, 220.5]
 images: [Individual Map sites History Optional/20. Medieval Cities and Sufi saints/Lahore.jpg]
-status: written
-sources: []
+status: sourced
+sources: [chandra-medieval-2, chandra-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@206:strong", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@31:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@26:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@25:strong"]
 ---

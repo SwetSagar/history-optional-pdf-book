@@ -8,8 +8,8 @@ coords_from: Q4901824
 coords_provisional: false
 dot_px: [232.5, 244.5]
 images: [Individual Map sites History Optional/5 Harappa/Early Harappa/Bhirrana.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@22:weak", "upinder2008#4. Harappan Civilization@34:weak", "upinder2008#4. Harappan Civilization@8:weak", "upinder2008#4. Harappan Civilization@20:weak"]
 ---

@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [246.5, 370.5]
 images: [Individual Map sites History Optional/19. Ancient Capitals and trade cities/Paithan or Pratishthana.jpg]
-status: written
-sources: []
+status: sourced
+sources: [sharma2005, upinder2008]
 locked: []
 sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@225:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@46:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@42:weak", "sharma2005#India Ancient Past By RS Sharma@269:weak"]
 ---

@@ -8,8 +8,8 @@ coords_from: Q1246283
 coords_provisional: false
 dot_px: [219.5, 306.5]
 images: [Individual Map sites History Optional/23. Forts/Kumbhalgarh.jpg]
-status: written
-sources: []
+status: sourced
+sources: [chandra-medieval-2, chandra-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@107:strong", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@200:weak", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@108:weak"]
 ---

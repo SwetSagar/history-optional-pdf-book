@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [142.5, 141.5]
 images: [Individual Map sites History Optional/21. Silk Route sites/Balkh or Bactria.jpg]
-status: written
-sources: []
+status: sourced
+sources: [chandra-medieval-2, thapar2002]
 locked: []
 sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@200:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@201:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@202:strong", "thapar2002#History of Early India By Thapar@171:strong"]
 ---

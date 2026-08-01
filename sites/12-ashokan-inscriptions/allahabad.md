@@ -8,8 +8,8 @@ coords_from: Q162442
 coords_provisional: false
 dot_px: [298.5, 303.5]
 images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Allahabad.jpg, Individual Map sites History Optional/13 Non Ashokan Inscription/Allahabad.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, chandra-medieval-2]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@427:weak", "sharma2005#India Ancient Past By RS Sharma@373:weak", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@205:weak"]
 ---

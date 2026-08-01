@@ -8,8 +8,8 @@ coords_from: Q12435629
 coords_provisional: false
 dot_px: [191.9, 387.1]
 images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Sopara.jpg, Individual Map sites History Optional/18. Ancient Ports/Sopara.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@11:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@29:weak", "sharma2005#India Ancient Past By RS Sharma@269:weak", "basham1954#The Wonder that was India by A.L. Bash@314:weak"]
 ---

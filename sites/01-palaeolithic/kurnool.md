@@ -8,8 +8,8 @@ coords_from: Q3635276
 coords_provisional: false
 dot_px: [254.5, 436.5]
 images: [Individual Map sites History Optional/1 Palaeolithic/Kurnool.jpg, Individual Map sites History Optional/2 Mesolithic/Kurnool.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@28:weak", "thapar2002#History of Early India By Thapar@428:weak"]
 ---

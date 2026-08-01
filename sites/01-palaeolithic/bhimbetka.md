@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [255.5, 338.5]
 images: [Individual Map sites History Optional/1 Palaeolithic/Bhimbetka.jpg, Individual Map sites History Optional/2 Mesolithic/Bhimbetka.jpg, "Individual Map sites History Optional/25. Rockcut Caves, Petroglyph sites(Cave Painting)/Bhimbetka.jpg"]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, sharma2005]
 locked: []
 sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@20:strong", "upinder2008#2. Palaeolithic and Mesolithic@33:strong", "upinder2008#2. Palaeolithic and Mesolithic@52:strong", "sharma2005#India Ancient Past By RS Sharma@68:strong"]
 ---

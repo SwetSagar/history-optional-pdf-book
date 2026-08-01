@@ -8,8 +8,8 @@ coords_from: Q3360195
 coords_provisional: false
 dot_px: [244.5, 430.5]
 images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Maski.jpg, Individual Map sites History Optional/3 Neolithic/Maski.jpg, Individual Map sites History Optional/6 Megalith/Maski- WRONG.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@86:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@29:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@85:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@57:weak"]
 ---

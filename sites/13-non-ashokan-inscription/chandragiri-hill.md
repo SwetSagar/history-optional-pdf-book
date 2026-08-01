@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [241.5, 472.5]
 images: [Individual Map sites History Optional/13 Non Ashokan Inscription/Chandragiri Hill.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@95:weak"]
 ---

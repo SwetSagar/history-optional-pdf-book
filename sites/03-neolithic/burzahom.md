@@ -9,7 +9,7 @@ coords_provisional: true
 dot_px: [226.5, 183.5]
 images: [Individual Map sites History Optional/3 Neolithic/Burzahom.jpg, Individual Map sites History Optional/6 Megalith/Burzahom.jpg]
 status: sourced
-sources: ["upinder2008#3. Neolithic - Chalcolithic@25"]
+sources: ["upinder2008#3. Neolithic - Chalcolithic@25", upinder2008]
 locked: []
 sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@25:strong", "upinder2008#3. Neolithic - Chalcolithic@27:strong", "upinder2008#3. Neolithic - Chalcolithic@26:strong", "upinder2008#3. Neolithic - Chalcolithic@28:strong"]
 ---

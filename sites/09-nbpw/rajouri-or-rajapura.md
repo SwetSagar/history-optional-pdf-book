@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [217.5, 194.5]
 images: [Individual Map sites History Optional/9 NBPW/Rajouri or Rajapura.jpg]
-status: written
-sources: []
+status: sourced
+sources: [chandra-medieval-1]
 locked: []
 sources_proposed: ["chandra-medieval-1#1. Medieval History Part 1 Satish Chan@179:strong"]
 ---

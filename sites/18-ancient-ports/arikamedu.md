@@ -8,8 +8,8 @@ coords_from: Q103143300
 coords_provisional: false
 dot_px: [277.4, 490.5]
 images: [Individual Map sites History Optional/18. Ancient Ports/Arikamedu.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@78:strong", "upinder2008#8. 200 B.C - 300 C.E@77:strong", "thapar2002#History of Early India By Thapar@189:strong", "thapar2002#History of Early India By Thapar@186:weak"]
 ---

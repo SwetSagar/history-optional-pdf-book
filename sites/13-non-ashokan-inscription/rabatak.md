@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [134.5, 235.5]
 images: [Individual Map sites History Optional/13 Non Ashokan Inscription/Rabatak.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@18:strong", "upinder2008#8. 200 B.C - 300 C.E@19:strong"]
 ---

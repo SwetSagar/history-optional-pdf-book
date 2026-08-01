@@ -8,8 +8,8 @@ coords_from: Q6486089
 coords_provisional: false
 dot_px: [191.5, 331.5]
 images: [Individual Map sites History Optional/2 Mesolithic/Langhnaj.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@42:strong", "upinder2008#2. Palaeolithic and Mesolithic@46:weak", "upinder2008#2. Palaeolithic and Mesolithic@38:weak", "thapar2002#History of Early India By Thapar@73:weak"]
 ---

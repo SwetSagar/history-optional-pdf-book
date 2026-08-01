@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [134.5, 234.5]
 images: [Individual Map sites History Optional/5 Harappa/Early Harappa/Lewan.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#4. Harappan Civilization@17:weak", "upinder2008#4. Harappan Civilization@15:weak", "upinder2008#4. Harappan Civilization@18:weak", "upinder2008#3. Neolithic - Chalcolithic@18:weak"]
 ---

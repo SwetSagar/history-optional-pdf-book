@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [290.5, 302.5]
 images: [Individual Map sites History Optional/9 NBPW/Suktimati.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#6. 600 B.C -300 B.C North India Mahaja@11:weak"]
 ---

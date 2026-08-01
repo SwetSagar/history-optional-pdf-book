@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [138.5, 271.5]
 images: [Individual Map sites History Optional/5 Harappa/Late and Mature/Mohenjodaro.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#4. Harappan Civilization@26:strong", "upinder2008#4. Harappan Civilization@81:strong", "upinder2008#4. Harappan Civilization@75:strong", "upinder2008#4. Harappan Civilization@80:strong"]
 ---

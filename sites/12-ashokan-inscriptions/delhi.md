@@ -8,8 +8,8 @@ coords_from: Q127430107
 coords_provisional: false
 dot_px: [249.5, 259.5]
 images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Delhi.jpg, Individual Map sites History Optional/20. Medieval Cities and Sufi saints/Delhi.jpg]
-status: written
-sources: []
+status: sourced
+sources: [thapar2002, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["thapar2002#History of Early India By Thapar@406:strong", "sharma2005#India Ancient Past By RS Sharma@373:strong", "sharma2005#India Ancient Past By RS Sharma@361:strong", "sharma2005#India Ancient Past By RS Sharma@368:strong"]
 ---

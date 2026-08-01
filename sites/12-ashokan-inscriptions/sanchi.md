@@ -8,8 +8,8 @@ coords_from: Q181123
 coords_provisional: false
 dot_px: [255.5, 335.5]
 images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Sanchi.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, basham1954]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@126:weak", "basham1954#The Wonder that was India by A.L. Bash@451:weak", "upinder2008#8. 200 B.C - 300 C.E@129:weak", "upinder2008#8. 200 B.C - 300 C.E@164:weak"]
 ---

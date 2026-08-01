@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [319.5, 307.5]
 images: ["Individual Map sites History Optional/24. Bhakti and other saints/Varanasi - Ramananda, Kabir, Rai Ravidas (2).jpg"]
-status: written
-sources: []
+status: sourced
+sources: [chandra-medieval-1, upinder2008, chandra-medieval-2]
 locked: []
 sources_proposed: ["chandra-medieval-1#1. Medieval History Part 1 Satish Chan@230:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@9:strong", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@229:weak", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@248:weak"]
 ---

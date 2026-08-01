@@ -8,8 +8,8 @@ coords_from: Q863683
 coords_provisional: false
 dot_px: [350.5, 312.5]
 images: [Individual Map sites History Optional/9 NBPW/Rajgir.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#6. 600 B.C -300 B.C North India Mahaja@42:strong", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@24:strong", "upinder2008#8. 200 B.C - 300 C.E@98:weak", "thapar2002#History of Early India By Thapar@129:weak"]
 ---

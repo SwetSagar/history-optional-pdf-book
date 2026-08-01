@@ -8,8 +8,8 @@ coords_from: Q158467
 coords_provisional: false
 dot_px: [264.5, 288.5]
 images: [Individual Map sites History Optional/23. Forts/Gwalior.jpg]
-status: written
-sources: []
+status: sourced
+sources: [mehta-medieval-1]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@77:strong", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@100:strong", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@203:strong", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@270:weak"]
 ---

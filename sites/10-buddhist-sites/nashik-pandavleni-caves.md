@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [199.5, 381.5]
 images: [Individual Map sites History Optional/10 Buddhist Sites/Nashik Pandavleni Caves.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@27:weak", "upinder2008#8. 200 B.C - 300 C.E@140:weak", "upinder2008#8. 200 B.C - 300 C.E@63:weak", "upinder2008#8. 200 B.C - 300 C.E@21:weak"]
 ---

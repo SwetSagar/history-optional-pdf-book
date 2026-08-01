@@ -8,8 +8,8 @@ coords_from: Q4900684
 coords_provisional: false
 dot_px: [245.5, 235.5]
 images: [Individual Map sites History Optional/5 Harappa/Late and Mature/Bhagwanpura.jpg, Individual Map sites History Optional/8 PGW/Bhagwanpura.jpg]
-status: written
-sources: []
+status: sourced
+sources: [sharma2005, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@130:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@96:strong", "sharma2005#India Ancient Past By RS Sharma@105:strong", "upinder2008#4. Harappan Civilization@83:weak"]
 ---

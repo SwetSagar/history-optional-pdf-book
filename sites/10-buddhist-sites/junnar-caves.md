@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [204.5, 390.5]
 images: [Individual Map sites History Optional/10 Buddhist Sites/Junnar Caves.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@140:weak", "upinder2008#8. 200 B.C - 300 C.E@21:weak", "upinder2008#1. Introduction, Sources, Historiograp@80:weak", "upinder2008#8. 200 B.C - 300 C.E@64:weak"]
 ---

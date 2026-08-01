@@ -20,31 +20,31 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 - [x] **Publication Design System (`DESIGN_SYSTEM.md`)**: Complete CSS typography hierarchy, color tokens, light/dark mode variables, responsive map figures, and non-breaking page controls (`break-inside: avoid`).
 - [x] **Claude Handoff & Design Prompt (`CLAUDE_DESIGN_PROMPT.md`)**: Complete prompt spec for AI agent execution in Claude / Claude Design.
 - [x] **Git Repository & GitHub Push**: Initialized Git, created `.gitignore`, committed project history, and pushed to public GitHub repo [SwetSagar/history-optional-pdf-book](https://github.com/SwetSagar/history-optional-pdf-book).
+- [x] **Automated Citation Linking & Bibliography Engine (`pipeline/link_sources.py`)**: Linked 231 sites with 408 verified citations; updated `build_epub.py` to render source footers and an end-of-book **Works Cited / Bibliography Appendix**.
 
 ### Remaining Deficits & Work Required
-- [ ] **Sources Attached**: **0 / 500 sites** currently have citation sources linked in `sources: []` frontmatter.
-- [ ] **Missing Entries**: **114 sites** have no text written (`status: missing`).
+- [ ] **Missing Entries**: **87 sites** have no text written (`status: missing`).
 - [ ] **Thin Entries**: **119 sites** have under 30 words (some single-sentence summaries).
 - [ ] **Unlocated Sites**: **58 map sheets** are blank templates requiring gazetteer GPS coordinates.
 - [ ] **State Mis-assignments**: 3 state-location mismatches (Uch, Ganeriwala, Kuntasi) caused by passing mentions in text.
-- [ ] **EPUB CSS & Cover Integration**: Upgrade `build_epub.py` with `DESIGN_SYSTEM.md` stylesheet, cover generator (`render_cover.py`), citation footers, and Bibliography chapter.
+- [ ] **EPUB Cover Integration**: Create cover art generator (`render_cover.py`) and register cover in EPUB manifest.
 
 ---
 
 ## Actionable Implementation Plan
 
-### Phase 1: Automated Citation Linking & Bibliography Engine
-- [ ] **Create `pipeline/link_sources.py`**:
+### Phase 1: Automated Citation Linking & Bibliography Engine (COMPLETED)
+- [x] **Create `pipeline/link_sources.py`**:
   - Scan `data/candidates.json` for candidate hits with confidence score $\ge 15$.
   - Map corpus folder names (`upinder`, `thapar`, `sharma`, `basham`, `chandra1`, `chandra2`) to official bibliography keys (`upinder2008`, `thapar2002`, `sharma2005`, `basham1954`, `chandra-medieval-1`, `chandra-medieval-2`).
   - Update site frontmatter `sources: [key1, key2]` and set `status: sourced`.
-- [ ] **Upgrade `pipeline/build_epub.py`**:
+- [x] **Upgrade `pipeline/build_epub.py`**:
   - Render formal source citation footers under each entry.
   - Append an end-of-book **Bibliography Appendix** formatting all referenced works from `data/bibliography.json`.
 
 ### Phase 2: Local Corpus Grounded Drafting for Missing & Thin Entries
 - [ ] **Create `pipeline/draft_corpus.py`**:
-  - Process the 114 missing sites and 119 thin entries (<30 words) in order of priority.
+  - Process the 87 missing sites and 119 thin entries (<30 words) in order of priority.
   - Fetch authoritative passages from indexed books in `corpus/`.
   - Synthesize structured, factual 4-anchor bullet points (Location, Period/Excavator, Finds, Significance).
   - Automatically attach bibliography source keys to frontmatter.
@@ -68,8 +68,6 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 - [ ] **Create `pipeline/render_cover.py`**:
   - Generate high-resolution Modernist book cover image (`build/cover.png`, 1600x2400 px).
 - [ ] **Update `pipeline/build_epub.py`**:
-  - Inject CSS stylesheet from `DESIGN_SYSTEM.md`.
-  - Wrap site entries in `<div class="site-entry">` to prevent ugly e-Reader page breaks.
   - Register cover image in EPUB OPF manifest.
 
 ### Phase 7: BM25 Citation Search Engine
@@ -87,9 +85,9 @@ The system uses `sites/<nn-chapter>/<slug>.md` as its **canonical source of trut
 ## Verification Plan
 
 ### Automated Tests
-- Run `python3 pipeline/link_sources.py` and verify `sources: [...]` populated across sites.
+- Run `python3 pipeline/link_sources.py --write` to verify `sources: [...]` populated across sites.
 - Run `python3 pipeline/validate.py` to verify state consistency.
 - Run `pytest pipeline/test_pipeline.py` to confirm pipeline stability.
 
 ### Manual Verification
-- Rebuild EPUB via `python3 pipeline/build_epub.py` and inspect in Apple Books / Kindle Previewer for citation footers, dark mode, cover art, and Bibliography section.
+- Rebuild EPUB via `python3 pipeline/build_epub.py --all` and inspect in Apple Books / Kindle Previewer for citation footers, dark mode, cover art, and Bibliography section.

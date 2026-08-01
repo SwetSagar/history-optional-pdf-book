@@ -8,8 +8,8 @@ coords_from: Q200311
 coords_provisional: false
 dot_px: [252.5, 272.5]
 images: [Individual Map sites History Optional/11 Art Sites/Mathura.jpg, Individual Map sites History Optional/8 PGW/Mathura.jpg, Individual Map sites History Optional/9 NBPW/Mathura.jpg]
-status: written
-sources: []
+status: sourced
+sources: [sharma2005, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@219:strong", "upinder2008#8. 200 B.C - 300 C.E@156:strong", "upinder2008#9. 300 C.E - 600 C.E@79:strong", "upinder2008#8. 200 B.C - 300 C.E@106:strong"]
 ---

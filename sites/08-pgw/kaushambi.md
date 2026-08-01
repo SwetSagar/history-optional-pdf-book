@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [310.5, 300.5]
 images: [Individual Map sites History Optional/8 PGW/Kaushambi.jpg, Individual Map sites History Optional/9 NBPW/Kaushambi.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, sharma2005]
 locked: []
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@48:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@40:weak", "sharma2005#India Ancient Past By RS Sharma@168:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@99:weak"]
 ---

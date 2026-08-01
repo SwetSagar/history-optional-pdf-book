@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [381.3, 306.3]
 images: [Individual Map sites History Optional/19. Ancient Capitals and trade cities/Gauda.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, thapar2002, sharma2005]
 locked: []
 sources_proposed: ["upinder2008#9. 300 C.E - 600 C.E@5:weak", "thapar2002#History of Early India By Thapar@420:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@32:weak", "sharma2005#India Ancient Past By RS Sharma@299:weak"]
 ---

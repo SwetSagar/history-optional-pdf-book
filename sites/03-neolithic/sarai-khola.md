@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [200.5, 188.5]
 images: [Individual Map sites History Optional/3 Neolithic/Sarai Khola.jpg, Individual Map sites History Optional/5 Harappa/Early Harappa/Sarai Khola.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, sharma2005]
 locked: []
 sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@18:strong", "sharma2005#India Ancient Past By RS Sharma@73:weak", "upinder2008#4. Harappan Civilization@18:weak"]
 ---

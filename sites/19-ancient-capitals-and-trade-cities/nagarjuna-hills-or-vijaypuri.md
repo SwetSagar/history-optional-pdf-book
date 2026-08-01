@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [268.5, 432.5]
 images: [Individual Map sites History Optional/19. Ancient Capitals and trade cities/Nagarjuna Hills or Vijaypuri.jpg]
-status: written
-sources: []
+status: sourced
+sources: [basham1954, upinder2008, sharma2005]
 locked: []
 sources_proposed: ["basham1954#The Wonder that was India by A.L. Bash@371:strong", "upinder2008#8. 200 B.C - 300 C.E@113:strong", "basham1954#The Wonder that was India by A.L. Bash@370:strong", "sharma2005#India Ancient Past By RS Sharma@218:weak"]
 ---

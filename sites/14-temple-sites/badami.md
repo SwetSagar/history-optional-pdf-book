@@ -8,8 +8,8 @@ coords_from: Q590751
 coords_provisional: false
 dot_px: [233.5, 435.5]
 images: [Individual Map sites History Optional/14. Temple Sites/Southern Temples/Badami.jpg, "Individual Map sites History Optional/15. Hindu, Ajivika caves/Hindu Caves/Badami.jpg", Individual Map sites History Optional/19. Ancient Capitals and trade cities/Badami.jpg, Individual Map sites History Optional/22. Early Medieval Capital cities/Badami.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@12:strong", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@131:strong", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@135:strong", "sharma2005#India Ancient Past By RS Sharma@307:strong"]
 ---

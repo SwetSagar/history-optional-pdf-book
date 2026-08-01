@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [260.5, 383.5]
 images: [Individual Map sites History Optional/6 Megalith/Junapani.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, thapar2002]
 locked: []
 sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@102:weak", "thapar2002#History of Early India By Thapar@86:weak"]
 ---

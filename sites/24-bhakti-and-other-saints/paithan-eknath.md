@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [246.5, 370.5]
 images: [Individual Map sites History Optional/24. Bhakti and other saints/Paithan - Eknath (2).jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#6. 600 B.C -300 B.C North India Mahaja@46:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@12:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@50:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@49:weak"]
 ---

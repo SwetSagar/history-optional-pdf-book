@@ -9,7 +9,7 @@ coords_provisional: false
 dot_px: [144.7, 345.7]
 images: [Individual Map sites History Optional/17. Cultural and Educational Centers/Adi Shankara Matha/Dwarka.jpg, Individual Map sites History Optional/18. Ancient Ports/Some other ports/Dwarka.jpg]
 status: sourced
-sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@60"]
+sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@60", upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@60:strong", "upinder2008#1. Introduction, Sources, Historiograp@48:strong", "upinder2008#8. 200 B.C - 300 C.E@69:strong", "upinder2008#8. 200 B.C - 300 C.E@79:strong"]
 ---

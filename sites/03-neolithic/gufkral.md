@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [216.5, 193.5]
 images: [Individual Map sites History Optional/3 Neolithic/Gufkral.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@31:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@43:strong", "upinder2008#3. Neolithic - Chalcolithic@26:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@95:weak"]
 ---

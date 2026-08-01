@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [377.5, 346.5]
 images: [Individual Map sites History Optional/11 Art Sites/Tamluk or Tamralipti.jpg, Individual Map sites History Optional/18. Ancient Ports/Tamluk or Tamralipti.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, thapar2002]
 locked: []
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@49:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@63:weak", "thapar2002#History of Early India By Thapar@186:weak", "thapar2002#History of Early India By Thapar@149:strong"]
 ---

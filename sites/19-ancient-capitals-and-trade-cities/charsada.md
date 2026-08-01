@@ -9,7 +9,7 @@ coords_provisional: true
 dot_px: [189.5, 179.5]
 images: [Individual Map sites History Optional/19. Ancient Capitals and trade cities/Trading cities/Charsada.jpg]
 status: sourced
-sources: ["upinder2008#8. 200 B.C - 300 C.E@40"]
+sources: ["upinder2008#8. 200 B.C - 300 C.E@40", upinder2008]
 locked: []
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@40:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@36:weak", "upinder2008#9. 300 C.E - 600 C.E@86:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@7:weak"]
 ---

@@ -8,8 +8,8 @@ coords_from: Q18411681
 coords_provisional: false
 dot_px: [179.5, 323.5]
 images: [Individual Map sites History Optional/14. Temple Sites/Northern Temples/Modhera.jpg]
-status: written
-sources: []
+status: sourced
+sources: [thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["thapar2002#History of Early India By Thapar@352:weak"]
 ---

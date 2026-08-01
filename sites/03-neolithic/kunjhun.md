@@ -9,7 +9,7 @@ coords_provisional: true
 dot_px: [309.5, 324.5]
 images: [Individual Map sites History Optional/3 Neolithic/Some other sites/Kunjhun.jpg]
 status: sourced
-sources: ["upinder2008#3. Neolithic - Chalcolithic@24"]
+sources: ["upinder2008#3. Neolithic - Chalcolithic@24", upinder2008]
 locked: []
 sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@24:strong", "upinder2008#3. Neolithic - Chalcolithic@38:weak", "upinder2008#3. Neolithic - Chalcolithic@51:weak", "upinder2008#3. Neolithic - Chalcolithic@23:weak"]
 ---

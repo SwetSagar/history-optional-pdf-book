@@ -8,8 +8,8 @@ coords_from: Q37112
 coords_provisional: false
 dot_px: [246.5, 423.5]
 images: [Individual Map sites History Optional/20. Medieval Cities and Sufi saints/Gulbarga.jpg]
-status: written
-sources: []
+status: sourced
+sources: [mehta-medieval-1, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@285:strong"]
 ---

@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [222.5, 425.5]
 images: [Individual Map sites History Optional/3 Neolithic/Budihal.jpg, Individual Map sites History Optional/6 Megalith/Budihal.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@46:strong", "upinder2008#3. Neolithic - Chalcolithic@47:strong", "upinder2008#3. Neolithic - Chalcolithic@44:strong", "upinder2008#3. Neolithic - Chalcolithic@49:weak"]
 ---

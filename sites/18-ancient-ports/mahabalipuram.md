@@ -8,8 +8,8 @@ coords_from: Q208000
 coords_provisional: false
 dot_px: [282.2, 480.4]
 images: [Individual Map sites History Optional/18. Ancient Ports/Mahabalipuram.jpg]
-status: written
-sources: []
+status: sourced
+sources: [sharma2005, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@311:strong", "thapar2002#History of Early India By Thapar@270:strong", "sharma2005#India Ancient Past By RS Sharma@13:weak", "sharma2005#India Ancient Past By RS Sharma@250:weak"]
 ---

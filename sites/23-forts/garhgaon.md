@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [459.5, 274.5]
 images: [Individual Map sites History Optional/23. Forts/Garhgaon.jpg]
-status: written
-sources: []
+status: sourced
+sources: [chandra-medieval-2]
 locked: []
 sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@256:weak"]
 ---

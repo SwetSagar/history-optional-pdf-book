@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [251.5, 260.5]
 images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Bahapur.jpg]
-status: written
-sources: []
+status: sourced
+sources: [thapar2002, upinder2008]
 locked: []
 sources_proposed: ["thapar2002#History of Early India By Thapar@365:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@11:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@13:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@15:weak"]
 ---

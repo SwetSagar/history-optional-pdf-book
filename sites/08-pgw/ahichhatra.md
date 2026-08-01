@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [271.5, 262.5]
 images: [Individual Map sites History Optional/8 PGW/Ahichhatra.jpg, Individual Map sites History Optional/9 NBPW/Ahichhatra.jpg]
-status: written
-sources: []
+status: sourced
+sources: [mehta-medieval-1, thapar2002]
 locked: []
 sources_proposed: ["mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@115:weak", "thapar2002#History of Early India By Thapar@134:weak"]
 ---

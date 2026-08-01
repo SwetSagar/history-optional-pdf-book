@@ -8,8 +8,8 @@ coords_from: Q200235
 coords_provisional: false
 dot_px: [199.5, 381.5]
 images: [Individual Map sites History Optional/1 Palaeolithic/Some other sites/Nashik.jpg, Individual Map sites History Optional/13 Non Ashokan Inscription/Nashik.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@27:weak", "upinder2008#8. 200 B.C - 300 C.E@140:weak", "upinder2008#8. 200 B.C - 300 C.E@63:weak", "upinder2008#8. 200 B.C - 300 C.E@21:weak"]
 ---

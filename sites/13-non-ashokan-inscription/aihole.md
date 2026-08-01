@@ -8,8 +8,8 @@ coords_from: Q404851
 coords_provisional: false
 dot_px: [231.5, 430.5]
 images: [Individual Map sites History Optional/13 Non Ashokan Inscription/Aihole.jpg, Individual Map sites History Optional/14. Temple Sites/Southern Temples/Aihole .jpg, Individual Map sites History Optional/19. Ancient Capitals and trade cities/Aihole .jpg]
-status: written
-sources: []
+status: sourced
+sources: [thapar2002, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["thapar2002#History of Early India By Thapar@270:strong", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@85:strong", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@135:strong", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@13:strong"]
 ---

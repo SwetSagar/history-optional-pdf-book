@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [124.5, 305.5]
 images: [Individual Map sites History Optional/5 Harappa/Late and Mature/Allahdino.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#4. Harappan Civilization@39:weak", "upinder2008#4. Harappan Civilization@40:strong", "upinder2008#4. Harappan Civilization@7:weak", "upinder2008#4. Harappan Civilization@8:strong"]
 ---

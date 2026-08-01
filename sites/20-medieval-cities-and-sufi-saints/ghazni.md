@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [153.5, 189.5]
 images: [Individual Map sites History Optional/20. Medieval Cities and Sufi saints/Ghazni.jpg, Individual Map sites History Optional/21. Silk Route sites/Ghazni.jpg]
-status: written
-sources: []
+status: sourced
+sources: [mehta-medieval-1, chandra-medieval-1]
 locked: []
 sources_proposed: ["mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@94:strong", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@23:strong", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@15:strong", "mehta-medieval-1#JL Mehta Vol I Advanced-Study-In-The-H@66:strong"]
 ---

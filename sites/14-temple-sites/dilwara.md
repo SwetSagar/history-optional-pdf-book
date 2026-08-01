@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [189.5, 308.5]
 images: [Individual Map sites History Optional/14. Temple Sites/Northern Temples/Dilwara.jpg, Individual Map sites History Optional/16. Jain sites and caves/Dilwara.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, chandra-medieval-1]
 locked: []
 sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@96:weak", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@266:weak", "chandra-medieval-1#1. Medieval History Part 1 Satish Chan@138:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@97:weak"]
 ---

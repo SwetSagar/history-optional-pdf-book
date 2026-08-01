@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [266.5, 313.5]
 images: [Individual Map sites History Optional/14. Temple Sites/Northern Temples/Deogarh or Lalitpur Dashavtar.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, sharma2005]
 locked: []
 sources_proposed: ["upinder2008#9. 300 C.E - 600 C.E@61:strong", "upinder2008#9. 300 C.E - 600 C.E@84:strong", "sharma2005#India Ancient Past By RS Sharma@13:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@123:weak"]
 ---

@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [278.0, 506.6]
 images: [Individual Map sites History Optional/24. Bhakti and other saints/Karaikal - Ammaiyar.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#1. Introduction, Sources, Historiograp@35:weak"]
 ---

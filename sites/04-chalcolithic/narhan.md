@@ -9,7 +9,7 @@ coords_provisional: true
 dot_px: [353.5, 301.5]
 images: [Individual Map sites History Optional/4 Chalcolithic/Some other sites/Narhan.jpg]
 status: sourced
-sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@61"]
+sources: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc@61", upinder2008, sharma2005]
 locked: []
 sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@62:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@61:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@101:strong", "sharma2005#India Ancient Past By RS Sharma@79:weak"]
 ---

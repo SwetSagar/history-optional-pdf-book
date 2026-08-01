@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [295.5, 424.5]
 images: [Individual Map sites History Optional/19. Ancient Capitals and trade cities/Vengi.jpg, Individual Map sites History Optional/22. Early Medieval Capital cities/Vengi.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@12:weak", "upinder2008#9. 300 C.E - 600 C.E@12:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@17:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@15:weak"]
 ---

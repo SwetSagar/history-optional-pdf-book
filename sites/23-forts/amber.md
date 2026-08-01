@@ -8,8 +8,8 @@ coords_from: Q8197166
 coords_provisional: false
 dot_px: [236.5, 278.5]
 images: [Individual Map sites History Optional/23. Forts/Amber.jpg]
-status: written
-sources: []
+status: sourced
+sources: [chandra-medieval-2]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@406:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@279:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@99:weak", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@275:weak"]
 ---

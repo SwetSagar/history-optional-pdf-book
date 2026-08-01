@@ -8,8 +8,8 @@ coords_from: Q29592830
 coords_provisional: false
 dot_px: [264.3, 341.6]
 images: [Individual Map sites History Optional/1 Palaeolithic/Hathnora.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@9:strong", "sharma2005#India Ancient Past By RS Sharma@66:weak", "upinder2008#2. Palaeolithic and Mesolithic@10:weak", "upinder2008#2. Palaeolithic and Mesolithic@6:weak"]
 ---

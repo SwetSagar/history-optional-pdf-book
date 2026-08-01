@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [271.5, 359.5]
 images: [Individual Map sites History Optional/6 Megalith/Naikund.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@102:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@103:strong"]
 ---

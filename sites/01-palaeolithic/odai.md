@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [278.5, 490.6]
 images: [Individual Map sites History Optional/1 Palaeolithic/Odai.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@9:weak", "upinder2008#2. Palaeolithic and Mesolithic@11:weak"]
 ---

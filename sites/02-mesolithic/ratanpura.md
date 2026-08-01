@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: []
 images: [Individual Map sites History Optional/2 Mesolithic/Other sites/Ratanpura.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@37:weak"]
 ---

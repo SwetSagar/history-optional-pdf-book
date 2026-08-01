@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [220.5, 355.5]
 images: [Individual Map sites History Optional/4 Chalcolithic/Savalda.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@37:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@69:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@71:weak", "upinder2008#3. Neolithic - Chalcolithic@38:weak"]
 ---

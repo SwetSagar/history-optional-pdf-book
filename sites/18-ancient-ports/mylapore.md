@@ -8,8 +8,8 @@ coords_from: Q1646915
 coords_provisional: false
 dot_px: [284.4, 476.4]
 images: [Individual Map sites History Optional/18. Ancient Ports/Mylapore.jpg]
-status: written
-sources: []
+status: sourced
+sources: [thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["thapar2002#History of Early India By Thapar@214:weak"]
 ---

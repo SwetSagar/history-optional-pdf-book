@@ -8,8 +8,8 @@ coords_from: Q12448442
 coords_provisional: false
 dot_px: [262.5, 442.5]
 images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Yerragudi.jpg]
-status: written
-sources: []
+status: sourced
+sources: [basham1954]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["basham1954#The Wonder that was India by A.L. Bash@657:weak", "basham1954#The Wonder that was India by A.L. Bash@503:weak"]
 ---

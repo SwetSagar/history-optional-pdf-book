@@ -8,8 +8,8 @@ coords_from: Q588804
 coords_provisional: false
 dot_px: [275.5, 233.5]
 images: [Individual Map sites History Optional/14. Temple Sites/Northern Temples/Badrinath.jpg, Individual Map sites History Optional/17. Cultural and Educational Centers/Adi Shankara Matha/Badrinath.jpg]
-status: written
-sources: []
+status: sourced
+sources: [thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["thapar2002#History of Early India By Thapar@263:weak"]
 ---

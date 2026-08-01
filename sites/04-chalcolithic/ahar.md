@@ -8,8 +8,8 @@ coords_from: Q65090236
 coords_provisional: false
 dot_px: [203.5, 315.5]
 images: [Individual Map sites History Optional/4 Chalcolithic/Ahar.jpg, Individual Map sites History Optional/5 Harappa/Late and Mature/Ahar.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@66:strong", "upinder2008#3. Neolithic - Chalcolithic@34:strong", "sharma2005#India Ancient Past By RS Sharma@79:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@58:strong"]
 ---

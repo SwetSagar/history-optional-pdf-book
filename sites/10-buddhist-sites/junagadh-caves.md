@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [161.5, 360.5]
 images: [Individual Map sites History Optional/10 Buddhist Sites/Junagadh Caves.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#1. Introduction, Sources, Historiograp@65:weak", "upinder2008#1. Introduction, Sources, Historiograp@58:weak"]
 ---

@@ -9,7 +9,7 @@ coords_provisional: true
 dot_px: [193.5, 180.5]
 images: [Individual Map sites History Optional/3 Neolithic/Some other sites/Gumla.jpg]
 status: sourced
-sources: ["upinder2008#3. Neolithic - Chalcolithic@17"]
+sources: ["upinder2008#3. Neolithic - Chalcolithic@17", upinder2008]
 locked: []
 sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@17:strong", "upinder2008#4. Harappan Civilization@17:strong", "upinder2008#3. Neolithic - Chalcolithic@18:strong", "upinder2008#4. Harappan Civilization@22:weak"]
 ---

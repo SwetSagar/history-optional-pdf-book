@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [255.5, 179.5]
 images: [Individual Map sites History Optional/10 Buddhist Sites/Alchi gompa Monastery.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#10. Early Medieval 600 A.D - 1200 A.D@91:weak", "upinder2008#10. Early Medieval 600 A.D - 1200 A.D@94:weak"]
 ---

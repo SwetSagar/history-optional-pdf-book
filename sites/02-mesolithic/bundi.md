@@ -8,8 +8,8 @@ coords_from: Q862612
 coords_provisional: false
 dot_px: [224.5, 306.5]
 images: [Individual Map sites History Optional/2 Mesolithic/Bundi.jpg]
-status: written
-sources: []
+status: sourced
+sources: [chandra-medieval-2]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@108:strong", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@267:weak", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@422:weak", "chandra-medieval-2#2. Medieval-History-Satish-Chandra-152@279:weak"]
 ---

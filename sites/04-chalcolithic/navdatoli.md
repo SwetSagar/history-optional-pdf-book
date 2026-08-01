@@ -8,8 +8,8 @@ coords_from: Q55624861
 coords_provisional: false
 dot_px: [237.5, 356.5]
 images: [Individual Map sites History Optional/4 Chalcolithic/Navdatoli.jpg, Individual Map sites History Optional/5 Harappa/Late and Mature/Navdatoli.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, sharma2005, thapar2002]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@68:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@67:strong", "sharma2005#India Ancient Past By RS Sharma@82:strong", "thapar2002#History of Early India By Thapar@85:strong"]
 ---

@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [355.5, 305.5]
 images: [Individual Map sites History Optional/16. Jain sites and caves/Pavapuri.jpg]
-status: written
-sources: []
+status: sourced
+sources: [sharma2005, upinder2008]
 locked: []
 sources_proposed: ["sharma2005#India Ancient Past By RS Sharma@155:weak", "sharma2005#India Ancient Past By RS Sharma@413:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@80:weak"]
 ---

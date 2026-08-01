@@ -8,8 +8,8 @@ coords_from: Q5209403
 coords_provisional: false
 dot_px: [231.5, 384.5]
 images: [Individual Map sites History Optional/4 Chalcolithic/Daimabad.jpg, Individual Map sites History Optional/5 Harappa/Late and Mature/Daimabad.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@71:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@69:strong", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@76:strong", "upinder2008#4. Harappan Civilization@82:strong"]
 ---

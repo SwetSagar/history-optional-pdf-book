@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [206.0, 438.4]
 images: [Individual Map sites History Optional/1 Palaeolithic/Patne.jpg, Individual Map sites History Optional/2 Mesolithic/Patne.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#2. Palaeolithic and Mesolithic@33:strong", "upinder2008#2. Palaeolithic and Mesolithic@32:strong", "upinder2008#2. Palaeolithic and Mesolithic@34:strong", "upinder2008#2. Palaeolithic and Mesolithic@27:weak"]
 ---

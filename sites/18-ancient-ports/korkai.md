@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [250.5, 543.3]
 images: [Individual Map sites History Optional/18. Ancient Ports/Korkai.jpg, Individual Map sites History Optional/19. Ancient Capitals and trade cities/Korkai.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, thapar2002, basham1954]
 locked: []
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@59:strong", "thapar2002#History of Early India By Thapar@367:weak", "thapar2002#History of Early India By Thapar@370:weak", "basham1954#The Wonder that was India by A.L. Bash@674:weak"]
 ---

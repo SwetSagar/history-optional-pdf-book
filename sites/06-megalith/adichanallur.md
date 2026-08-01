@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [253.5, 538.5]
 images: [Individual Map sites History Optional/6 Megalith/Adichanallur.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@93:weak", "upinder2008#5. 2000 B.C - 600 B.C Vedic Age, Megal@103:weak"]
 ---

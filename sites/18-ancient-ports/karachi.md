@@ -8,8 +8,8 @@ coords_from: Q8660
 coords_provisional: false
 dot_px: [120.0, 303.3]
 images: [Individual Map sites History Optional/18. Ancient Ports/Karachi.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#4. Harappan Civilization@7:weak", "upinder2008#4. Harappan Civilization@39:weak", "upinder2008#2. Palaeolithic and Mesolithic@18:weak", "sharma2005#India Ancient Past By RS Sharma@114:weak"]
 ---

@@ -9,7 +9,7 @@ coords_provisional: true
 dot_px: []
 images: [Individual Map sites History Optional/19. Ancient Capitals and trade cities/Trading cities/Padmavati.jpg]
 status: sourced
-sources: ["upinder2008#8. 200 B.C - 300 C.E@20"]
+sources: ["upinder2008#8. 200 B.C - 300 C.E@20", upinder2008]
 locked: []
 sources_proposed: ["upinder2008#8. 200 B.C - 300 C.E@20:strong", "upinder2008#9. 300 C.E - 600 C.E@10:strong", "upinder2008#8. 200 B.C - 300 C.E@54:weak", "upinder2008#6. 600 B.C -300 B.C North India Mahaja@14:weak"]
 ---

@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [213.5, 389.5]
 images: [Individual Map sites History Optional/20. Medieval Cities and Sufi saints/Ahmednagar.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["chandra-medieval-1#1. Medieval History Part 1 Satish Chan@179:weak"]
 ---

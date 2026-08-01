@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [284.5, 431.5]
 images: [Individual Map sites History Optional/10 Buddhist Sites/Some other sites/Amravati.jpg, Individual Map sites History Optional/19. Ancient Capitals and trade cities/Amravati.jpg, Individual Map sites History Optional/9 NBPW/Some other sites/Amravati or Dharanikota.jpg]
-status: written
-sources: []
+status: sourced
+sources: [thapar2002, sharma2005]
 locked: []
 sources_proposed: ["thapar2002#History of Early India By Thapar@367:weak", "thapar2002#History of Early India By Thapar@370:weak", "sharma2005#India Ancient Past By RS Sharma@227:weak", "sharma2005#India Ancient Past By RS Sharma@307:weak"]
 ---

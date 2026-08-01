@@ -8,8 +8,8 @@ coords_from: Q185562
 coords_provisional: false
 dot_px: [206.5, 224.5]
 images: [Individual Map sites History Optional/5 Harappa/Late and Mature/Harappa.jpg]
-status: written
-sources: []
+status: sourced
+sources: [basham1954, upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["basham1954#The Wonder that was India by A.L. Bash@52:strong", "basham1954#The Wonder that was India by A.L. Bash@43:strong", "upinder2008#4. Harappan Civilization@3:strong", "basham1954#The Wonder that was India by A.L. Bash@40:strong"]
 ---

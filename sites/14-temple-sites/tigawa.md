@@ -8,8 +8,8 @@ coords_from: Q7801329
 coords_provisional: false
 dot_px: [292.5, 324.5]
 images: [Individual Map sites History Optional/14. Temple Sites/Northern Temples/Tigawa.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#9. 300 C.E - 600 C.E@83:weak"]
 ---

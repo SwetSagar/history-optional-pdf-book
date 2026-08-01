@@ -9,7 +9,7 @@ coords_provisional: false
 dot_px: [127.5, 229.5]
 images: [Individual Map sites History Optional/21. Silk Route sites/Quetta.jpg]
 status: sourced
-sources: ["upinder2008#3. Neolithic - Chalcolithic@15"]
+sources: ["upinder2008#3. Neolithic - Chalcolithic@15", upinder2008, sharma2005]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 sources_proposed: ["upinder2008#3. Neolithic - Chalcolithic@15:strong", "sharma2005#India Ancient Past By RS Sharma@92:weak", "sharma2005#India Ancient Past By RS Sharma@114:weak", "sharma2005#India Ancient Past By RS Sharma@73:weak"]
 ---

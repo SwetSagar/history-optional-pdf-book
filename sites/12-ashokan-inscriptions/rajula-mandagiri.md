@@ -8,8 +8,8 @@ coords_from: ""
 coords_provisional: true
 dot_px: [259.5, 434.5]
 images: [Individual Map sites History Optional/12 Ashokan Inscriptions/Rajula Mandagiri.jpg]
-status: written
-sources: []
+status: sourced
+sources: [upinder2008]
 locked: []
 sources_proposed: ["upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@11:weak", "upinder2008#7. Maurayan Empire 324 B.C - 187 B.C@13:weak"]
 ---
