@@ -10,10 +10,10 @@ dot_px: [203.0, 195.4]
 images: [Individual Map sites History Optional/1 Palaeolithic/Adiyala.jpg]
 status: written
 sources: []
+sources_proposed: []
 locked: []
 ---
 
-- **Location & Setting**: Situated in Punjab.
-- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
-- **Material Culture & Finds**: Yields material culture artefacts.
-- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.
+- Period/Level: Lower Palaeolithic (associated with the Sohanian / Sohan Valley pebble tool tradition).
+- Location: Located in the Potwar region (West Punjab, Pakistan), lying between the Pir Panjal and Salt ranges along the Sohan (Soan) River Valley.
+- Key Finds & Significance: The site yielded characteristic Lower Palaeolithic core tools, including handaxes, choppers, and pebble tools.
