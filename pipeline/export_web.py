@@ -25,6 +25,10 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from common import canonical_key, load_frontmatter, match_keys  # noqa: E402
+# The note is composed here rather than read back from data/exam-notes.json so
+# that it cannot drift from the body this export ships: `compose` is handed the
+# very dict that becomes `content` below, not a second parse of the same file.
+from exam_notes import compose as compose_note  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -290,6 +294,10 @@ def build_export() -> tuple[dict, dict]:
         chapter_id, chapter_title = chapter_for(path, chapters)
         explicit_review = str(meta.get("review_status", "")).lower() == "reviewed"
         model_answer = str(meta.get("model_answer_30", "")).strip()
+        derived_answer, derived_anchors = compose_note(canonical_name, content)
+        answer = model_answer or derived_answer
+        answer_source = ("editorial" if model_answer
+                         else "derived" if derived_answer else "none")
         location_type = str(meta.get("location_type", "point"))
 
         issues = []
@@ -314,7 +322,13 @@ def build_export() -> tuple[dict, dict]:
             issues.append("written_source_line_missing")
         if not explicit_review:
             issues.append("content_review_required")
-        if not model_answer:
+        # A derived note counts as present. It is lifted clause-for-clause from
+        # the body and never paraphrased, so it carries the same authority as
+        # the text around it - no more. The human gate stays where it was:
+        # `content_review_required` below holds every record out of scored
+        # practice until someone reads it, and whoever reads the entry reads
+        # its note. Flagging the note separately would count one review twice.
+        if not answer:
             issues.append("model_answer_30_missing")
 
         alias_info = aliases[slug]
@@ -346,7 +360,14 @@ def build_export() -> tuple[dict, dict]:
             },
             "content": content,
             "exam": {
-                "modelAnswer30": model_answer or None,
+                "modelAnswer30": answer or None,
+                # `derived` is machine-condensed from the anchors, `editorial`
+                # was written by hand in the frontmatter. The trainer should
+                # show a derived note as a reference answer, not as the mark
+                # scheme, and must not grade a student's wording against it.
+                "modelAnswerSource": answer_source,
+                "modelAnswerWords": len(answer.split()) if answer else 0,
+                "modelAnswerAnchors": derived_anchors if answer_source == "derived" else [],
                 "recallPoints": meta.get("recall_points", [])
                 if isinstance(meta.get("recall_points"), list) else [],
             },
@@ -391,6 +412,10 @@ def build_export() -> tuple[dict, dict]:
         "missingWrittenSourceLines": issue_counts["written_source_line_missing"],
         "contentReviewsRequired": issue_counts["content_review_required"],
         "missingModelAnswers30": issue_counts["model_answer_30_missing"],
+        "derivedModelAnswers30": sum(
+            site["exam"]["modelAnswerSource"] == "derived" for site in sites),
+        "editorialModelAnswers30": sum(
+            site["exam"]["modelAnswerSource"] == "editorial" for site in sites),
         "legacyNameMismatches": len(name_mismatches),
         "orphanGazetteerEntries": len(orphan_gazetteer),
         "unmatchedPyqLabels": len(unmatched_pyq),
@@ -443,6 +468,13 @@ def render_report(audit: dict) -> str:
         "also requires reviewed content, a verified coordinate, source metadata and a",
         "concise model answer. No readiness flag is inferred from `status: sourced`.",
         "",
+        "The model answer is condensed from the entry's own anchors by",
+        "`pipeline/exam_notes.py`, which lifts clauses whole and never paraphrases, so",
+        "it inherits the body's accuracy and nothing beyond it. `modelAnswerSource`",
+        "distinguishes a condensed note from one written by hand in the frontmatter as",
+        "`model_answer_30`. A condensed note is a reference answer to reveal after",
+        "recall, not a mark scheme to grade a student's wording against.",
+        "",
         "A coordinate counts as verified when `coords_provisional` is `false`, meaning",
         "someone checked it against a gazetteer. `coords_confidence` is not used as a",
         "quality signal: it records how cleanly the dot was read off the scanned sheet,",
@@ -468,6 +500,8 @@ def render_report(audit: dict) -> str:
         f"- Missing written source line: **{stats['missingWrittenSourceLines']}**",
         f"- Content reviews required: **{stats['contentReviewsRequired']}**",
         f"- Missing 30-word model answers: **{stats['missingModelAnswers30']}**",
+        f"- Model answers condensed from the entry: **{stats['derivedModelAnswers30']}**",
+        f"- Model answers written by hand: **{stats['editorialModelAnswers30']}**",
         f"- Legacy `data/sites.json` name mismatches: **{stats['legacyNameMismatches']}**",
         f"- Orphan gazetteer entries: **{stats['orphanGazetteerEntries']}**",
         f"- Unmatched PYQ labels: **{stats['unmatchedPyqLabels']}** "

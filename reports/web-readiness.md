@@ -5,6 +5,13 @@ A reference-ready record has text and a coordinate. A practice-ready record
 also requires reviewed content, a verified coordinate, source metadata and a
 concise model answer. No readiness flag is inferred from `status: sourced`.
 
+The model answer is condensed from the entry's own anchors by
+`pipeline/exam_notes.py`, which lifts clauses whole and never paraphrases, so
+it inherits the body's accuracy and nothing beyond it. `modelAnswerSource`
+distinguishes a condensed note from one written by hand in the frontmatter as
+`model_answer_30`. A condensed note is a reference answer to reveal after
+recall, not a mark scheme to grade a student's wording against.
+
 A coordinate counts as verified when `coords_provisional` is `false`, meaning
 someone checked it against a gazetteer. `coords_confidence` is not used as a
 quality signal: it records how cleanly the dot was read off the scanned sheet,
@@ -28,7 +35,9 @@ are exported with `scorable: false` and no radius at all.
 - Missing source metadata: **51**
 - Missing written source line: **63**
 - Content reviews required: **480**
-- Missing 30-word model answers: **480**
+- Missing 30-word model answers: **0**
+- Model answers condensed from the entry: **480**
+- Model answers written by hand: **0**
 - Legacy `data/sites.json` name mismatches: **13**
 - Orphan gazetteer entries: **7**
 - Unmatched PYQ labels: **166** (203 occurrences)

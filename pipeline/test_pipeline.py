@@ -170,6 +170,37 @@ class TestPipeline(unittest.TestCase):
                 "data/web-sites.json is stale; run manage.py web --write",
             )
 
+    def test_every_exported_site_carries_an_attributed_model_answer(self):
+        """The note ships with the export, and says where it came from.
+
+        The trainer reveals this text after a recall attempt, so an absent note
+        leaves the student with nothing to check against. `modelAnswerSource`
+        is the part that has to stay honest: a condensed note is only as good
+        as the body it was lifted from, and grading a student's wording against
+        one would mark them on the condenser's phrasing rather than on the
+        history. Nothing may claim `editorial` without a hand-written
+        `model_answer_30` in the frontmatter behind it.
+        """
+        payload, _ = build_export()
+        by_hand = {
+            path.stem for path in SITES.rglob("*.md")
+            if str(load_frontmatter(path.read_text(encoding="utf-8"))[0]
+                   .get("model_answer_30", "")).strip()
+        }
+        for site in payload["sites"]:
+            exam, slug = site["exam"], site["slug"]
+            self.assertIn(exam["modelAnswerSource"], {"editorial", "derived"},
+                          f"{slug}: no model answer to reveal after recall")
+            self.assertTrue(exam["modelAnswer30"], f"{slug}: answer source set but text empty")
+            self.assertEqual(exam["modelAnswerWords"], len(exam["modelAnswer30"].split()), slug)
+            self.assertEqual(exam["modelAnswerSource"] == "editorial", slug in by_hand,
+                             f"{slug}: model answer attribution does not match the frontmatter")
+        self.assertEqual(payload["stats"]["missingModelAnswers30"], 0)
+        self.assertEqual(
+            payload["stats"]["derivedModelAnswers30"] + payload["stats"]["editorialModelAnswers30"],
+            payload["stats"]["sites"],
+        )
+
     def test_exam_notes_are_whole_sentences_of_the_right_length(self):
         """A condensed note must read as prose, not as a clause that lost its head.
 
