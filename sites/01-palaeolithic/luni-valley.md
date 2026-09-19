@@ -7,13 +7,15 @@ coords_confidence: high
 coords_from: ""
 coords_provisional: true
 dot_px: [195.5, 293.5]
-images: [Individual Map sites History Optional/1 Palaeolithic/Some other sites/Luni Valley.jpg]
+images: [Individual Map sites History Optional\1 Palaeolithic\Some other sites\Luni Valley.jpg]
 status: sourced
-sources: ["upinder2008#2. Palaeolithic and Mesolithic@25", upinder2008, basham1954]
+sources: [upinder2008, upinder2008, basham1954]
 locked: []
 ---
 
-- **Location & Setting**: Situated in Nagaur district, Luni Valley.
-- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
-- **Material Culture & Finds**: Yields lithic/stone tool industry (Middle Palaeolithic artefacts are more abundant here than Upper Palaeolithic material.; The term "Luni industry" is used for Middle Palaeolithic assemblages west of the Aravallis, contrasted with the industry of the region to the east.).
-- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.
+- **Location**: The Luni valley of western Rajasthan, draining the western flank of the Aravallis towards the Rann of Kutch, across the Nagaur and Jodhpur tract.
+- **Period/Level**: Stray finds of Lower Palaeolithic tools, a well-represented Middle Palaeolithic, and a thinner Upper Palaeolithic.
+- **Key Finds & Significance**: The valley gives its name to the "Luni industry", the term used for Middle Palaeolithic assemblages west of the Aravallis, contrasted with the industry of the Berach and Chittorgarh region to the east.
+  - Middle Palaeolithic artefacts are markedly more abundant here than Upper Palaeolithic material.
+  - The decline in the number of Upper Palaeolithic sites reflects increasing aridity in the Thar during the late Pleistocene, when occupation contracted towards permanent water such as the Budha Pushkar lake.
+  - With Didwana and the Budha Pushkar basin, the Luni valley defines the Palaeolithic record of the Thar desert.

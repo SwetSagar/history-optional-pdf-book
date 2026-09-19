@@ -7,33 +7,29 @@ chapter weights rather than site names.
 - Map-question blocks: **17** naming places, **7** hint-only
 - Distinct places named: **264**
 - Matched to records: **89**
+- Ambiguous labels held back for review: **1**
+- Occurrences with page provenance: **337**
 
 > **Year attribution is unreliable.** The 1979-2012 compendium prints
 > many papers per page, so the year shown is the first one found on
 > the page, not necessarily the paper the question came from. Treat
 > the counts as trustworthy and the years as indicative.
+>
+> Every occurrence now carries the paper, page and block it was read
+> from, in `data/pyq.json`. That is what makes a count auditable: two
+> spellings of one place on one page would be one appearance, while
+> the same place on two pages is two. Spot-checking the compendium,
+> Madura and Madurai fall on four different pages — four papers, so
+> four appearances, not two counted twice.
 
-## Priority — asked before, still unwritten
+## Ambiguous — one label, several records
 
-Write these first.
+Not counted against any record. Resolve by adding a reviewed
+alias, or by merging the records if they are the same place.
 
-| Site | Times asked | Years |
+| Label | Times | Candidate records |
 |---|---:|---|
-| Champaner | 3 | 1979 |
-| Mukhalingam | 2 | 1979 |
-| Ancient Temple - Pushkar Brahmaji temple near Pushkar Lake | 2 | — |
-| Agra Fort | 1 | — |
-| Dwarka | 1 | 1979 |
-| Kabul | 1 | 1979 |
-| Bhojpur | 1 | 1979 |
-| Puri | 1 | 1979 |
-| Sringeri | 1 | 1979 |
-| Edakkal | 1 | 1979 |
-| Porkalam | 1 | 1979 |
-| Lalitgiri | 1 | 1979 |
-| Penukonda | 1 | 1979 |
-| Vilinam | 1 | 1979 |
-| Kumbharia | 1 | 1979 |
+| Paithan | 2 | `paithan-eknath`, `paithan-or-pratishthana` |
 
 ## Chapter weight from the hint-only papers
 

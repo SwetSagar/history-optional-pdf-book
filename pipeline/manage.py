@@ -1,13 +1,30 @@
 """Unified Command-Line Manager for the UPSC History Optional eBook Pipeline.
 
 Usage:
-    python3 pipeline/manage.py build [--all]    Assemble the EPUB eBook
+    python3 pipeline/manage.py pdf [--all]       Assemble the A4 print PDF
+    python3 pipeline/manage.py notes [--write]   Condense each entry to a 30-50 word exam note
+    python3 pipeline/manage.py exam              Assemble the A4 revision booklet
+    python3 pipeline/manage.py build [--all]     Assemble the EPUB eBook
+    python3 pipeline/manage.py maps [--print]    Render one locator map per site
+    python3 pipeline/manage.py web [--write]     Export canonical records for Sarvam
     python3 pipeline/manage.py extract           Rebuild site records and indices from raw sheets
     python3 pipeline/manage.py validate          Cross-check coordinates against state bounding boxes
     python3 pipeline/manage.py link-sources      Auto-link candidate corpus citations to frontmatter
     python3 pipeline/manage.py draft             Draft 4-anchor UPSC entries for missing/thin entries
-    python3 pipeline/manage.py cover             Generate high-DPI Modernist book cover image
+    python3 pipeline/manage.py cover             Render the cover (every located site plotted)
     python3 pipeline/manage.py test              Run automated unit test suite
+
+A PDF from nothing is three steps, in this order:
+
+    python3 pipeline/manage.py maps --print      locators drawn for 31mm of paper
+    python3 pipeline/manage.py cover             build/cover.png
+    python3 pipeline/manage.py pdf
+
+The revision booklet is two, and the first must come first — `exam` refuses to
+build from a stale data/exam-notes.json rather than printing old wording:
+
+    python3 pipeline/manage.py notes --write     data/exam-notes.json
+    python3 pipeline/manage.py exam
 """
 from __future__ import annotations
 
@@ -33,7 +50,17 @@ def main() -> int:
     action = sys.argv[1].lower()
     extra_args = sys.argv[2:]
 
-    if action == "build":
+    if action == "pdf":
+        return run_script("build_pdf.py", extra_args)
+    elif action == "notes":
+        return run_script("exam_notes.py", extra_args)
+    elif action == "exam":
+        return run_script("build_exam_pdf.py", extra_args)
+    elif action == "maps":
+        return run_script("render_maps.py", extra_args)
+    elif action == "web":
+        return run_script("export_web.py", extra_args)
+    elif action == "build":
         return run_script("build_epub.py", extra_args)
     elif action == "extract":
         return run_script("extract.py", extra_args)
@@ -48,7 +75,9 @@ def main() -> int:
             extra_args.append("--write")
         return run_script("draft_corpus.py", extra_args)
     elif action == "cover":
-        return run_script("render_cover.py", extra_args)
+        # the atlas cover — the book's own data as the artwork. render_cover.py
+        # is the alternative, a typographic cover with no map on it.
+        return run_script("make_cover.py", extra_args)
     elif action == "test":
         cmd = [sys.executable, "-m", "unittest", str(PIPELINE / "test_pipeline.py")]
         return subprocess.call(cmd)

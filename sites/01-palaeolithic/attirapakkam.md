@@ -7,13 +7,15 @@ coords_confidence: high
 coords_from: ""
 coords_provisional: true
 dot_px: [282.7, 474.9]
-images: [Individual Map sites History Optional/1 Palaeolithic/Attirapakkam.jpg]
+images: [Individual Map sites History Optional\1 Palaeolithic\Attirapakkam.jpg]
 status: written
-sources: []
+sources: [upinder2008]
 locked: []
 ---
 
-- **Location & Setting**: Situated in Tamil Nadu.
-- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
-- **Material Culture & Finds**: Yields lithic/stone tool industry (Acheulian tools and artefacts, including bifacial handaxes and cleavers, were made of quartzite brought to the site from elsewhere; a quartz tool of non-local origin has also been recovered.; Animal footprints survive, together with three fossil teeth — of horse, water buffalo and nilgai.).
-- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.
+- **Location**: Attirampakkam, in the Kortallayar river basin, Tiruvallur district, about 60 km north-west of Chennai, Tamil Nadu.
+- **Period/Level**: Lower, Middle and Upper Palaeolithic in sequence, with a break in occupation after the Middle Palaeolithic; discovered in 1863 and excavated off and on since, most recently by Shanti Pappu and Kumar Akhilesh.
+- **Key Finds & Significance**: One of the richest and best-dated Palaeolithic sites in India, whose Acheulian levels have been placed at roughly 1.5 million years BP by cosmogenic burial dating, among the oldest Acheulian occurrences outside Africa.
+  - Acheulian tools were recovered from a 4 m thick clay deposit; the artefacts, mostly bifacial handaxes and cleavers, were made of quartzite not available locally, and the near-absence of debitage shows they were manufactured elsewhere and carried to the site. A quartz tool of non-local origin was also recovered.
+  - A set of animal footprints was found along with Acheulian tools: 17 round impressions of 15-20 cm together with a set of hoofprints, the first discovery of its kind in South Asia.
+  - Three fossil teeth, probably of a horse, water buffalo and nilgai, indicate an open and wet landscape in early Palaeolithic times.

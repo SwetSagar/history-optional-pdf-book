@@ -30,7 +30,10 @@ def corpus_to_bib_map() -> dict[str, str]:
 
 
 def main() -> int:
-    write = "--write" or "--apply" in sys.argv
+    # `"--write" or "--apply" in sys.argv` is a non-empty string in the first
+    # operand, so it was always true and this script wrote on every run,
+    # including the preview.
+    write = "--write" in sys.argv or "--apply" in sys.argv
     cand_file = DATA / "candidates.json"
     if not cand_file.exists():
         print("error: data/candidates.json not found. Run `python3 pipeline/cite.py batch` first.", file=sys.stderr)
@@ -66,9 +69,12 @@ def main() -> int:
         if combined != meta.get("sources", []):
             updated += 1
             meta["sources"] = combined
-            if meta.get("status") in ("raw", "written"):
-                meta["status"] = "sourced"
             total_sources += len(combined)
+            # `status: sourced` means every dated or attributed claim has an
+            # entry in `sources`. A machine link says only that the work
+            # discusses the place, so promoting the status here asserted a
+            # reading nobody did — which is why the 157 `sourced` records could
+            # not be trusted as a filter. Human sign-off goes in review_status.
 
             if write:
                 md.write_text(dump_frontmatter(meta) + "\n\n" + body, encoding="utf-8")

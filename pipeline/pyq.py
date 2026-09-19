@@ -23,10 +23,11 @@ from collections import Counter
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from common import match_keys  # noqa: E402
+from common import load_frontmatter, match_keys  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 PYQ = ROOT / "corpus_pyq"
+SITES = ROOT / "sites"
 
 MAP_Q = re.compile(r"(?:marked on the map|places on the map|on the map supplied)", re.I)
 # The roman numeral and its text are not always on one line: newer papers print
@@ -89,15 +90,16 @@ def main() -> int:
     named: Counter[str] = Counter()
     cats: Counter[str] = Counter()
     named_years: dict[str, set] = {}
+    occurrences: list[dict] = []
     blocks_named = blocks_hint = 0
 
     for f in sorted(PYQ.glob("*.json")):
         pages = json.loads(f.read_text(encoding="utf-8"))
         ystem = YEAR.findall(f.stem)
-        for p in pages:
+        for page_no, p in enumerate(pages):
             text = p["text"]
             page_year = (YEAR.findall(text) or ystem or ["?"])[0]
-            for blk in blocks(text):
+            for block_no, blk in enumerate(blocks(text)):
                 items = []
                 for _, chunk in ITEM.findall(blk):
                     words = ENGLISH.findall(chunk)
@@ -125,28 +127,54 @@ def main() -> int:
                         if 3 <= len(nm) <= 40 and re.match(r"^[A-Z]", nm):
                             named[nm] += 1
                             named_years.setdefault(nm, set()).add(page_year)
+                            # Provenance per occurrence, so a frequency can be
+                            # audited back to the page it was read off. Without
+                            # it, two spellings of one place on one page and the
+                            # same place in two papers are indistinguishable —
+                            # and only the second is a real second appearance.
+                            occurrences.append({
+                                "label": nm,
+                                "year": page_year,
+                                "paper": f.stem,
+                                "page": page_no,
+                                "block": block_no,
+                            })
 
     print(f"map-question blocks found : {blocks_named} named, {blocks_hint} hint-only")
     print(f"distinct places named     : {len(named)}")
     print(f"category hints counted    : {sum(cats.values())}")
 
-    # match named places against the book's records
-    sites = json.loads((ROOT / "data" / "sites.json").read_text(encoding="utf-8"))
-    keys = {s["slug"]: match_keys(s["name"]) for s in sites}
-    by_slug = {s["slug"]: s for s in sites}
+    # Match named places against the book's records. The canonical Markdown is
+    # the source of truth: data/sites.json is a rebuilt index and its names lag
+    # behind hand-corrected ones, which cost three matches — Thatta, Amarkantak
+    # and Masrur were all sitting in the unmatched pile under their old spelling.
+    names: dict[str, str] = {}
+    statuses: dict[str, str] = {}
+    for path in sorted(SITES.rglob("*.md")):
+        meta, _ = load_frontmatter(path.read_text(encoding="utf-8"))
+        names[path.stem] = str(meta.get("name", path.stem))
+        statuses[path.stem] = str(meta.get("status", ""))
+    keys = {slug: match_keys(name) for slug, name in names.items()}
 
     asked: dict[str, int] = {}
+    matched_labels: dict[str, str] = {}
     unmatched = []
+    ambiguous = []
     for place, n in named.items():
         pk = match_keys(place)
-        hit = next((slug for slug, k in keys.items() if pk & k), None)
-        if hit:
-            asked[hit] = asked.get(hit, 0) + n
+        hits = sorted(slug for slug, k in keys.items() if pk & k)
+        if len(hits) == 1:
+            asked[hits[0]] = asked.get(hits[0], 0) + n
+            matched_labels[place] = hits[0]
+        elif hits:
+            # Taking the first of several matches silently attributes a question
+            # to whichever record sorted first. Park it for review instead.
+            ambiguous.append((place, n, hits))
         else:
             unmatched.append((place, n))
 
-    covered = [s for s in asked if by_slug[s].get("status") != "missing"]
-    missing = [s for s in asked if by_slug[s].get("status") == "missing"]
+    covered = [s for s in asked if statuses.get(s) != "missing"]
+    missing = [s for s in asked if statuses.get(s) == "missing"]
     print(f"\nnamed places matched to records : {len(asked)}")
     print(f"  already written               : {len(covered)}")
     print(f"  MISSING but historically asked: {len(missing)}")
@@ -154,12 +182,23 @@ def main() -> int:
     out = {
         "named_frequency": {k: v for k, v in named.most_common()},
         "named_years": {k: sorted(v) for k, v in named_years.items()},
-        "by_slug": asked,
+        "occurrences": occurrences,
+        # Which label produced which match. The export needs this to attach the
+        # years and the page provenance to a record; recomputing the match there
+        # would put the matching rule in two places and let them drift.
+        "matched_labels": dict(sorted(matched_labels.items(), key=lambda kv: kv[0].casefold())),
+        "by_slug": dict(sorted(asked.items())),
         "category_weight": dict(cats.most_common()),
-        "unmatched": dict(sorted(unmatched, key=lambda x: -x[1])[:80]),
+        # Previously truncated to the top 80, which read as "80 unmatched" when
+        # the real figure was larger. Keep them all and let the report summarise.
+        "unmatched": dict(sorted(unmatched, key=lambda x: (-x[1], x[0].casefold()))),
+        "ambiguous": [
+            {"label": place, "count": n, "candidates": hits}
+            for place, n, hits in sorted(ambiguous, key=lambda x: (-x[1], x[0].casefold()))
+        ],
     }
     (ROOT / "data" / "pyq.json").write_text(json.dumps(out, indent=1, ensure_ascii=False),
-                                            encoding="utf-8")
+                                            encoding="utf-8", newline="\n")
 
     lines = ["# What the map question has actually asked", "",
              "Mined from the past papers in `corpus_pyq/`. Older papers name the",
@@ -168,20 +207,38 @@ def main() -> int:
              f"- Map-question blocks: **{blocks_named}** naming places, "
              f"**{blocks_hint}** hint-only",
              f"- Distinct places named: **{len(named)}**",
-             f"- Matched to records: **{len(asked)}**", "",
+             f"- Matched to records: **{len(asked)}**",
+             f"- Ambiguous labels held back for review: **{len(ambiguous)}**",
+             f"- Occurrences with page provenance: **{len(occurrences)}**", "",
              "> **Year attribution is unreliable.** The 1979-2012 compendium prints",
              "> many papers per page, so the year shown is the first one found on",
              "> the page, not necessarily the paper the question came from. Treat",
-             "> the counts as trustworthy and the years as indicative.", ""]
+             "> the counts as trustworthy and the years as indicative.",
+             ">",
+             "> Every occurrence now carries the paper, page and block it was read",
+             "> from, in `data/pyq.json`. That is what makes a count auditable: two",
+             "> spellings of one place on one page would be one appearance, while",
+             "> the same place on two pages is two. Spot-checking the compendium,",
+             "> Madura and Madurai fall on four different pages — four papers, so",
+             "> four appearances, not two counted twice.", ""]
 
     if missing:
         lines += ["## Priority — asked before, still unwritten", "",
                   "Write these first.", "",
                   "| Site | Times asked | Years |", "|---|---:|---|"]
-        for slug in sorted(missing, key=lambda s: -asked[s]):
-            nm = by_slug[slug]["name"]
+        for slug in sorted(missing, key=lambda s: (-asked[s], s)):
+            nm = names[slug]
             yrs = ", ".join(sorted(named_years.get(nm, []))[:6]) or "—"
             lines.append(f"| {nm} | {asked[slug]} | {yrs} |")
+        lines.append("")
+
+    if ambiguous:
+        lines += ["## Ambiguous — one label, several records", "",
+                  "Not counted against any record. Resolve by adding a reviewed",
+                  "alias, or by merging the records if they are the same place.", "",
+                  "| Label | Times | Candidate records |", "|---|---:|---|"]
+        for place, n, hits in sorted(ambiguous, key=lambda x: (-x[1], x[0].casefold())):
+            lines.append(f"| {place} | {n} | {', '.join(f'`{h}`' for h in hits)} |")
         lines.append("")
 
     lines += ["## Chapter weight from the hint-only papers", "",
@@ -193,7 +250,8 @@ def main() -> int:
     for place, n in named.most_common(30):
         lines.append(f"| {place} | {n} |")
 
-    (ROOT / "reports" / "pyq.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    (ROOT / "reports" / "pyq.md").write_text("\n".join(lines) + "\n",
+                                             encoding="utf-8", newline="\n")
     print("  -> reports/pyq.md, data/pyq.json")
     return 0
 

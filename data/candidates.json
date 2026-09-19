@@ -1,6 +1,73 @@
 {
  "Adamgadh": [],
  "Adiyala": [],
+ "Ajmer(Hakra Basin)": [
+  {
+   "source": "mehta1",
+   "volume": "JL Mehta Vol I Advanced-Study-In-The-History-Of-Medieval-India",
+   "scan_page": 100,
+   "matched": "ajmer",
+   "occurrences": 8,
+   "score": 40.3,
+   "snippet": "…n the Gangetic valley. He not only suppressed these revolts with an iron hand but also expanded the boundaries of his dominions. The credit for the conquest of Ajmer, Kanauj and Kalinjar from 1195 to 1203 goes to him. The Dor Rajputs of Koil (Aligarh) revolted but were sup- pressed with ease. Benaras and its adjoining…"
+  },
+  {
+   "source": "mehta1",
+   "volume": "JL Mehta Vol I Advanced-Study-In-The-History-Of-Medieval-India",
+   "scan_page": 72,
+   "matched": "ajmer",
+   "occurrences": 8,
+   "score": 38.0,
+   "snippet": "…ahi kingdom in 1008-9 (sixth expedition). Anandpal was prepared to meet the eventuality. He had received some aid in men and material from the rulers of Delhi, Ajmer, Kalinjar, Gwalior and Kanauj. There was great enthusiasm among the people of northern India; many 'Hindu ladies sold their ornaments' and 'the poorer amo…"
+  },
+  {
+   "source": "mehta1",
+   "volume": "JL Mehta Vol I Advanced-Study-In-The-History-Of-Medieval-India",
+   "scan_page": 98,
+   "matched": "ajmer",
+   "occurrences": 6,
+   "score": 33.7,
+   "snippet": "…p and encouraged the Turkish invaders to penetrate deep into the Gangetic valley. The Turkish victory at Tarain did not lead, however, to the fall of Delhi and Ajmer all at once. These towns were defended stubbornly by those who had escaped the fury of Tarain. Muhamad Ghori, therefore, deputed his brilliant slave gener…"
+  },
+  {
+   "source": "mehta1",
+   "volume": "JL Mehta Vol I Advanced-Study-In-The-History-Of-Medieval-India",
+   "scan_page": 54,
+   "matched": "ajmer",
+   "occurrences": 5,
+   "score": 32.1,
+   "snippet": "…h, he fled the capital and took shelter in a fortress in the Rann of Kutch. A Chauhan (Chahamana) chief Samanta, founded the kingdom of Sambhar,? around modern Ajmer, in the eighth century. He became famous by offering strong resistance to the Arab invaders rom Sind (c. 750).2° In the beginning of the eleventh century,…"
+  }
+ ],
+ "Anangpur": [
+  {
+   "source": "upinder",
+   "volume": "2. Palaeolithic and Mesolithic",
+   "scan_page": 19,
+   "matched": "anangpur",
+   "occurrences": 1,
+   "score": 25.8,
+   "snippet": "…es in south Delhi and adjoining areas (Chakrabarti and Lahiri, 1986) identified 43 sites ranging from the lower palaeolithic to the microlithic. Excavations at Anangpur in the Badarpur hills to the south of the city revealed thousands of early and late Acheulian tools along with traces of several palaeo-channels of the…"
+  },
+  {
+   "source": "upinder",
+   "volume": "10. Early Medieval 600 A.D - 1200 A.D",
+   "scan_page": 41,
+   "matched": "anangpur",
+   "occurrences": 1,
+   "score": 24.2,
+   "snippet": "THE ANANGPUR DAM SURAJ KUND RESERVOIR Of the many branch lines of the Chahamanas, the oldest ruled in Lata till the mid-8th century. Another branch was founded by L…"
+  },
+  {
+   "source": "upinder",
+   "volume": "10. Early Medieval 600 A.D - 1200 A.D",
+   "scan_page": 40,
+   "matched": "anangpur",
+   "occurrences": 1,
+   "score": 17.7,
+   "snippet": "…Dhillika from where we get Dilli and Delhi). This is, of course, a myth, but the Tomara connection with the Delhi area is reflected in archaeological evidence. Anangpur (mentioned in Chapter 2 as a major palaeolithic site) in the Badarpur area has remains of early medieval fortifications and structures, and the name of…"
+  }
+ ],
  "Attirapakkam": [],
  "Bagalkot": [
   {
@@ -138,6 +205,7 @@
    "snippet": "…BCE (7505-7033, 6190-5764, 5432- 5051), but the other dates are much later. Mahagara on the right bank of the Belan river (not far from the mesolithic site of Chopani Mando) is another important neolithic site. Floors and post-holes associated with 20 huts were identified here. Reed or bamboo impressions on clumps of…"
   }
  ],
+ "Dari Dungari": [],
  "Didwana or Nagaur": [
   {
    "source": "upinder",
@@ -174,6 +242,17 @@
    "occurrences": 2,
    "score": 24.0,
    "snippet": "…Several sites have been found in Kashmir and the Thar desert. Lower Palaeolithic tools have also been found in the Belan valley in UP and in the desert area of Didwana in Rajasthan. Didwana yielded not only Lower Palaeolithic stone tools but also those of the Middle and Upper Palaeolithic ages. Chirki-Nevasa in Maharas…"
+  }
+ ],
+ "Gudiyam Caves": [
+  {
+   "source": "upinder",
+   "volume": "2. Palaeolithic and Mesolithic",
+   "scan_page": 23,
+   "matched": "gudiyam",
+   "occurrences": 1,
+   "score": 21.5,
+   "snippet": "…been found in the Palghat district of Kerala. In Tamil Nadu, there is a stratigraphic sequence from the early palaeolithic to the mesolithic from near Chennai. Gudiyam cave, not far from Chennai, has yielded a sequence of lower, middle, and upper palacolithic tools. The fewness of the tools and the absence of other rem…"
   }
  ],
  "Gumarwin": [],
@@ -215,6 +294,36 @@
    "snippet": "…eanderthalensis Homo Sapiens (modern) Neander Valley 1856 Spy 1888 ATLANTIC OCEAN • • ASIA editerranean sen Zhoukoudian (Peking Man) 1929 O• Darra-i-Kur • 1966 Hathnora 1982 PACIFIC OCEAN AFRICA Hadar (Lucy) C Nariokotome Lake Turkana 1984 Koobi Fora 1970 Olduvai (Zin) La Laetoli 1978 1959-78 INDIAN OCEAN ATLANTIC OCEA…"
   }
  ],
+ "Hiran Valley": [
+  {
+   "source": "upinder",
+   "volume": "2. Palaeolithic and Mesolithic",
+   "scan_page": 18,
+   "matched": "hiran valley",
+   "occurrences": 1,
+   "score": 42.2,
+   "snippet": "…le for lower palaeolithic contexts in other areas as well. Didwana in Rajasthan has been dated 390,000 BP (by the uranium/thorium series dating method). In the Hiran valley in Gujarat, the lower palaeolithic context is dated 190,000-69,000 BP (via the uranium thorium series dating method). For the Son valley (MP), ther…"
+  },
+  {
+   "source": "upinder",
+   "volume": "2. Palaeolithic and Mesolithic",
+   "scan_page": 24,
+   "matched": "hiran valley",
+   "occurrences": 1,
+   "score": 30.9,
+   "snippet": "…conditions. There are some dates for middle palaeolithic contexts. Didwana (Rajasthan) has given two thermoluminescence dates of 150,000 BP and 144,000 BP. The Hiran valley (Gujarat) has yielded a uranium thorium series date of 56,800 BP. In the north-west, lots of stone tools, mostly of the middle palaeolithic, have b…"
+  },
+  {
+   "source": "upinder",
+   "volume": "5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc",
+   "scan_page": 59,
+   "matched": "hiran",
+   "occurrences": 1,
+   "score": 19.9,
+   "snippet": "…nd had a stone fortification wall. The plant remains included millets and gram. Prabhas Patan II (Somnath Patan in Junagadh district) on the banks of the river Hiran is divided into two sub-phases—-the earlier one has late Harappan pottery but no lustrous red ware, and the later one has late Harappan pottery associated…"
+  }
+ ],
+ "Hunasgi": [],
  "Kalpi": [
   {
    "source": "upinder",
@@ -293,6 +402,7 @@
   }
  ],
  "Lakhudiyar": [],
+ "Lingsugur- Same as Maski 1st palae site to be discovered": [],
  "Luni Valley": [
   {
    "source": "upinder",
@@ -331,6 +441,7 @@
    "snippet": "…om the new moon of the month Caitra. The solar calendar, imported with Western astronomy, was also known from Gupta times onwards though it didnot oust the old luni-solar calendar until recent years. Where solar dates are given in early records they are usually mentioned for extra accuracy, with the prevailing naksatra…"
   }
  ],
+ "Malprabha Ghatprabha valley": [],
  "Mandla": [],
  "Mandsaur": [
   {
@@ -344,6 +455,17 @@
   }
  ],
  "Mehtakhedi": [],
+ "Mogara Hills": [
+  {
+   "source": "upinder",
+   "volume": "2. Palaeolithic and Mesolithic",
+   "scan_page": 19,
+   "matched": "mogara",
+   "occurrences": 1,
+   "score": 19.1,
+   "snippet": "…is a detailed profile of the Didwana area of the Nagaur district in western Rajasthan, with a sequence extending from the early to the middle palaeolithic. The Mogara hill near Jodhpur seems to have been a factory site where lower, middle, and upper palaeolithic as well as mesolithic tools were made. THE BHIMBETKA ROCK…"
+  }
+ ],
  "Nashik": [
   {
    "source": "upinder",
@@ -537,6 +659,44 @@
    "occurrences": 1,
    "score": 9.0,
    "snippet": "…he Indus), there are several early sites in Dera Ismail Khan district. Of these, Gumla and Rahman Dheri have been excavated. Gumla was excavated by a team from Peshawar University in 1971. Six cultural phases (i.e., periods) were identified, the first two of which are of interest to us here. Period I revealed a small s…"
+  }
+ ],
+ "Sabarmati Valley": [
+  {
+   "source": "upinder",
+   "volume": "2. Palaeolithic and Mesolithic",
+   "scan_page": 18,
+   "matched": "sabarmati",
+   "occurrences": 1,
+   "score": 18.1,
+   "snippet": "…djacent area DELHI CEN LHASA •West Nepal - O KATHMANDU THIMPHU Bralmapatra Bela KARACHI O -24° Rohri Hills • Nagaur Luni Valley • Berach *Milestone 101 • Basir Sabarmati Mandasore, Valley • , Visadin Roidi: -20° Hiran. Valley Kalpi. Mirzapur Ganga Jhans!. Belan Munger • Sahibgani •Lalitour Valley • raisen Bina, A Sagar…"
+  },
+  {
+   "source": "upinder",
+   "volume": "2. Palaeolithic and Mesolithic",
+   "scan_page": 19,
+   "matched": "sabarmati",
+   "occurrences": 1,
+   "score": 11.9,
+   "snippet": "…pper palaeolithic as well as mesolithic tools were made. THE BHIMBETKA ROCK SHELTERS In Gujarat, lower palaeolithic tools have been found in the valleys of the Sabarmati, its Orsang and Karjan tributaries, and in the Bhadar valley in Saurashtra. Lower palaeolithic and later artefacts have been found all along the Konka…"
+  },
+  {
+   "source": "upinder",
+   "volume": "4. Harappan Civilization",
+   "scan_page": 34,
+   "matched": "sabarmati",
+   "occurrences": 1,
+   "score": 9.0,
+   "snippet": "…th an incised female figure, whose pose is reminiscent of that of the bronze Mohenjo-daro 'dancing girl'. WELL AND DRAINS, LOTHAL Lothal is located between the Sabarmati river and its tributary, the Bhogavo, in Saurashtra in Gujarat. The sea is now about 16-19 km away, but at one time, boats from the Gulf of Cambay cou…"
+  },
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 49,
+   "matched": "sabarmati",
+   "occurrences": 1,
+   "score": 7.0,
+   "snippet": "…settled in the Chalcolithic period. Rajasthan shades off into the fertile plains of Gujarat, which are irrigated by the waters of the Narmada, Tapi, Mahi, and Sabarmati. Situated at the end of the north-western portion of the Deccan plateau, Gujarat includes the less rainy"
   }
  ],
  "Shivalik": [],
@@ -928,6 +1088,26 @@
   }
  ],
  "Sebalgiri": [],
+ "Sundargarh": [
+  {
+   "source": "upinder",
+   "volume": "5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc",
+   "scan_page": 64,
+   "matched": "sundargarh",
+   "occurrences": 1,
+   "score": 13.0,
+   "snippet": "…date of c. 800 BCE for a level yielding neolithic celts and copper artefacts. Recently, a neolithic celt manufacturing site was discovered at Sulabhdihi in the Sundargarh district of Orissa (Behera, 1991-92). At the recently excavated site of Golbai Sasan on the Mandakini river in Orissa, neolithic Period I showed trac…"
+  },
+  {
+   "source": "upinder",
+   "volume": "2. Palaeolithic and Mesolithic",
+   "scan_page": 53,
+   "matched": "sundargarh",
+   "occurrences": 1,
+   "score": 3.0,
+   "snippet": "…other places in India as well. In eastern India, over 55 rock shelters with rock art have been identified in the western districts of Orissa, especially in the Sundargarh and Sambalpur districts. Microliths found in some of the rock shelters have confirmed the fact that there was mesolithic occupation in the area. The…"
+  }
+ ],
  "Thenmala": [],
  "Tilwara": [
   {
@@ -938,6 +1118,44 @@
    "occurrences": 1,
    "score": 22.0,
    "snippet": "…de porcupine, rat, tortoise, fish, and frog. D.R. Shah does not mention the occurrence of such domesticated species, but lists river turtle and monitor lizard. Tilwara (Barmer district, Rajasthan): According to V. N. Misra, the late meso-lithic level (its dates are uncertain) gave evidence of wild goat, a canid (jackal…"
+  }
+ ],
+ "Tirunelveli": [
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 59,
+   "matched": "tirunelveli",
+   "occurrences": 1,
+   "score": 23.5,
+   "snippet": "…celebrated for its pearls in Sangam poems and Greek accounts. The Arthashastra also refers to the pearl fisheries of Pandya country. Today, Korkai village (in Tirunelveli district), near the mouth of the Vaigai, is about 6 km inland, but during early historical times it was no doubt right on the sea coast. Excavations…"
+  },
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 30,
+   "matched": "tirunelveli",
+   "occurrences": 1,
+   "score": 19.2,
+   "snippet": "…ly districts of Tamil Nadu, and had its capital at Uraiyur. The kingdom of the Pandyas in the valleys of the Tamraparni and Vaigai roughly correspond to modern Tirunelveli, Madurai, Ramnad districts, and south Travancore and had its capital at Madurai. The Cheras on the Kerala coast had their capital at Karuvur, also k…"
+  },
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 309,
+   "matched": "tirunelveli",
+   "occurrences": 1,
+   "score": 17.2,
+   "snippet": "…tury centres around the long struggle for supremacy between the Pallavas of Kanchi and the Chalukyas of Badami. The Pandyas, who were in control of Madurai and Tirunelveli districts of Tamil Nadu, joined this conflict as a poor third. Although both the Pallavas and the Chalukyas championed Brahmanism, performed V edic…"
+  },
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 252,
+   "matched": "tirunelveli",
+   "occurrences": 1,
+   "score": 16.4,
+   "snippet": "…society. The Pandya territory occupied the southernmost and the south-eastern portion of the Indian peninsula, and it roughly included the modern districts of Tirunelveli, Ramnad, and Madurai in Tamil Nadu with its capital at Madurai. The literature compiled in the Tamil academies in the early centuries of the Christi…"
   }
  ],
  "Tuticorin": [],
@@ -977,6 +1195,35 @@
    "occurrences": 1,
    "score": 21.6,
    "snippet": "…from one to the other is not always smooth. At Kot Diji and Gumla, a burnt deposit between the two suggests a major fire. Evidence of burning was also found at Amri and Nausharo. At Kalibangan, the break in occupation may have been due to an earthquake. The General Features of Mature Harappan Settlements"
+  }
+ ],
+ "Anjira": [
+  {
+   "source": "upinder",
+   "volume": "3. Neolithic - Chalcolithic",
+   "scan_page": 19,
+   "matched": "anjira",
+   "occurrences": 1,
+   "score": 21.7,
+   "snippet": "…ound. There are no radiocarbon dates from the site, but Nal pottery is considered contemporaneous with that of Periods I and II at Damb Sadaat and Period IV of Anjira and Siah Damb. Nal-related sites are associated with two types of water management systems. One was the building of stone embankments across hill slopes…"
+  },
+  {
+   "source": "upinder",
+   "volume": "3. Neolithic - Chalcolithic",
+   "scan_page": 18,
+   "matched": "anjira",
+   "occurrences": 1,
+   "score": 18.3,
+   "snippet": "…ABUL Ghaliga Loeban Burzahom PESHAWARO •Sarai Khola. Lewan • • KANDAHAR Gumla • *Mundigak LAHORE Kile Gul Mohammad Rana Ghundai • Jalilpur Mehrgarh Siah Damb • Anjira 32°- Yamuna DELHI• Cange • KARACHI 24°- Metres 4000 2000 500 200 0 100 Kilometres Narmada ARABIAN SEA 200 Tapi 20°- 64° 72° MAP 3.2 EARLY VILLAGE SETTLEM…"
+  },
+  {
+   "source": "upinder",
+   "volume": "3. Neolithic - Chalcolithic",
+   "scan_page": 16,
+   "matched": "anjira",
+   "occurrences": 1,
+   "score": 17.4,
+   "snippet": "…s, and seals. A copper/bronze blade of a dagger or knife, a bone spatula, and an alabaster vessel are other artefacts associated with Period II at Damb Sadaat. Anjira and Siah Damb in the Kalat plateau were excavated by Beatrice de Cardi, the former in 1948 and 1957, and the latter in 1957. Five periods of occupation w…"
   }
  ],
  "Brahmagiri": [
@@ -1322,6 +1569,7 @@
    "snippet": "…ESHWAR MUMBAI ARABIAN SEA AK SHADWE EP• (INDIA) NUTNUR- NAGARJUNAKONDA PIKLIHAL KODEKAL • TEKKALAKOTA • MASKI TERDAL • • SANGANAKALLU RANAPURAM KUPGA • PALAVOY HALLUR BRAHMAGIRI • T.NARSIPUR CHENNAI HEMMIGE PAIYAMPALLI BAY OF BENGAL So: (INDIA) N D I A N OCE MAP 1 Neolithic Cultures. Courtesy ASI"
   }
  ],
+ "Kili Gul Mohammad": [],
  "Kunjhun": [
   {
    "source": "upinder",
@@ -1358,6 +1606,45 @@
    "occurrences": 1,
    "score": 17.5,
    "snippet": "…ce. 68° 72° KANDAHAR LAHORE - 32° Mehrgarh. Sambar- Didwana ALHASA 32° THIMPHU KATHMANDU O • Lahuradeva Gangu Brahmaputra - 28° KARACHI 280 Mahagara • Koldihwa Kunjhun® Narmada ODHAKA KOLKATA O - 24° Tapt Mahanadi 24- MUMBAIO - 20° Godavari ARABIAN SEA Krishna Tungabhadra BAY O F BENGAL 20- Metres 5000 4000 2000 500 20…"
+  }
+ ],
+ "Lahrudeva": [],
+ "Mahagara": [
+  {
+   "source": "upinder",
+   "volume": "3. Neolithic - Chalcolithic",
+   "scan_page": 23,
+   "matched": "mahagara",
+   "occurrences": 2,
+   "score": 24.5,
+   "snippet": "…domestication of rice. 68° 72° KANDAHAR LAHORE - 32° Mehrgarh. Sambar- Didwana ALHASA 32° THIMPHU KATHMANDU O • Lahuradeva Gangu Brahmaputra - 28° KARACHI 280 Mahagara • Koldihwa Kunjhun® Narmada ODHAKA KOLKATA O - 24° Tapt Mahanadi 24- MUMBAIO - 20° Godavari ARABIAN SEA Krishna Tungabhadra BAY O F BENGAL 20- Metres 5…"
+  },
+  {
+   "source": "upinder",
+   "volume": "3. Neolithic - Chalcolithic",
+   "scan_page": 38,
+   "matched": "mahagara",
+   "occurrences": 1,
+   "score": 21.0,
+   "snippet": "…PLAIN AND EASTERN INDIA In a previous section, reference was made to early evidence of food-producing settlements in the northern Vindhyan fringes at Koldihwa, Mahagara, and Kunjhun, and in the middle Ganga valley at Lahuradeva. Sites of a subsequent period have been found in the Sarayupara plain in the north- eastern…"
+  },
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 366,
+   "matched": "mahagara",
+   "occurrences": 1,
+   "score": 20.8,
+   "snippet": "…G.R., V .D. Mishra, D. Mandal, B.B. Misra, and J.N. Pal, Beginnings of Agriculture (Epi- Palaeolithic to Neolithic: Excavations at Chopani-Mando, Mahadaha and Mahagara) (Allahabad: Abinash Prakashan, 1980). Stacul, Giorgio, Prehistoric and Protohistoric Swat, Pakistan (c. 3000–1400 BC) (Rome: ISMEO, 1987). Wells, Spen…"
+  },
+  {
+   "source": "upinder",
+   "volume": "2. Palaeolithic and Mesolithic",
+   "scan_page": 37,
+   "matched": "mahagara",
+   "occurrences": 1,
+   "score": 19.9,
+   "snippet": "…A drier spell seems to have set in about 4,000-3,000 years ago. .d..n... ...... Brahma Bagor• • Loteshwar \"Ratanpura Bhimbetka, \"Damdama Mahadaha• • Samar Rai Mahagara • Chopani • • Lekhahia Mando • Baghor Il Ganga • paisra Birbhanpur. Narmada \"Adamgarh Krishna ARABIAN SEA Tunsabiadra BAY O F BENGAL ....... Metres Abo…"
   }
  ],
  "Mahishadal": [
@@ -1611,6 +1898,7 @@
    "snippet": "…rsa. Black-and-red pottery occurs in many parts of the subcontinent in several different cultural contexts. For example, it occurs at neolithic sites (Chirand, Piklihal, etc.), pre-Harappan Lothal, many Harappan sites in Gujarat (e.g., Lothal, Surkotada, Rojdi, Rangpur, and Desalpur), chalcolithic sites in the middle a…"
   }
  ],
+ "Rana Gundai": [],
  "Rehman Dheri": [
   {
    "source": "upinder",
@@ -1714,6 +2002,26 @@
    "occurrences": 1,
    "score": 3.0,
    "snippet": "…R Satlui BURZAHOM SRINAGAR GUFKRAL C QUETTA • MEHRGARH KARACH INDEX NEOLITHIC SITES MODERN TOWNS DELHI • N R.Nar R.Ganga KOLDIMWA • NAGPUR ; GUWAHA Brahmaputra SARUTARU S MARAKDOLA! 7O DAOJAL IHADING PATNA BARUDIH KOLKAT KUCHAI GOLBAI SASAN BHUBANESHWAR MUMBAI ARABIAN SEA AK SHADWE EP• (INDIA) NUTNUR- NAGARJUNAKONDA PI…"
+  }
+ ],
+ "Senuwar": [
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 75,
+   "matched": "senuwar",
+   "occurrences": 1,
+   "score": 13.0,
+   "snippet": "…llahabad districts of UP . Neolithic sites such as Koldihwa and Mahagra in Allahabad district are known for the cultivation of rice in the fifth millennium BC. Senuwar in Rohtas district in the Kaimur hilly area is the most important site. Also notable is the site of Taradih close to the Bodh-Gaya temple. The riverine…"
+  },
+  {
+   "source": "upinder",
+   "volume": "3. Neolithic - Chalcolithic",
+   "scan_page": 39,
+   "matched": "senuwar",
+   "occurrences": 1,
+   "score": 3.0,
+   "snippet": "…Narhan Khairadin • Manjhi Bhunadih® • Chirand • Waina • Kaushambi ALLAHABAD • Jhusi Bhita TOMS Masondin. • Bhitari Rajghat *Prahladpur VARANASI Agiabir® Belmi •Senuwar Malhar. Raja-Nal-ka-Tila Gandak Area simon in • the main map Sonepur• • MUZAFFARPUR • Vaishali Chechar PATNA • Raigir Champa 24°- • Kunjhun MAP 3.6 VILL…"
   }
  ],
  "Sohgaura": [
@@ -2059,6 +2367,44 @@
    "snippet": "…special reference to the sites of Jodhpura and Ganeshwar. The early phase of the Ahar/Banas culture of south-east Rajasthan, represented at sites such as Ahar, Gilund, and Balathal was also discussed. Rajasthan continued to be a major region for copper metallurgy during the succeeding centuries as well. At Ganeshwar, P…"
   }
  ],
+ "Gungeria": [
+  {
+   "source": "upinder",
+   "volume": "5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc",
+   "scan_page": 54,
+   "matched": "gungeria",
+   "occurrences": 1,
+   "score": 22.1,
+   "snippet": "…OBJECTS 72° 76° 80° Jhelum RIDIO LAHORE Sutlej O KhurdiO 8 MUMBAI O Yamuna DELHI • Rajpur Parsu Bisauli. , Sarthauli Fatehgarh Chambel Niorai Saipai Narmada 00 Gungeria Godavari Krishna Kallur C Pennar OCHENNAI Kaveri 84° KATHMANDU 8B° - Tsangp Ganga KOLKATA 92° • 0 32°_ 128° 24°- 20°- 16°- 12°- 8°- ARABIAN SEA Metres…"
+  },
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 404,
+   "matched": "gungeria",
+   "occurrences": 1,
+   "score": 16.5,
+   "snippet": "…240 guilds 17, 159, 223, 238 Gujarat 22, 26, 34, 36, 38, 54, 71, 74, 75, 76, 79, 86, 87, 88, 89, 91, 99, 136, 143, 160, 192, 204, 234, 235, 236, 240, 266, 307 Gungeria 71 Gupta 2, 3, 4, 9, 17, 18, 19, 21, 26, 29, 36, 107, 192, 193, 199, 223, 227, 228, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 24…"
+  },
+  {
+   "source": "upinder",
+   "volume": "5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc",
+   "scan_page": 52,
+   "matched": "gungeria",
+   "occurrences": 1,
+   "score": 15.8,
+   "snippet": "…ver, the largest concentration of sites is in the doab region of Uttar Pradesh. The number of objects found together varies from 1 to 47, except in the case of Gungeria in Madhya Pradesh, where 424 objects weighing over 200 kg were found in a single hoard, along with 102 silver objects. Since most of the copper hoard d…"
+  },
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 88,
+   "matched": "gungeria",
+   "occurrences": 1,
+   "score": 15.4,
+   "snippet": "…a ranging from West Bengal and Orissa in the east to Gujarat and Haryana in the west, and from AP in the south to UP in the north. The largest hoard comes from Gungeria in MP comprising 424 copper tools and weapons and 102 thin sheets of silver objects. However, a substantial number of copper hoards are concentrated in…"
+  }
+ ],
  "Imlidih": [
   {
    "source": "upinder",
@@ -2164,6 +2510,7 @@
    "snippet": "…ed to the brahmanas of Banaras, Vrindavan, etc.1 1The Banaras farmat is in the National Library, Calcutta, and the Vrindavan farman is presently in a temple at Jaipur. 278 Aurangzeb's order regarding temples was not a new one. It reaffirmed the position which had existed during the Sultanat period and which had been re…"
   }
  ],
+ "Jorve": [],
  "Kaytha": [],
  "Kodihwa": [],
  "Narhan": [
@@ -2242,42 +2589,15 @@
    "snippet": "…apis lazuli sometimes occur at sites of the Malwa culture in Madhya Pradesh, again hinting at links with the Late Harappan. Both the major sites of Kayatha and Navdatoli, going back to an earlier period, suggest a degree of complex living. Navdatoli faces Maheshwar across the Narmada, and these could have been crossing…"
   }
  ],
- "Nevasa": [
+ "Ojiyana": [
   {
    "source": "upinder",
-   "volume": "5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc",
-   "scan_page": 75,
-   "matched": "nevasa",
-   "occurrences": 3,
-   "score": 15.0,
-   "snippet": "Nevasa. Prakash is the largest Jorwe site in the Tapi valley, Daimabad in the Godavari valley, and Inamgaon in the Bhima valley. All three settlements were 20 h…"
-  },
-  {
-   "source": "upinder",
-   "volume": "2. Palaeolithic and Mesolithic",
-   "scan_page": 27,
-   "matched": "nevasa",
-   "occurrences": 2,
-   "score": 14.0,
-   "snippet": "…6 MIDDLE PALAEOLITHIC TOOLS The middle palacolithic industry of central and peninsular India is sometimes referred to as the Nevasan industry after the site of Nevasa, where the pioneering archaeologist H. D. Sankalia first discovered middle palaeolithic artefacts in a stratified context. The tools, which include a wid…"
-  },
-  {
-   "source": "upinder",
-   "volume": "8. 200 B.C - 300 C.E",
-   "scan_page": 161,
-   "matched": "nevasa",
+   "volume": "3. Neolithic - Chalcolithic",
+   "scan_page": 35,
+   "matched": "ojiyana",
    "occurrences": 1,
-   "score": 13.0,
-   "snippet": "a nude fertility goddess with her legs spread out, found at sites such as Nevasa, Nagarjunakonda, Ter, and Yellesvaram. Recently, two terracotta and one stone plaque of the goddess known as Lajja-Gauri have been found in a 1st century…"
-  },
-  {
-   "source": "upinder",
-   "volume": "2. Palaeolithic and Mesolithic",
-   "scan_page": 18,
-   "matched": "nevasa",
-   "occurrences": 1,
-   "score": 9.0,
-   "snippet": "…is dated 190,000-69,000 BP (via the uranium thorium series dating method). For the Son valley (MP), there is a thermoluminescence date of 103,800 ‡ 19,800 BP. Nevasa (in Maharashtra) has given a date of 350,000 BP (via uranium/thorium series dating). In Karnataka, the site of Yedurwadi has been dated 350,000 BP. Facto…"
+   "score": 19.5,
+   "snippet": "…r, pig fish, turtle, and fowl were identified. 750 760 • Agtari • AJMER Masti • Ram Krishna Pura • NASIRABAD Boora • Naner Banas Samelia. • Deopura Lank• 26° • Ojiyana Khari • Area shown in the main map • Banthali Amli. Kotari • DEOLI R A J S H • Bihara •Pander A N Kurt • BUNDI Kothari BHILWARA O • Kadukota Delana Duri…"
   }
  ],
  "Prabhas Patan": [
@@ -2356,6 +2676,7 @@
    "snippet": "…t and sandstone. There was a decrease in the use of copper. Rectangular steatite seals with the Harappan script continued, but without animal motifs. Rojdi la, Rangpur IIB and IIC also represent the late Harappan phase. The settlement at Rojdi was about 7 ha in size. The main settlement area was surrounded by a stone r…"
   }
  ],
+ "Saipal": [],
  "Savalda": [
   {
    "source": "upinder",
@@ -2394,6 +2715,7 @@
    "snippet": "Kaothe is a site belonging to the Savalda culture. It is a 20 ha site, and the shallow 50 cm thick deposit suggests a short-duration, nomadic occupation. The houses seem to have been round or ov…"
   }
  ],
+ "Senaur": [],
  "Alamgirpur": [
   {
    "source": "upinder",
@@ -2508,6 +2830,44 @@
    "snippet": "…•Bhirrana Casse Shami • Damb Moheniodaro • • Naru Warodaro Yamuna Pandi Wahi Kot Diji Miri Qalat •Kulli Sutkagen-dor Ghazi Shah •Chanhudaro: INDIA • Sotka Koh Balakot • Allahdino Gharo • Bhiro Metres 4000 1500 500 0 • • Kot Kori Koonj Soore Dholavira Desslpur.. •. Surkotada Sabarmati ARABIAN SEA Nagwada One - Kuntasi…"
   }
  ],
+ "Balu": [
+  {
+   "source": "upinder",
+   "volume": "4. Harappan Civilization",
+   "scan_page": 20,
+   "matched": "balu",
+   "occurrences": 1,
+   "score": 25.7,
+   "snippet": "…s, beads of gold and semi-precious stones, and a cubical chert blade. Nearby, along the Ghaggar-Hakra, early Harappan levels have been identified at Siswal and Balu in Haryana and Rohira and Mahorana in Punjab. Rakhigarhi gives evidence of a planned settlement and mud-brick structures in early Harappan Period I. The ra…"
+  },
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 92,
+   "matched": "balu",
+   "occurrences": 1,
+   "score": 22.7,
+   "snippet": "SPREAD OF INDUS CIVILIZATION a 2os 30000 KABUL RAHMAN DHERI GUME ISLAMABAD MANDA QUETTA MULTAN RRA LAHORE HARAPPA BALU BHAGWANPURA • BANAWALI• KALIBANGAN • • ROPAR CHULA § RAKHIGAR! MITATHAL | • ALÁMGIRPUR DELHI MOHENJO-DARO TUMJO-DARO SUKKUR • KOT DIJE CHANHU-DARO SUTKACEN…"
+  },
+  {
+   "source": "upinder",
+   "volume": "4. Harappan Civilization",
+   "scan_page": 7,
+   "matched": "balu",
+   "occurrences": 1,
+   "score": 22.3,
+   "snippet": "…), a village settlement that measures only about 5 ha, but which reveals all the main features of the Harappan civilization. Another recently excavated site is Balu in Haryana, a small fortified rural settlement that has yielded a rich variety of plant"
+  },
+  {
+   "source": "upinder",
+   "volume": "4. Harappan Civilization",
+   "scan_page": 15,
+   "matched": "balu",
+   "occurrences": 1,
+   "score": 22.0,
+   "snippet": "…Nausharo •Harappa * Jalilour Kunal Sutlej Banawali. Kalibangane Sothi Siswal Jalwali• Gamanwala Old hed of Ghaggar *Rakhigarhi •Bhimana MANG • Kot Diji INDIA • Balu • DELHI Yamuna 282 Ganga - 24° 24° Metres 4000 1500 500 100 200 Kilometres • Dholavira Surkotada • Nagwada C AHMEDABAD Padri • 300 202 MAP 4.2 SOME EARLY H…"
+  }
+ ],
  "Banawali": [
   {
    "source": "upinder",
@@ -2546,6 +2906,7 @@
    "snippet": "…es in eastern Europe and western Asia. A spoked wheel is neither identified at Harappa nor Mohenjo-daro where all the toy carts found so far show solid wheels. Banawali in Hissar district in Haryana is associated with the use of spoked wheels in the Harappan period, but this seems to be a post-Harappan phase. The remai…"
   }
  ],
+ "Bargoan": [],
  "Bet Dwarka": [
   {
    "source": "upinder",
@@ -2766,6 +3127,7 @@
    "snippet": "PREHISTORY: THE HARAPPA CULTURE AND THE ARYANS IS end of it to the other. Outside this area the village cultures of Baluchistan seem to have continued much as before. This grea…"
   }
  ],
+ "Jhukar Late Harappa": [],
  "Kalibangan": [
   {
    "source": "upinder",
@@ -3071,6 +3433,7 @@
   }
  ],
  "Padari": [],
+ "Pirak Late Harappa": [],
  "Rakhigarhi": [
   {
    "source": "sharma",
@@ -3295,6 +3658,7 @@
    "snippet": "…SH Nagarajupalle • Peddamudiyam Hanumantaraopeta Inagaluru • \"Balijapalle 16% • Hallur Metres 1000 500 Ash mound sites • Village sites 50 Kilometres 100 14°- • Banahalli KARNATAKA CHENNAI O MAP 5.5 SOME NEOLITHIC-CHALCOLITHIC SETTLEMENTS IN SOUTH INDIA The third phase followed the second at these sites. Stone tools con…"
   }
  ],
+ "Banimilia Banhera": [],
  "Junapani": [
   {
    "source": "upinder",
@@ -3346,6 +3710,7 @@
    "snippet": "…the fifth city of Delhi, called Firozabad, which was situated to the north of Siri. Therein he raised three palaces, including the one palace-fort, now called Kotia Firoze Shah, nine mosques and public buildings to accommodate the courtiers and the secretarial offices. The Sayyads and the Lodhis had neither the time n…"
   }
  ],
+ "Kuntitoli": [],
  "Nagarjunakonda": [
   {
    "source": "upinder",
@@ -3404,6 +3769,29 @@
    "snippet": "earpicks (?), tridents, a spearhead, sword, and cauldron. Iron hoes were found at Naikund, and there was also evidence of the local smelting of iron. The remains of a workshop included a furnace made of small curved bricks with a cylindrical…"
   }
  ],
+ "Nartiang": [],
+ "Porkalam": [],
+ "Sanur": [
+  {
+   "source": "upinder",
+   "volume": "5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc",
+   "scan_page": 90,
+   "matched": "sanur",
+   "occurrences": 1,
+   "score": 3.0,
+   "snippet": "…udaikals, the urn is placed in a chamber consisting of four orthostats capped by a large hemispherical capstone. TOPIKAL, COCHIN SARCOPHAGUS IN DOLMENOID CIST, SANUR The unchambered burials are of three types pit burials, urn burials, and sarcophagus burials. In pit burials, the funerary remains are buried in a pit. If…"
+  },
+  {
+   "source": "upinder",
+   "volume": "5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc",
+   "scan_page": 103,
+   "matched": "sanur",
+   "occurrences": 1,
+   "score": 3.0,
+   "snippet": "…the neolithic and megalithic phases. Megaliths are widely distributed in South India. In Tamil Nadu, the sites include Adichanallur, Amritamangalam, Kunnattur, Sanur, Vasudevanallur, Tenkasi, Korkai, Kayal, Kalugumalai, Perumalmalai, Pudukkotai, Tirukkampuliyar, and Odugat-tur. Important sites in Kerala include Pulimat…"
+  }
+ ],
+ "Veerapuram": [],
  "Bargaon": [
   {
    "source": "upinder",
@@ -3601,6 +3989,44 @@
   }
  ],
  "Atranji Khera": [],
+ "Bahawalpur": [
+  {
+   "source": "thapar",
+   "volume": "History of Early India By Thapar",
+   "scan_page": 76,
+   "matched": "bahawalpur",
+   "occurrences": 2,
+   "score": 23.1,
+   "snippet": "…rappan towns such as Dholavira. Some of the settlements in Rajasthan and Punjab also carried features associated with the Hakra Plain, particularly present-day Bahawalpur and Cholistan. The Hakra River, which gradually dried up, was once a substantial river although all that remains of its upper reaches now is the Ghag…"
+  },
+  {
+   "source": "upinder",
+   "volume": "4. Harappan Civilization",
+   "scan_page": 41,
+   "matched": "bahawalpur",
+   "occurrences": 1,
+   "score": 21.7,
+   "snippet": "…field at early Harappan levels at Kalibangan. The continuing use of the plough into the mature Harappan phase can be inferred. Terracotta models of ploughs at Bahawalpur and Banawali give further evidence of the use of this implement. The fact that no actual ploughs have survived is no doubt because they were made of…"
+  },
+  {
+   "source": "upinder",
+   "volume": "5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc",
+   "scan_page": 41,
+   "matched": "bahawalpur",
+   "occurrences": 1,
+   "score": 19.1,
+   "snippet": "…h earlier levels, but there were also new forms and designs. In the upper levels, there were urn burials with disarticulated bones. M. R. Mughal's study of the Bahawalpur area indicates changes in the number, frequency, and nature of settlements in the Cemetery-H phase. Although there were some fairly large settlements…"
+  },
+  {
+   "source": "upinder",
+   "volume": "3. Neolithic - Chalcolithic",
+   "scan_page": 19,
+   "matched": "bahawalpur",
+   "occurrences": 1,
+   "score": 18.6,
+   "snippet": "…and hare were found. Apart from Bala Kot, there are other early village sites in the Makran area, such as Miri Qalat and Shahi Tump. In the Cholistan desert of Bahawalpur, a number of early village settlements are located on the alluvial plain of the Ghaggar-Hakra river. This river flowed to the east of the Indus, and…"
+  }
+ ],
  "Bharatpur or Noh": [
   {
    "source": "upinder",
@@ -3637,6 +4063,17 @@
    "occurrences": 1,
    "score": 16.7,
    "snippet": "…dated c. 800-600 BCE. In Bihar and Bengal, the earliest iron artefacts appear in a BRW context at sites such as Chirand, Sonpur, Taradih, Bahiri, Mahisdal, and Bharatpur, and can be placed in the first quarter of the 1st millennium BCE. Many sites show cultural continuity from the chalcolithic BRW phase to the early ir…"
+  }
+ ],
+ "Chak 86": [
+  {
+   "source": "upinder",
+   "volume": "5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc",
+   "scan_page": 96,
+   "matched": "chak 86",
+   "occurrences": 1,
+   "score": 19.8,
+   "snippet": "68° Chenab - 32° 72° Thelum 80° 64° 32- Indus Ratt Sulley Ghaggar Kotlanihang Bahawalpur ® Chak 86 Rupar • Banawali • • Bhagwanpura Drisadvati Panipat • • Barnawa • Hastinapura Delhi • • Ahichchhatra THING Metres 4000 2000 500 200 Mathura • Kampil • S…"
   }
  ],
  "Hastinapur": [
@@ -3838,7 +4275,7 @@
    "scan_page": 46,
    "matched": "ayodhya",
    "occurrences": 2,
-   "score": 29.2,
+   "score": 16.0,
    "snippet": "…ished ware, including sprinklers. A similar picture of increasing urban complexity and sophistication comes from nearby Sonkh. TERRACOTTA PLAQUE Excavations at Ayodhya (Faizabad district, UP) yielded structural remains and antiquities of this period. In the late NBPW phase, there were houses made of burnt brick and ter…"
   },
   {
@@ -3847,17 +4284,8 @@
    "scan_page": 357,
    "matched": "ayodhya",
    "occurrences": 3,
-   "score": 27.2,
+   "score": 15.0,
    "snippet": "…hna was introduced by sects of a later period, such as the followers of Chaitanya from eastern India. Similarly, the link between the topography of present-day Ayodhya and the life of Rama was referred to in the Ayodhya Mahatmya of the mid-second millennium AD and was established through the activities of the Ramanandi…"
-  },
-  {
-   "source": "upinder",
-   "volume": "8. 200 B.C - 300 C.E",
-   "scan_page": 8,
-   "matched": "ayodhya",
-   "occurrences": 2,
-   "score": 25.4,
-   "snippet": "…s. Giving an example of an event belonging to the recent past, the 2nd century BCE grammarian Patanjali refers to the yavanas coming up to Saketa (in or around Ayodhya in Faizabad district, UP) and Madhyamika (near Chittor in Rajasthan). During this period, yavana was a general term used in Indian texts for foreigners…"
   },
   {
    "source": "upinder",
@@ -3865,8 +4293,17 @@
    "scan_page": 40,
    "matched": "ayodhya",
    "occurrences": 1,
-   "score": 22.0,
+   "score": 13.0,
    "snippet": "EXCAVATED EASTERN FORTIFICATIONS, KAUSHAMBI The ruins at Ayodhya, described in the Ramayana as capital of Kosala in the time of Rama, cover a circuit of 4-5 km. Earlier excavations revealed an occupation beginning wit…"
+  },
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 167,
+   "matched": "ayodhya",
+   "occurrences": 1,
+   "score": 13.0,
+   "snippet": "…. Diggings indicate that Sahet–Mahet was barely settled in the sixth century BC, but we see the beginnings of a mud fort. Koshala had an important city called Ayodhya which is associated with the story in the Ramayana. Excavations however show that it was not settled on any scale before the fifth century BC. Koshala a…"
   }
  ],
  "Champapur": [
@@ -3976,6 +4413,17 @@
    "occurrences": 1,
    "score": 19.1,
    "snippet": "…Ashvaka) kingdom was situated in the northwest. However, the Assaka of Buddhist texts is firmly located on the Godavari river. Its capital was Potana/Podana or Potali, identified with modern Bodhan. The Godavari separated Assaka from the neighbouring kingdom of Mulaka or Alaka with its capital at Pratishthana (identifi…"
+  }
+ ],
+ "Prahladpur": [
+  {
+   "source": "upinder",
+   "volume": "3. Neolithic - Chalcolithic",
+   "scan_page": 39,
+   "matched": "prahladpur",
+   "occurrences": 1,
+   "score": 18.4,
+   "snippet": "…• • Sohgaura • Imlidih Dhuriapar • Narhan Khairadin • Manjhi Bhunadih® • Chirand • Waina • Kaushambi ALLAHABAD • Jhusi Bhita TOMS Masondin. • Bhitari Rajghat *Prahladpur VARANASI Agiabir® Belmi •Senuwar Malhar. Raja-Nal-ka-Tila Gandak Area simon in • the main map Sonepur• • MUZAFFARPUR • Vaishali Chechar PATNA • Raigi…"
   }
  ],
  "Pushkalvati": [],
@@ -4724,6 +5172,7 @@
    "snippet": "…, Kondane, Ajanta, Nashik, and Bedsa. The second phase is represented by additions made at Nashik and Junnar, and the excavation of caves at new places such as Karle, Kuda, Mahad, Karadh, Shelarvadi, and Kanheri. The monasteries consist of viharas and chaityas. The development of early cave architecture in India can be…"
   }
  ],
+ "Kesariya": [],
  "Key Gompa Monastery": [],
  "Kuda Caves": [
   {
@@ -4754,6 +5203,7 @@
    "snippet": "…rghat -Talghat Sopara Kalyan. Kanheri × Nanaghat Kondivteo Junnar MUMBAI Kondane® Ambivale ARABIAN Bhorghat - SEA Karleo Bedsa Chau. Bhajao •Nadsur Shelarvadi •Kuda Mahad Nevasa • Godavari •Ajanta o Pitalkhora Aurangabad • Paithan • Ter 180 Metres 500 200 0 Cave site Ancient town Pass 25 Kilometres 50 Karadh o • Brahma…"
   }
  ],
+ "Lalitgiri": [],
  "Lamayuru Monsatery": [],
  "Lumbini": [
   {
@@ -4975,6 +5425,35 @@
    "snippet": "…tlements are small, under 5 ha. Evidence of mud floors with post holes and hearths, mud-brick structures, storage pits, kilns, and a fire altar were found from Sanghol in Ludhiana district of Punjab. The late Harappan settlement at Dadheri consisted of mud houses built on a mud platform. Artefacts found here included c…"
   }
  ],
+ "Sankissa": [
+  {
+   "source": "upinder",
+   "volume": "7. Maurayan Empire 324 B.C - 187 B.C",
+   "scan_page": 57,
+   "matched": "sankissa",
+   "occurrences": 1,
+   "score": 7.0,
+   "snippet": "…rva pillars, quadruple lions on the Sanchi and Sarnath capitals, and a bull on one of the Rampurva pillars. An elephant capital (minus the pillar) was found at Sankissa. The Sanchi and Sarnath capitals were surmounted by a spoked wheel. The abacus of the Sanchi pillar has pecking geese, whereas that of the Sarnath pill…"
+  },
+  {
+   "source": "upinder",
+   "volume": "6. 600 B.C -300 B.C North India Mahajanpads onwards",
+   "scan_page": 14,
+   "matched": "sankisa",
+   "occurrences": 1,
+   "score": 5.0,
+   "snippet": "…fications through field surveys. Cunningham counted among his major achievements the identifications of Aornos, Taxila, Sangala, Srughna, Ahichchhatra, Bairat, Sankisa, Shravasti, Kaushambi, Padmavati, Vaishali, and Nalanda. Cunningham had initially identified the site of ancient Taxila (Takshashila) with Manikyala. Ho…"
+  },
+  {
+   "source": "upinder",
+   "volume": "7. Maurayan Empire 324 B.C - 187 B.C",
+   "scan_page": 58,
+   "matched": "sankissa",
+   "occurrences": 1,
+   "score": 3.0,
+   "snippet": "ELEPHANT CAPITAL, SANKISSA The sculptural motifs must have been considered to be in harmony with the dhamma message. They must have been chosen with great care, quite possibly by…"
+  }
+ ],
  "Sarnath": [
   {
    "source": "sharma",
@@ -5120,6 +5599,7 @@
    "snippet": "…rebellion, Kamran advanced from Lahore, and succeeded in persuading Hindal to give up his dreams of independence. Meanwhile, Humayun had succeeded in reaching Chausa on the boundary of Bihar and modern U.P. That he was able to bring his army almost intact out of Bengal and Bihar despite the harassing Afghan attacks, a…"
   }
  ],
+ "Dhanesar": [],
  "Tamluk or Tamralipti": [
   {
    "source": "upinder",
@@ -5194,6 +5674,44 @@
    "occurrences": 1,
    "score": 7.0,
    "snippet": "…g the incarnations of Vishnu. A verse in Jayadeva's Gita Govinda refers to the Buddha as the ninth incarnation of Keshava (Vishnu). The Brihadishvara temple at Tanjore has a large image of a seated Buddha to the right of the main gateway, and the Buddha under a bodhi tree is depicted in some relief carvings around the…"
+  }
+ ],
+ "Ahraura Minor Rock edict": [
+  {
+   "source": "upinder",
+   "volume": "7. Maurayan Empire 324 B.C - 187 B.C",
+   "scan_page": 11,
+   "matched": "ahraura",
+   "occurrences": 1,
+   "score": 49.3,
+   "snippet": "…urva (Champaran district, Bihar) The minor rock edicts (MREs) occur at: Bahapur /Srinivasapuri in New Delhi (MRE 1) Bairat (Jaipur district, Rajasthan) (MRE 3) Ahraura (Mirzapur district, UP) (MRE 1) Saharam (Rohtas district, Bihar) (MRE 1) Gujjara (Datia district, MP) (MRE 1) Kupnath (Jabalpur district, MP) (MRE 1) Pa…"
+  },
+  {
+   "source": "upinder",
+   "volume": "7. Maurayan Empire 324 B.C - 187 B.C",
+   "scan_page": 13,
+   "matched": "ahraura",
+   "occurrences": 1,
+   "score": 45.0,
+   "snippet": "…apur A Bairat Nigali Sagar O Lumbini O • Hampurva • Lauriya Nandangarh • Lauriya Araraj Pataliputra Bralımaputra Sanchi • Panguraria A Gujjara Kaushambi Sarath Ahraura 4 A A Rupnath Narmada Sahasram * Hill Barabar Gimar Tapti BHOJAS Sopara O ARABIAN SEA • Sannati Godavari -Udegolam Maski A ANDHRAS Nittur •Amaravati Gav…"
+  },
+  {
+   "source": "thapar",
+   "volume": "History of Early India By Thapar",
+   "scan_page": 365,
+   "matched": "ahraura",
+   "occurrences": 1,
+   "score": 39.1,
+   "snippet": "…hi) Bairat 89 Bhabru Is Nigah-Sugar + Rumminde Shravast O 14 Катрио 1 Sohgiura - Laarya-Nandangarh Hauriya-Amraj Gujarna Kaushams el Surpath Polipura Mahasthan Ahraura ORaigir es Barabar Saharrant. Uisin O Ranchi # Rupnath MAGAD Chandrajengarh TamoraliptiO PULINDAS Pangurana A Girnar Bbrigulachchha Shishupalgarho Dhaul…"
+  },
+  {
+   "source": "upinder",
+   "volume": "6. 600 B.C -300 B.C North India Mahajanpads onwards",
+   "scan_page": 3,
+   "matched": "ahraura",
+   "occurrences": 1,
+   "score": 35.8,
+   "snippet": "…BCE for his birth. Most Indian scholars still favour c. 480 BCE for the parinibbana, while most Western scholars are inclined to accept more recent dates. The Ahraura version of Ashoka's minor rock edict 1 may hold the key to solving the problem (see Narain, 1993). This inscription suggests that 256 years had elapsed…"
   }
  ],
  "Allahabad": [
@@ -5530,6 +6048,65 @@
    "snippet": "Map 5 Some Sites of the Mauryan Period PAROPAMISADAI Laghman/ -Baner 99 A Mansenra Lampaka Sodes *Shabbagarhi Taxila GANDHARA ARACHOSIA A Kandahar GEDROSIA Kalsi a Topral Meerue Bahapur es: (Delhi) Bairat 89 Bhabru Is Nigah-Sugar + Rumminde Shravast O 14 Катрио 1 Sohgiura - Laarya-Nandangarh Hauri…"
   }
  ],
+ "Laghman Minor RE": [
+  {
+   "source": "thapar",
+   "volume": "History of Early India By Thapar",
+   "scan_page": 365,
+   "matched": "laghman",
+   "occurrences": 1,
+   "score": 32.3,
+   "snippet": "Map 5 Some Sites of the Mauryan Period PAROPAMISADAI Laghman/ -Baner 99 A Mansenra Lampaka Sodes *Shabbagarhi Taxila GANDHARA ARACHOSIA A Kandahar GEDROSIA Kalsi a Topral Meerue Bahapur es: (Delhi) Bairat 89 Bhabr…"
+  },
+  {
+   "source": "upinder",
+   "volume": "7. Maurayan Empire 324 B.C - 187 B.C",
+   "scan_page": 10,
+   "matched": "laghman",
+   "occurrences": 1,
+   "score": 27.4,
+   "snippet": "…Aramaic as well. A bilingual Greek-Aramaic inscription was found at Shar-i-Kuna near Kandahar in south-east Afghanistan. Two Aramaic inscriptions were found at Laghman (in east Afghanistan) and one at Taxila. A bilingual Prakrit-Aramaic inscription was found at Lampaka and another one at Kandahar. Ashoka's inscriptions…"
+  },
+  {
+   "source": "upinder",
+   "volume": "7. Maurayan Empire 324 B.C - 187 B.C",
+   "scan_page": 13,
+   "matched": "laghman",
+   "occurrences": 1,
+   "score": 26.0,
+   "snippet": "-20° - 20° 116° 64° 100° A Laghman Lampaka A Shahbazgary OO Mansehra •Taxila Kandahar Kalsi O Topra • Meerut Bahapur A Bairat Nigali Sagar O Lumbini O • Hampurva • Lauriya Nandangarh • La…"
+  }
+ ],
+ "Lampaka Minor RE": [
+  {
+   "source": "thapar",
+   "volume": "History of Early India By Thapar",
+   "scan_page": 365,
+   "matched": "lampaka",
+   "occurrences": 1,
+   "score": 32.3,
+   "snippet": "Map 5 Some Sites of the Mauryan Period PAROPAMISADAI Laghman/ -Baner 99 A Mansenra Lampaka Sodes *Shabbagarhi Taxila GANDHARA ARACHOSIA A Kandahar GEDROSIA Kalsi a Topral Meerue Bahapur es: (Delhi) Bairat 89 Bhabru Is Nigah-Sugar + Rumminde Sh…"
+  },
+  {
+   "source": "upinder",
+   "volume": "7. Maurayan Empire 324 B.C - 187 B.C",
+   "scan_page": 10,
+   "matched": "lampaka",
+   "occurrences": 1,
+   "score": 27.4,
+   "snippet": "…-east Afghanistan. Two Aramaic inscriptions were found at Laghman (in east Afghanistan) and one at Taxila. A bilingual Prakrit-Aramaic inscription was found at Lampaka and another one at Kandahar. Ashoka's inscriptions are divided into various categories. The two main categories are the 14 major rock edicts and 6 (in o…"
+  },
+  {
+   "source": "upinder",
+   "volume": "7. Maurayan Empire 324 B.C - 187 B.C",
+   "scan_page": 13,
+   "matched": "lampaka",
+   "occurrences": 1,
+   "score": 26.0,
+   "snippet": "-20° - 20° 116° 64° 100° A Laghman Lampaka A Shahbazgary OO Mansehra •Taxila Kandahar Kalsi O Topra • Meerut Bahapur A Bairat Nigali Sagar O Lumbini O • Hampurva • Lauriya Nandangarh • Lauriya Ar…"
+  }
+ ],
+ "Lauria Nandangarh and Lauriya Araraj": [],
  "Lumbini Pillar Inscription": [
   {
    "source": "upinder",
@@ -5608,6 +6185,35 @@
  ],
  "Nittur and Udegolam": [],
  "Palkigundu and gavimath": [],
+ "Panguraria Minor RE": [
+  {
+   "source": "upinder",
+   "volume": "7. Maurayan Empire 324 B.C - 187 B.C",
+   "scan_page": 11,
+   "matched": "panguraria",
+   "occurrences": 1,
+   "score": 28.7,
+   "snippet": "…) Ahraura (Mirzapur district, UP) (MRE 1) Saharam (Rohtas district, Bihar) (MRE 1) Gujjara (Datia district, MP) (MRE 1) Kupnath (Jabalpur district, MP) (MRE 1) Panguraria (Sehore district, MP) (MRE 1) Ilaski (Raichur district, Karnataka) (MRE 1) Gavimath (Raichur district, Karnataka) (MRE 1) Walkigundu (Raichur distric…"
+  },
+  {
+   "source": "upinder",
+   "volume": "7. Maurayan Empire 324 B.C - 187 B.C",
+   "scan_page": 13,
+   "matched": "panguraria",
+   "occurrences": 1,
+   "score": 26.0,
+   "snippet": "…la Kandahar Kalsi O Topra • Meerut Bahapur A Bairat Nigali Sagar O Lumbini O • Hampurva • Lauriya Nandangarh • Lauriya Araraj Pataliputra Bralımaputra Sanchi • Panguraria A Gujjara Kaushambi Sarath Ahraura 4 A A Rupnath Narmada Sahasram * Hill Barabar Gimar Tapti BHOJAS Sopara O ARABIAN SEA • Sannati Godavari -Udegolam…"
+  },
+  {
+   "source": "thapar",
+   "volume": "History of Early India By Thapar",
+   "scan_page": 149,
+   "matched": "panguraria",
+   "occurrences": 1,
+   "score": 17.3,
+   "snippet": "…Pataliputra, with a possible extension to Tamralipti. Routes through the peninsula are indicated by the location of the edicts at strategic points – Sahasram, Panguraria (near Hoshangabad), Sannathi. The sites of the inscriptions in southern Karnataka could also have been reached by sea along the eastern coast to the…"
+  }
+ ],
  "Patliputra": [],
  "Rajula Mandagiri": [
   {
@@ -5630,7 +6236,6 @@
   }
  ],
  "Rampurwa": [],
- "Runnindei": [],
  "Rupnath": [
   {
    "source": "thapar",
@@ -5736,7 +6341,6 @@
    "snippet": "…tra Bralımaputra Sanchi • Panguraria A Gujjara Kaushambi Sarath Ahraura 4 A A Rupnath Narmada Sahasram * Hill Barabar Gimar Tapti BHOJAS Sopara O ARABIAN SEA • Sannati Godavari -Udegolam Maski A ANDHRAS Nittur •Amaravati Gavimath A A Rajula Mandagiri Palkigundu A A Erragudi Jatinga Rameswas A Brahmagıri Siddapur BAY O…"
   }
  ],
- "Sarumaru": [],
  "Shahbazgarhi": [
   {
    "source": "upinder",
@@ -5889,44 +6493,6 @@
    "snippet": "…pi - 20° Bharukachchha Bhojakata Mainted B Tamralipti 20°- Pratishthana (Paithan) Sopara Potana *Kalinganagara Thaton® - 16° ARABIAN SEA Tungabhadra Krishna So Suvarnagiri BAY OF BENGAL Metres Above 5000 4000 2000 500 200฿ • Kanchipuram 12°- Muchiri. Madurai • Kaveripattinam Uttarapathta Dakshinapatha Other routes 8°-…"
   }
  ],
- "Tosali": [
-  {
-   "source": "upinder",
-   "volume": "7. Maurayan Empire 324 B.C - 187 B.C",
-   "scan_page": 29,
-   "matched": "tosali",
-   "occurrences": 1,
-   "score": 13.0,
-   "snippet": "…re in the Ganga valley. In Orissa, the two important sites are Sisupalgarh and Jaugada. The former, not far from Bhubaneswar, may represent the site of ancient Tosali. The mud fortification here, built in the early 2nd century BCE, was roughly square shaped, about 3/4 mile on each side. There is evidence of ancient hab…"
-  },
-  {
-   "source": "upinder",
-   "volume": "8. 200 B.C - 300 C.E",
-   "scan_page": 53,
-   "matched": "tosali",
-   "occurrences": 1,
-   "score": 9.0,
-   "snippet": "…which was a ditch. Remains of bead making were found at the site. There is greater amount of information from the site of Sisupalgarh, which may represent the Tosali mentioned in Ashoka's inscriptions, or Kalinganagara, the capital of Kharavela's kingdom. Excavations indicate occupation from the 3rd century BCE to the…"
-  },
-  {
-   "source": "upinder",
-   "volume": "7. Maurayan Empire 324 B.C - 187 B.C",
-   "scan_page": 36,
-   "matched": "tosali",
-   "occurrences": 1,
-   "score": 7.0,
-   "snippet": "…s centre at Suvarnagiri, a northern one with its headquarters at Taxila, a western one with its headquarters at Ujjayini, and an eastern one with its centre at Tosali. The Girnar inscription of Rudradaman mentions Pushyagupta, who was the rashtriya (governor) of Saurashtra in Chandragupta's time. Ashoka is supposed to…"
-  },
-  {
-   "source": "thapar",
-   "volume": "History of Early India By Thapar",
-   "scan_page": 168,
-   "matched": "tosali",
-   "occurrences": 1,
-   "score": 7.0,
-   "snippet": "…d been a core area in the Mauryan system and had been imprinted with the structure of a state through being under Mauryan administration. The Mauryan centre at Tosali developed into a Buddhist site, but Kalinga was also associated with Jaina monasteries, encouraged no doubt by the initial patronage of Kharavela. A long…"
-  }
- ],
  "Yerragudi": [
   {
    "source": "basham",
@@ -5985,7 +6551,44 @@
    "snippet": "The Aihole inscription of Pulakeshin The Meguti temple at Aihole (Bagalkot district, Karnataka) stands on top of a hill, commanding a panoramic view of the surround…"
   }
  ],
- "Bhitari pillar Ghazipur": [],
+ "Bhitari (Ghazipur)": [
+  {
+   "source": "upinder",
+   "volume": "9. 300 C.E - 600 C.E",
+   "scan_page": 62,
+   "matched": "bhitari",
+   "occurrences": 2,
+   "score": 24.2,
+   "snippet": "…hnava establishments. Several inscriptions recording gifts to temples of Vasudeva Krishna and Vishnu have been found at Tusham in Haryana, Nagari in Rajasthan, Bhitari and Gadhwa in Uttar Pradesh, and Eran, Mandasor, and Khoh in Madhya Pradesh. The Mehrauli iron pillar inscription of Chandra (mentioned earlier) refers…"
+  },
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 287,
+   "matched": "bhitari",
+   "occurrences": 1,
+   "score": 21.0,
+   "snippet": "…period was poor in terms of architecture. All that we find are a few temples made of brick in UP and a stone temple. The brick temples of Bhitargaon in Kanpur, Bhitari in Ghazipur, and Deogarh in Jhansi may be mentioned. The Buddhist university at Nalanda was set up in the fifth century, and its earliest structure, mad…"
+  },
+  {
+   "source": "upinder",
+   "volume": "3. Neolithic - Chalcolithic",
+   "scan_page": 39,
+   "matched": "bhitari",
+   "occurrences": 1,
+   "score": 16.2,
+   "snippet": "…Gomati GORAKHPUR • • Sohgaura • Imlidih Dhuriapar • Narhan Khairadin • Manjhi Bhunadih® • Chirand • Waina • Kaushambi ALLAHABAD • Jhusi Bhita TOMS Masondin. • Bhitari Rajghat *Prahladpur VARANASI Agiabir® Belmi •Senuwar Malhar. Raja-Nal-ka-Tila Gandak Area simon in • the main map Sonepur• • MUZAFFARPUR • Vaishali Chec…"
+  },
+  {
+   "source": "upinder",
+   "volume": "9. 300 C.E - 600 C.E",
+   "scan_page": 35,
+   "matched": "bhitari",
+   "occurrences": 1,
+   "score": 14.6,
+   "snippet": "…s were not, however, involved in a big way in this development. There is only one bonafide inscription recording a land grant made by a Gupta king. This is the Bhitari stone pillar inscription of Skandagupta, which records the gift of a village in favour of a Vishnu temple, but does not make any stipulations regarding…"
+  }
+ ],
  "Chandragiri Hill": [
   {
    "source": "upinder",
@@ -5998,7 +6601,64 @@
   }
  ],
  "Halmidi": [],
- "hathigumpa": [],
+ "Hathigumpha": [
+  {
+   "source": "upinder",
+   "volume": "1. Introduction, Sources, Historiography",
+   "scan_page": 65,
+   "matched": "hathigumpha",
+   "occurrences": 1,
+   "score": 21.8,
+   "snippet": "…(and some private ones too) usually begin with a prashasti, but some inscriptions are entirely devoted to eulogizing their subject. Well-known examples are the Hathigumpha inscription of Kharavela, a 1st century BCE/1st century CE king of Kalinga in Orissa, and the Allahabad prashasti of the 4th century Gupta emperor S…"
+  },
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 147,
+   "matched": "hathigumpha",
+   "occurrences": 1,
+   "score": 20.1,
+   "snippet": "…ese hills are easy to excavate but not very suitable for intricate carving. The stone is brittle and the caves have suffered much damage due to weathering. The Hathigumpha inscription, carved over an overhanging rock in front of Cave 14, connects these caves with the Mahameghavahana or Chedi dynasty of Kalinga, and dat…"
+  },
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 117,
+   "matched": "hathigumpha",
+   "occurrences": 1,
+   "score": 18.2,
+   "snippet": "…f passage, did not involve monks or any intermediary priestly class. Several important centres of Jainism of this period can be identified. The 1st century BCE Hathigumpha inscription of the Kalinga king Kharavela refers to his retrieving an image of a jina. This is the earliest epigraphic reference to image worship in…"
+  },
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 40,
+   "matched": "hathigumpha",
+   "occurrences": 1,
+   "score": 18.1,
+   "snippet": "…g to the remaining years of his reign. Similarly, in the first century BC Kharavela of Kalinga records a large number of events in his life year by year in the Hathigumpha inscription. Indians display a considerable historical sense in biographical writings, a good example of which is the composition of the Harshachari…"
+  }
+ ],
+ "Kudumiyamalai": [
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 37,
+   "matched": "kudumiyamalai",
+   "occurrences": 1,
+   "score": 20.3,
+   "snippet": "…12°- -10° •Erettimalal • Ammankoyilpatti O Elur Arachalura Kaveri Kodumanal Atturo d ugalur °Karur • Aiyarmalai 00 Tiruchrappalli Bittannavasal Karungalakkud • Kudumiyamalai Alagarmalai Mettuppatti • Pulankurichi Mangulam • Kilavalavu Sholavandah - Vikkiramangalam- *Aritapatty Evellarippatti E Pillaiyarpatti - Kunnakku…"
+  },
+  {
+   "source": "upinder",
+   "volume": "1. Introduction, Sources, Historiography",
+   "scan_page": 68,
+   "matched": "kudumiyamalai",
+   "occurrences": 1,
+   "score": 19.1,
+   "snippet": "…of inscribed monastic seals. Inscriptions reflect the history of languages and literature and a few refer to the performing arts. For instance, the 7th century Kudumiyamalai inscription gives the musical notes used in seven classical ragas. Inscriptions from Tamil Nadu refer to the performance of various kinds of dance…"
+  }
+ ],
  "Mehrauli": [
   {
    "source": "sharma",
@@ -6037,7 +6697,7 @@
    "snippet": "…ti Smriti mentions metal workers working with gold, silver, and base metals. Apart from the many iron objects found at archaeological sites, the iron pillar at Mehrauli reflects the high level of metallurgical skill of the time. Coin casting, metal engraving, pottery making, terracotta work, and wood carving were other…"
   }
  ],
- "nanaghat": [
+ "Nanaghat": [
   {
    "source": "upinder",
    "volume": "8. 200 B.C - 300 C.E",
@@ -6068,9 +6728,19 @@
    "snippet": "The Rabatak inscription throws important light on Kushana genealogy. N. Sims-Williams and Joe Cribb thought that line 13 referred to a hitherto unknown Kushana king…"
   }
  ],
- "Shajahanpur": [],
- "Uttirameru": [],
- "Amarkantak1": [],
+ "Banskhera (Shahjahanpur)": [
+  {
+   "source": "upinder",
+   "volume": "10. Early Medieval 600 A.D - 1200 A.D",
+   "scan_page": 30,
+   "matched": "banskhera",
+   "occurrences": 3,
+   "score": 9.0,
+   "snippet": "…ya-terms known from earlier inscriptions. Xuanzang gives a stereotyped description of the army as consisting of infantry, cavalry, chariots, and elephants. The Banskhera and Madhuban inscriptions refer to the king's camp of victory containing boats, elephants, and horses. Inscriptional evidence suggests that the early…"
+  }
+ ],
+ "Uthiramerur": [],
+ "Amarkantak": [],
  "Badami": [
   {
    "source": "upinder",
@@ -6158,6 +6828,45 @@
    "snippet": "…mentation decorated pilasters, jambs, medallions, chaitya arches, vegetal scrolls, grotesque heads, etc.—which have been found at the site. The brick temple at Bhitargaon was faced with terracotta panels and other sorts of ornamentation, only a few traces of which survive. Among the remarkable pieces of monumental"
   }
  ],
+ "Bhojpur": [
+  {
+   "source": "upinder",
+   "volume": "9. 300 C.E - 600 C.E",
+   "scan_page": 80,
+   "matched": "bhojpur",
+   "occurrences": 1,
+   "score": 25.8,
+   "snippet": "…Rajgir. It refers to maharajadhiraja Chandra, who must be one of the two Gupta kings of this name. Metal images of the tirthankaras have been found at Chausa (Bhojpur district, Bihar). Digambara establishments were also located in Bengal. A copper plate inscription found at Paharpur in Bangladesh records a gift made b…"
+  },
+  {
+   "source": "basham",
+   "volume": "The Wonder that was India by A.L. Basham",
+   "scan_page": 265,
+   "matched": "bhojpur",
+   "occurrences": 1,
+   "score": 23.1,
+   "snippet": "EVERYDAY LIFE: THE DAILY ROUND IN CITY AND VILLAGE 193 irrigation until recent years was the lake at Bhojpur, near Bhopal, built in the middle of the 11th century by Bhoja Paramara, the king of Dhara. This too has vanished; the embankment was breached by the Mu…"
+  },
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 126,
+   "matched": "bhojpur",
+   "occurrences": 1,
+   "score": 22.9,
+   "snippet": "…these niches. CENTRAL INDIAN STUPAS SANCHI AND BHARHUT The many Buddhist monastic sites in central India include Bharhut, Sanchi, Satdhara, Andher, Sonari, and Bhojpur. Of these, those of Bharhut and Sanchi have been best studied. The sculptures at Bharhut range from the 3rd century BCE to the end of the 2nd century BC…"
+  },
+  {
+   "source": "mehta1",
+   "volume": "JL Mehta Vol I Advanced-Study-In-The-History-Of-Medieval-India",
+   "scan_page": 136,
+   "matched": "bhojpur",
+   "occurrences": 1,
+   "score": 18.9,
+   "snippet": "…us Turko-Afghan officers (igtadars) with the instruc- tions to crush the insubordinate 'infidels' by an iron hand. He built strong forts at Kampil, Patiali and Bhojpur which were heavily garrisoned by the state troops, ready to help the iqtadars in their punitive expeditions against the Hindu rebels. The Muslim seftler…"
+  }
+ ],
+ "Bishnupur": [],
  "Champaner": [
   {
    "source": "chandra1",
@@ -6327,7 +7036,7 @@
    "snippet": "…hair-dressing, 211 HSla, k. and poet. 461 Halebid (Dorasamudra), c., 76, 369 Hamilton, Alexander, 6 Hammira, k., 431—2 blammira-ynahakavya,of Nayacandra, 431-2 Hampi, site of Vijayanagara, 369 hamsa, a type of goose, usually translated \"swan\", 3i6n. Hamimant, monkey-god, SOS, 316, 413 Hanxleden, Father, 4 Harappa, arch…"
   }
  ],
- "Jagganath and Konark Sun temple": [],
+ "Jagannath and Konark Sun Temple": [],
  "Kamakhya": [
   {
    "source": "upinder",
@@ -6415,7 +7124,9 @@
    "snippet": "…tative of Jaina architecture in western India. They are richly adorned with sculpture, which, though profuse, is subsidiary to the architecture. The temples at Khajuraho – Lakshmana and Kandariya Mahadeo – are among the best examples of the Bundelkhand group in central India, and these too are rich in sculpture. They d…"
   }
  ],
+ "Katarmal Sun Temple": [],
  "Lingaraj temple": [],
+ "Lonar": [],
  "Madurai Meenakshi temple": [
   {
    "source": "mehta1",
@@ -6454,46 +7165,47 @@
    "snippet": "…fter, Ibn Battuta bade farewell to Delhi and moved on his sojourn again; after visiting Maldive islands and Ceylon, he returned to southern India and stayed at Madura for a short while. From there he went to Mecca on a haj pilgrimage before his return to his homeland in 1349. Ibn Battuta received a warm reception from…"
   }
  ],
- "Mahabalipuram Shore temple": [
-  {
-   "source": "upinder",
-   "volume": "10. Early Medieval 600 A.D - 1200 A.D",
-   "scan_page": 146,
-   "matched": "mamallapuram",
-   "occurrences": 2,
-   "score": 32.0,
-   "snippet": "…0 CE), and Narasimhavarman II Rajasimha (700-728 CE), were great patrons of the arts. The remains of the architecture of the Pallava period are mostly found at Mamallapuram and Kanchipuram (see Meister and Dhaky, 1983: 23-80). They comprise cave temples, monolithic temples, and structural temples. Pallava sculpture has…"
-  },
+ "Mahabalipuram": [
   {
    "source": "sharma",
    "volume": "India Ancient Past By RS Sharma",
    "scan_page": 311,
-   "matched": "mamallapuram",
-   "occurrences": 1,
-   "score": 26.2,
-   "snippet": "…t Mahabalipuram, at a distance of 65 km from Chennai. These were built in the seventh century by Narasimhavarman, who founded the port city of Mahabalipuram or Mamallapuram. This city is also famous for the Shore Temple, which was a structural construction erected independently and not hewn out of rock. In addition, th…"
+   "matched": "mahabalipuram",
+   "occurrences": 2,
+   "score": 28.0,
+   "snippet": "…kings constructed a number of stone temples in the seventh and eighth centuries for housing these gods. The most famous of them are the seven ratha temples at Mahabalipuram, at a distance of 65 km from Chennai. These were built in the seventh century by Narasimhavarman, who founded the port city of Mahabalipuram or Ma…"
   },
   {
-   "source": "upinder",
-   "volume": "10. Early Medieval 600 A.D - 1200 A.D",
-   "scan_page": 153,
-   "matched": "mamallapuram",
-   "occurrences": 4,
-   "score": 22.6,
-   "snippet": "NAKULA-SAHADEVA The other group of architectural remains at Mamallapuram are nine rock-cut temples, of which five are clustered together. The name of the great Pallava builder king Mamalla was in later times misunderstoo…"
+   "source": "thapar",
+   "volume": "History of Early India By Thapar",
+   "scan_page": 270,
+   "matched": "mahabalipuram",
+   "occurrences": 2,
+   "score": 27.9,
+   "snippet": "…may partly account for the prolonged popularity of the rock-cut shrine and temple. Stone structural temples were built at Aihole in the late sixth century, at Mahabalipuram – the famous Shore temple – in the seventh century, and at Kanchipuram. But, as a form, examples of the rock-cut temple continued to the Chola per…"
   },
   {
-   "source": "basham",
-   "volume": "The Wonder that was India by A.L. Basham",
-   "scan_page": 457,
-   "matched": "mamallapuram",
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 13,
+   "matched": "mahabalipuram",
    "occurrences": 1,
-   "score": 18.9,
-   "snippet": "…asanatha, \"the most stupendous single work of art executed in India\"'.* Kailasanatha is not the earliest temple hewn from solid rock. Others are to be found at Mamallapuram, on the sea-coast some thirty miles south of Madras, where seventeen temples, none very large in size, were carved from outcropping hillocks of gra…"
+   "score": 24.5,
+   "snippet": "…ed Coins, Age of Buddha 11. Scene from Mrichchakatika, Mathura, Kushan, Second Century AD 12. Stupa Site III, Nalanda, Gupta Period 13. Gupta Coins 14. Rathas, Mahabalipuram, Gupta Period 15. Nara-Narayana, Deogarh, Gupta Period"
+  },
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 250,
+   "matched": "mahabalipuram",
+   "occurrences": 1,
+   "score": 22.3,
+   "snippet": "PLATE 14 Rathas, Mahabalipuram, Gupta Period. Courtesy ASI"
   }
  ],
+ "Manali": [],
  "Martand Sun temple": [],
- "masrur rock cut temple": [],
+ "Masrur Rock-cut Temple": [],
  "Modhera": [
   {
    "source": "thapar",
@@ -6545,8 +7257,66 @@
    "snippet": "BRONZE IMAGE OF MANIKKAVACHAKAR (NATIONAL MUSEUM, NEW DELHI) Pattadakal is a sleepy village nestled in a bend of the Malaprabha river in Bagalkot district of Karnataka. It is famous for its exquisite temples, which were b…"
   }
  ],
+ "Pushkar": [
+  {
+   "source": "chandra2",
+   "volume": "2. Medieval-History-Satish-Chandra-1526-1748-Part-2_xaam.in",
+   "scan_page": 222,
+   "matched": "pushkar",
+   "occurrences": 2,
+   "score": 10.0,
+   "snippet": "…ersing long distances, bring their offerings, and pray to the black (stone) image\". No attempt was made to put a stop to this practice. Earlier, while visiting Pushkar, Jahangir was shocked to find that the Hindus worshipped Vishnu in the form of a varaha (boar). He ordered the image to be broken noting that the Hindu…"
+  },
+  {
+   "source": "upinder",
+   "volume": "2. Palaeolithic and Mesolithic",
+   "scan_page": 29,
+   "matched": "pushkar",
+   "occurrences": 1,
+   "score": 9.0,
+   "snippet": "…upper palaeolithic sites is fewer than those of the preceding phase, due to increasing aridity. However, there was continuing human occupation around the Budha Pushkar lake. In central India, upper palaeolithic habitation sites have been found in caves and rock shelters of the Vindhyas. The upper palaeolithic context i…"
+  },
+  {
+   "source": "upinder",
+   "volume": "4. Harappan Civilization",
+   "scan_page": 41,
+   "matched": "pushkar",
+   "occurrences": 1,
+   "score": 9.0,
+   "snippet": "Singh (1971) analysed pollen from the three salt lakes of Sambhar, Didwana, and Lunkaransar, and the freshwater Pushkar lake, and constructed a profile of rainfall in this part of Rajasthan from c. 8000 BCE to 1500 BCE. He concluded that there was an increase in rainfall…"
+  },
+  {
+   "source": "upinder",
+   "volume": "2. Palaeolithic and Mesolithic",
+   "scan_page": 25,
+   "matched": "pushkar",
+   "occurrences": 1,
+   "score": 7.0,
+   "snippet": "…ts of the Thar, especially near rivers and lakes. A large number of stone age sites belonging to the middle palaeolithic phase onwards are located around Budha Pushkar lake, an area which offers advantages of the easy availability of water and stone. Middle and upper palaeolithic tools are also found around Ajmer. Ther…"
+  }
+ ],
  "Rajim": [],
  "Shamalji": [],
+ "Sibsagar": [
+  {
+   "source": "chandra1",
+   "volume": "1. Medieval History Part 1 Satish Chandra xaam.in",
+   "scan_page": 191,
+   "matched": "sibsagar",
+   "occurrences": 1,
+   "score": 9.0,
+   "snippet": "…ra valley from Yunan in the first half of the 13th century and, under their ruler Sukapha, established their control over the modern districts of Dibrugarh and Sibsagar. In course of time, the entire valley began to be called Assam after their name. We have already seen how Muhammed bin Baktiyar Khalji had led an exped…"
+  },
+  {
+   "source": "upinder",
+   "volume": "10. Early Medieval 600 A.D - 1200 A.D",
+   "scan_page": 107,
+   "matched": "sibsagar",
+   "occurrences": 1,
+   "score": 3.0,
+   "snippet": "SAPTA-MATRIKA SCULPTURE (NATIONAL MUSEUM) MAHISHASURAMARDINI: SIVADOL TEMPLE, SIBSAGAR"
+  }
+ ],
  "Somnath": [
   {
    "source": "mehta1",
@@ -6585,6 +7355,7 @@
    "snippet": "…ons also ended, once for all, the attempt of the Shahis to recover their lost dominions. The story of Mahmud's last plundering raid in 1025 across Rajasthan to Somnath is too well-known to be repeated here in detail. This expedition once again demonstrated the capacity of the Turks of swift movement over unknown and ho…"
   }
  ],
+ "Sri Ranganathswami temple": [],
  "Tigawa": [
   {
    "source": "upinder",
@@ -6596,7 +7367,26 @@
    "snippet": "…cture. Most of the surviving temples are located in the hilly areas of Madhya Pradesh and are in a ruined state. The stone temples include the Vishnu temple at Tigawa, the Shiva temples at Bhumara and Khoh, the Parvati temple at Nachna-Kuthara, and the Buddhist shrines at Sanchi. Outside central India, there is the Bud…"
   }
  ],
- "Uttiramerur": [],
+ "Tirupati": [
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 30,
+   "matched": "tirupati",
+   "occurrences": 1,
+   "score": 26.4,
+   "snippet": "…a from the site of Kodumanal suggests the possibility of earlier beginnings, at least the 4th century BCE. The early kingdoms of Tamilakam the land between the Tirupati hills (Vengadam) and the southernmost tip of the peninsula emerged in rice-growing areas of rich agricultural potential. The principality of the Cholas…"
+  },
+  {
+   "source": "upinder",
+   "volume": "10. Early Medieval 600 A.D - 1200 A.D",
+   "scan_page": 118,
+   "matched": "tirupati",
+   "occurrences": 1,
+   "score": 18.9,
+   "snippet": "…livestock and paddy. The number of such donations went up dramatically from the Pallava to the Chola periods. For instance, among the donative inscriptions at Tirupati, 11 belong to the Pallavas, and 31 to the Cholas. Royal land grants to temples were made in perpetuity and were asociated with several tax exemptions a…"
+  }
+ ],
  "Barabar Caves": [
   {
    "source": "basham",
@@ -6675,12 +7465,50 @@
  ],
  "Malayadipatti": [],
  "Sitabinji": [],
- "Thirunadhikkara": [],
- "Udaigiri in MP": [],
+ "Thirunandikkara": [],
+ "Udayagiri (Vidisha)": [
+  {
+   "source": "upinder",
+   "volume": "9. 300 C.E - 600 C.E",
+   "scan_page": 98,
+   "matched": "udayagiri",
+   "occurrences": 3,
+   "score": 30.1,
+   "snippet": "…eum, but probably originally at Eran (ancient Erakina), has a human body and boar's head. The figure is more stout and muscular than that of his counterpart at Udayagiri, and conveys a sense of formidable strength and power. Not far from Eran is a colossal, free standing image of the god in his boar incarnation, depict…"
+  },
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 146,
+   "matched": "udayagiri",
+   "occurrences": 2,
+   "score": 29.5,
+   "snippet": "…two sets of early paintings in Chaitya 9 one represents a scene with herdsmen and animals, while the other shows nagas approaching a stupa. THE JAINA CAVES AT UDAYAGIRI AND KHANDAGIRI The Udayagiri and Khandagiri hills in Puri district, Orissa, are located about 6 km west from Bhubaneswar, not far from the site of Shi…"
+  },
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 148,
+   "matched": "udayagiri",
+   "occurrences": 3,
+   "score": 24.4,
+   "snippet": "VERANDAH OF CAVE 10, UDAYAGIRI-KHANDAGIRI Mitra (1992: 9-10) points out that there are several striking similarities between the arched and convex ceilings of these caves and the ce…"
+  },
+  {
+   "source": "upinder",
+   "volume": "9. 300 C.E - 600 C.E",
+   "scan_page": 67,
+   "matched": "udayagiri",
+   "occurrences": 2,
+   "score": 23.6,
+   "snippet": "representation of the fierce aspect of the goddess. Many Mahishasuramardini images of this period have been found, including at Udayagiri and Bhumara in central India. A relief of Durga Mahishasuramardini is carved outside Cave 6 at Udayagiri in Madhya Pradesh. The carving is quite damag…"
+  }
+ ],
  "Undavalli Caves": [],
  "Armamalai Caves": [],
  "Dharashiv caves": [],
  "Kambadahalli": [],
+ "Kumbharia": [],
  "Mirpur": [],
  "Parasnath": [],
  "Pavapuri": [
@@ -6742,6 +7570,17 @@
    "occurrences": 1,
    "score": 3.0,
    "snippet": "…GANGAS Somanarhapurs * •Kanchipuram • Uttaramerur *Mahabalipuram U Thirechirapally Uraiyur ABAR Gamgrikondacholapuram • Kaveripattinam **Nagapattinam Tantavur Sittanavasal Vane Madiniat • Shaliyur RUM •Korkai • Amuradhapura • Pollunaruva Land above 300 metres"
+  }
+ ],
+ "Sonagiri": [
+  {
+   "source": "upinder",
+   "volume": "10. Early Medieval 600 A.D - 1200 A.D",
+   "scan_page": 97,
+   "matched": "sonagiri",
+   "occurrences": 1,
+   "score": 7.0,
+   "snippet": "…ha, Girnar, and Valabhi, which was famous for its temple of Chandraprabha and a temple dedicated to Mahavira. In central India, Jaina establishments existed at Sonagiri and Khajuraho. In western India, there were well-established Jaina centres at Nasik and Pratishthana. There are Jaina caves at Ellora. In Orissa, the J…"
   }
  ],
  "Udaigiri Khandagiri": [],
@@ -6842,6 +7681,45 @@
   }
  ],
  "Nabadwip - Chaitanya": [],
+ "Puri": [
+  {
+   "source": "upinder",
+   "volume": "10. Early Medieval 600 A.D - 1200 A.D",
+   "scan_page": 118,
+   "matched": "puri",
+   "occurrences": 1,
+   "score": 20.2,
+   "snippet": "…worship of the deity Purushottama (later known as Jagannatha) was raised to the status of an imperial cult with the construction of the Purushottama temple at Puri by the Ganga king Anantavarman Chodaganga. According to tradition, Anantavarman's aim was to build a temple more magnificent than the Brihadishvara temple…"
+  },
+  {
+   "source": "upinder",
+   "volume": "7. Maurayan Empire 324 B.C - 187 B.C",
+   "scan_page": 11,
+   "matched": "puri",
+   "occurrences": 1,
+   "score": 19.8,
+   "snippet": "…ally at Sopara in Thana district, Maharashtra; now in the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Mumbai only fragments of rock edicts 8 and 9) Dhauli (Puri district, Orissa; separate rock edicts 1 and 2 replace major rock edicts 11-13) Baugada (Ganjam district, Orissa; separate rock edicts 1 and 2 replace majo…"
+  },
+  {
+   "source": "thapar",
+   "volume": "History of Early India By Thapar",
+   "scan_page": 263,
+   "matched": "puri",
+   "occurrences": 1,
+   "score": 19.6,
+   "snippet": "…tised and a systematized V edanta was taught. These were visualized as parallel to monasteries and are said to have been located at Badrinath in the Himalayas, Puri in Orissa, Dvarka on the western coast, and the most important at Shringeri in the south. All these places collected large numbers of pilgrims and have bee…"
+  },
+  {
+   "source": "thapar",
+   "volume": "History of Early India By Thapar",
+   "scan_page": 366,
+   "matched": "puri",
+   "occurrences": 1,
+   "score": 19.6,
+   "snippet": "Map & Nosth Indis and West Asia 2. 200 BC 1O AD 700 Puri HARIAN SEA Map 7 Central Asia and China Aral Sea • Turfan Qarshuahı •Damhuun: SOCDIANA kasher •Yarkaol Khrean •Niva MARGIANA Kalkb (Bacua)» Sukh Tehkucan *…"
+  }
+ ],
+ "Pushpagiri": [],
  "Sharda Peeth": [],
  "Sringeri": [
   {
@@ -6881,6 +7759,7 @@
    "snippet": "…champoined the cause of liberation of the south from the Turkish domination. In 1336, with the assis- tance and blessings of the celebrated sage Vidyaranya of Sringeri, they founded a new habitat at a strategic location, surrounded by hills and forests, on the bank of the Tungbhadra river, as a place 1. For details re…"
   }
  ],
+ "Udupi": [],
  "Arikamedu": [
   {
    "source": "upinder",
@@ -7311,44 +8190,6 @@
   }
  ],
  "Macchilapatnam": [],
- "Mahabalipuram": [
-  {
-   "source": "sharma",
-   "volume": "India Ancient Past By RS Sharma",
-   "scan_page": 311,
-   "matched": "mahabalipuram",
-   "occurrences": 2,
-   "score": 28.0,
-   "snippet": "…kings constructed a number of stone temples in the seventh and eighth centuries for housing these gods. The most famous of them are the seven ratha temples at Mahabalipuram, at a distance of 65 km from Chennai. These were built in the seventh century by Narasimhavarman, who founded the port city of Mahabalipuram or Ma…"
-  },
-  {
-   "source": "thapar",
-   "volume": "History of Early India By Thapar",
-   "scan_page": 270,
-   "matched": "mahabalipuram",
-   "occurrences": 2,
-   "score": 27.9,
-   "snippet": "…may partly account for the prolonged popularity of the rock-cut shrine and temple. Stone structural temples were built at Aihole in the late sixth century, at Mahabalipuram – the famous Shore temple – in the seventh century, and at Kanchipuram. But, as a form, examples of the rock-cut temple continued to the Chola per…"
-  },
-  {
-   "source": "sharma",
-   "volume": "India Ancient Past By RS Sharma",
-   "scan_page": 13,
-   "matched": "mahabalipuram",
-   "occurrences": 1,
-   "score": 24.5,
-   "snippet": "…ed Coins, Age of Buddha 11. Scene from Mrichchakatika, Mathura, Kushan, Second Century AD 12. Stupa Site III, Nalanda, Gupta Period 13. Gupta Coins 14. Rathas, Mahabalipuram, Gupta Period 15. Nara-Narayana, Deogarh, Gupta Period"
-  },
-  {
-   "source": "sharma",
-   "volume": "India Ancient Past By RS Sharma",
-   "scan_page": 250,
-   "matched": "mahabalipuram",
-   "occurrences": 1,
-   "score": 22.3,
-   "snippet": "PLATE 14 Rathas, Mahabalipuram, Gupta Period. Courtesy ASI"
-  }
- ],
  "Muziris": [
   {
    "source": "thapar",
@@ -7372,19 +8213,19 @@
    "source": "upinder",
    "volume": "8. 200 B.C - 300 C.E",
    "scan_page": 59,
-   "matched": "muziris",
+   "matched": "muchiri",
    "occurrences": 1,
    "score": 7.0,
-   "snippet": "…hchalur, recording donations made by Chera rulers as well as craftspeople and merchants; one of the merchants is specifically associated with Karur. Muchirithe Muziris of classical accounts—was the foremost port in the Chera kingdom. The Periplus speaks of cargo-laden ships landing here from Arabia and Egypt, and gives…"
+   "snippet": "…ry document known as the Vienna Papyrus records an agreement concerning the transportation of goods between two merchants—one based in Alexandria, the other in Muchiri. Madurai (in Madurai district, TN), capital of the Pandya kingdom, is celebrated in Tamil tradition as the place where the third Sangam was held. There…"
   },
   {
    "source": "upinder",
    "volume": "8. 200 B.C - 300 C.E",
    "scan_page": 68,
-   "matched": "muziris",
+   "matched": "muchiri",
    "occurrences": 1,
    "score": 7.0,
-   "snippet": "…an), Tagara (Ter), Suppara (So-para), and Calliena (Kalyan). Strabo talks of boats from the sea sailing up the Ganga to Pataliputra. Further south, the port of Muziris (Muchiri) was important. There was active coastal trade as well. The ports on the eastern coast gradually emerged as a significant factor in India-Medit…"
+   "snippet": "…ra (Ter), Suppara (So-para), and Calliena (Kalyan). Strabo talks of boats from the sea sailing up the Ganga to Pataliputra. Further south, the port of Muziris (Muchiri) was important. There was active coastal trade as well. The ports on the eastern coast gradually emerged as a significant factor in India-Mediterranean…"
   }
  ],
  "Mylapore": [
@@ -7396,6 +8237,26 @@
    "occurrences": 1,
    "score": 18.7,
    "snippet": "…omas is said to have arrived in Malabar in about AD 5Z, the assumption being that he was the disciple of Jesus Christ. Tradition has it that he was martyred at Mylapore near Madras, but historical evidence to back this claim is unavailable. Other versions from eastern Mediterranean traditions have him coming from Socot…"
+  }
+ ],
+ "Nirppeyarru": [
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 58,
+   "matched": "nirppeyarru",
+   "occurrences": 1,
+   "score": 19.5,
+   "snippet": "…katur Kodumanal 041 500 Kaveri Karur Kodumbalur d TAMIL NADU A Madurai Yaippar *Korkai Palar Kanchipuramd Cheyyat Cengam Д4 Kovalur Coleroon -Uraiyur Mailarpha Nirppeyarru Sopatma •Arikamedu Royal centre • Chiefly centre * Port O Constal town * Craft centre O Punch marked coins A Tamil-Brahmi inscriptions • Local coins…"
+  },
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 61,
+   "matched": "nirppeyarru",
+   "occurrences": 1,
+   "score": 14.1,
+   "snippet": "…ick structures, terracotta double ring wells, and heaps of shell lime and beads. However, no BRW was reported. It is possible that Vasavasamudram may represent Nirppeyarru, a port mentioned in texts. There are a large number of megalithic sites in the Krishna and Kaveri valleys, especially along the major trade routes.…"
   }
  ],
  "Puhar": [
@@ -7764,19 +8625,57 @@
    "source": "upinder",
    "volume": "8. 200 B.C - 300 C.E",
    "scan_page": 59,
-   "matched": "muziris",
+   "matched": "muchiri",
    "occurrences": 1,
    "score": 7.0,
-   "snippet": "…hchalur, recording donations made by Chera rulers as well as craftspeople and merchants; one of the merchants is specifically associated with Karur. Muchirithe Muziris of classical accounts—was the foremost port in the Chera kingdom. The Periplus speaks of cargo-laden ships landing here from Arabia and Egypt, and gives…"
+   "snippet": "…ry document known as the Vienna Papyrus records an agreement concerning the transportation of goods between two merchants—one based in Alexandria, the other in Muchiri. Madurai (in Madurai district, TN), capital of the Pandya kingdom, is celebrated in Tamil tradition as the place where the third Sangam was held. There…"
   },
   {
    "source": "upinder",
    "volume": "8. 200 B.C - 300 C.E",
    "scan_page": 68,
-   "matched": "muziris",
+   "matched": "muchiri",
    "occurrences": 1,
    "score": 7.0,
-   "snippet": "…an), Tagara (Ter), Suppara (So-para), and Calliena (Kalyan). Strabo talks of boats from the sea sailing up the Ganga to Pataliputra. Further south, the port of Muziris (Muchiri) was important. There was active coastal trade as well. The ports on the eastern coast gradually emerged as a significant factor in India-Medit…"
+   "snippet": "…ra (Ter), Suppara (So-para), and Calliena (Kalyan). Strabo talks of boats from the sea sailing up the Ganga to Pataliputra. Further south, the port of Muziris (Muchiri) was important. There was active coastal trade as well. The ports on the eastern coast gradually emerged as a significant factor in India-Mediterranean…"
+  }
+ ],
+ "Kolar": [
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 53,
+   "matched": "kolar",
+   "occurrences": 1,
+   "score": 23.6,
+   "snippet": "around 1800 BC in Karnataka. We have no indication of its exploitation till the beginning of the second century AD. Kolar is considered to be the earliest capital of the Gangas of south Karnataka. Much of the gold used in early times was obtained from Central Asia and the Rom…"
+  },
+  {
+   "source": "upinder",
+   "volume": "9. 300 C.E - 600 C.E",
+   "scan_page": 23,
+   "matched": "kolar",
+   "occurrences": 1,
+   "score": 22.7,
+   "snippet": "…egion, the western Gangas came to the fore from the later half of the 4th century CE. The founder of the line was Kongunivarman or Madhava, with his capital at Kolar. The middle of the 6th century saw the Chalukyas of Badami rise to power in the Karnataka area. In the eastern Deccan, in the Guntur area of Andhra Prades…"
+  },
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 308,
+   "matched": "kolar",
+   "occurrences": 1,
+   "score": 22.5,
+   "snippet": "…in Kalinga from the fifth century onwards. For most of their reign, the Western Gangas were feudatories of the Pallavas. Their earliest capital was located at Kolar which, given its gold mines, may have helped the rise of this dynasty. The Western Gangas made land grants mostly to the Jainas; the Kadambas also made gr…"
+  },
+  {
+   "source": "sharma",
+   "volume": "India Ancient Past By RS Sharma",
+   "scan_page": 226,
+   "matched": "kolar",
+   "occurrences": 1,
+   "score": 20.7,
+   "snippet": "…ese districts show signs of iron working that dates to the megalithic phase in the first millennium BC. Evidence of ancient gold workings has been found in the Kolar fields in the pre-Christian centuries and later. The Satavahanas may have used gold as bullion, for they did not issue gold coins as did the Kushans. By a…"
   }
  ],
  "Madurai": [
@@ -7815,6 +8714,55 @@
    "occurrences": 3,
    "score": 25.9,
    "snippet": "…an and Maharashtra areas. In South India, the Digambara sect was strong in the Karnataka area. A Jaina council (sangam) was convened in the late 5th century at Madurai under Vajranandi. Kanchi was another important Jaina centre. Influential Jaina teachers such as Kundakunda are described as southerners, and certain tra…"
+  }
+ ],
+ "Mukhalingam": [
+  {
+   "source": "upinder",
+   "volume": "9. 300 C.E - 600 C.E",
+   "scan_page": 23,
+   "matched": "mukhalingam",
+   "occurrences": 1,
+   "score": 17.1,
+   "snippet": "…s in south Kalinga. These kings were probably a branch of the Western Gangas and were migrants from Karnataka. Their capital was Kalinganagara, identified with Mukhalingam in Ganjam district. In northern and central Orissa, inscriptions refer to the rule of dynasties such as the Vigrahas and Mudgalas/Manas and feudator…"
+  }
+ ],
+ "Nagar": [
+  {
+   "source": "upinder",
+   "volume": "5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc",
+   "scan_page": 96,
+   "matched": "nagar",
+   "occurrences": 1,
+   "score": 23.7,
+   "snippet": "…girpur and Hulas in western UP), it is preceded by a late Harappan level, with an intervening break in occupation. At other sites (e.g., Dadheri, Katpalon, and Nagar in the Punjab and Bhagwanpura in Haryana), there is an overlap between the PGW and late Harappan phase. At some sites (e.g., Hastinapura and Ahichchhatra…"
+  },
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 154,
+   "matched": "nagar",
+   "occurrences": 1,
+   "score": 22.3,
+   "snippet": "BUDDHA IMAGE FROM GOVIND NAGAR, MATHURA A few other sculptures from Vidisha are assigned to the 'Shunga' period, i.e., 2nd century BCE-1st century CE. These include a pillar capital in…"
+  },
+  {
+   "source": "upinder",
+   "volume": "3. Neolithic - Chalcolithic",
+   "scan_page": 24,
+   "matched": "nagar",
+   "occurrences": 1,
+   "score": 21.9,
+   "snippet": "…agricultural settlements also spread into the central Ganga plain. This is indicated by recent excavations (Tiwari et al., 2001-02) at Lahuradeva in Sant Kabir Nagar district in eastern Uttar Pradesh. The 220 × 140 m mound here stands about 4 m above the surrounding plain, surrounded by a lake on three sides. The site…"
+  },
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 19,
+   "matched": "nagar",
+   "occurrences": 1,
+   "score": 19.0,
+   "snippet": "…Malavas were originally located in the Punjab; from here, a large section of them migrated to Rajasthan. Their capital was Malavanagara, identified with modern Nagar. Large numbers of coins referring to the Malava janapada have been found in and around this place. Some bear the legend jayo Malavanam or Malavanam jayah.…"
   }
  ],
  "Nagarjuna Hills or Vijaypuri": [
@@ -8047,6 +8995,45 @@
    "snippet": "…and then marched to Dipalpur where he received Alam Khan and Daulat Khan Lodi. Babur ignored the claims of Daulat Khan for Lahore, and posted his own men at 28 Sialkot, Lahore and Kalanaur before returning to Kabul. He assigned Dipalpur to Alam Khan. However, Ibrahim Lodi ousted Alam Khan from Dipalpur. Alam Khan now f…"
   }
  ],
+ "Tagara or Ter": [
+  {
+   "source": "upinder",
+   "volume": "6. 600 B.C -300 B.C North India Mahajanpads onwards",
+   "scan_page": 46,
+   "matched": "tagara",
+   "occurrences": 1,
+   "score": 33.3,
+   "snippet": "…y historical occupation at Nasik goes back to c. 400 BCE. The mud core of a stupa found at Pauni in the Wainganga valley also appears to belong to this period. Tagara, an important market town, is identified with Ter on the Terna river. Period I here has NBPW. Adam in Nagpur district has given evidence of a 10 ha site…"
+  },
+  {
+   "source": "upinder",
+   "volume": "7. Maurayan Empire 324 B.C - 187 B.C",
+   "scan_page": 29,
+   "matched": "tagara",
+   "occurrences": 1,
+   "score": 28.2,
+   "snippet": "…of ancient Vidisha, the rampart, built in 2nd century BCE, enclosed an area of about 240 ha. In Maharashtra, there are signs of the beginnings of urbanism. At Tagara (Ter), the earliest level had NBPW and a black-and-red burnished pottery, and seems to date to the 3rd-2nd centuries BCE. The fact that a set of Ashokan…"
+  },
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 68,
+   "matched": "tagara",
+   "occurrences": 1,
+   "score": 20.3,
+   "snippet": "…north-west, Patala and Bhrigukachchha in the west, and Tamralipti in the east. The Periplus refers to market towns of western India such as Paithana (Paithan), Tagara (Ter), Suppara (So-para), and Calliena (Kalyan). Strabo talks of boats from the sea sailing up the Ganga to Pataliputra. Further south, the port of Muzir…"
+  },
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 78,
+   "matched": "tagara",
+   "occurrences": 1,
+   "score": 15.7,
+   "snippet": "sukephalos Tomuna Minnagar •Ozene NIOS Narmada MADOS •Parthana •Tagara 'andagora Krishna. antion -CHENNAI *Sopatma Pandion Pandya Kolkhoi THINA Galige BENARES CALCUTTA D DESARENE Sanga River & Town BAY O F BENGAL KHRUSE Metr…"
+  }
+ ],
+ "Talakadu": [],
  "Thanesar or Sthanisvara": [
   {
    "source": "mehta1",
@@ -8123,6 +9110,7 @@
    "snippet": "…, see Amir Timur Tirumala, 273 Token currency, 203-9 Topra, 14 fn, 15 Toynbee, Arnold 1, 42, 84-86 Transoxiana, 160, 163, 208 Travelogues, the 19-20 Tripura or Tripuri, 36 Tughluq, Firoze Shah, 12-13, 15-16, 221-239,293,296 -, Ghaisuddin I, 10-11, 15, 164, 186-94, 290 -, Ghiasuddin II, 239-40 -, Muhammad bin, 12:13, 15…"
   }
  ],
+ "Vatsagumla": [],
  "Vengi": [
   {
    "source": "upinder",
@@ -8161,7 +9149,46 @@
    "snippet": "…f political stability was restored during the reigns of Bhima II and Amma II, but the kingdom started crumbling thereafter. In 999 CE, Rajaraja Chola conquered Vengi The political history of the Deccan between c. 753-975 CE was marked by the ascendancy of the Rashtrakutas. In certain copper plate grants, the Rashtrakut…"
   }
  ],
+ "Vilinam": [],
  "Woraiyur": [],
+ "Agra Fort": [
+  {
+   "source": "chandra2",
+   "volume": "2. Medieval-History-Satish-Chandra-1526-1748-Part-2_xaam.in",
+   "scan_page": 30,
+   "matched": "agra",
+   "occurrences": 7,
+   "score": 39.5,
+   "snippet": "…owerful fort of Qandahar near Ranthambhor, he was still far away. Hence, Humayun was sent with an army to the east against the Afghans, while Babur remained at Agra. Babur soon had to drastically revise his plans. We have traced in an earlier volume the gradual rise of Rana Sanga, and his conflict with Ibrahim Lodi for…"
+  },
+  {
+   "source": "chandra2",
+   "volume": "2. Medieval-History-Satish-Chandra-1526-1748-Part-2_xaam.in",
+   "scan_page": 58,
+   "matched": "agra",
+   "occurrences": 6,
+   "score": 36.3,
+   "snippet": "…as has been alleged. Thus, he had time to receive foreign envoys, and sent Shaikh Bahlol to Hindal to intercede with him when Humayun heard of his rebellion at Agra. Part of the time was spent in festivities of various kinds. Unlike Gujarat, there was no local regional reaction to Mughal rule. But Humayun's stay in Ben…"
+  },
+  {
+   "source": "chandra2",
+   "volume": "2. Medieval-History-Satish-Chandra-1526-1748-Part-2_xaam.in",
+   "scan_page": 427,
+   "matched": "agra",
+   "occurrences": 5,
+   "score": 33.2,
+   "snippet": "…lty of the Deccan which the Saiyids considered theirs by right, the only new posts given to the Barahas, or dependents of the Saiyids were the governorships of Agra and Allahabad, and the faujdari of Moradabad - all areas of strategic importance. Despite their concilatory policies, two centres of resistance to the Saiy…"
+  },
+  {
+   "source": "chandra2",
+   "volume": "2. Medieval-History-Satish-Chandra-1526-1748-Part-2_xaam.in",
+   "scan_page": 28,
+   "matched": "agra",
+   "occurrences": 6,
+   "score": 32.4,
+   "snippet": "…efully. It smashed the power of the Lodis, and opened up the entire territory upto Jaunpur to Babur's control. The rich treasures stored by the Lodi Sultans at Agra relieved Babur of his financial difficulties. However, Babur had to wage two hard-fought battles, one against Rana Sanga of Mewar, and the other against th…"
+  }
+ ],
  "Ahmednagar": [
   {
    "source": "upinder",
@@ -8229,44 +9256,6 @@
    "occurrences": 1,
    "score": 15.9,
    "snippet": "…nd in 1577 at Qandahar, a second daughter, Mehrunnisa, was born to him. The leader of the caravan took pity on Ghiyas Beg's condition, and took him to Akbar at Fatehpur Sikri. He was taken into service, and rose by his diligence to the post of diwan of Kabul in 1595. Subsequently, he was appointed diwan bayutat to look…"
-  }
- ],
- "Gaur or Lakhnauti": [
-  {
-   "source": "chandra1",
-   "volume": "1. Medieval History Part 1 Satish Chandra xaam.in",
-   "scan_page": 53,
-   "matched": "lakhnauti",
-   "occurrences": 7,
-   "score": 35.5,
-   "snippet": "…s has been seen, Iltutmish had led two expeditions again the Khalji chief, Iwaz. His, and the subsequent efforts of the sultans of Delhi to separate Bihar from Lakhnauti rarely succeeded. Thus, in the confusion following the death of Iltutmish, another Turkish chief, Tughan Khan, became master of Lakhnauti and Bihar. H…"
-  },
-  {
-   "source": "chandra1",
-   "volume": "1. Medieval History Part 1 Satish Chandra xaam.in",
-   "scan_page": 37,
-   "matched": "lakhnauti",
-   "occurrences": 4,
-   "score": 32.8,
-   "snippet": "1. It is possible that Minhaj confused Nadia with Lakhnauti, the Sena capital which Bakhtiyar captured later. Again, there is no mention of a fight. May be the Senas had abandoned the city in anticipation of a…"
-  },
-  {
-   "source": "chandra1",
-   "volume": "1. Medieval History Part 1 Satish Chandra xaam.in",
-   "scan_page": 38,
-   "matched": "lakhnauti",
-   "occurrences": 4,
-   "score": 28.9,
-   "snippet": "…son, Nasiruddin Mahmud, then Governor of Awadh, to watch the situation. Two years later, when Iwaz was campaigning in Kamrup (Assam) and Bang (East Bihar), and Lakhnauti was undefended, Nasiruddin Mahmud made a sudden move and occupied Lakhnauti. Iwaz came back, and fought a battle but was defeated, imprisoned and exec…"
-  },
-  {
-   "source": "mehta1",
-   "volume": "JL Mehta Vol I Advanced-Study-In-The-History-Of-Medieval-India",
-   "scan_page": 102,
-   "matched": "lakhnauti",
-   "occurrences": 2,
-   "score": 25.3,
-   "snippet": "…(Malda, Dinajpur, Murshida- bad and Birbhum) were occupied by them. Because of local resistance, Bakhtiyar Khalji could not retain his hold over Nadia and made Lakhnauti or Gaur as his capital. Having become over-confident of the Turkish arms, Bakhtiyar Khalji invaded the Brahmaputra valley with 10,000 horsemen. The As…"
   }
  ],
  "Ghazni": [
@@ -8489,25 +9478,43 @@
    "snippet": "…(in Dehra Dun district), Hazra, and eventually to Peshawar. Megasthenes speaks of a road connecting northwestern India with Patna. Roads also linked Patna with Sasaram, and from there they ran to Mirzapur and central India. The"
   }
  ],
- "Shah Hamdam": [],
- "Tatha": [
+ "Shah-e-Hamadan (Srinagar)": [],
+ "Thatta": [
   {
-   "source": "basham",
-   "volume": "The Wonder that was India by A.L. Basham",
-   "scan_page": 631,
-   "matched": "tatha",
-   "occurrences": 1,
-   "score": 17.3,
-   "snippet": "…re allowed. As an example we quote the first verse of the account of Damayanti's svayamvara, translated on p. 409. At!ui kale fubhe prdpte, tilhaupujxye ksartc tatha, djuhava mahi Jul an Bhimo rajdsvayamvare. 'Hie sloka metre was widely used for poetry of all kinds, especially for didactic and narrative verse. The cour…"
+   "source": "chandra2",
+   "volume": "2. Medieval-History-Satish-Chandra-1526-1748-Part-2_xaam.in",
+   "scan_page": 419,
+   "matched": "thatta",
+   "occurrences": 4,
+   "score": 31.9,
+   "snippet": "…were raised to the rank of 7000/7000 but in order to disrupt the alliance of the Rajput Rajas, Jai Singh was appointed as governor of Malwa, and Ajit Singh to Thatta. Although Jai Singh moved towards Malwa, Ajit Singh refused to go to Thatta, and Husain Ali was asked to lead an expedition against him. Husain Ali led a…"
   },
   {
-   "source": "upinder",
-   "volume": "6. 600 B.C -300 B.C North India Mahajanpads onwards",
-   "scan_page": 66,
-   "matched": "tatha",
-   "occurrences": 1,
-   "score": 14.3,
-   "snippet": "…Buddha is presented as a man, but an extraordinary one, whose body bore the 32 signs of a mahapurusha (great man). He is the Tathagata, one who has come thus (tatha) and gone (gata) thus, and has liberated himself from the cycle of rebirth. As mentioned in the beginning of this chapter, the dates of the Buddha's life…"
+   "source": "chandra1",
+   "volume": "1. Medieval History Part 1 Satish Chandra xaam.in",
+   "scan_page": 105,
+   "matched": "thatta",
+   "occurrences": 4,
+   "score": 28.4,
+   "snippet": "…by some Hindus that during the visit he (Firuz) held a golden umbrella over the idol (in fact, the flame).\" No attempt, however, was made to desecrate it. The Thatta Campaign (1365-67) The last campaign in which Firuz spent two-and-a-half years was a campaign against Thatta in lower Sindh to punish its local rulers, c…"
+  },
+  {
+   "source": "chandra1",
+   "volume": "1. Medieval History Part 1 Satish Chandra xaam.in",
+   "scan_page": 100,
+   "matched": "thatta",
+   "occurrences": 4,
+   "score": 28.2,
+   "snippet": "…Bahmani kingdom born. Muhammad bin Tughlaq remained in Gujarat for two-and-a-half years, spending the later years campaigning in Saurashtra and then moving to Thatta (lower Sindh) in pursuit of the rebel, Taghi, a former slave of his, who had been given shelter by the Jam of Thatta. Amazingly, in this rather futile ca…"
+  },
+  {
+   "source": "chandra1",
+   "volume": "1. Medieval History Part 1 Satish Chandra xaam.in",
+   "scan_page": 106,
+   "matched": "thatta",
+   "occurrences": 2,
+   "score": 27.1,
+   "snippet": "…army, but many soldiers took advantage of the situation to return to Delhi. Firuz considered it counter-productive to try to stop them. But when he returned to Thatta with his reduced forces, he was unable to capture the two parts of the city which were situated on opposite sides of a broad river. Hence, he asked the w…"
   }
  ],
  "Uch": [],
@@ -8547,6 +9554,44 @@
    "occurrences": 8,
    "score": 40.4,
    "snippet": "…. Perhaps the brothers Madanna and Akhanna hoped that by encouraging Shivaji to expand towards the south, he could be inclined to limit his ambitions vis-a-vis Bijapur. However, Shivaji's overweening ambition and faction fights at the Bijapur court between the Afghans and the Deccanis created serious obstacles in the r…"
+  }
+ ],
+ "Vrindavan": [
+  {
+   "source": "chandra2",
+   "volume": "2. Medieval-History-Satish-Chandra-1526-1748-Part-2_xaam.in",
+   "scan_page": 544,
+   "matched": "vrindavan",
+   "occurrences": 1,
+   "score": 26.1,
+   "snippet": "…pper Ganga Valley, 79 Usman Khan, 235 Uzbek, 18, 19, 20, 21, 22, 29, 30, 42, 100,101,102,103,105, 213, 214 Uzbek-Mughal- Ottoman pact, 224 Vaishnava Temples at Vrindavan, 279 Veroneo, Geronimo (Italian), 438 Vijayanagar, 186, 206 Vikramajit, ruler of Gwaliyar, 30,118, 119 Vindhyas, 64 Vohra, Virji, 390, 394,404"
+  },
+  {
+   "source": "chandra2",
+   "volume": "2. Medieval-History-Satish-Chandra-1526-1748-Part-2_xaam.in",
+   "scan_page": 247,
+   "matched": "vrindavan",
+   "occurrences": 2,
+   "score": 25.4,
+   "snippet": "…uld be repaired \"since buildings cannot last for ever\". This position is clearly spelt out in a number of extant farmans he issued to the brahmanas of Banaras, Vrindavan, etc.1 1The Banaras farmat is in the National Library, Calcutta, and the Vrindavan farman is presently in a temple at Jaipur. 278 Aurangzeb's order re…"
+  },
+  {
+   "source": "chandra2",
+   "volume": "2. Medieval-History-Satish-Chandra-1526-1748-Part-2_xaam.in",
+   "scan_page": 222,
+   "matched": "vrindavan",
+   "occurrences": 2,
+   "score": 20.5,
+   "snippet": "Facebook Group: Indian Administrative Service ( Raz Kr) faqirs and brahmans. Documents in the possession of the Vrindavan temples of the Chaitanya sect show how Jahangir went on adding grants to the temples and their votaries. Thus, between 1612-15, he made at least five…"
+  },
+  {
+   "source": "chandra2",
+   "volume": "2. Medieval-History-Satish-Chandra-1526-1748-Part-2_xaam.in",
+   "scan_page": 227,
+   "matched": "vrindavan",
+   "occurrences": 1,
+   "score": 18.3,
+   "snippet": "…building of such mosques was not unusual. That broad tolerance continued was also evident from his confirmation of the grants given to the Vaishnava temples at Vrindavan. Even more significant was his order that the time- gong at the temple may be permitted to be sounded since 256 \"a large number of God worshipping Hin…"
   }
  ],
  "Balkh or Bactria": [
@@ -8626,6 +9671,44 @@
    "snippet": "…n c. 30 BCE. The Mitras were, in turn, eventually dislodged by the Shakas. s0° SOGDIANS Ai Khanoum THIA - 30° PAR Bactra Bamiyan • Begramn Hadda • Purushapura/ Herat Helmand • GREEK SHIBIS AUDAMBARAS YAUDHEYASKUNINDAS •Sanahol ARJUNAYANAS. Mathura® S HUNGAS Ganga Barbaricum. ABHIRAS Junagadh - 20° SHAKAS MALAVAS • Besn…"
   }
  ],
+ "Jaisalmer": [
+  {
+   "source": "upinder",
+   "volume": "2. Palaeolithic and Mesolithic",
+   "scan_page": 25,
+   "matched": "jaisalmer",
+   "occurrences": 1,
+   "score": 11.0,
+   "snippet": "…thic tools are also found around Ajmer. There is evidence of middle palaeolithic working floors at Hokra and Baridhani, close to the now dried-up lakes. In the Jaisalmer area, upper palaeolithic material is not as abundant as are artefacts of the middle palaeolithic. Middle palacolithic sites have also been located alo…"
+  },
+  {
+   "source": "chandra2",
+   "volume": "2. Medieval-History-Satish-Chandra-1526-1748-Part-2_xaam.in",
+   "scan_page": 101,
+   "matched": "jaisalmer",
+   "occurrences": 2,
+   "score": 6.0,
+   "snippet": "…of Bikaner presented himself before Akbar along with his son, Rai Rai Singh. A daughter of Kalyan Mal's brother, Kahan, was married to Akbar. Rawal Har Rai of Jaisalmer also submitted, and proposed that one of his daughter be married to the Emperor. Accordingly, Bhagwant Das was sent to Jaisalmer to escort the Rawal's…"
+  },
+  {
+   "source": "chandra1",
+   "volume": "1. Medieval History Part 1 Satish Chandra xaam.in",
+   "scan_page": 77,
+   "matched": "jaisalmer",
+   "occurrences": 1,
+   "score": 3.0,
+   "snippet": "…8 ed two of his leading generals, Ulugh Khan and Nusral Khan, to lead an expedition against Gujarat. Ulugh Khan, who marched from Sindh, attacked and plundered Jaisalmer on the way. The joint forces then marched to Gujarat across Chittor, despite opposition from the Rana. Reaching Guhilwara, they thoroughly sacked and…"
+  },
+  {
+   "source": "chandra1",
+   "volume": "1. Medieval History Part 1 Satish Chandra xaam.in",
+   "scan_page": 79,
+   "matched": "jaisalmer",
+   "occurrences": 1,
+   "score": 3.0,
+   "snippet": "…Chittor, most of the rajas in Rajasthah, including those of Marwar and Harauti (Bundi) submitted. As it was, Mador in Marwar had been under Turkish occupation. Jaisalmer had been subdued earlier during the Gujarat campaign, as we have noted. Siwana and Jalor, adjacent to Gujarat, both of which were strongly fortified,…"
+  }
+ ],
  "Kabul": [
   {
    "source": "chandra2",
@@ -8662,6 +9745,36 @@
    "occurrences": 4,
    "score": 27.8,
    "snippet": "32 ADVANCED STUDY IN THE HISTORY OF MEDIEVAL INDIA otherwise, the same rehearsal of fierce and piercing shrieks in chorus was made by the Hindu soldiers of Kabul amid singing and dancing in feasts.? The term 'Afghan' finds mention for the first time in the chronicles of the eleventh century when the entire valley o…"
+  }
+ ],
+ "Leh": [],
+ "Lhasa": [
+  {
+   "source": "upinder",
+   "volume": "2. Palaeolithic and Mesolithic",
+   "scan_page": 18,
+   "matched": "lhasa",
+   "occurrences": 1,
+   "score": 7.0,
+   "snippet": "64° 72° O HERAT KABU , Sanghao Kashmir PESHAWARD • Potwa lateal *Ladakh Jammu • OKANDAHAR LAHORE Chandigarh and adjacent area DELHI CEN LHASA •West Nepal - O KATHMANDU THIMPHU Bralmapatra Bela KARACHI O -24° Rohri Hills • Nagaur Luni Valley • Berach *Milestone 101 • Basir Sabarmati Mandasore, Va…"
+  },
+  {
+   "source": "upinder",
+   "volume": "2. Palaeolithic and Mesolithic",
+   "scan_page": 11,
+   "matched": "lhasa",
+   "occurrences": 1,
+   "score": 3.0,
+   "snippet": "60° 66° • Darra-i-Kur 92° 96° OHERAT - KABUL -32° OKANDAHAR Thelum. Chenab Beas LAHORE •Nadab - Sutlej -28° LHASA Tsangpo Lunt DELICATEN Bangs - Chambal KATHMANDU Gandak Ghashera THIMPHU Bralunaputra -24° KARACHI, Rann of Kutch Stirma • DHAKA Narmada Tapi \"Hathnora KO…"
+  },
+  {
+   "source": "upinder",
+   "volume": "5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc",
+   "scan_page": 88,
+   "matched": "lhasa",
+   "occurrences": 1,
+   "score": 3.0,
+   "snippet": "…his marks the beginning of the iron age. 60° • HERAT Gandhara KABUL KAbl * Graves PESHAWAR Helmand • KANDAHAR Chenab Rati LAHORE Bens Sutlet DELHIO .... Pirak, LHASA Jakhera • , Lahuradeva •Ahar Dadupur * OKATHMANDU OTHMPHU Brahmaputra -24° KARACHI O • Malhar Raja-Nal-ka-Tila Gangu Nagda, ODHAKA KOLKATA O Narmada - 20°…"
   }
  ],
  "Quetta": [
@@ -8792,6 +9905,8 @@
  "Bekal": [],
  "Chitorgarh": [],
  "Cooch Behar": [],
+ "Fort St George": [],
+ "Fort St William": [],
  "Gagron Fort": [],
  "Garhgaon": [
   {
@@ -8844,7 +9959,6 @@
   }
  ],
  "Hawa Mahal": [],
- "Jaisalmer Fort Palace": [],
  "Kangla": [],
  "Kumbhalgarh": [
   {
@@ -8914,6 +10028,7 @@
   }
  ],
  "Mehrangarh": [],
+ "Penukonda": [],
  "Raigad": [],
  "Ranthambore": [],
  "Srirangapatnam": [],
@@ -8955,6 +10070,7 @@
    "snippet": "feudatories of the Kaktiyas of Warangal, and later joined the service of the ruler of Kampili in modern Karnataka, gradually rising to the position of ministers. When Kampili was over-run and…"
   }
  ],
+ "Alwarturanagri - Nammavalar": [],
  "Apegaon - Janeshwar": [],
  "Bagewadi- Basava": [],
  "Bannur-Vyastirtha": [],
@@ -8977,6 +10093,7 @@
  "Lal Ded - Pandrethan": [],
  "Melur - Mannikavasagar": [],
  "Nagaon - Shankardev": [],
+ "Nankana Sahib - Nanak Dev": [],
  "Naraina - Dadu": [],
  "Paithan - Eknath": [
   {
@@ -9059,9 +10176,56 @@
    "snippet": "…ere not acceptable to the orthodox elements. Thus, he took strict action when he learnt in 1669 that in some of the temples in Thatta, Multan and especially at Banaras, both Hindus and Muslims used to come from great distances to learn from the brahmans. Aurangzeb issued orders to the governors of all provinces to put…"
   }
  ],
- "Lakhudiar": [],
- "Nashi Pandavleni Caves": [],
- "Sittanavasa": [],
+ "Edakkal": [
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 33,
+   "matched": "edakal",
+   "occurrences": 1,
+   "score": 13.0,
+   "snippet": "…ruler can be identified with king Ilanjeral Irumporai mentioned above. The names of another branch of Chera kings have been found in two short inscriptions at Edakal in Kerala, dated on palaeographic grounds to the 3rd century CE. The Chola king Karikala is associated with many heroic exploits. A poem in the Pattuppat…"
+  },
+  {
+   "source": "upinder",
+   "volume": "8. 200 B.C - 300 C.E",
+   "scan_page": 37,
+   "matched": "edakal",
+   "occurrences": 1,
+   "score": 9.0,
+   "snippet": "…riptions • (2nd century ce-4th century ce) Early Vatteluttu inscriptions • (5th century ce-6th century ce) O Places mentioned in inscriptions 50 100 Kilometres Edakal • Nilambur 78° 80° Palar MamandurO Indalur Paraiyanpattu Nekanuratti Tondur • Perumukkal Jambai Perumpugai • • Arasalapuram OMukaiyur Ponnayar 12°- -10°…"
+  },
+  {
+   "source": "thapar",
+   "volume": "History of Early India By Thapar",
+   "scan_page": 73,
+   "matched": "edakal",
+   "occurrences": 1,
+   "score": 3.0,
+   "snippet": "…. The geographical extent of prehistoric rock art is impressive. Rock engravings, believed to be associated with the later stage of the neolithic, occur in the Edakal cave in the W estern Ghats in Kerala and depict human activity in an unusual style of engraving. Recently, in the exploration of the Gilgit and Baltistan…"
+  }
+ ],
+ "Kondana Caves": [
+  {
+   "source": "chandra2",
+   "volume": "2. Medieval-History-Satish-Chandra-1526-1748-Part-2_xaam.in",
+   "scan_page": 282,
+   "matched": "kondana",
+   "occurrences": 2,
+   "score": 26.7,
+   "snippet": "…enior wife, Jija Bai, and his minor son, Shivaji. Shivaji showed his mettle when at the young age of 18, he overran a number of hill forts near Poona -Rajgarh, Kondana and Torna in the years 1645-47. With the death of his guardian, Dadaji Kondadeo, in 1647 Shivaji became his own master, and the full control of his fath…"
+  },
+  {
+   "source": "chandra2",
+   "volume": "2. Medieval-History-Satish-Chandra-1526-1748-Part-2_xaam.in",
+   "scan_page": 289,
+   "matched": "kondana",
+   "occurrences": 1,
+   "score": 13.3,
+   "snippet": "…r his journey to Agra. This was just the excuse Shivaji was looking for. He launched a vigorous offensive in 1670, recovering some of the hill forts, including Kondana, surrendered by the Treaty of Purandar in 1665. He attacked Surat a second time. He not only recovered the powerful fort of Purandar, but made deep inro…"
+  }
+ ],
+ "Porivarai": [],
  "Kupgal": [
   {
    "source": "upinder",
@@ -9098,6 +10262,17 @@
    "occurrences": 2,
    "score": 19.4,
    "snippet": "…farming communities as early as the third millennium BC. The Raichur doab between the Krishna and the Tungabhadra Rivers becomes a focus of attention. Hallur, Kupgal, Maski (Karnataka) and Nagarjunakonda (Andhra Pradesh) had farming communities. The semi-arid areas were suitable for cattle-keeping villages, and it is…"
+  }
+ ],
+ "Thapli": [
+  {
+   "source": "upinder",
+   "volume": "5. 2000 B.C - 600 B.C Vedic Age, Megalithic etc",
+   "scan_page": 95,
+   "matched": "thapli",
+   "occurrences": 1,
+   "score": 19.6,
+   "snippet": "…a, and from the Bahawalpur region of Pakistan to Kaushambi near Allahabad in Uttar Pradesh. Apart from the plains, it has been found at sites such as Kashipur, Thapli, and Purola in the hilly regions of Kumaon and Garhwal. Sporadic sherds have been found at other places as well—at Vaishali in Bihar, Lakhiyopir in Sind,…"
   }
  ]
 }

@@ -1,0 +1,41 @@
+{
+  "_note": "Hand-edited INPUT, not generated. How the sites/ folders become the book's chapters. 'titles' is the printed chapter name for each folder — edit freely, nothing derives from it. 'merge_into' folds one folder's entries into another's chapter, and 'move_sites' moves a single record by slug; both affect the book only, and leave the canonical tree under sites/ exactly where extract.py puts it. A chapter left with no entries is not printed, which is how 22 and 999 disappear. Chapters are printed in folder order but numbered sequentially, so removing one leaves no gap in the book.",
+
+  "titles": {
+    "01-palaeolithic": "Palaeolithic Sites",
+    "02-mesolithic": "Mesolithic Sites",
+    "03-neolithic": "Neolithic Sites",
+    "04-chalcolithic": "Chalcolithic Sites",
+    "05-harappa": "Harappan Sites",
+    "06-megalith": "Megalithic Sites",
+    "07-copper-hoards-and-ocp": "Copper Hoard and OCP Sites",
+    "08-pgw": "Painted Grey Ware (PGW) Sites",
+    "09-nbpw": "Northern Black Polished Ware (NBPW) Sites",
+    "10-buddhist-sites": "Buddhist Sites",
+    "11-art-sites": "Art Sites",
+    "12-ashokan-inscriptions": "Ashokan Inscription Sites",
+    "13-non-ashokan-inscription": "Non-Ashokan Inscription Sites",
+    "14-temple-sites": "Temple Sites",
+    "15-hindu-ajivika-caves": "Hindu and Ajivika Cave Sites",
+    "16-jain-sites-and-caves": "Jain Sites and Caves",
+    "17-cultural-and-educational-centers": "Cultural and Educational Centres",
+    "18-ancient-ports": "Ancient Port Sites",
+    "19-ancient-capitals-and-trade-cities": "Ancient Capital and Trade City Sites",
+    "20-medieval-cities-and-sufi-saints": "Medieval City and Sufi Saint Sites",
+    "21-silk-route-sites": "Silk Route Sites",
+    "22-early-medieval-capital-cities": "Early Medieval Capital Cities",
+    "23-forts": "Fort Sites",
+    "24-bhakti-and-other-saints": "Bhakti and Other Saint Sites",
+    "25-rockcut-caves-petroglyph-sites-cave-painting": "Rock-cut Cave and Petroglyph Sites",
+    "999-missed-recent-pyq": "Missed Recent PYQ"
+  },
+
+  "merge_into": {
+    "22-early-medieval-capital-cities": "20-medieval-cities-and-sufi-saints"
+  },
+
+  "move_sites": {
+    "kupgal": "25-rockcut-caves-petroglyph-sites-cave-painting",
+    "thapli": "08-pgw"
+  }
+}

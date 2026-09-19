@@ -1,0 +1,47 @@
+{
+  "_comment": "Spelling variants of ONE place that the normalised match key in common.py cannot bridge, so extract.py would otherwise create two records for one site and the book would count it twice. Keys here are MERGE KEYS derived from the SHEET FILENAME (not from a record's name: field) — run match_keys(display_name(sheet_stem)) and take the shortest. The merged record carries the categories of both sheets and is written to the directory of its LOWEST-numbered category, so a site merged across chapters appears once, in the earlier chapter. Only add a pair when the two sheets are the same place: alternate names for genuinely different sites must stay separate.",
+  "merge": {
+    "lakhudiar": "lakhudiyar",
+    "tekkalakota": "tekkalakote",
+    "nashipandavleni": "nashikpandavleni",
+    "sittanavasa": "sittanavasal",
+    "sudergarh": "sundargarh",
+    "kilegilemohammed": "kiligulmohammad",
+    "nevasa": "newasa",
+    "sarumaru": "pangurariaminorre",
+    "tosali": "dhauli",
+    "runnindei": "lumbinipillar",
+    "uttiramerur": "uttirameru",
+    "mahabalipuramshore": "mahabalipuram",
+    "jaisalmerpalace": "jaisalmer",
+    "gaur": "gauda",
+    "ancient": "pushkar",
+    "famous": "stgeorge"
+  },
+  "name": {
+    "stgeorge": "Fort St George",
+    "pushkar": "Pushkar",
+    "kiligulmohammad": "Kili Gul Mohammad",
+    "sundargarh": "Sundargarh",
+    "lakhudiyar": "Lakhudiyar",
+    "tekkalakote": "Tekkalakote",
+    "nashikpandavleni": "Nashik Pandavleni Caves",
+    "sittanavasal": "Sittanavasal",
+    "newasa": "Newasa",
+    "pangurariaminorre": "Panguraria Minor RE",
+    "dhauli": "Sisupalgarh or Dhauli",
+    "lumbinipillar": "Lumbini Pillar Inscription",
+    "uttirameru": "Uthiramerur",
+    "mahabalipuram": "Mahabalipuram",
+    "jaisalmer": "Jaisalmer",
+    "gauda": "Gauda"
+  },
+  "_notes": {
+    "ancient": "999 sheet 'Ancient Temple - Pushkar Brahmaji temple near Pushkar Lake' reduces to the key 'ancient'; it is the Pushkar Brahma temple already in chapter 14.",
+    "famous": "999 sheet 'Famous Fort - Fort St George' reduces to the key 'famous'; same fort as chapter 23.",
+    "sarumaru": "Saru-Maru IS Panguraria - one Ashokan minor rock edict site, two names, both sheets in chapter 12.",
+    "runnindei": "Rummindei IS the Lumbini pillar - one pillar, two names, both sheets in chapter 12.",
+    "tosali": "Tosali, the Kalinga provincial capital of the Separate Edicts, is identified with the Dhauli locality; both sheets are in chapter 12 and shared one coordinate. The NBPW sheet 'Sisupalgarh' in chapter 09 is deliberately NOT merged here: Sisupalgarh the fortified city and Dhauli the edict rock are about 5 km apart and are treated as separate sites.",
+    "nevasa": "Nevasa/Newasa on the Pravara is a single excavated mound with both Palaeolithic and Chalcolithic levels; it merges into chapter 01 and keeps both categories."
+  }
+}

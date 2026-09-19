@@ -7,13 +7,15 @@ coords_confidence: gazetteer
 coords_from: Q11198998
 coords_provisional: false
 dot_px: [267.7, 476.1]
-images: [Individual Map sites History Optional/1 Palaeolithic/Chittoor.jpg]
+images: [Individual Map sites History Optional\1 Palaeolithic\Chittoor.jpg]
 status: sourced
 sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-- **Location & Setting**: Situated in Andhra Pradesh, Bellary district, Godavari valley.
-- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
-- **Material Culture & Finds**: Yields lithic/stone tool industry, architectural and epigraphic remains (Acheulian tools occur together with Lower, Middle and Upper Palaeolithic material.; Two sites have been identified, one of them dominant.).
-- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.
+- **Location**: Chittoor district, southern Andhra Pradesh, around Renigunta in the Velikonda and Nagari hills of the Eastern Ghats.
+- **Period/Level**: Lower, Middle and Upper Palaeolithic, with continuity of occupation into the Megalithic period.
+- **Key Finds & Significance**: The area shows an unusually complete cultural sequence from the Palaeolithic to the Megalithic, making it a standard reference for long-term continuity in the southern Eastern Ghats.
+  - Acheulian tools occur together with Lower, Middle and Upper Palaeolithic material; two sites have been identified, one of them clearly dominant.
+  - Finds include handaxes and pebble tools of varying sizes; the large number of tools and the distinctive flaking suggest a source of raw material close at hand.
+  - Upper Palaeolithic artefacts were recovered from a cave at Renigunta, one of a series of such finds along the east coast of peninsular India dated between about 25,000 and 10,000 years ago.

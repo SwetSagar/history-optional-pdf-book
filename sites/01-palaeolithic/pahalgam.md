@@ -7,13 +7,14 @@ coords_confidence: gazetteer
 coords_from: Q2085326
 coords_provisional: false
 dot_px: [231.7, 185.6]
-images: [Individual Map sites History Optional/1 Palaeolithic/Pahalgam.jpg]
+images: [Individual Map sites History Optional\1 Palaeolithic\Pahalgam.jpg]
 status: written
 sources: []
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
-- **Location & Setting**: Situated in Jammu and Kashmir.
-- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
-- **Material Culture & Finds**: Yields material culture artefacts.
-- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.
+- **Location**: Pahalgam, in the Liddar valley of Anantnag district, Kashmir.
+- **Period/Level**: Lower Palaeolithic, represented by a handaxe find.
+- **Key Finds & Significance**: The handaxe recovered here is one of a very small number of Palaeolithic finds from Kashmir, where cold conditions, glacial action and thick karewa sedimentation mean that tools are rarely found or preserved.
+  - The Kashmir Upper Palaeolithic has been dated to about 18,000 BP and coincides with the onset of a milder climate.
+  - De Terra and Paterson's attempt in 1935 to correlate the Soan river terraces with a four-fold Kashmir glacial cycle, and further with a four-fold European cycle, is no longer accepted, though it marked an important stage in the history of prehistoric research in India.

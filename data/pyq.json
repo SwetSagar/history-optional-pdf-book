@@ -1059,96 +1059,2548 @@
    "2018"
   ]
  },
+ "occurrences": [
+  {
+   "label": "Agra",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Ahmadnagar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Anhilware",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Attock",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Bidar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Cambay",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Champaner",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Chittor",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Chunar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Daultabad",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Dvarasamudra",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Gaurs",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Gwalior",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Jaunpur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Kalinjar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Koil",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Madura",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Mandu",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Panipat",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Rameshwaram",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Ranthambhor",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Sarhind",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Sasaram",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Sailkot",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Surat",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Tanjore",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Thatta",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Ujjain",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Vijayanagara",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 12,
+   "block": 0
+  },
+  {
+   "label": "Amarkot",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Attock",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Bijapur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Cambay",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Calicut",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Chanderi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Chaul",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Cuftack",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Dvarasalnudra",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Fathepur Sikri",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Golkunda",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Gulbarga",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Hampi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Jodhpur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Kalpi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Kanauj",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Karigra",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Masulipatan",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Multan",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Pondicherry",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Raichur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Rajmahal",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Rameshwaram",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Rohtas",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Satan",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Talikot",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Tanjore",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 15,
+   "block": 0
+  },
+  {
+   "label": "Ahichhatra",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Atranjikhera",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Ayodhya",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Brahmagiri",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Burzahom",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Chamba",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Dhauli",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Dwarka",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Hastinapur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Kalibangan",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Kanchipuram",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Kapilavastu",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Karnasuvarna",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Khajuraho",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Lothal",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Madhyamika",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Madurai",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Nagaijunikonda",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Paithan",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Pragyotishpur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Puskalavati",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Sanchi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Sarnath",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Surparaka",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Tamralipti",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Tanjore",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Thaneswar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "V aisali",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "The Mughals and the European trading com",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "label": "Ahmadnagar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Badaun",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Baran",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Bhatnair",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Bidar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Chunar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Daman",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Gangaikon-dacholapuram",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Hansi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Jajnagar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Jaunpur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Junagadh",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Kanhwa",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Lakhnawati",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Mahoba",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Madura",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Malkhed",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Mandu",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Masulipatam",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Ranthambore",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Sahasaram",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Sandabur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Serampur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Srirangapatnam",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Talakad",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Thatta",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Trichinopoly",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Uttaramerur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 18,
+   "block": 0
+  },
+  {
+   "label": "Amber",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Anhilwara",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Asirgarh",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Bayana",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Bijapur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Burhanpur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Cambay",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Champaner",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Chanderi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Daulatabad",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Fathehpur Sikri",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Gaur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Gulbarga",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Halebid",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Hampi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Jalor",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Kabul",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Kanauj",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Lahore",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Multan",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Murshidabad",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Orchha",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Quilon",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Sambhal",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Sirhind",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Sonargaon",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Surat",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Tanjore",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 19,
+   "block": 0
+  },
+  {
+   "label": "Aharara",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Aihole",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Alamgirpur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Amaravati",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Anuradhapura",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Aphsad",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Badami",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Bhagbanpura",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Gimar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Jaugada",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Kausambi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Khandgiri-Udayagiri",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Kusinagara",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Kot Diji",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Lumbini",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Mahabalipuram",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 20,
+   "block": 0
+  },
+  {
+   "label": "Balasore",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Belur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Bhojpur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Chaul",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Chunar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Gingee",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Golconda",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Janjira",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Kalanaur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Kalpi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Khajuha",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Khajuraho",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Konark",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Kondavid",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Kumbakonam",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Mahim",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Mandasor",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Mandla",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Maner",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Modhera",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Pandua",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Pulicat",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Puri",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Raigarh",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Rajmahal",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Rewa",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Shivner",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Sringeri",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 22,
+   "block": 0
+  },
+  {
+   "label": "Akhnur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Arikamedu",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Barabar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Bagh",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Bhumra",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Bodh gaya",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Bhagatav",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Chandraketugrah",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Dhamner",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Elephanta",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Eran",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Gyarspur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Harappa",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Harwan",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Karle",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Mohenjo Daro",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Martand",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Maski",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Mehendragiri",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Mukhalingam",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Nachna",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Piprahwa",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Rajim",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Sanghol",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 23,
+   "block": 0
+  },
+  {
+   "label": "Ahrnadnagar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Anhilawara",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Badgara",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Balasore",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Bayana",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Bidar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Chinsura",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Chittor",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Daman",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Dharma",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Dipalpur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Gangaikon-dacholapuram",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Gaur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Ghargaon",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Kamatapura",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Katehar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Kishangarh",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Lakhnawati",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Madurai",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Mandu",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Navsari",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Orchha",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Pandharpur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Panipat",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Patan",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Qamarnager",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Raichur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Sirohi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Somnath",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "The Diarchy provided by the Mont ford re",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 25,
+   "block": 0
+  },
+  {
+   "label": "Ajmer",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 26,
+   "block": 0
+  },
+  {
+   "label": "Attock",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 26,
+   "block": 0
+  },
+  {
+   "label": "Benares",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 26,
+   "block": 0
+  },
+  {
+   "label": "Bhatner",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 26,
+   "block": 0
+  },
+  {
+   "label": "Champaner",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 26,
+   "block": 0
+  },
+  {
+   "label": "Cutch",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 26,
+   "block": 0
+  },
+  {
+   "label": "Sufi Movements",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 36,
+   "block": 0
+  },
+  {
+   "label": "Burzahom",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Banawali",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Ahar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Girnar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Chandraketugarh",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Brahmagiri",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Bayana",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Gangai Kondachelapuram",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Tamralipti",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Muziris",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Amban",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Modhera",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Devnimori",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Bhadreshwar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Bundi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Gingee",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Antichak",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Gaur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Sasaram",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 42,
+   "block": 0
+  },
+  {
+   "label": "Korkai",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Eran",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Birbhanpur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Rakhigarhi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Sannathi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Isipattan",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Dhanyakataka",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Junnar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Edakkal",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Paithan",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Pandu Rajar Dhibi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Karle",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Vatapi",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Porkalam",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Kalanjar",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Multan",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Bairat",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Chanhudaro",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Rajim",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Tripuri",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 45,
+   "block": 0
+  },
+  {
+   "label": "Chirand",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Kargil",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Basohli",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Lalitgiri",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Mandu",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Penukonda",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Samugarh",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Vilinam",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Sigiria",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Vikramasila",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Mukhalingam",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Halebid",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Sanghol",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Kumbharia",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Sirpur",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Pangudaria",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Amarkantak",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Kibbanhalli",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Jorwe",
+   "year": "1979",
+   "paper": "E-Book-IAS-Main-History-Optional-Papers-Year-1779-2012",
+   "page": 47,
+   "block": 0
+  },
+  {
+   "label": "Brick temple site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "A Rock-cut cave site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Ancient seaport and trade centre",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Stone age site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Centre of School of art",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Neolithic site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Archaeological site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Ancient education centre",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Ancient capital city",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Ancient capital",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Chalcolithic",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Harappan site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Ancient inscriptions site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Ancient petroglyphs site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Brick temple site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 1
+  },
+  {
+   "label": "A Rock-cut cave site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 1
+  },
+  {
+   "label": "Ancient seaport and trade centre",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 1
+  },
+  {
+   "label": "Stone age site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 1
+  },
+  {
+   "label": "Centre of School of art",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 1
+  },
+  {
+   "label": "Neolithic site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 1
+  },
+  {
+   "label": "Archaeological site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 1
+  },
+  {
+   "label": "Ancient education centre",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 1
+  },
+  {
+   "label": "Ancient capital city",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 1
+  },
+  {
+   "label": "Ancient capital",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 1
+  },
+  {
+   "label": "Chalcolithic",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 1
+  },
+  {
+   "label": "Harappan site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 1
+  },
+  {
+   "label": "Ancient inscriptions site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 1
+  },
+  {
+   "label": "Ancient petroglyphs site",
+   "year": "2019",
+   "paper": "History-Paper-I-2019",
+   "page": 1,
+   "block": 1
+  },
+  {
+   "label": "Megali lhlc buriaL site",
+   "year": "2018",
+   "paper": "IAS-Mains-History-2018-Paper-1",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "I oftq",
+   "year": "2018",
+   "paper": "IAS-Mains-History-2018-Paper-1",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Paleolithic site",
+   "year": "2018",
+   "paper": "IAS-Mains-History-2018-Paper-1",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "IGI tfl ftl ii",
+   "year": "2018",
+   "paper": "IAS-Mains-History-2018-Paper-1",
+   "page": 1,
+   "block": 0
+  },
+  {
+   "label": "Tcrraootta centre Buddhist",
+   "year": "2018",
+   "paper": "IAS-Mains-History-2018-Paper-1",
+   "page": 1,
+   "block": 0
+  }
+ ],
+ "matched_labels": {
+  "A Rock-cut cave site": "masrur-rock-cut-temple",
+  "Agra": "agra-fort",
+  "Ahar": "ahar",
+  "Ahichhatra": "ahichhatra",
+  "Aihole": "aihole",
+  "Alamgirpur": "alamgirpur",
+  "Amarkantak": "amarkantak1",
+  "Amber": "amber",
+  "Arikamedu": "arikamedu",
+  "Atranjikhera": "atranji-khera",
+  "Ayodhya": "ayodhya",
+  "Badami": "badami",
+  "Bagh": "bagh-caves",
+  "Bairat": "bairat",
+  "Banawali": "banawali",
+  "Barabar": "barabar-caves",
+  "Bhojpur": "bhojpur",
+  "Bidar": "bidar",
+  "Bijapur": "vijayapura-or-bijapur",
+  "Birbhanpur": "birbhanpur",
+  "Bodh gaya": "bodhgaya",
+  "Brahmagiri": "brahmagiri",
+  "Bundi": "bundi",
+  "Burzahom": "burzahom",
+  "Champaner": "champaner",
+  "Chandraketugarh": "chandraketugarh",
+  "Chanhudaro": "chanhudaro",
+  "Chirand": "chirand",
+  "Dhauli": "sisupalgarh-or-dhauli",
+  "Dwarka": "dwarka",
+  "Edakkal": "edakkal",
+  "Elephanta": "elephanta-caves",
+  "Eran": "eran",
+  "Gingee": "gingee",
+  "Girnar": "girnar-or-jungadh",
+  "Golconda": "golconda",
+  "Gulbarga": "gulbarga",
+  "Gwalior": "gwalior",
+  "Hampi": "hampi",
+  "Harappa": "harappa",
+  "Hastinapur": "hastinapur",
+  "Jaugada": "jaugada",
+  "Junagadh": "junagadh-caves",
+  "Junnar": "junnar-caves",
+  "Kabul": "kabul",
+  "Kalibangan": "kalibangan",
+  "Kalpi": "kalpi",
+  "Kanchipuram": "kanchipuram",
+  "Kapilavastu": "kapilavastu",
+  "Karle": "karle-caves",
+  "Khajuraho": "khajuraho",
+  "Korkai": "korkai",
+  "Kot Diji": "kot-diji",
+  "Kumbharia": "kumbharia",
+  "Lahore": "lahore",
+  "Lalitgiri": "lalitgiri",
+  "Lothal": "lothal",
+  "Lumbini": "lumbini",
+  "Madurai": "madurai",
+  "Mahabalipuram": "mahabalipuram",
+  "Malkhed": "malkhed",
+  "Mandla": "mandla",
+  "Mandu": "mandu",
+  "Maski": "maski",
+  "Modhera": "modhera",
+  "Mohenjo Daro": "mohenjodaro",
+  "Mukhalingam": "mukhalingam",
+  "Multan": "multan",
+  "Muziris": "muziris",
+  "Pandu Rajar Dhibi": "pandu-rajar-dhibi",
+  "Penukonda": "penukonda",
+  "Porkalam": "porkalam",
+  "Puri": "puri",
+  "Rajim": "rajim",
+  "Rakhigarhi": "rakhigarhi",
+  "Ranthambore": "ranthambore",
+  "Sanchi": "sanchi",
+  "Sanghol": "sanghol",
+  "Sarnath": "sarnath",
+  "Sasaram": "sasaram",
+  "Sirpur": "sirpur",
+  "Somnath": "somnath",
+  "Sringeri": "sringeri",
+  "Srirangapatnam": "srirangapatnam",
+  "Tamralipti": "tamluk-or-tamralipti",
+  "Thatta": "tatha",
+  "Tripuri": "tripuri",
+  "Ujjain": "ujjain",
+  "Vilinam": "vilinam"
+ },
  "by_slug": {
   "agra-fort": 1,
-  "bidar": 3,
-  "champaner": 3,
-  "gwalior": 1,
-  "mandu": 4,
-  "sasaram": 2,
-  "ujjain": 1,
-  "vijayapura-or-bijapur": 2,
-  "gulbarga": 2,
-  "hampi": 2,
-  "kalpi": 2,
-  "multan": 3,
+  "ahar": 1,
   "ahichhatra": 1,
-  "atranji-khera": 1,
-  "ayodhya": 1,
-  "brahmagiri": 2,
-  "burzahom": 2,
-  "sisupalgarh-or-dhauli": 1,
-  "dwarka": 1,
-  "hastinapur": 1,
-  "kalibangan": 1,
-  "kanchipuram": 1,
-  "kapilavastu": 1,
-  "khajuraho": 2,
-  "lothal": 1,
-  "madurai": 2,
-  "paithan-or-pratishthana": 2,
-  "sanchi": 1,
-  "sarnath": 1,
-  "tamluk-or-tamralipti": 2,
-  "junagadh-caves": 1,
-  "malkhed": 1,
-  "ranthambore": 1,
-  "srirangapatnam": 1,
-  "amber": 1,
-  "gaur-or-lakhnauti": 3,
-  "kabul": 1,
-  "lahore": 1,
   "aihole": 1,
   "alamgirpur": 1,
-  "badami": 1,
-  "jaugada": 1,
-  "kot-diji": 1,
-  "lumbini": 1,
-  "mahabalipuram": 1,
-  "bhojpur": 1,
-  "gingee": 2,
-  "golconda": 1,
-  "mandla": 1,
-  "modhera": 2,
-  "puri": 1,
-  "sringeri": 1,
+  "amarkantak1": 1,
+  "amber": 1,
   "arikamedu": 1,
-  "barabar-caves": 1,
+  "atranji-khera": 1,
+  "ayodhya": 1,
+  "badami": 1,
   "bagh-caves": 1,
+  "bairat": 1,
+  "banawali": 1,
+  "barabar-caves": 1,
+  "bhojpur": 1,
+  "bidar": 3,
+  "birbhanpur": 1,
   "bodhgaya": 1,
+  "brahmagiri": 2,
+  "bundi": 1,
+  "burzahom": 2,
+  "champaner": 3,
+  "chandraketugarh": 1,
+  "chanhudaro": 1,
+  "chirand": 1,
+  "dwarka": 1,
+  "edakkal": 1,
   "elephanta-caves": 1,
   "eran": 2,
-  "harappa": 1,
-  "karle-caves": 2,
-  "mohenjodaro": 1,
-  "maski": 1,
-  "mukhalingam": 2,
-  "rajim": 2,
-  "sanghol": 2,
-  "somnath": 1,
-  "banawali": 1,
-  "ahar": 1,
+  "gingee": 2,
   "girnar-or-jungadh": 1,
-  "chandraketugarh": 1,
-  "muziris": 1,
-  "bundi": 1,
-  "korkai": 1,
-  "birbhanpur": 1,
-  "rakhigarhi": 1,
+  "golconda": 1,
+  "gulbarga": 2,
+  "gwalior": 1,
+  "hampi": 2,
+  "harappa": 1,
+  "hastinapur": 1,
+  "jaugada": 1,
+  "junagadh-caves": 1,
   "junnar-caves": 1,
-  "edakkal": 1,
-  "pandu-rajar-dhibi": 1,
-  "porkalam": 1,
-  "bairat": 1,
-  "chanhudaro": 1,
-  "tripuri": 1,
-  "chirand": 1,
-  "lalitgiri": 1,
-  "penukonda": 1,
-  "vilinam": 1,
+  "kabul": 1,
+  "kalibangan": 1,
+  "kalpi": 2,
+  "kanchipuram": 1,
+  "kapilavastu": 1,
+  "karle-caves": 2,
+  "khajuraho": 2,
+  "korkai": 1,
+  "kot-diji": 1,
   "kumbharia": 1,
+  "lahore": 1,
+  "lalitgiri": 1,
+  "lothal": 1,
+  "lumbini": 1,
+  "madurai": 2,
+  "mahabalipuram": 1,
+  "malkhed": 1,
+  "mandla": 1,
+  "mandu": 4,
+  "maski": 1,
+  "masrur-rock-cut-temple": 2,
+  "modhera": 2,
+  "mohenjodaro": 1,
+  "mukhalingam": 2,
+  "multan": 3,
+  "muziris": 1,
+  "pandu-rajar-dhibi": 1,
+  "penukonda": 1,
+  "porkalam": 1,
+  "puri": 1,
+  "rajim": 2,
+  "rakhigarhi": 1,
+  "ranthambore": 1,
+  "sanchi": 1,
+  "sanghol": 2,
+  "sarnath": 1,
+  "sasaram": 2,
   "sirpur": 1,
-  "ancient-temple-pushkar-brahmaji-temple-near-pushkar-lake": 2
+  "sisupalgarh-or-dhauli": 1,
+  "somnath": 1,
+  "sringeri": 1,
+  "srirangapatnam": 1,
+  "tamluk-or-tamralipti": 2,
+  "tatha": 2,
+  "tripuri": 1,
+  "ujjain": 1,
+  "vijayapura-or-bijapur": 2,
+  "vilinam": 1
  },
  "category_weight": {
   "Chalcolithic": 14,
@@ -1165,83 +3617,187 @@
  "unmatched": {
   "Tanjore": 4,
   "Attock": 3,
+  "Bayana": 3,
   "Cambay": 3,
   "Chunar": 3,
-  "Bayana": 3,
+  "Gaur": 3,
   "Ahmadnagar": 2,
-  "Chittor": 2,
-  "Jaunpur": 2,
-  "Madura": 2,
-  "Panipat": 2,
-  "Rameshwaram": 2,
-  "Surat": 2,
-  "Thatta": 2,
-  "Chanderi": 2,
-  "Chaul": 2,
-  "Kanauj": 2,
-  "Raichur": 2,
-  "Rajmahal": 2,
-  "Daman": 2,
-  "Gangaikon-dacholapuram": 2,
-  "Lakhnawati": 2,
-  "Halebid": 2,
-  "Orchha": 2,
+  "Ancient capital": 2,
+  "Ancient capital city": 2,
+  "Ancient education centre": 2,
+  "Ancient inscriptions site": 2,
+  "Ancient petroglyphs site": 2,
+  "Ancient seaport and trade centre": 2,
+  "Archaeological site": 2,
   "Balasore": 2,
   "Brick temple site": 2,
-  "A Rock-cut cave site": 2,
-  "Ancient seaport and trade centre": 2,
-  "Stone age site": 2,
   "Centre of School of art": 2,
-  "Neolithic site": 2,
-  "Archaeological site": 2,
-  "Ancient education centre": 2,
-  "Ancient capital city": 2,
-  "Ancient capital": 2,
   "Chalcolithic": 2,
+  "Chanderi": 2,
+  "Chaul": 2,
+  "Chittor": 2,
+  "Daman": 2,
+  "Gangaikon-dacholapuram": 2,
+  "Halebid": 2,
   "Harappan site": 2,
-  "Ancient petroglyphs site": 2,
-  "Anhilware": 1,
-  "Daultabad": 1,
-  "Dvarasamudra": 1,
-  "Gaurs": 1,
-  "Kalinjar": 1,
-  "Koil": 1,
-  "Ranthambhor": 1,
-  "Sarhind": 1,
-  "Sailkot": 1,
-  "Vijayanagara": 1,
+  "Jaunpur": 2,
+  "Kanauj": 2,
+  "Lakhnawati": 2,
+  "Madura": 2,
+  "Neolithic site": 2,
+  "Orchha": 2,
+  "Panipat": 2,
+  "Raichur": 2,
+  "Rajmahal": 2,
+  "Rameshwaram": 2,
+  "Stone age site": 2,
+  "Surat": 2,
+  "Aharara": 1,
+  "Ahrnadnagar": 1,
+  "Ajmer": 1,
+  "Akhnur": 1,
+  "Amaravati": 1,
   "Amarkot": 1,
-  "Calicut": 1,
-  "Cuftack": 1,
-  "Dvarasalnudra": 1,
-  "Fathepur Sikri": 1,
-  "Golkunda": 1,
-  "Jodhpur": 1,
-  "Karigra": 1,
-  "Masulipatan": 1,
-  "Pondicherry": 1,
-  "Rohtas": 1,
-  "Satan": 1,
-  "Talikot": 1,
-  "Chamba": 1,
-  "Karnasuvarna": 1,
-  "Madhyamika": 1,
-  "Nagaijunikonda": 1,
-  "Pragyotishpur": 1,
-  "Puskalavati": 1,
-  "Surparaka": 1,
-  "Thaneswar": 1,
-  "V aisali": 1,
-  "The Mughals and the European trading com": 1,
+  "Amban": 1,
+  "Anhilawara": 1,
+  "Anhilwara": 1,
+  "Anhilware": 1,
+  "Antichak": 1,
+  "Anuradhapura": 1,
+  "Aphsad": 1,
+  "Asirgarh": 1,
   "Badaun": 1,
+  "Badgara": 1,
   "Baran": 1,
+  "Basohli": 1,
+  "Belur": 1,
+  "Benares": 1,
+  "Bhadreshwar": 1,
+  "Bhagatav": 1,
+  "Bhagbanpura": 1,
   "Bhatnair": 1,
+  "Bhatner": 1,
+  "Bhumra": 1,
+  "Burhanpur": 1,
+  "Calicut": 1,
+  "Chamba": 1,
+  "Chandraketugrah": 1,
+  "Chinsura": 1,
+  "Cuftack": 1,
+  "Cutch": 1,
+  "Daulatabad": 1,
+  "Daultabad": 1,
+  "Devnimori": 1,
+  "Dhamner": 1,
+  "Dhanyakataka": 1,
+  "Dharma": 1,
+  "Dipalpur": 1,
+  "Dvarasalnudra": 1,
+  "Dvarasamudra": 1,
+  "Fathehpur Sikri": 1,
+  "Fathepur Sikri": 1,
+  "Gangai Kondachelapuram": 1,
+  "Gaurs": 1,
+  "Ghargaon": 1,
+  "Gimar": 1,
+  "Golkunda": 1,
+  "Gyarspur": 1,
   "Hansi": 1,
+  "Harwan": 1,
+  "I oftq": 1,
+  "IGI tfl ftl ii": 1,
+  "Isipattan": 1,
   "Jajnagar": 1,
+  "Jalor": 1,
+  "Janjira": 1,
+  "Jodhpur": 1,
+  "Jorwe": 1,
+  "Kalanaur": 1,
+  "Kalanjar": 1,
+  "Kalinjar": 1,
+  "Kamatapura": 1,
   "Kanhwa": 1,
+  "Kargil": 1,
+  "Karigra": 1,
+  "Karnasuvarna": 1,
+  "Katehar": 1,
+  "Kausambi": 1,
+  "Khajuha": 1,
+  "Khandgiri-Udayagiri": 1,
+  "Kibbanhalli": 1,
+  "Kishangarh": 1,
+  "Koil": 1,
+  "Konark": 1,
+  "Kondavid": 1,
+  "Kumbakonam": 1,
+  "Kusinagara": 1,
+  "Madhyamika": 1,
+  "Mahim": 1,
   "Mahoba": 1,
+  "Mandasor": 1,
+  "Maner": 1,
+  "Martand": 1,
   "Masulipatam": 1,
+  "Masulipatan": 1,
+  "Megali lhlc buriaL site": 1,
+  "Mehendragiri": 1,
+  "Murshidabad": 1,
+  "Nachna": 1,
+  "Nagaijunikonda": 1,
+  "Navsari": 1,
+  "Paleolithic site": 1,
+  "Pandharpur": 1,
+  "Pandua": 1,
+  "Pangudaria": 1,
+  "Patan": 1,
+  "Piprahwa": 1,
+  "Pondicherry": 1,
+  "Pragyotishpur": 1,
+  "Pulicat": 1,
+  "Puskalavati": 1,
+  "Qamarnager": 1,
+  "Quilon": 1,
+  "Raigarh": 1,
+  "Ranthambhor": 1,
+  "Rewa": 1,
+  "Rohtas": 1,
   "Sahasaram": 1,
-  "Sandabur": 1
- }
+  "Sailkot": 1,
+  "Sambhal": 1,
+  "Samugarh": 1,
+  "Sandabur": 1,
+  "Sannathi": 1,
+  "Sarhind": 1,
+  "Satan": 1,
+  "Serampur": 1,
+  "Shivner": 1,
+  "Sigiria": 1,
+  "Sirhind": 1,
+  "Sirohi": 1,
+  "Sonargaon": 1,
+  "Sufi Movements": 1,
+  "Surparaka": 1,
+  "Talakad": 1,
+  "Talikot": 1,
+  "Tcrraootta centre Buddhist": 1,
+  "Thaneswar": 1,
+  "The Diarchy provided by the Mont ford re": 1,
+  "The Mughals and the European trading com": 1,
+  "Trichinopoly": 1,
+  "Uttaramerur": 1,
+  "V aisali": 1,
+  "Vatapi": 1,
+  "Vijayanagara": 1,
+  "Vikramasila": 1
+ },
+ "ambiguous": [
+  {
+   "label": "Paithan",
+   "count": 2,
+   "candidates": [
+    "paithan-eknath",
+    "paithan-or-pratishthana"
+   ]
+  }
+ ]
 }

@@ -7,13 +7,15 @@ coords_confidence: high
 coords_from: ""
 coords_provisional: true
 dot_px: [321.5, 321.5]
-images: [Individual Map sites History Optional/1 Palaeolithic/Baghor MP.jpg, Individual Map sites History Optional/2 Mesolithic/Baghor MP.jpg]
+images: [Individual Map sites History Optional\1 Palaeolithic\Baghor MP.jpg, Individual Map sites History Optional\2 Mesolithic\Baghor MP.jpg]
 status: written
-sources: []
+sources: [upinder2008]
 locked: []
 ---
 
-- **Location & Setting**: Situated in Madhya Pradesh, Sidhi district.
-- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
-- **Material Culture & Finds**: Yields lithic/stone tool industry (Evidence of stone working includes boring and scraping, and cutting, slicing and piercing for food and craft work.; A circular platform of sandstone rubble, yellowish-red to dark reddish-brown, is dated to 9000–8000 BCE and may have served for ritual worship.).
-- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.
+- **Location**: Baghor I, II and III, Sidhi district, Madhya Pradesh, in the Son valley on the fringe of the Kaimur hills.
+- **Period/Level**: Upper Palaeolithic, the shrine dated to about 9000-8000 BCE; excavated jointly by G. R. Sharma of Allahabad University and J. D. Clark of the University of California, Berkeley.
+- **Key Finds & Significance**: Baghor I has yielded the clearest evidence of an Upper Palaeolithic shrine anywhere in the subcontinent, and so of organised religious activity among hunter-gatherers.
+  - A roughly circular platform of sandstone rubble about 85 cm across carried at its centre a natural stone with concentric triangular laminations ranging from light yellowish red to dark reddish brown; nine further fragments found on or near the platform join into a triangle about 15 cm high.
+  - The Kol and Baiga people who live in the Kaimur hills today build similar circular rubble platforms and worship such triangular stones as a symbol of the female principle, an ethnographic parallel of unusual directness.
+  - A microwear study of Baghor III (Sinha, 1989) identified boring, scraping and whittling associated with craft work, and cutting, slicing, piercing and chopping linked to food processing and hunting, with polish on some tools showing they had been hafted onto handles.

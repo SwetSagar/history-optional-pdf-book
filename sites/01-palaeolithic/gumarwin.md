@@ -7,13 +7,15 @@ coords_confidence: medium
 coords_from: ""
 coords_provisional: true
 dot_px: [246.5, 220.0]
-images: [Individual Map sites History Optional/1 Palaeolithic/Gumarwin.jpg]
+images: [Individual Map sites History Optional\1 Palaeolithic\Gumarwin.jpg]
 status: written
 sources: []
 locked: []
 ---
 
-- **Location & Setting**: Located in India.
-- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
-- **Material Culture & Finds**: Yields lithic/stone tool industry (Finds include bifacial handaxes, cleavers, scrapers and Acheulian choppers.; Fossil remains of Sivapithecus, an ancestor of orangutans and humans, have been recovered, along with vertebrates, invertebrates and the fossilised tuber of a tree, which together help reconstruct the ecology of the period.).
-- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.
+- **Location**: Ghumarwin, Bilaspur district, Himachal Pradesh, in the Siwalik foothills of the Sutlej basin.
+- **Period/Level**: Lower Palaeolithic, with Acheulian and Soanian material occurring together.
+- **Key Finds & Significance**: The association of Acheulian and Soanian tools at one locality argues against treating the two as separate and mutually exclusive cultures, and points instead to continuity between them.
+  - Finds include bifacial handaxes, cleavers, scrapers and Acheulian choppers.
+  - Fossil remains of Sivapithecus, one of the "God-Apes of the Siwaliks" and an ancestor of the orangutan, have been recovered here; such Siwalik apes, including Ramapithecus and Brahmapithecus, were dated between 10 and 14 million years ago.
+  - Vertebrate and invertebrate fossils together with the fossilised tuber of a tree allow the ecology of the period to be reconstructed.

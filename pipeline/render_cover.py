@@ -7,9 +7,13 @@ and red-on-white cartographic aesthetic specified in DESIGN_SYSTEM.md.
 """
 from __future__ import annotations
 
+import json
 import sys
 from pathlib import Path
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw
+
+sys.path.insert(0, str(Path(__file__).parent))
+from fonts import find_font  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "build" / "cover.png"
@@ -22,19 +26,16 @@ ACCENT_RED = (176, 42, 34)
 LINE_LIGHT = (226, 226, 226)
 
 
-def font_or_default(name: str, size: int) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
-    paths = [
-        f"/System/Library/Fonts/Supplemental/{name}.ttf",
-        f"/System/Library/Fonts/{name}.ttc",
-        f"/Library/Fonts/{name}.ttf",
-    ]
-    for p in paths:
-        if Path(p).exists():
-            try:
-                return ImageFont.truetype(p, size)
-            except Exception:
-                pass
-    return ImageFont.load_default()
+def font_or_default(name: str, size: int):
+    return find_font(name, size)
+
+
+def strapline() -> str:
+    """Derived from the records, so the cover cannot outlive its own numbers."""
+    sites = json.loads((ROOT / "data" / "sites.json").read_text(encoding="utf-8"))
+    n = sum(1 for s in sites if s.get("coords"))
+    chapters = len({p.parent.name for p in (ROOT / "sites").rglob("*.md")})
+    return f"{n} SITES  ·  {chapters} CHAPTERS  ·  CITED BY CHAPTER"
 
 
 def main() -> int:
@@ -98,8 +99,7 @@ def main() -> int:
     draw.text((x_margin, y_footer), "SWET SAGAR", fill=TEXT_MAIN, font=font_author)
 
     y_footer += 75
-    draw.text((x_margin, y_footer), "500 CANONICAL SITES  ·  3,719 REFERENCE PAGES  ·  FULL CITATIONS",
-              fill=TEXT_MUTED, font=font_meta)
+    draw.text((x_margin, y_footer), strapline(), fill=TEXT_MUTED, font=font_meta)
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     im.save(OUT, quality=95)

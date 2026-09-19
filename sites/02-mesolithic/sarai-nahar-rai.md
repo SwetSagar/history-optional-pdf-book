@@ -7,13 +7,18 @@ coords_confidence: high
 coords_from: ""
 coords_provisional: true
 dot_px: [317.5, 302.5]
-images: [Individual Map sites History Optional/2 Mesolithic/Sarai Nahar Rai.jpg]
-status: sourced
-sources: [upinder2008]
-locked: []
+images: [Individual Map sites History Optional\2 Mesolithic\Sarai Nahar Rai.jpg]
+status: written
+sources: [upinder2008, sharma2005]
+locked: [state]
 ---
 
-- **Location & Setting**: Situated in Uttar Pradesh, Pratapgarh district, the river.
-- **Periodization & Excavation**: Multi-layered occupation phase belonging to Mesolithic.
-- **Material Culture & Finds**: Yields lithic/stone tool industry (Eleven burials in oblong pits are dated to 8400 BC, with animal bones — bison, rhinoceros, stag and fish — used as grave goods.; A hominid fossil found here, of Mesolithic to Neolithic age, is among the oldest in the region.).
-- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Mesolithic.
+- **Location**: Sarai Nahar Rai, Pratapgarh district, Uttar Pradesh, on the bank of a dried oxbow lake in the Ganga plain between the Ganga and the Gomti - lake-margin country that attracted repeated Mesolithic settlement.
+- **Period/Level**: Excavated by G. R. Sharma of Allahabad University. A radiocarbon determination of c. 8400 BCE is often quoted, though the date is disputed and several scholars place the occupation considerably later, in the 5th-4th millennia BCE.
+- **Key Finds & Significance**: The first excavated Mesolithic cemetery in the Ganga plain, and the site that produced direct evidence of violence between hunter-gatherers.
+  - Eleven burials were found in oblong pits dug inside the habitation area rather than in a separate cemetery - the dead kept among the living, which is the pattern across the Ganga plain Mesolithic.
+  - One skeleton has a bone arrowhead embedded in its rib. It is among the earliest physical evidence of inter-personal violence in South Asia, and is the usual counter to the assumption that foraging societies were peaceable.
+  - The microliths are geometric and very small, worked on chert, chalcedony and agate that had to be brought from the Vindhyas, since the alluvial plain has no stone at all. Raw material moving over long distances is the site's other significant finding.
+  - Animal bones - bison, rhinoceros, stag, fish - and charred remains show a broad-spectrum diet, and some bones were placed in graves.
+  - Read it with Mahadaha and Damdama nearby, which together form the Ganga plain Mesolithic complex.
+  - *Sources*: Upinder Singh, ch. 2; R. S. Sharma, *India's Ancient Past*; G. R. Sharma, *Beginnings of Agriculture*.

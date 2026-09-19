@@ -36,6 +36,17 @@ REPORTS = ROOT / "reports"
 SKIP_DIRS = {"Bin"}          # overview plates, not per-site sheets
 FUZZY_CUTOFF = 0.87
 
+# Spelling variants the normalised match key cannot bridge on its own —
+# 'Sudergarh'/'Sundargarh', 'Runnindei'/'Lumbini'. Without this, one place
+# gets two records in two chapters and the book counts it twice.
+_MERGES = json.loads((DATA / "merges.json").read_text(encoding="utf-8")) \
+    if (DATA / "merges.json").exists() else {}
+MERGE_MAP = _MERGES.get("merge", {})
+# The "fuller spelling wins" rule below is right for 'Girnar'/'Girnar or Junagadh'
+# but wrong when the longer sheet name is a descriptive label — the missed-PYQ
+# sheets are titled 'Famous Fort - Fort St George'. This pins the display name.
+MERGE_NAMES = _MERGES.get("name", {})
+
 
 def category_of(folder: str) -> tuple[int, str]:
     """'14. Temple Sites' -> (14, 'Temple Sites'); unnumbered folders sort last."""
@@ -95,6 +106,7 @@ def read_images() -> dict[str, dict]:
         # author's WRONG/correct/Copy annotations, which previously gave two
         # unrelated sites the shared key 'wrong'.
         merge_key = sorted(keys, key=len)[0]
+        merge_key = MERGE_MAP.get(merge_key, merge_key)
         rec = sites.get(merge_key)
         if rec is None:
             rec = sites[merge_key] = {
@@ -108,6 +120,9 @@ def read_images() -> dict[str, dict]:
         if not any(c["category"] == cat for c in rec["categories"]):
             rec["categories"].append(entry)
         rec["images"].append(entry)
+    for key, rec in sites.items():
+        if key in MERGE_NAMES:
+            rec["name"] = MERGE_NAMES[key]
     return sites
 
 
@@ -345,17 +360,28 @@ def main() -> int:
 OWNABLE = ("state", "coords", "coords_confidence", "coords_from",
            "coords_provisional", "dot_px", "name")
 
+# Every key this script derives. Anything else found in an existing file was put
+# there by hand, so a rebuild carries it through untouched — see apply_overrides.
+DERIVED = OWNABLE + ("categories", "images", "status", "sources", "locked")
+
 
 def apply_overrides(fresh: dict, prev: dict) -> dict:
     """Let human corrections survive a rebuild.
 
-    Three ways a field becomes the author's rather than the pipeline's:
+    Four ways a field becomes the author's rather than the pipeline's:
 
       sources             always — nothing derives citations, so a rebuild must
                           never reset them. This was silently wiping them.
       locked: [field,…]   explicit, auditable opt-out from re-derivation.
       coords_provisional  set to false, meaning the coordinate has been checked
                           against a gazetteer; that pins coords and state too.
+      any undeclared key  always. The editorial fields the web export gates on —
+                          review_status, model_answer_30, recall_points,
+                          location_type — are written by hand and derived by
+                          nothing, so enumerating them here would mean the next
+                          such field is silently wiped on the first rebuild
+                          after someone adds it. Carrying every unknown key is
+                          the rule that does not need revisiting.
 
     Without this, correcting Kuntasi's state to Gujarat by hand survived exactly
     until the next run of this script.
@@ -385,6 +411,10 @@ def apply_overrides(fresh: dict, prev: dict) -> dict:
         if field in OWNABLE and field in prev:
             out[field] = prev[field]
     out["locked"] = sorted(set(locked))
+
+    for field, value in prev.items():
+        if field not in DERIVED:
+            out[field] = value
     return out
 
 

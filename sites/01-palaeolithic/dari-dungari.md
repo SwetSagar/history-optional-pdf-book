@@ -7,13 +7,14 @@ coords_confidence: high
 coords_from: ""
 coords_provisional: true
 dot_px: [324.5, 350.5]
-images: [Individual Map sites History Optional/1 Palaeolithic/Some other sites/Dari Dungari.jpg]
+images: [Individual Map sites History Optional\1 Palaeolithic\Some other sites\Dari Dungari.jpg]
 status: written
 sources: []
 locked: []
 ---
 
-- **Location & Setting**: Located in India.
-- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
-- **Material Culture & Finds**: Yields material culture artefacts.
-- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.
+- **Location**: Dari-dungri, Sambalpur district, Odisha, in the Mahanadi basin.
+- **Period/Level**: Lower and Middle Palaeolithic.
+- **Key Finds & Significance**: Explorations here recovered a large number of Lower and Middle Palaeolithic tools, making it one of the richest surface concentrations in the Mahanadi system.
+  - Tools of all three phases of the Palaeolithic have been found at many places in Odisha, and Lower Palaeolithic material also occurs along the valleys of the Budhabalanga and Brahmani rivers.
+  - Together with the river valleys and foothills of the Chhotanagpur plateau, these finds establish continuous Palaeolithic occupation across the eastern Indian uplands.

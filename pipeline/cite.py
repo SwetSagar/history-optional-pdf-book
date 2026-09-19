@@ -253,7 +253,25 @@ def corpus_keys() -> dict[str, str]:
 
 
 def load_sites() -> list[dict]:
-    return json.loads((DATA / "sites.json").read_text(encoding="utf-8"))
+    """The canonical Markdown records, not the rebuilt index.
+
+    Searching on the index's names looked for Tatha, Khatarmal and Udaigiri in
+    MP — spellings the books do not use and the records no longer carry.
+    """
+    sys.path.insert(0, str(Path(__file__).parent))
+    from common import load_frontmatter
+
+    out: list[dict] = []
+    for path in sorted((ROOT / "sites").rglob("*.md")):
+        meta, _ = load_frontmatter(path.read_text(encoding="utf-8"))
+        out.append({
+            "slug": path.stem,
+            "name": str(meta.get("name", path.stem)),
+            "status": str(meta.get("status", "")),
+            "categories": meta.get("categories") or ["?"],
+            "sources": meta.get("sources") or [],
+        })
+    return out
 
 
 def cmd_search(argv: list[str]) -> int:
@@ -329,7 +347,8 @@ def cmd_unsupported(_argv: list[str]) -> int:
         lines.append(f"## {cat} ({len(by[cat])})")
         lines += [f"- [ ] {n}" for n in sorted(by[cat])]
         lines.append("")
-    (ROOT / "reports" / "unsupported.md").write_text("\n".join(lines), encoding="utf-8")
+    (ROOT / "reports" / "unsupported.md").write_text("\n".join(lines) + "\n",
+                                                     encoding="utf-8", newline="\n")
     print(f"{len(rows)} sites with no supporting source -> reports/unsupported.md")
     return 0
 

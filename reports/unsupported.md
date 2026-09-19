@@ -4,31 +4,35 @@ These carry a description but no work in `corpus/` mentions them.
 Either the claim needs a source added to the corpus, or the entry
 needs checking — unsupported claims are where errors hide.
 
-Total: **141**
+Total: **170**
 
-## Ancient Capitals and trade cities (4)
+## Ancient Capitals and trade cities (7)
 - [ ] Achalpur
 - [ ] Pragjyotishpura
 - [ ] Pulwama
+- [ ] Talakadu
+- [ ] Vatsagumla
+- [ ] Vilinam
 - [ ] Woraiyur
 
 ## Ancient Ports (1)
 - [ ] Macchilapatnam
 
-## Art Sites (2)
+## Art Sites (3)
 - [ ] Akota
 - [ ] Bagram
+- [ ] Dhanesar
 
-## Ashokan Inscriptions (7)
+## Ashokan Inscriptions (6)
 - [ ] Brahmagir, Jatinga rameshwara and Siddapur
+- [ ] Lauria Nandangarh and Lauriya Araraj
 - [ ] Nittur and Udegolam
 - [ ] Palkigundu and gavimath
 - [ ] Patliputra
 - [ ] Rampurwa
-- [ ] Runnindei
-- [ ] Sarumaru
 
-## Bhakti and other saints (17)
+## Bhakti and other saints (19)
+- [ ] Alwarturanagri - Nammavalar
 - [ ] Apegaon - Janeshwar
 - [ ] Bagewadi- Basava
 - [ ] Bannur-Vyastirtha
@@ -40,6 +44,7 @@ Total: **141**
 - [ ] Lal Ded - Pandrethan
 - [ ] Melur - Mannikavasagar
 - [ ] Nagaon - Shankardev
+- [ ] Nankana Sahib - Nanak Dev
 - [ ] Naraina - Dadu
 - [ ] Runkata - Surdas
 - [ ] Sriperumbudur - Ramanuja
@@ -47,7 +52,7 @@ Total: **141**
 - [ ] Talaja - Narsinh Mehta
 - [ ] Tirthahalli - Purandarasa
 
-## Buddhist Sites (17)
+## Buddhist Sites (19)
 - [ ] Bamyan Caves
 - [ ] Belum Caves
 - [ ] Bhaje Caves
@@ -55,7 +60,9 @@ Total: **141**
 - [ ] Dambulla Cave temple
 - [ ] Hemis gompa Monastery
 - [ ] Jagaddala
+- [ ] Kesariya
 - [ ] Key Gompa Monastery
+- [ ] Lalitgiri
 - [ ] Lamayuru Monsatery
 - [ ] Paro Monastery
 - [ ] Saspul Caves
@@ -66,50 +73,60 @@ Total: **141**
 - [ ] Thanale Caves
 - [ ] Thikse Monastery
 
-## Chalcolithic (2)
+## Chalcolithic (5)
+- [ ] Jorve
 - [ ] Kaytha
 - [ ] Kodihwa
+- [ ] Saipal
+- [ ] Senaur
 
 ## Copper Hoards and OCP (2)
 - [ ] Kallur4
 - [ ] Shalozan
 
-## Cultural and Educational Centers (2)
+## Cultural and Educational Centers (4)
 - [ ] Nabadwip - Chaitanya
+- [ ] Pushpagiri
 - [ ] Sharda Peeth
+- [ ] Udupi
 
-## Forts (12)
+## Forts (14)
 - [ ] Bekal
 - [ ] Chitorgarh
 - [ ] Cooch Behar
+- [ ] Fort St George
+- [ ] Fort St William
 - [ ] Gagron Fort
 - [ ] Gingee
 - [ ] Hawa Mahal
-- [ ] Jaisalmer Fort Palace
 - [ ] Kangla
 - [ ] Mehrangarh
+- [ ] Penukonda
 - [ ] Raigad
 - [ ] Ranthambore
 - [ ] Srirangapatnam
 
-## Harappa (5)
+## Harappa (8)
+- [ ] Bargoan
 - [ ] Ganeriwala
+- [ ] Jhukar Late Harappa
 - [ ] Padari
+- [ ] Pirak Late Harappa
 - [ ] Shortugai
 - [ ] Sukta-koh
 - [ ] Suktakagendor
 
-## Hindu, Ajivika caves (5)
+## Hindu, Ajivika caves (4)
 - [ ] Malayadipatti
 - [ ] Sitabinji
-- [ ] Thirunadhikkara
-- [ ] Udaigiri in MP
+- [ ] Thirunandikkara
 - [ ] Undavalli Caves
 
-## Jain sites and caves (9)
+## Jain sites and caves (10)
 - [ ] Armamalai Caves
 - [ ] Dharashiv caves
 - [ ] Kambadahalli
+- [ ] Kumbharia
 - [ ] Mirpur
 - [ ] Parasnath
 - [ ] Shatrunjaya
@@ -121,8 +138,15 @@ Total: **141**
 - [ ] Ajmer Sharif
 - [ ] Atiya Jame Masjid
 - [ ] Ramadevra
-- [ ] Shah Hamdam
+- [ ] Shah-e-Hamadan (Srinagar)
 - [ ] Uch
+
+## Megalith (5)
+- [ ] Banimilia Banhera
+- [ ] Kuntitoli
+- [ ] Nartiang
+- [ ] Porkalam
+- [ ] Veerapuram
 
 ## Mesolithic (5)
 - [ ] Damdana
@@ -135,32 +159,36 @@ Total: **141**
 - [ ] Pushkalvati
 - [ ] Viratnagar
 
-## Neolithic (3)
+## Neolithic (6)
 - [ ] Burudih
+- [ ] Kili Gul Mohammad
+- [ ] Lahrudeva
 - [ ] Nal
+- [ ] Rana Gundai
 - [ ] Tekkalakote
 
-## Non Ashokan Inscription (5)
-- [ ] Bhitari pillar Ghazipur
+## Non Ashokan Inscription (2)
 - [ ] Halmidi
-- [ ] Shajahanpur
-- [ ] Uttirameru
-- [ ] hathigumpa
+- [ ] Uthiramerur
 
 ## PGW (3)
 - [ ] Atranji Khera
 - [ ] Kampiliya
 - [ ] Rupnagar
 
-## Palaeolithic (15)
+## Palaeolithic (19)
 - [ ] Adamgadh
 - [ ] Adiyala
 - [ ] Attirapakkam
 - [ ] Baghor MP
 - [ ] Bhandarpur
+- [ ] Dari Dungari
 - [ ] Gumarwin
+- [ ] Hunasgi
 - [ ] Kibbanahalli
 - [ ] Lakhudiyar
+- [ ] Lingsugur- Same as Maski 1st palae site to be discovered
+- [ ] Malprabha Ghatprabha valley
 - [ ] Mandla
 - [ ] Mehtakhedi
 - [ ] Newasa
@@ -169,26 +197,30 @@ Total: **141**
 - [ ] Shivalik
 - [ ] Tiruvakkarai
 
-## Rockcut Caves, Petroglyph sites(Cave Painting) (3)
-- [ ] Lakhudiar
-- [ ] Nashi Pandavleni Caves
-- [ ] Sittanavasa
+## Rockcut Caves, Petroglyph sites(Cave Painting) (1)
+- [ ] Porivarai
 
-## Silk Route sites (1)
+## Silk Route sites (2)
 - [ ] Barbarium
+- [ ] Leh
 
-## Temple Sites (14)
-- [ ] Amarkantak1
+## Temple Sites (18)
+- [ ] Amarkantak
+- [ ] Bishnupur
 - [ ] Dah Parvatiya
 - [ ] Darasuram
 - [ ] Gangaikonda Cholapuram
 - [ ] Halebeedu
-- [ ] Jagganath and Konark Sun temple
+- [ ] Jagannath and Konark Sun Temple
+- [ ] Katarmal Sun Temple
 - [ ] Lingaraj temple
+- [ ] Lonar
+- [ ] Manali
 - [ ] Martand Sun temple
+- [ ] Masrur Rock-cut Temple
 - [ ] Nachna Kuthra
 - [ ] Pandharpur Vitthala temple
 - [ ] Rajim
 - [ ] Shamalji
-- [ ] Uttiramerur
-- [ ] masrur rock cut temple
+- [ ] Sri Ranganathswami temple
+

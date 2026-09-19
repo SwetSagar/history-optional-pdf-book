@@ -70,5 +70,104 @@
     "year": 1979,
     "paginated": false,
     "note": ""
+  },
+  "sircar-si": {
+    "author": "Sircar, D. C.",
+    "title": "Select Inscriptions Bearing on Indian History and Civilization, Vol. I",
+    "place": "Calcutta",
+    "publisher": "University of Calcutta",
+    "year": 1965,
+    "paginated": true,
+    "note": "Standard critical edition of the inscriptions cited throughout the epigraphy chapters. Properly paginated; cite inscription number and page."
+  },
+  "sircar-epigraphy": {
+    "author": "Sircar, D. C.",
+    "title": "Indian Epigraphy",
+    "place": "Delhi",
+    "publisher": "Motilal Banarsidass",
+    "year": 1965,
+    "paginated": true,
+    "note": "Reference for script, language and dating of Indian inscriptions."
+  },
+  "fleet-cii3": {
+    "author": "Fleet, J. F.",
+    "title": "Corpus Inscriptionum Indicarum, Vol. III: Inscriptions of the Early Gupta Kings",
+    "place": "Calcutta",
+    "publisher": "Government of India",
+    "year": 1888,
+    "paginated": true,
+    "note": "The edition for Gupta-period records — Allahabad pillar, Bhitari, Mehrauli. Paginated."
+  },
+  "epigraphia-indica": {
+    "author": "Archaeological Survey of India",
+    "title": "Epigraphia Indica",
+    "place": "Calcutta / New Delhi",
+    "publisher": "Archaeological Survey of India",
+    "year": null,
+    "paginated": true,
+    "note": "Serial. Cite volume and page."
+  },
+  "sii": {
+    "author": "Archaeological Survey of India",
+    "title": "South Indian Inscriptions",
+    "place": "Madras / New Delhi",
+    "publisher": "Archaeological Survey of India",
+    "year": null,
+    "paginated": true,
+    "note": "Serial. The source for Chola, Pallava and Pandya records including Uthiramerur."
+  },
+  "epigraphia-carnatica": {
+    "author": "Rice, B. Lewis, and others",
+    "title": "Epigraphia Carnatica",
+    "place": "Bangalore / Mysore",
+    "publisher": "Mysore Archaeological Department",
+    "year": null,
+    "paginated": true,
+    "note": "Serial. The Karnataka corpus, including the Shravanabelagola inscriptions."
+  },
+  "periplus": {
+    "author": "Casson, Lionel (ed. and trans.)",
+    "title": "The Periplus Maris Erythraei",
+    "place": "Princeton",
+    "publisher": "Princeton University Press",
+    "year": 1989,
+    "paginated": true,
+    "note": "Standard edition of the 1st-century CE navigation and trade handbook cited throughout the ports chapter."
+  },
+  "thapar-asoka": {
+    "author": "Thapar, Romila",
+    "title": "Asoka and the Decline of the Mauryas",
+    "place": "Delhi",
+    "publisher": "Oxford University Press",
+    "year": 1961,
+    "paginated": true,
+    "note": "The standard study for the Ashokan inscriptions chapter."
+  },
+  "thapar-somanatha": {
+    "author": "Thapar, Romila",
+    "title": "Somanatha: The Many Voices of a History",
+    "place": "Delhi",
+    "publisher": "Penguin",
+    "year": 2004,
+    "paginated": true,
+    "note": "The historiographical treatment of the Somnath raid and its later narration."
+  },
+  "kalhana-rajatarangini": {
+    "author": "Kalhana (trans. M. A. Stein)",
+    "title": "Rajatarangini: The Saga of the Kings of Kasmir",
+    "place": "Westminster",
+    "publisher": "Archibald Constable",
+    "year": 1900,
+    "paginated": true,
+    "note": "The Kashmir chronicle, 1149-50 CE. Cite book and verse."
+  },
+  "nilakanta-sastri-colas": {
+    "author": "Nilakanta Sastri, K. A.",
+    "title": "The Colas",
+    "place": "Madras",
+    "publisher": "University of Madras",
+    "year": 1955,
+    "paginated": true,
+    "note": "Standard history of the Chola dynasty and its administration."
   }
 }

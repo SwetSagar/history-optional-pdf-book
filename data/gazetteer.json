@@ -1,63 +1,901 @@
 {
   "_description": "Official WGS84 GPS coordinates for UPSC History Optional sites",
   "gazetteer": {
-    "malprabha-ghatprabha-valley": {"coords": [16.18, 75.7], "state": "Karnataka"},
-    "mogara-hills": {"coords": [25.77, 73.32], "state": "Rajasthan"},
-    "sabarmati-valley": {"coords": [23.5, 72.6], "state": "Gujarat"},
-    "ratanpura": {"coords": [23.82, 71.95], "state": "Gujarat"},
-    "tilwara": {"coords": [25.75, 72.08], "state": "Rajasthan"},
-    "mahagara": {"coords": [24.9, 81.917], "state": "Uttar Pradesh"},
-    "gungeria": {"coords": [21.82, 80.25], "state": "Madhya Pradesh"},
-    "prabhas-patan": {"coords": [20.887, 70.404], "state": "Gujarat"},
-    "saipal": {"coords": [27.38, 79.58], "state": "Uttar Pradesh"},
-    "balu": {"coords": [29.68, 76.38], "state": "Haryana"},
-    "banimilia-banhera": {"coords": [25.05, 82.8], "state": "Uttar Pradesh"},
-    "kotia": {"coords": [24.95, 82.05], "state": "Uttar Pradesh"},
-    "veerapuram": {"coords": [15.93, 78.26], "state": "Andhra Pradesh"},
-    "bahawalpur": {"coords": [29.395, 71.683], "state": "Pakistan"},
-    "chak-86": {"coords": [29.8, 73.85], "state": "Rajasthan"},
-    "prahladpur": {"coords": [25.26, 83.25], "state": "Uttar Pradesh"},
-    "bharhut": {"coords": [24.482, 80.887], "state": "Madhya Pradesh"},
-    "kanganahalli": {"coords": [16.858, 76.924], "state": "Karnataka"},
-    "kesariya": {"coords": [26.353, 84.856], "state": "Bihar"},
-    "lalitgiri": {"coords": [20.589, 86.253], "state": "Odisha"},
-    "sankissa": {"coords": [27.337, 79.645], "state": "Uttar Pradesh"},
-    "ahraura-minor-rock-edict": {"coords": [25.018, 83.023], "state": "Uttar Pradesh"},
-    "laghman-minor-re": {"coords": [34.65, 70.2], "state": "Afghanistan"},
-    "lampaka-minor-re": {"coords": [34.68, 70.22], "state": "Afghanistan"},
-    "panguraria-minor-re": {"coords": [22.709, 77.406], "state": "Madhya Pradesh"},
-    "kudumiyamalai-inscription": {"coords": [10.419, 78.658], "state": "Tamil Nadu"},
-    "bhojpur": {"coords": [23.1, 77.585], "state": "Madhya Pradesh"},
-    "bishnupur": {"coords": [23.075, 87.319], "state": "West Bengal"},
-    "champaner": {"coords": [22.484, 73.535], "state": "Gujarat"},
-    "khatarmal": {"coords": [29.645, 79.627], "state": "Uttarakhand"},
-    "lonar": {"coords": [19.975, 76.508], "state": "Maharashtra"},
-    "manali": {"coords": [32.243, 77.189], "state": "Himachal Pradesh"},
-    "pattadakal": {"coords": [15.949, 75.816], "state": "Karnataka"},
-    "sibsagar": {"coords": [26.983, 94.633], "state": "Assam"},
-    "sri-ranganathswami-temple": {"coords": [10.862, 78.69], "state": "Tamil Nadu"},
-    "kumbharia": {"coords": [24.328, 72.827], "state": "Gujarat"},
-    "puri": {"coords": [19.813, 85.831], "state": "Odisha"},
-    "sringeri": {"coords": [13.419, 75.257], "state": "Karnataka"},
-    "nirppeyarru": {"coords": [12.838, 79.705], "state": "Tamil Nadu"},
-    "bhokardan": {"coords": [20.263, 75.767], "state": "Maharashtra"},
-    "kolar": {"coords": [13.137, 78.129], "state": "Karnataka"},
-    "mukhalingam": {"coords": [18.596, 83.963], "state": "Andhra Pradesh"},
-    "nagar": {"coords": [26.173, 75.838], "state": "Rajasthan"},
-    "padmavati": {"coords": [25.867, 78.117], "state": "Madhya Pradesh"},
-    "sambhar": {"coords": [26.912, 75.195], "state": "Rajasthan"},
-    "tagara-or-ter": {"coords": [18.324, 76.147], "state": "Maharashtra"},
-    "talakadu": {"coords": [12.189, 77.034], "state": "Karnataka"},
-    "thanesar-or-sthanisvara": {"coords": [29.969, 76.818], "state": "Haryana"},
-    "vatsagumla": {"coords": [20.109, 77.135], "state": "Maharashtra"},
-    "vilinam": {"coords": [8.38, 76.993], "state": "Kerala"},
-    "fort-st-william": {"coords": [22.554, 88.337], "state": "West Bengal"},
-    "penukonda": {"coords": [14.083, 77.583], "state": "Andhra Pradesh"},
-    "edakkal": {"coords": [11.627, 76.234], "state": "Kerala"},
-    "kondana-caves": {"coords": [18.814, 73.376], "state": "Maharashtra"},
-    "lakhudiar": {"coords": [29.621, 79.721], "state": "Uttarakhand"},
-    "nashi-pandavleni-caves": {"coords": [19.947, 73.749], "state": "Maharashtra"},
-    "sittanavasa": {"coords": [10.463, 78.723], "state": "Tamil Nadu"},
-    "tekkalakota": {"coords": [15.534, 76.879], "state": "Karnataka"}
+    "malprabha-ghatprabha-valley": {
+      "coords": [
+        16.18,
+        75.7
+      ],
+      "state": "Karnataka"
+    },
+    "mogara-hills": {
+      "coords": [
+        25.77,
+        73.32
+      ],
+      "state": "Rajasthan"
+    },
+    "sabarmati-valley": {
+      "coords": [
+        23.5,
+        72.6
+      ],
+      "state": "Gujarat"
+    },
+    "ratanpura": {
+      "coords": [
+        23.82,
+        71.95
+      ],
+      "state": "Gujarat"
+    },
+    "tilwara": {
+      "coords": [
+        25.75,
+        72.08
+      ],
+      "state": "Rajasthan"
+    },
+    "mahagara": {
+      "coords": [
+        24.9,
+        81.917
+      ],
+      "state": "Uttar Pradesh"
+    },
+    "gungeria": {
+      "coords": [
+        21.82,
+        80.25
+      ],
+      "state": "Madhya Pradesh"
+    },
+    "prabhas-patan": {
+      "coords": [
+        20.887,
+        70.404
+      ],
+      "state": "Gujarat"
+    },
+    "saipal": {
+      "coords": [
+        27.38,
+        79.58
+      ],
+      "state": "Uttar Pradesh"
+    },
+    "balu": {
+      "coords": [
+        29.68,
+        76.38
+      ],
+      "state": "Haryana"
+    },
+    "banimilia-banhera": {
+      "coords": [
+        25.05,
+        82.8
+      ],
+      "state": "Uttar Pradesh"
+    },
+    "kotia": {
+      "coords": [
+        24.95,
+        82.05
+      ],
+      "state": "Uttar Pradesh"
+    },
+    "veerapuram": {
+      "coords": [
+        15.93,
+        78.26
+      ],
+      "state": "Andhra Pradesh"
+    },
+    "bahawalpur": {
+      "coords": [
+        29.395,
+        71.683
+      ],
+      "state": "Pakistan"
+    },
+    "chak-86": {
+      "coords": [
+        29.8,
+        73.85
+      ],
+      "state": "Rajasthan"
+    },
+    "prahladpur": {
+      "coords": [
+        25.26,
+        83.25
+      ],
+      "state": "Uttar Pradesh"
+    },
+    "bharhut": {
+      "coords": [
+        24.482,
+        80.887
+      ],
+      "state": "Madhya Pradesh"
+    },
+    "kanganahalli": {
+      "coords": [
+        16.858,
+        76.924
+      ],
+      "state": "Karnataka"
+    },
+    "kesariya": {
+      "coords": [
+        26.353,
+        84.856
+      ],
+      "state": "Bihar"
+    },
+    "lalitgiri": {
+      "coords": [
+        20.589,
+        86.253
+      ],
+      "state": "Odisha"
+    },
+    "sankissa": {
+      "coords": [
+        27.337,
+        79.645
+      ],
+      "state": "Uttar Pradesh"
+    },
+    "ahraura-minor-rock-edict": {
+      "coords": [
+        25.018,
+        83.023
+      ],
+      "state": "Uttar Pradesh"
+    },
+    "laghman-minor-re": {
+      "coords": [
+        34.65,
+        70.2
+      ],
+      "state": "Afghanistan"
+    },
+    "lampaka-minor-re": {
+      "coords": [
+        34.68,
+        70.22
+      ],
+      "state": "Afghanistan"
+    },
+    "panguraria-minor-re": {
+      "coords": [
+        22.709,
+        77.406
+      ],
+      "state": "Madhya Pradesh"
+    },
+    "kudumiyamalai-inscription": {
+      "coords": [
+        10.3667,
+        78.6167
+      ],
+      "state": "Tamil Nadu"
+    },
+    "bhojpur": {
+      "coords": [
+        23.1,
+        77.585
+      ],
+      "state": "Madhya Pradesh"
+    },
+    "bishnupur": {
+      "coords": [
+        23.075,
+        87.319
+      ],
+      "state": "West Bengal"
+    },
+    "champaner": {
+      "coords": [
+        22.484,
+        73.535
+      ],
+      "state": "Gujarat"
+    },
+    "khatarmal": {
+      "coords": [
+        29.645,
+        79.627
+      ],
+      "state": "Uttarakhand"
+    },
+    "lonar": {
+      "coords": [
+        19.975,
+        76.508
+      ],
+      "state": "Maharashtra"
+    },
+    "manali": {
+      "coords": [
+        32.243,
+        77.189
+      ],
+      "state": "Himachal Pradesh"
+    },
+    "pattadakal": {
+      "coords": [
+        15.949,
+        75.816
+      ],
+      "state": "Karnataka"
+    },
+    "sibsagar": {
+      "coords": [
+        26.983,
+        94.633
+      ],
+      "state": "Assam"
+    },
+    "sri-ranganathswami-temple": {
+      "coords": [
+        10.862,
+        78.69
+      ],
+      "state": "Tamil Nadu"
+    },
+    "kumbharia": {
+      "coords": [
+        24.328,
+        72.827
+      ],
+      "state": "Gujarat"
+    },
+    "puri": {
+      "coords": [
+        19.813,
+        85.831
+      ],
+      "state": "Odisha"
+    },
+    "sringeri": {
+      "coords": [
+        13.419,
+        75.257
+      ],
+      "state": "Karnataka"
+    },
+    "nirppeyarru": {
+      "coords": [
+        12.838,
+        79.705
+      ],
+      "state": "Tamil Nadu"
+    },
+    "bhokardan": {
+      "coords": [
+        20.263,
+        75.767
+      ],
+      "state": "Maharashtra"
+    },
+    "kolar": {
+      "coords": [
+        13.137,
+        78.129
+      ],
+      "state": "Karnataka"
+    },
+    "mukhalingam": {
+      "coords": [
+        18.596,
+        83.963
+      ],
+      "state": "Andhra Pradesh"
+    },
+    "nagar": {
+      "coords": [
+        26.173,
+        75.838
+      ],
+      "state": "Rajasthan"
+    },
+    "padmavati": {
+      "coords": [
+        25.867,
+        78.117
+      ],
+      "state": "Madhya Pradesh"
+    },
+    "sambhar": {
+      "coords": [
+        26.912,
+        75.195
+      ],
+      "state": "Rajasthan"
+    },
+    "tagara-or-ter": {
+      "coords": [
+        18.324,
+        76.147
+      ],
+      "state": "Maharashtra"
+    },
+    "talakadu": {
+      "coords": [
+        12.189,
+        77.034
+      ],
+      "state": "Karnataka"
+    },
+    "thanesar-or-sthanisvara": {
+      "coords": [
+        29.969,
+        76.818
+      ],
+      "state": "Haryana"
+    },
+    "vatsagumla": {
+      "coords": [
+        20.109,
+        77.135
+      ],
+      "state": "Maharashtra"
+    },
+    "vilinam": {
+      "coords": [
+        8.38,
+        76.993
+      ],
+      "state": "Kerala"
+    },
+    "fort-st-william": {
+      "coords": [
+        22.554,
+        88.337
+      ],
+      "state": "West Bengal"
+    },
+    "penukonda": {
+      "coords": [
+        14.083,
+        77.583
+      ],
+      "state": "Andhra Pradesh"
+    },
+    "edakkal": {
+      "coords": [
+        11.627,
+        76.234
+      ],
+      "state": "Kerala"
+    },
+    "kondana-caves": {
+      "coords": [
+        18.814,
+        73.376
+      ],
+      "state": "Maharashtra"
+    },
+    "lakhudiar": {
+      "coords": [
+        29.621,
+        79.721
+      ],
+      "state": "Uttarakhand"
+    },
+    "nashi-pandavleni-caves": {
+      "coords": [
+        19.947,
+        73.749
+      ],
+      "state": "Maharashtra"
+    },
+    "sittanavasa": {
+      "coords": [
+        10.463,
+        78.723
+      ],
+      "state": "Tamil Nadu"
+    },
+    "tekkalakota": {
+      "coords": [
+        15.534,
+        76.879
+      ],
+      "state": "Karnataka"
+    },
+    "amravati-or-dharanikota": {
+      "coords": [
+        16.5747,
+        80.3583
+      ],
+      "state": "Andhra Pradesh"
+    },
+    "champapur": {
+      "coords": [
+        25.25,
+        86.92
+      ],
+      "state": "Bihar"
+    },
+    "potali-or-bodana": {
+      "coords": [
+        18.6667,
+        77.8833
+      ],
+      "state": "Telangana"
+    },
+    "pushkalvati": {
+      "coords": [
+        34.15,
+        71.7333
+      ],
+      "state": "Pakistan"
+    },
+    "rajouri-or-rajapura": {
+      "coords": [
+        33.3833,
+        74.3167
+      ],
+      "state": "Jammu and Kashmir"
+    },
+    "suktimati": {
+      "coords": [
+        25.4833,
+        80.3333
+      ],
+      "state": "Uttar Pradesh"
+    },
+    "alchi-gompa-monastery": {
+      "coords": [
+        34.2286,
+        77.1731
+      ],
+      "state": "Jammu and Kashmir"
+    },
+    "bamyan-caves": {
+      "coords": [
+        34.8469,
+        67.8261
+      ],
+      "state": "Afghanistan"
+    },
+    "bhaje-caves": {
+      "coords": [
+        18.7286,
+        73.4794
+      ],
+      "state": "Maharashtra"
+    },
+    "bodhgaya": {
+      "coords": [
+        24.6961,
+        84.9911
+      ],
+      "state": "Bihar"
+    },
+    "bojjana-konda-caves": {
+      "coords": [
+        17.6817,
+        83.0031
+      ],
+      "state": "Andhra Pradesh"
+    },
+    "dambulla-cave-temple": {
+      "coords": [
+        7.8567,
+        80.649
+      ],
+      "state": "Sri Lanka"
+    },
+    "hemis-gompa-monastery": {
+      "coords": [
+        33.9125,
+        77.7025
+      ],
+      "state": "Jammu and Kashmir"
+    },
+    "jagaddala": {
+      "coords": [
+        25.0616,
+        88.7525
+      ],
+      "state": "Bangladesh"
+    },
+    "junagadh-caves": {
+      "coords": [
+        21.5222,
+        70.4579
+      ],
+      "state": "Gujarat"
+    },
+    "junnar-caves": {
+      "coords": [
+        19.2081,
+        73.8753
+      ],
+      "state": "Maharashtra"
+    },
+    "key-gompa-monastery": {
+      "coords": [
+        32.2978,
+        78.0122
+      ],
+      "state": "Himachal Pradesh"
+    },
+    "lamayuru-monsatery": {
+      "coords": [
+        34.2865,
+        76.7757
+      ],
+      "state": "Jammu and Kashmir"
+    },
+    "nashik-pandavleni-caves": {
+      "coords": [
+        19.9411,
+        73.7494
+      ],
+      "state": "Maharashtra"
+    },
+    "paro-monastery": {
+      "coords": [
+        27.4917,
+        89.3634
+      ],
+      "state": "Bhutan"
+    },
+    "saspul-caves": {
+      "coords": [
+        34.1925,
+        77.2536
+      ],
+      "state": "Jammu and Kashmir"
+    },
+    "sigiriya-caves": {
+      "coords": [
+        7.957,
+        80.7603
+      ],
+      "state": "Sri Lanka"
+    },
+    "somapura": {
+      "coords": [
+        25.0314,
+        88.9775
+      ],
+      "state": "Bangladesh"
+    },
+    "tabo-caves-and-monastery": {
+      "coords": [
+        32.0925,
+        78.3833
+      ],
+      "state": "Himachal Pradesh"
+    },
+    "takh-i-bhai-monastery": {
+      "coords": [
+        34.3186,
+        71.9461
+      ],
+      "state": "Pakistan"
+    },
+    "tawang-gompa-monastert": {
+      "coords": [
+        27.5861,
+        91.8594
+      ],
+      "state": "Arunachal Pradesh"
+    },
+    "thikse-monastery": {
+      "coords": [
+        34.0556,
+        77.6672
+      ],
+      "state": "Jammu and Kashmir"
+    },
+    "vikramshila": {
+      "coords": [
+        25.3208,
+        87.2861
+      ],
+      "state": "Bihar"
+    },
+    "bagram": {
+      "coords": [
+        34.995,
+        69.3
+      ],
+      "state": "Afghanistan"
+    },
+    "tamluk-or-tamralipti": {
+      "coords": [
+        22.296,
+        87.92
+      ],
+      "state": "West Bengal"
+    },
+    "bahapur": {
+      "coords": [
+        28.545,
+        77.26
+      ],
+      "state": "Delhi"
+    },
+    "bairat": {
+      "coords": [
+        27.4522,
+        76.1822
+      ],
+      "state": "Rajasthan"
+    },
+    "brahmagir-jatinga-rameshwara-and-siddapur": {
+      "coords": [
+        14.8167,
+        76.7833
+      ],
+      "state": "Karnataka"
+    },
+    "girnar-or-jungadh": {
+      "coords": [
+        21.5222,
+        70.47
+      ],
+      "state": "Gujarat"
+    },
+    "gujjara": {
+      "coords": [
+        25.7167,
+        78.45
+      ],
+      "state": "Madhya Pradesh"
+    },
+    "kalsi": {
+      "coords": [
+        30.5213,
+        77.8437
+      ],
+      "state": "Uttarakhand"
+    },
+    "lauria-nandangarh-and-lauriya-araraj": {
+      "coords": [
+        26.9833,
+        84.4
+      ],
+      "state": "Bihar"
+    },
+    "lumbini-pillar-inscription": {
+      "coords": [
+        27.4833,
+        83.2764
+      ],
+      "state": "Nepal"
+    },
+    "nittur-and-udegolam": {
+      "coords": [
+        15.15,
+        76.4
+      ],
+      "state": "Karnataka"
+    },
+    "palkigundu-and-gavimath": {
+      "coords": [
+        15.35,
+        76.15
+      ],
+      "state": "Karnataka"
+    },
+    "rajula-mandagiri": {
+      "coords": [
+        15.4,
+        77.5
+      ],
+      "state": "Andhra Pradesh"
+    },
+    "runnindei": {
+      "coords": [
+        27.4833,
+        83.2764
+      ],
+      "state": "Nepal"
+    },
+    "rupnath": {
+      "coords": [
+        23.6333,
+        80.1833
+      ],
+      "state": "Madhya Pradesh"
+    },
+    "sannati": {
+      "coords": [
+        16.858,
+        76.925
+      ],
+      "state": "Karnataka"
+    },
+    "sarumaru": {
+      "coords": [
+        22.709,
+        77.406
+      ],
+      "state": "Madhya Pradesh"
+    },
+    "shahbazgarhi": {
+      "coords": [
+        34.2206,
+        72.1656
+      ],
+      "state": "Pakistan"
+    },
+    "sisupalgarh-or-dhauli": {
+      "coords": [
+        20.1926,
+        85.838
+      ],
+      "state": "Odisha"
+    },
+    "suvarnagiri": {
+      "coords": [
+        15.6167,
+        76.5
+      ],
+      "state": "Karnataka"
+    },
+    "sirpur": {
+      "coords": [
+        21.34528,
+        82.18556
+      ],
+      "state": "Chhattisgarh"
+    },
+    "sisupalgarh": {
+      "coords": [
+        20.22664,
+        85.85306
+      ],
+      "state": "Odisha"
+    },
+    "thanale-caves": {
+      "coords": [
+        18.56922,
+        73.31907
+      ],
+      "state": "Maharashtra"
+    },
+    "akota": {
+      "coords": [
+        22.2951,
+        73.1686
+      ],
+      "state": "Gujarat"
+    },
+    "thanjavur": {
+      "coords": [
+        10.787,
+        79.13781
+      ],
+      "state": "Tamil Nadu"
+    },
+    "allahabad": {
+      "coords": [
+        25.45,
+        81.85
+      ],
+      "state": "Uttar Pradesh"
+    },
+    "delhi": {
+      "coords": [
+        28.65195,
+        77.23149
+      ],
+      "state": "Delhi"
+    },
+    "kandahar": {
+      "coords": [
+        31.62068,
+        65.71588
+      ],
+      "state": "Afghanistan"
+    },
+    "patliputra": {
+      "coords": [
+        25.611,
+        85.144
+      ],
+      "state": "Bihar"
+    },
+    "sanchi": {
+      "coords": [
+        23.47944,
+        77.73972
+      ],
+      "state": "Madhya Pradesh"
+    },
+    "bagh-caves": {
+      "coords": [
+        22.32268,
+        74.80621
+      ],
+      "state": "Madhya Pradesh"
+    },
+    "indraprastha": {
+      "coords": [
+        28.61778,
+        77.25222
+      ],
+      "state": "Delhi"
+    },
+    "chandragiri-hill": {
+      "coords": [
+        12.8553,
+        76.4894
+      ],
+      "state": "Karnataka"
+    },
+    "hathigumpa": {
+      "coords": [
+        20.2633,
+        85.7847
+      ],
+      "state": "Odisha"
+    },
+    "nanaghat": {
+      "coords": [
+        19.29,
+        73.68
+      ],
+      "state": "Maharashtra"
+    },
+    "rabatak": {
+      "coords": [
+        36.15,
+        68.3
+      ],
+      "state": "Afghanistan"
+    },
+    "shajahanpur": {
+      "coords": [
+        27.8833,
+        79.91
+      ],
+      "state": "Uttar Pradesh"
+    },
+    "uttirameru": {
+      "coords": [
+        12.61,
+        79.75
+      ],
+      "state": "Tamil Nadu"
+    },
+    "bhitari-pillar-ghazipur": {
+      "coords": [
+        25.52,
+        83.48
+      ],
+      "state": "Uttar Pradesh"
+    },
+    "mehrauli": {
+      "coords": [
+        28.5245,
+        77.1855
+      ],
+      "state": "Delhi"
+    },
+    "halmidi": {
+      "coords": [
+        13.2167,
+        75.8
+      ],
+      "state": "Karnataka"
+    },
+    "aihole": {
+      "coords": [
+        16.01889,
+        75.88194
+      ],
+      "state": "Karnataka"
+    }
   }
 }

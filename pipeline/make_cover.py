@@ -19,7 +19,9 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
 sys.path.insert(0, str(Path(__file__).parent))
-from render_maps import BASEMAP, CROP, INK_THRESHOLD, to_pixel  # noqa: E402
+from common import load_frontmatter  # noqa: E402
+from fonts import find_font  # noqa: E402
+from render_maps import BASEMAP, CROP, INK_THRESHOLD, to_pixel, without_frame  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "build" / "cover.png"
@@ -35,31 +37,46 @@ TITLE2 = "for History Optional"
 SUBTITLE = "A referenced atlas of the sites in the\nUPSC History Optional map question"
 AUTHOR = "Swet Sagar"
 
-FONTS = {
-    "serif": ["/System/Library/Fonts/Supplemental/Baskerville.ttc",
-              "/System/Library/Fonts/Palatino.ttc",
-              "/System/Library/Fonts/Supplemental/Georgia.ttf"],
-    "sans": ["/System/Library/Fonts/Supplemental/Futura.ttc",
-             "/System/Library/Fonts/Helvetica.ttc",
-             "/System/Library/Fonts/Supplemental/Georgia.ttf"],
-}
-
-
 def font(kind: str, size: int, index: int = 0):
-    for path in FONTS[kind]:
-        if Path(path).exists():
-            try:
-                return ImageFont.truetype(path, size, index=index)
-            except Exception:
-                continue
-    return ImageFont.load_default()
+    return find_font(kind, size)
+
+
+def plotted_sites() -> list[list[float]]:
+    """The coordinate of every site the book gives a locator map to.
+
+    Read from the Markdown, which is what the book itself is set from, so the
+    cover cannot come to plot a different set of places than the pages do. It
+    was reading data/sites.json — a rebuilt index whose names have already
+    drifted from the records once.
+    """
+    out = []
+    for md in sorted((ROOT / "sites").rglob("*.md")):
+        meta, _ = load_frontmatter(md.read_text(encoding="utf-8"))
+        coords = meta.get("coords")
+        if isinstance(coords, list) and len(coords) == 2:
+            out.append([float(coords[0]), float(coords[1])])
+    return out
+
+
+def chapter_count() -> int:
+    """Chapters the book actually prints, after the moves in chapters.json.
+
+    Hardcoding this let the cover claim 25 while the book ran to 24. It is the
+    one number on the cover that no other file would have contradicted out loud.
+    """
+    cfg = json.loads((ROOT / "data" / "chapters.json").read_text(encoding="utf-8"))
+    folders = set()
+    for md in (ROOT / "sites").rglob("*.md"):
+        folder = cfg.get("move_sites", {}).get(md.stem, md.parent.name)
+        folders.add(cfg.get("merge_into", {}).get(folder, folder))
+    return len(folders)
 
 
 def map_layer(width: int) -> Image.Image:
     """The outline with every located site marked, as a transparent overlay."""
     src = Image.open(BASEMAP).convert("L")
     arr = np.asarray(src).astype(np.uint8)
-    bw = np.where(arr < INK_THRESHOLD, 0, 255).astype(np.uint8)
+    bw = without_frame(np.where(arr < INK_THRESHOLD, 0, 255).astype(np.uint8))
 
     scale = 4
     big = Image.fromarray(bw).resize((src.width * scale, src.height * scale), Image.LANCZOS)
@@ -71,16 +88,13 @@ def map_layer(width: int) -> Image.Image:
     canvas.paste(Image.new("RGBA", big.size, INK + (255,)), (0, 0), mask)
 
     d = ImageDraw.Draw(canvas)
-    sites = json.loads((ROOT / "data" / "sites.json").read_text(encoding="utf-8"))
-    plotted = 0
-    for s in sites:
-        if not s.get("coords"):
-            continue
-        px, py = to_pixel(s["coords"][0], s["coords"][1])
+    sites = plotted_sites()
+    for lat, lon in sites:
+        px, py = to_pixel(lat, lon)
         x, y = px * scale, py * scale
         r = 9
         d.ellipse([x - r, y - r, x + r, y + r], fill=DOT + (235,))
-        plotted += 1
+    plotted = len(sites)
 
     canvas = canvas.crop(tuple(c * scale for c in CROP))
     w, h = canvas.size
@@ -111,9 +125,10 @@ def main() -> int:
 
     centred(d, 800, SUBTITLE, font("serif", 52, index=2), (86, 84, 80), spacing=18)
 
-    n = sum(1 for s in json.loads((ROOT / "data" / "sites.json").read_text(encoding="utf-8"))
-            if s.get("coords"))
-    centred(d, 960, f"{n} SITES  ·  25 CHAPTERS", font("sans", 40), RULE)
+    # The printed count and the plotted dots come off the same list, so the
+    # cover cannot claim a number the artwork does not show.
+    n = len(plotted_sites())
+    centred(d, 960, f"{n} SITES  ·  {chapter_count()} CHAPTERS", font("sans", 40), RULE)
 
     # --- map, occupying the lower half only, so no type sits over it ---
     MAP_TOP, MAP_BOTTOM = 1070, H - 330

@@ -7,13 +7,15 @@ coords_confidence: high
 coords_from: ""
 coords_provisional: true
 dot_px: [260.9, 342.5]
-images: [Individual Map sites History Optional/1 Palaeolithic/Adamgadh.jpg, Individual Map sites History Optional/2 Mesolithic/Adamgadh.jpg]
+images: [Individual Map sites History Optional\1 Palaeolithic\Adamgadh.jpg, Individual Map sites History Optional\2 Mesolithic\Adamgadh.jpg]
 status: written
-sources: []
+sources: [upinder2008]
 locked: []
 ---
 
-- **Location & Setting**: Situated in Madhya Pradesh.
-- **Periodization & Excavation**: Multi-layered occupation phase belonging to Palaeolithic.
-- **Material Culture & Finds**: Yields ceramic assemblage, lithic/stone tool industry (The Lower and Middle levels are Palaeolithic; the upper layers are Mesolithic and pass into the Neolithic–Chalcolithic.; Microliths of chert, chalcedony, jasper and agate occur alongside potsherds, dated to 5500 BCE.).
-- **Historical Significance**: Key reference site for studying regional socio-economic development and historical sequence in Palaeolithic.
+- **Location**: Adamgarh hill near Hoshangabad (Narmadapuram), Madhya Pradesh, in the Narmada valley on the northern edge of the Satpuras, roughly 30 km south of Bhimbetka.
+- **Period/Level**: Lower and Middle Palaeolithic in the basal levels, overlain by a rich Mesolithic horizon that passes into the Neolithic-Chalcolithic; excavated by R. V. Joshi.
+- **Key Finds & Significance**: One of the few sites in central India to preserve an unbroken sequence from the Palaeolithic through the Mesolithic into the food-producing stage.
+  - The lower and middle levels yielded Acheulian core tools of quartzite; the upper levels produced an enormous microlithic industry of chert, chalcedony, jasper and agate, with geometric microliths and potsherds dated to about 5500 BCE.
+  - Bones of both wild and domesticated animals were recovered, which, with Bagor in Rajasthan, gives Adamgarh the earliest evidence for the domestication of animals in the Indian part of the subcontinent, around 5000 BCE.
+  - The rock shelters of the hill carry paintings, linking the site to the wider Vindhyan rock art tradition of Bhimbetka.
