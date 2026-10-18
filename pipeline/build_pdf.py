@@ -74,6 +74,11 @@ TITLE = "Map Entries for History Optional"
 SUBTITLE = "A referenced atlas of the sites in the UPSC History Optional map question"
 AUTHOR = "Swet Sagar"
 EDITION = "First edition"
+# Where readers go to practise placing these sites. Printed at the front and
+# stamped, clickable, in the foot of every page after the cover.
+PRACTICE_URL = "https://www.upsckosha.in/maps"
+PRACTICE_LABEL = "upsckosha.in/maps"
+PRACTICE_LINE = "Practise placing every site on the map"
 
 # --------------------------------------------------------------------------
 # The page grid
@@ -172,6 +177,20 @@ body {
 .titlepage .s { font-size: 11pt; font-style: italic; color: var(--muted); margin: 0 auto 14mm; max-width: 120mm; line-height: 1.5; }
 .titlepage .a { font-size: 12pt; margin: 0 0 2mm; }
 .titlepage .e { font-size: 8.5pt; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.practice {
+  margin: 22mm auto 0; max-width: 120mm; padding: 5mm 6mm; text-align: center;
+  border: 1pt solid var(--accent); border-radius: 2pt;
+}
+.practice .k {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 7.5pt; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--accent); margin: 0 0 2mm;
+}
+.practice p { font-size: 9.5pt; line-height: 1.45; margin: 0 0 2.5mm; }
+.practice a {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12pt; font-weight: 700; color: var(--accent); text-decoration: none;
+}
 
 .front { break-after: page; }
 .front h2 {
@@ -635,6 +654,32 @@ def entry_html(e: dict, bib: dict, opener: bool = False, fit: int = 1) -> str:
     return "\n".join(parts)
 
 
+def practice_html() -> str:
+    """The front-of-book pointer to the practice map. The exam booklet reuses it."""
+    return ('<div class="practice">'
+            '<p class="k">Practise on the map</p>'
+            '<p>Reading where a place is and placing it yourself are different skills. '
+            'Test yourself on every site in this book on the interactive map &mdash; '
+            'click where you think it lies and see how close you were.</p>'
+            f'<a href="{esc(PRACTICE_URL)}">{esc(PRACTICE_LABEL)}</a>'
+            '</div>')
+
+
+def stamp_practice(c, width: float, y: float) -> None:
+    """A clickable practice line, centred in the foot margin between the folios."""
+    text_a, text_b = f"{PRACTICE_LINE}  ·  ", PRACTICE_LABEL
+    wa = c.stringWidth(text_a, "Helvetica", 7)
+    wb = c.stringWidth(text_b, "Helvetica-Bold", 7)
+    x = (width - wa - wb) / 2
+    c.setFont("Helvetica", 7)
+    c.setFillColorRGB(0.34, 0.34, 0.34)
+    c.drawString(x, y, text_a)
+    c.setFont("Helvetica-Bold", 7)
+    c.setFillColorRGB(0.69, 0.16, 0.13)          # --accent
+    c.drawString(x + wa, y, text_b)
+    c.linkURL(PRACTICE_URL, (x - 2, y - 3, x + wa + wb + 2, y + 8), relative=0)
+
+
 def build_html(chapters: dict[str, list[dict]], bib: dict,
                folios: dict[str, str] | None, cover: Path | None,
                fits: dict[str, int] | None = None) -> str:
@@ -658,6 +703,7 @@ def build_html(chapters: dict[str, list[dict]], bib: dict,
         f'<p class="a">{esc(AUTHOR)}</p>'
         f'<p class="e">{esc(EDITION)} &middot; {total} sites &middot; '
         f'{date.today().strftime("%B %Y")}</p>'
+        f'{practice_html()}'
         '</section>'
     )
 
@@ -983,7 +1029,8 @@ def page_labels(n_pages: int, body_start: int, cover: bool) -> list[str]:
 
 
 def stamp(src: Path, dst: Path, labels: list[str], heads: dict[int, str],
-          outline: list[tuple[str, int, list[tuple[str, int]]]], no_folio: set[int]) -> None:
+          outline: list[tuple[str, int, list[tuple[str, int]]]], no_folio: set[int],
+          no_footer: set[int] = frozenset()) -> None:
     """Merge running heads and folios into the margins, then write bookmarks."""
     from io import BytesIO
     from pypdf import PdfReader, PdfWriter
@@ -994,6 +1041,8 @@ def stamp(src: Path, dst: Path, labels: list[str], heads: dict[int, str],
     buf = BytesIO()
     c = canvas.Canvas(buf, pagesize=A4)
     for i, label in enumerate(labels):
+        if i not in no_footer:
+            stamp_practice(c, W, 28.3)
         if i not in no_folio:
             # The cover is leaf one and sits on the right, so even indexes are
             # rectos and the folio belongs on the outer — right — edge.
@@ -1163,7 +1212,8 @@ def main() -> int:
     for start, _ in back:
         heads.pop(start, None)
 
-    stamp(raw, OUT, labels, heads, outline, no_folio)
+    stamp(raw, OUT, labels, heads, outline, no_folio,
+          no_footer={0} if cover is not None else set())
 
     body_pages = len(labels) - (min(p for p, _ in chapter_starts) if chapter_starts else 0)
     print(f"pages    : {len(labels)}  ({body_pages} numbered)")

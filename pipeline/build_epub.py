@@ -24,6 +24,7 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+from build_pdf import PRACTICE_LABEL, PRACTICE_LINE, PRACTICE_URL  # noqa: E402
 from common import load_frontmatter  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -164,6 +165,13 @@ ul.facts li strong {
 .bib { font-size: 0.9em; padding-left: 0; }
 .bib li { margin-bottom: 0.6em; padding-left: 1.2em; text-indent: -1.2em; list-style: none; }
 
+.practice {
+  font-family: "Helvetica Neue", "Inter", sans-serif; font-size: 0.9em;
+  border: 1px solid var(--color-accent-red); border-radius: 3px;
+  padding: 0.6em 0.8em; margin: 1em 0;
+}
+.practice a { font-weight: 700; color: var(--color-accent-red); }
+
 hr { border: 0; border-top: 1px solid var(--color-border); margin: 2em 0; }
 """
 
@@ -287,6 +295,9 @@ def build(include_all: bool) -> int:
         print("warning: build/cover.png missing — run pipeline/make_cover.py",
               file=sys.stderr)
 
+    practice = (f'<p class="practice">{esc(PRACTICE_LINE)}: '
+                f'<a href="{esc(PRACTICE_URL)}">{esc(PRACTICE_LABEL)}</a></p>')
+
     # front matter
     front = (
         '<section class="front" epub:type="titlepage">\n'
@@ -297,6 +308,7 @@ def build(include_all: bool) -> int:
         '<p>Locator maps are generated from positions recorded on the author’s '
         'own map sheets. Positions are approximate and are intended to show where '
         'a site lies, not to serve as survey coordinates.</p>\n'
+        f'{practice}\n'
         '</section>\n'
     )
     files["OEBPS/title.xhtml"] = xhtml(TITLE, front).encode()
@@ -308,7 +320,7 @@ def build(include_all: bool) -> int:
         cid = f"ch{i:02d}"
         ctitle = chapter_title(folder)
         parts = [f"<h1>{esc(ctitle)}</h1>",
-                 f'<p class="chapter-range">{len(entries)} entries</p>']
+                 f'<p class="chapter-range">{len(entries)} entries</p>', practice]
         for e in entries:
             total += 1
             meta = e["meta"]
@@ -350,6 +362,7 @@ def build(include_all: bool) -> int:
                              + "; ".join(cite_label(str(x), bib) for x in srcs)
                              + "</p>")
             parts.append('</div>')          # close .site-entry
+        parts.append(practice)
         files[f"OEBPS/{cid}.xhtml"] = xhtml(ctitle, "\n".join(parts)).encode()
         manifest.append(f'<item id="{cid}" href="{cid}.xhtml" '
                         f'media-type="application/xhtml+xml"/>')

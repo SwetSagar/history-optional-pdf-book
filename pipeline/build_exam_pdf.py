@@ -21,7 +21,8 @@ from io import BytesIO
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from build_pdf import CHAPTERS, chapter_title, esc, find_browser, render  # noqa: E402
+from build_pdf import (CHAPTERS, chapter_title, esc, find_browser, practice_html,  # noqa: E402
+                       render, stamp_practice)
 from common import load_frontmatter  # noqa: E402
 from exam_notes import build as build_notes  # noqa: E402
 
@@ -59,6 +60,20 @@ body {
 .title .s { font-size: 11pt; font-style: italic; color: var(--muted); max-width: 120mm;
             margin: 0 auto 12mm; line-height: 1.5; }
 .title .meta { font-size: 8.5pt; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.practice {
+  margin: 22mm auto 0; max-width: 120mm; padding: 5mm 6mm; text-align: center;
+  border: 1pt solid var(--accent); border-radius: 2pt;
+}
+.practice .k {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 7.5pt; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--accent); margin: 0 0 2mm;
+}
+.practice p { font-size: 9.5pt; line-height: 1.45; margin: 0 0 2.5mm; max-width: none; }
+.practice a {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12pt; font-weight: 700; color: var(--accent); text-decoration: none;
+}
 
 .howto { break-after: page; }
 .howto h2 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -169,6 +184,7 @@ def build_html(chapters: dict, frequency: dict) -> str:
         f'<p class="s">{esc(SUBTITLE)}</p>',
         f'<p class="meta">{total} sites &nbsp;·&nbsp; {len(chapters)} chapters '
         f'&nbsp;·&nbsp; {date.today():%B %Y}</p>',
+        practice_html(),
         "</section>",
         '<section class="howto"><h2>How to use this</h2>',
         "<p>One card to a site: the locator, the name, where it is, and a note of "
@@ -209,6 +225,7 @@ def stamp_folios(src: Path, dst: Path, heads: dict[int, str]) -> None:
     c = canvas.Canvas(buf, pagesize=A4)
     reader = PdfReader(str(src))
     for i in range(len(reader.pages)):
+        stamp_practice(c, W, 26)
         if i >= 2:
             recto = i % 2 == 0
             x = W - 40 if recto else 40
