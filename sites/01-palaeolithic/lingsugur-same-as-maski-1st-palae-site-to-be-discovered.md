@@ -1,7 +1,7 @@
 ---
 name: Lingsugur- Same as Maski 1st palae site to be discovered
 categories: [Palaeolithic]
-state: ""
+state: Karnataka
 coords: [16.9407, 76.4958]
 coords_confidence: inherited
 coords_from: Maski

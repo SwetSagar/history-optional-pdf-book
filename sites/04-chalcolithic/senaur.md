@@ -1,7 +1,7 @@
 ---
 name: Senaur
 categories: [Chalcolithic]
-state: ""
+state: Bihar
 coords: [25.0667, 83.5043]
 coords_confidence: high
 coords_from: ""

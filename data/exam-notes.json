@@ -220,7 +220,7 @@
     {
       "slug": "ajmer-hakra-basin",
       "name": "Ajmer(Hakra Basin)",
-      "stateOrRegion": "",
+      "stateOrRegion": "Rajasthan",
       "categories": [
         "Palaeolithic"
       ],
@@ -436,7 +436,7 @@
     {
       "slug": "anangpur",
       "name": "Anangpur",
-      "stateOrRegion": "",
+      "stateOrRegion": "Haryana",
       "categories": [
         "Palaeolithic"
       ],
@@ -802,7 +802,7 @@
     {
       "slug": "balathal",
       "name": "Balathal",
-      "stateOrRegion": "",
+      "stateOrRegion": "Rajasthan",
       "categories": [
         "Chalcolithic"
       ],
@@ -917,7 +917,7 @@
     {
       "slug": "bangarh",
       "name": "Bangarh",
-      "stateOrRegion": "",
+      "stateOrRegion": "West Bengal",
       "categories": [
         "Chalcolithic",
         "Ancient Capitals and trade cities"
@@ -1869,7 +1869,7 @@
     {
       "slug": "dari-dungari",
       "name": "Dari Dungari",
-      "stateOrRegion": "",
+      "stateOrRegion": "Odisha",
       "categories": [
         "Palaeolithic"
       ],
@@ -2415,7 +2415,7 @@
     {
       "slug": "gudiyam-caves",
       "name": "Gudiyam Caves",
-      "stateOrRegion": "",
+      "stateOrRegion": "Tamil Nadu",
       "categories": [
         "Palaeolithic"
       ],
@@ -2479,7 +2479,7 @@
     {
       "slug": "gumarwin",
       "name": "Gumarwin",
-      "stateOrRegion": "",
+      "stateOrRegion": "Himachal Pradesh",
       "categories": [
         "Palaeolithic"
       ],
@@ -2744,7 +2744,7 @@
     {
       "slug": "hiran-valley",
       "name": "Hiran Valley",
-      "stateOrRegion": "",
+      "stateOrRegion": "Gujarat",
       "categories": [
         "Palaeolithic"
       ],
@@ -2760,7 +2760,7 @@
     {
       "slug": "hunasgi",
       "name": "Hunasgi",
-      "stateOrRegion": "",
+      "stateOrRegion": "Karnataka",
       "categories": [
         "Palaeolithic"
       ],
@@ -2777,7 +2777,7 @@
     {
       "slug": "imlidih",
       "name": "Imlidih",
-      "stateOrRegion": "",
+      "stateOrRegion": "Uttar Pradesh",
       "categories": [
         "Chalcolithic"
       ],
@@ -2793,7 +2793,7 @@
     {
       "slug": "inamgaon",
       "name": "Inamgaon",
-      "stateOrRegion": "",
+      "stateOrRegion": "Maharashtra",
       "categories": [
         "Chalcolithic",
         "Missed recent PYQ"
@@ -2942,7 +2942,7 @@
     {
       "slug": "jorve",
       "name": "Jorve",
-      "stateOrRegion": "",
+      "stateOrRegion": "Maharashtra",
       "categories": [
         "Chalcolithic"
       ],
@@ -3943,7 +3943,7 @@
     {
       "slug": "lakhudiyar",
       "name": "Lakhudiyar",
-      "stateOrRegion": "",
+      "stateOrRegion": "Uttarakhand",
       "categories": [
         "Palaeolithic",
         "Rockcut Caves, Petroglyph sites(Cave Painting)"
@@ -4122,7 +4122,7 @@
     {
       "slug": "lingsugur-same-as-maski-1st-palae-site-to-be-discovered",
       "name": "Lingsugur- Same as Maski 1st palae site to be discovered",
-      "stateOrRegion": "",
+      "stateOrRegion": "Karnataka",
       "categories": [
         "Palaeolithic"
       ],
@@ -4220,7 +4220,7 @@
     {
       "slug": "luni-valley",
       "name": "Luni Valley",
-      "stateOrRegion": "",
+      "stateOrRegion": "Rajasthan",
       "categories": [
         "Palaeolithic"
       ],
@@ -4916,7 +4916,7 @@
     {
       "slug": "nagarjunakonda",
       "name": "Nagarjunakonda",
-      "stateOrRegion": "",
+      "stateOrRegion": "Andhra Pradesh",
       "categories": [
         "Megalith",
         "Buddhist Sites"
@@ -5047,7 +5047,7 @@
     {
       "slug": "narhan",
       "name": "Narhan",
-      "stateOrRegion": "",
+      "stateOrRegion": "Uttar Pradesh",
       "categories": [
         "Chalcolithic"
       ],
@@ -5063,7 +5063,7 @@
     {
       "slug": "nartiang",
       "name": "Nartiang",
-      "stateOrRegion": "",
+      "stateOrRegion": "Meghalaya",
       "categories": [
         "Megalith"
       ],
@@ -5079,7 +5079,7 @@
     {
       "slug": "nashik",
       "name": "Nashik",
-      "stateOrRegion": "",
+      "stateOrRegion": "Maharashtra",
       "categories": [
         "Palaeolithic",
         "Non Ashokan Inscription"
@@ -5195,7 +5195,7 @@
     {
       "slug": "ojiyana",
       "name": "Ojiyana",
-      "stateOrRegion": "",
+      "stateOrRegion": "Rajasthan",
       "categories": [
         "Chalcolithic"
       ],
@@ -5326,7 +5326,7 @@
     {
       "slug": "palakkad",
       "name": "Palakkad",
-      "stateOrRegion": "",
+      "stateOrRegion": "Kerala",
       "categories": [
         "Palaeolithic",
         "Forts"
@@ -6470,7 +6470,7 @@
     {
       "slug": "senaur",
       "name": "Senaur",
-      "stateOrRegion": "",
+      "stateOrRegion": "Bihar",
       "categories": [
         "Chalcolithic"
       ],

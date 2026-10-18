@@ -1,7 +1,7 @@
 ---
 name: Hunasgi
 categories: [Palaeolithic]
-state: ""
+state: Karnataka
 coords: [16.9822, 76.5032]
 coords_confidence: high
 coords_from: ""

@@ -1,7 +1,7 @@
 ---
 name: Ajmer(Hakra Basin)
 categories: [Palaeolithic]
-state: ""
+state: Rajasthan
 coords: [26.1999, 74.7146]
 coords_confidence: high
 coords_from: ""

@@ -1,7 +1,7 @@
 ---
 name: Anangpur
 categories: [Palaeolithic]
-state: ""
+state: Haryana
 coords: [28.4612, 77.2847]
 coords_confidence: gazetteer
 coords_from: Q107525102

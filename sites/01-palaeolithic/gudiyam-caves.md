@@ -1,7 +1,7 @@
 ---
 name: Gudiyam Caves
 categories: [Palaeolithic]
-state: ""
+state: Tamil Nadu
 coords: [13.288, 79.80867]
 coords_confidence: gazetteer
 coords_from: Q5614637

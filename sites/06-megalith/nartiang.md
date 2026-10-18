@@ -1,7 +1,7 @@
 ---
 name: Nartiang
 categories: [Megalith]
-state: ""
+state: Meghalaya
 coords: [25.5789, 92.2197]
 coords_confidence: gazetteer
 coords_from: Q2881783

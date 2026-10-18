@@ -1,16 +1,16 @@
 ---
 name: Palakkad
 categories: [Palaeolithic, Forts]
-state: ""
-coords: [11.9873, 75.9725]
-coords_confidence: high
-coords_from: ""
-coords_provisional: true
+state: Kerala
+coords: [10.77917, 76.65472]
+coords_confidence: gazetteer
+coords_from: Q1006240
+coords_provisional: false
 dot_px: [237.7, 507.0]
 images: [Individual Map sites History Optional\1 Palaeolithic\Palakkad.jpg, Individual Map sites History Optional\23. Forts\Palakkad.jpg]
 status: written
 sources: []
-locked: []
+locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
 - **Location**: Palakkad (Palghat) district, Kerala, at the Palghat gap, the major natural break in the Western Ghats linking the Tamil plains with the Kerala coast.

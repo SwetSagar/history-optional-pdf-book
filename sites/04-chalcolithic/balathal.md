@@ -1,7 +1,7 @@
 ---
 name: Balathal
 categories: [Chalcolithic]
-state: ""
+state: Rajasthan
 coords: [24.71667, 73.98333]
 coords_confidence: gazetteer
 coords_from: Q4850125

@@ -1,7 +1,7 @@
 ---
 name: Inamgaon
 categories: [Chalcolithic, Missed recent PYQ]
-state: ""
+state: Maharashtra
 coords: [18.60556, 74.54444]
 coords_confidence: gazetteer
 coords_from: Q6013487

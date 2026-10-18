@@ -1,7 +1,7 @@
 ---
 name: Nashik
 categories: [Palaeolithic, Non Ashokan Inscription]
-state: ""
+state: Maharashtra
 coords: [20.0, 73.78333]
 coords_confidence: gazetteer
 coords_from: Q200235

@@ -1,7 +1,7 @@
 ---
 name: Ojiyana
 categories: [Chalcolithic]
-state: ""
+state: Rajasthan
 coords: [25.8113, 74.2498]
 coords_confidence: high
 coords_from: ""

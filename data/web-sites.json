@@ -5,9 +5,9 @@
     "sites": 480,
     "referenceReady": 480,
     "practiceReady": 0,
-    "scorableCoordinates": 306,
-    "unverifiedCoordinates": 174,
-    "missingRegions": 22,
+    "scorableCoordinates": 308,
+    "unverifiedCoordinates": 172,
+    "missingRegions": 0,
     "unknownCoordinateConfidenceValues": 0,
     "coordinateCollisionGroups": 6,
     "locationTypeReviews": 33,
@@ -208,7 +208,7 @@
         "id": "01-palaeolithic",
         "title": "Palaeolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Rajasthan",
       "location": {
         "type": "point",
         "coordinates": {
@@ -266,7 +266,6 @@
         "practiceReady": false,
         "issues": [
           "coordinate_unverified",
-          "region_missing",
           "coordinate_collision_review",
           "location_type_review_required",
           "source_metadata_missing",
@@ -288,7 +287,7 @@
         "id": "01-palaeolithic",
         "title": "Palaeolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Haryana",
       "location": {
         "type": "point",
         "coordinates": {
@@ -356,7 +355,6 @@
         "referenceReady": true,
         "practiceReady": false,
         "issues": [
-          "region_missing",
           "written_source_line_missing",
           "content_review_required"
         ]
@@ -991,7 +989,7 @@
         "id": "01-palaeolithic",
         "title": "Palaeolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Odisha",
       "location": {
         "type": "point",
         "coordinates": {
@@ -1049,7 +1047,6 @@
         "practiceReady": false,
         "issues": [
           "coordinate_unverified",
-          "region_missing",
           "source_metadata_missing",
           "written_source_line_missing",
           "content_review_required"
@@ -1177,7 +1174,7 @@
         "id": "01-palaeolithic",
         "title": "Palaeolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Tamil Nadu",
       "location": {
         "type": "point",
         "coordinates": {
@@ -1243,7 +1240,6 @@
         "referenceReady": true,
         "practiceReady": false,
         "issues": [
-          "region_missing",
           "written_source_line_missing",
           "content_review_required"
         ]
@@ -1262,7 +1258,7 @@
         "id": "01-palaeolithic",
         "title": "Palaeolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Himachal Pradesh",
       "location": {
         "type": "point",
         "coordinates": {
@@ -1321,7 +1317,6 @@
         "practiceReady": false,
         "issues": [
           "coordinate_unverified",
-          "region_missing",
           "source_metadata_missing",
           "written_source_line_missing",
           "content_review_required"
@@ -1434,7 +1429,7 @@
         "id": "01-palaeolithic",
         "title": "Palaeolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Gujarat",
       "location": {
         "type": "point",
         "coordinates": {
@@ -1501,7 +1496,6 @@
         "practiceReady": false,
         "issues": [
           "coordinate_unverified",
-          "region_missing",
           "location_type_review_required",
           "written_source_line_missing",
           "content_review_required"
@@ -1526,7 +1520,7 @@
         "id": "01-palaeolithic",
         "title": "Palaeolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Karnataka",
       "location": {
         "type": "point",
         "coordinates": {
@@ -1596,7 +1590,6 @@
         "practiceReady": false,
         "issues": [
           "coordinate_unverified",
-          "region_missing",
           "written_source_line_missing",
           "content_review_required"
         ]
@@ -1894,7 +1887,7 @@
         "id": "01-palaeolithic",
         "title": "Palaeolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Uttarakhand",
       "location": {
         "type": "point",
         "coordinates": {
@@ -1971,7 +1964,6 @@
         "practiceReady": false,
         "issues": [
           "coordinate_unverified",
-          "region_missing",
           "content_review_required"
         ]
       }
@@ -1989,7 +1981,7 @@
         "id": "01-palaeolithic",
         "title": "Palaeolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Karnataka",
       "location": {
         "type": "point",
         "coordinates": {
@@ -2047,7 +2039,6 @@
         "practiceReady": false,
         "issues": [
           "coordinate_unverified",
-          "region_missing",
           "source_metadata_missing",
           "written_source_line_missing",
           "content_review_required"
@@ -2067,7 +2058,7 @@
         "id": "01-palaeolithic",
         "title": "Palaeolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Rajasthan",
       "location": {
         "type": "point",
         "coordinates": {
@@ -2151,7 +2142,6 @@
         "practiceReady": false,
         "issues": [
           "coordinate_unverified",
-          "region_missing",
           "location_type_review_required",
           "written_source_line_missing",
           "content_review_required"
@@ -2607,7 +2597,7 @@
         "id": "01-palaeolithic",
         "title": "Palaeolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Maharashtra",
       "location": {
         "type": "point",
         "coordinates": {
@@ -2673,7 +2663,6 @@
         "referenceReady": true,
         "practiceReady": false,
         "issues": [
-          "region_missing",
           "written_source_line_missing",
           "content_review_required"
         ]
@@ -3040,19 +3029,19 @@
         "id": "01-palaeolithic",
         "title": "Palaeolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Kerala",
       "location": {
         "type": "point",
         "coordinates": {
-          "lat": 11.9873,
-          "lon": 75.9725
+          "lat": 10.77917,
+          "lon": 76.65472
         },
-        "provenance": "scan-dot",
-        "verified": false,
-        "scorable": false,
-        "acceptedRadiusKm": null,
-        "readConfidence": "high",
-        "source": ""
+        "provenance": "gazetteer",
+        "verified": true,
+        "scorable": true,
+        "acceptedRadiusKm": 25,
+        "readConfidence": "gazetteer",
+        "source": "Q1006240"
       },
       "content": {
         "location": {
@@ -3098,8 +3087,6 @@
         "referenceReady": true,
         "practiceReady": false,
         "issues": [
-          "coordinate_unverified",
-          "region_missing",
           "source_metadata_missing",
           "written_source_line_missing",
           "content_review_required"
@@ -8812,7 +8799,7 @@
         "id": "04-chalcolithic",
         "title": "Chalcolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Rajasthan",
       "location": {
         "type": "point",
         "coordinates": {
@@ -8888,7 +8875,6 @@
         "referenceReady": true,
         "practiceReady": false,
         "issues": [
-          "region_missing",
           "written_source_line_missing",
           "content_review_required"
         ]
@@ -8908,19 +8894,19 @@
         "id": "04-chalcolithic",
         "title": "Chalcolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "West Bengal",
       "location": {
         "type": "point",
         "coordinates": {
-          "lat": 27.1063,
-          "lon": 75.7986
+          "lat": 25.41332,
+          "lon": 88.53032
         },
-        "provenance": "scan-dot",
-        "verified": false,
-        "scorable": false,
-        "acceptedRadiusKm": null,
-        "readConfidence": "high",
-        "source": ""
+        "provenance": "gazetteer",
+        "verified": true,
+        "scorable": true,
+        "acceptedRadiusKm": 25,
+        "readConfidence": "gazetteer",
+        "source": "Q5267600"
       },
       "content": {
         "location": {
@@ -8991,8 +8977,6 @@
         "referenceReady": true,
         "practiceReady": false,
         "issues": [
-          "coordinate_unverified",
-          "region_missing",
           "written_source_line_missing",
           "content_review_required"
         ]
@@ -9467,7 +9451,7 @@
         "id": "04-chalcolithic",
         "title": "Chalcolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Uttar Pradesh",
       "location": {
         "type": "point",
         "coordinates": {
@@ -9544,7 +9528,6 @@
         "practiceReady": false,
         "issues": [
           "coordinate_unverified",
-          "region_missing",
           "written_source_line_missing",
           "content_review_required"
         ]
@@ -9564,7 +9547,7 @@
         "id": "04-chalcolithic",
         "title": "Chalcolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Maharashtra",
       "location": {
         "type": "point",
         "coordinates": {
@@ -9649,7 +9632,6 @@
         "referenceReady": true,
         "practiceReady": false,
         "issues": [
-          "region_missing",
           "written_source_line_missing",
           "content_review_required"
         ]
@@ -9774,7 +9756,7 @@
         "id": "04-chalcolithic",
         "title": "Chalcolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Maharashtra",
       "location": {
         "type": "point",
         "coordinates": {
@@ -9856,7 +9838,6 @@
         "practiceReady": false,
         "issues": [
           "coordinate_unverified",
-          "region_missing",
           "written_source_line_missing",
           "content_review_required"
         ]
@@ -10057,7 +10038,7 @@
         "id": "04-chalcolithic",
         "title": "Chalcolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Uttar Pradesh",
       "location": {
         "type": "point",
         "coordinates": {
@@ -10142,7 +10123,6 @@
         "practiceReady": false,
         "issues": [
           "coordinate_unverified",
-          "region_missing",
           "written_source_line_missing",
           "content_review_required"
         ]
@@ -10264,7 +10244,7 @@
         "id": "04-chalcolithic",
         "title": "Chalcolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Rajasthan",
       "location": {
         "type": "point",
         "coordinates": {
@@ -10323,7 +10303,6 @@
         "practiceReady": false,
         "issues": [
           "coordinate_unverified",
-          "region_missing",
           "source_metadata_missing",
           "written_source_line_missing",
           "content_review_required"
@@ -10700,7 +10679,7 @@
         "id": "04-chalcolithic",
         "title": "Chalcolithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Bihar",
       "location": {
         "type": "point",
         "coordinates": {
@@ -10770,7 +10749,6 @@
         "practiceReady": false,
         "issues": [
           "coordinate_unverified",
-          "region_missing",
           "written_source_line_missing",
           "content_review_required"
         ]
@@ -14340,7 +14318,7 @@
         "id": "06-megalith",
         "title": "Megalithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Andhra Pradesh",
       "location": {
         "type": "point",
         "coordinates": {
@@ -14415,7 +14393,6 @@
         "referenceReady": true,
         "practiceReady": false,
         "issues": [
-          "region_missing",
           "content_review_required"
         ]
       }
@@ -14518,7 +14495,7 @@
         "id": "06-megalith",
         "title": "Megalithic Sites"
       },
-      "stateOrRegion": "",
+      "stateOrRegion": "Meghalaya",
       "location": {
         "type": "point",
         "coordinates": {
@@ -14576,7 +14553,6 @@
         "referenceReady": true,
         "practiceReady": false,
         "issues": [
-          "region_missing",
           "source_metadata_missing",
           "content_review_required"
         ]

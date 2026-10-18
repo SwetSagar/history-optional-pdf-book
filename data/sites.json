@@ -73,7 +73,7 @@
       "Palaeolithic"
     ],
     "order": 1,
-    "state": "",
+    "state": "Rajasthan",
     "dot_px": [
       221.5,
       287.5
@@ -98,7 +98,7 @@
       "Palaeolithic"
     ],
     "order": 1,
-    "state": "",
+    "state": "Haryana",
     "dot_px": [
       249.5,
       259.5
@@ -378,7 +378,7 @@
       "Palaeolithic"
     ],
     "order": 1,
-    "state": "",
+    "state": "Odisha",
     "dot_px": [
       324.5,
       350.5
@@ -434,7 +434,7 @@
       "Palaeolithic"
     ],
     "order": 1,
-    "state": "",
+    "state": "Tamil Nadu",
     "dot_px": [
       281.5,
       473.5
@@ -459,7 +459,7 @@
       "Palaeolithic"
     ],
     "order": 1,
-    "state": "",
+    "state": "Himachal Pradesh",
     "dot_px": [
       246.5,
       220.0
@@ -529,7 +529,7 @@
       "Palaeolithic"
     ],
     "order": 1,
-    "state": "",
+    "state": "Gujarat",
     "dot_px": [
       159.5,
       357.5
@@ -554,7 +554,7 @@
       "Palaeolithic"
     ],
     "order": 1,
-    "state": "",
+    "state": "Karnataka",
     "dot_px": [
       244.6,
       429.9
@@ -679,7 +679,7 @@
       "Rockcut Caves, Petroglyph sites(Cave Painting)"
     ],
     "order": 1,
-    "state": "",
+    "state": "Uttarakhand",
     "dot_px": [
       278.9,
       247.3
@@ -711,7 +711,7 @@
       "Palaeolithic"
     ],
     "order": 1,
-    "state": "",
+    "state": "Karnataka",
     "dot_px": [
       244.5,
       430.5
@@ -736,7 +736,7 @@
       "Palaeolithic"
     ],
     "order": 1,
-    "state": "",
+    "state": "Rajasthan",
     "dot_px": [
       195.5,
       293.5
@@ -909,7 +909,7 @@
       "Non Ashokan Inscription"
     ],
     "order": 1,
-    "state": "",
+    "state": "Maharashtra",
     "dot_px": [
       199.5,
       381.5
@@ -959,9 +959,10 @@
       "Individual Map sites History Optional\\4 Chalcolithic\\Nevasa.jpg"
     ],
     "bullets": [
-      "Chalcolithic Site",
-      "Baked and unbaked Female figurines likely connected with fertility.",
-      "burying a child in double urn under the floor of the house.",
+      "Palaeolithic Site",
+      "Middle palaeolithic in stratified sequence,",
+      "tool industry flourished .",
+      "scrapers made of smooth and fine grained stones like agate, jasper, chalcedony.",
       "Maharashtra"
     ],
     "match": "exact",
@@ -1075,16 +1076,16 @@
       "Forts"
     ],
     "order": 1,
-    "state": "",
+    "state": "Kerala",
     "dot_px": [
       237.7,
       507.0
     ],
     "coords": [
-      11.9873,
-      75.9725
+      10.77917,
+      76.65472
     ],
-    "coords_confidence": "high",
+    "coords_confidence": "gazetteer",
     "coords_from": "",
     "images": [
       "Individual Map sites History Optional\\1 Palaeolithic\\Palakkad.jpg",
@@ -3062,7 +3063,7 @@
       "Chalcolithic"
     ],
     "order": 4,
-    "state": "",
+    "state": "Rajasthan",
     "dot_px": [
       213.5,
       309.5
@@ -3088,16 +3089,16 @@
       "Ancient Capitals and trade cities"
     ],
     "order": 4,
-    "state": "",
+    "state": "West Bengal",
     "dot_px": [
       235.5,
       273.5
     ],
     "coords": [
-      27.1063,
-      75.7986
+      25.41332,
+      88.53032
     ],
-    "coords_confidence": "high",
+    "coords_confidence": "gazetteer",
     "coords_from": "",
     "images": [
       "Individual Map sites History Optional\\19. Ancient Capitals and trade cities\\Trading cities\\Bangarh.jpg",
@@ -3277,7 +3278,7 @@
       "Chalcolithic"
     ],
     "order": 4,
-    "state": "",
+    "state": "Uttar Pradesh",
     "dot_px": [
       318.0,
       290.0
@@ -3303,7 +3304,7 @@
       "Missed recent PYQ"
     ],
     "order": 4,
-    "state": "",
+    "state": "Maharashtra",
     "dot_px": [
       215.5,
       402.5
@@ -3362,7 +3363,7 @@
       "Chalcolithic"
     ],
     "order": 4,
-    "state": "",
+    "state": "Maharashtra",
     "dot_px": [
       218.5,
       387.5
@@ -3452,7 +3453,7 @@
       "Chalcolithic"
     ],
     "order": 4,
-    "state": "",
+    "state": "Uttar Pradesh",
     "dot_px": [
       353.5,
       301.5
@@ -3519,7 +3520,7 @@
       "Chalcolithic"
     ],
     "order": 4,
-    "state": "",
+    "state": "Rajasthan",
     "dot_px": [
       215.5,
       293.5
@@ -3661,7 +3662,7 @@
       "Chalcolithic"
     ],
     "order": 4,
-    "state": "",
+    "state": "Bihar",
     "dot_px": [
       335.0,
       305.0
@@ -4892,7 +4893,7 @@
       "Buddhist Sites"
     ],
     "order": 6,
-    "state": "",
+    "state": "Andhra Pradesh",
     "dot_px": [
       268.5,
       432.5
@@ -4950,7 +4951,7 @@
       "Megalith"
     ],
     "order": 6,
-    "state": "",
+    "state": "Meghalaya",
     "dot_px": [
       433.5,
       296.5

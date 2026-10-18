@@ -4,7 +4,7 @@
 - Description rows read: 467
 - With a description: **480**
 - Needing text: **0**
-- Dots located: 480 (224 high confidence)
+- Dots located: 480 (222 high confidence)
 
 | Chapter | Sites | Have text | To write |
 |---|---:|---:|---:|

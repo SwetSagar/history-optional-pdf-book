@@ -1,7 +1,7 @@
 ---
 name: Nagarjunakonda
 categories: [Megalith, Buddhist Sites]
-state: ""
+state: Andhra Pradesh
 coords: [16.52032, 79.2393]
 coords_confidence: gazetteer
 coords_from: Q749108

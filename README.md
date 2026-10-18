@@ -44,16 +44,16 @@ against the state below.
 | `status: sourced` | **157** |
 | `status: written` (not yet author-verified) | **323** |
 | With a coordinate | **480 / 480** |
-| Gazetteer-pinned (`coords_provisional: false`) | **306** |
-| Still dot-derived and provisional | **174** |
-| With a stated state | **458** |
-| Coordinate cross-check | **453 / 453 consistent (100%)**, 0 flagged |
+| Gazetteer-pinned (`coords_provisional: false`) | **308** |
+| Still dot-derived and provisional | **172** |
+| With a stated state | **480** |
+| Coordinate cross-check | **474 / 474 consistent (100%)**, 0 flagged |
 | Source corpus | 3,719 pages across 7 standard works, 9.06M chars |
 | Records carrying a `sources` list | **406** |
 | Source keys not in `bibliography.json` | **0** |
 | Mean entry length | 247 words |
 | PDF | **260 pages**, A4, two columns, 480 entries in 24 chapters, one to a column |
-| Tests | 19 passing |
+| Tests | 20 passing |
 
 See `reports/coverage.md`, `reports/gaps.md`, `reports/anomalies.md`,
 `reports/validation.md`, `reports/sources.md`, `reports/gazetteer.md`,
@@ -65,7 +65,7 @@ Two reports are not refreshed by `extract` and still describe an earlier state:
 
 ### What is still outstanding
 
-- **174 provisional coordinates.** Six pairs of unrelated sites still share a
+- **172 provisional coordinates.** Six pairs of unrelated sites still share a
   single dot — `adamgadh`/`adam`, `ajmer-hakra-basin`/`ajmer-sharif`,
   `kakoria`/`varanasi-…`, `kamakhya`/`pragjyotishpura`,
   `kambadahalli`/`shravanabelagol`, and Paithan's dot shared with
@@ -162,7 +162,7 @@ Each record's `location` carries the one field a trainer should branch on:
 "readConfidence": "none"   // coords_confidence, kept for audit, not for gating
 ```
 
-306 of 480 are scorable. The rest are fine to show on a reference map and unfit
+308 of 480 are scorable. The rest are fine to show on a reference map and unfit
 to mark a student's click against; see the coordinate note at the end of this file.
 
 Scripts that write take `--write` (or `--apply`); without it they preview.
@@ -415,7 +415,7 @@ Three things it has to work around:
 
 ## Two cautions that are easy to forget
 
-**174 coordinates are still provisional.** They come from dots placed by hand on
+**172 coordinates are still provisional.** They come from dots placed by hand on
 a small sheet. Hand-checking three of them against published coordinates put
 Mohenjodaro 18 km out, Bhimbetka 28 km and Burzahom 139 km — further than the
 20–60 km this once claimed, and far enough that the state itself can be wrong.
@@ -423,7 +423,7 @@ That is invisible at book scale (2–4 px) but they must not be printed as numbe
 — neither edition does — and they must not be scored in a map trainer, which is
 why `data/web-sites.json` exports them with `scorable: false` and no radius.
 
-The other 306 have been resolved against a gazetteer and carry
+The other 308 have been resolved against a gazetteer and carry
 `coords_provisional: false`. Measured against the unambiguous entries in
 `data/.wikidata_cache.json` that fall inside the sheet's frame, they run to a
 median of 0.0 km and a p90 of 2.2 km (n=123), which is what the exported 25 km

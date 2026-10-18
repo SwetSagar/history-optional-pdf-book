@@ -1,7 +1,7 @@
 ---
 name: Imlidih
 categories: [Chalcolithic]
-state: ""
+state: Uttar Pradesh
 coords: [26.038, 82.1875]
 coords_confidence: high
 coords_from: ""

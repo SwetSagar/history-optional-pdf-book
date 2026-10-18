@@ -1,7 +1,7 @@
 ---
 name: Jorve
 categories: [Chalcolithic]
-state: ""
+state: Maharashtra
 coords: [19.7248, 74.4822]
 coords_confidence: high
 coords_from: ""

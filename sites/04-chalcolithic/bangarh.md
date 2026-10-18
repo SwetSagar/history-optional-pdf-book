@@ -1,16 +1,16 @@
 ---
 name: Bangarh
 categories: [Chalcolithic, Ancient Capitals and trade cities]
-state: ""
-coords: [27.1063, 75.7986]
-coords_confidence: high
-coords_from: ""
-coords_provisional: true
+state: West Bengal
+coords: [25.41332, 88.53032]
+coords_confidence: gazetteer
+coords_from: Q5267600
+coords_provisional: false
 dot_px: [235.5, 273.5]
 images: [Individual Map sites History Optional\19. Ancient Capitals and trade cities\Trading cities\Bangarh.jpg, Individual Map sites History Optional\4 Chalcolithic\Some other sites\Bangarh.jpg]
 status: sourced
 sources: [upinder2008, upinder2008, sharma2005]
-locked: []
+locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
 - **Location**: Bangarh, near Gangarampur in Dakshin Dinajpur district, West Bengal, in the Punarbhaba valley of the Bengal plains; identified with the ancient city of Kotivarsha.

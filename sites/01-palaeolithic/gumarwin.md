@@ -1,7 +1,7 @@
 ---
 name: Gumarwin
 categories: [Palaeolithic]
-state: ""
+state: Himachal Pradesh
 coords: [30.5673, 76.6483]
 coords_confidence: medium
 coords_from: ""

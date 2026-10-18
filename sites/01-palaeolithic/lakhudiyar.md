@@ -1,7 +1,7 @@
 ---
 name: Lakhudiyar
 categories: [Palaeolithic, "Rockcut Caves, Petroglyph sites(Cave Painting)"]
-state: ""
+state: Uttarakhand
 coords: [28.8037, 79.1566]
 coords_confidence: high
 coords_from: ""

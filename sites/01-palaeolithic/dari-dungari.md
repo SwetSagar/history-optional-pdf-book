@@ -1,7 +1,7 @@
 ---
 name: Dari Dungari
 categories: [Palaeolithic]
-state: ""
+state: Odisha
 coords: [22.1207, 82.6913]
 coords_confidence: high
 coords_from: ""

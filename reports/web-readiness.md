@@ -26,9 +26,9 @@ are exported with `scorable: false` and no radius at all.
 - Sites: **480**
 - Reference ready: **480**
 - Practice ready: **0**
-- Scorable coordinates: **306**
-- Unverified coordinates: **174**
-- Missing state/region: **22**
+- Scorable coordinates: **308**
+- Unverified coordinates: **172**
+- Missing state/region: **0**
 - Unknown coordinate-confidence values: **0**
 - Shared-coordinate groups needing review: **6**
 - Location types needing review: **33**
@@ -77,28 +77,7 @@ to the same historical place.
 
 ## Missing state or region
 
-- `ajmer-hakra-basin` — Ajmer(Hakra Basin)
-- `anangpur` — Anangpur
-- `dari-dungari` — Dari Dungari
-- `gudiyam-caves` — Gudiyam Caves
-- `gumarwin` — Gumarwin
-- `hiran-valley` — Hiran Valley
-- `hunasgi` — Hunasgi
-- `lakhudiyar` — Lakhudiyar
-- `lingsugur-same-as-maski-1st-palae-site-to-be-discovered` — Lingsugur- Same as Maski 1st palae site to be discovered
-- `luni-valley` — Luni Valley
-- `nashik` — Nashik
-- `palakkad` — Palakkad
-- `balathal` — Balathal
-- `bangarh` — Bangarh
-- `imlidih` — Imlidih
-- `inamgaon` — Inamgaon
-- `jorve` — Jorve
-- `narhan` — Narhan
-- `ojiyana` — Ojiyana
-- `senaur` — Senaur
-- `nagarjunakonda` — Nagarjunakonda
-- `nartiang` — Nartiang
+- None
 
 ## No source metadata
 
