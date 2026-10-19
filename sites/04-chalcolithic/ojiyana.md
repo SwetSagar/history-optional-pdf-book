@@ -9,7 +9,7 @@ coords_provisional: true
 dot_px: [215.5, 293.5]
 images: [Individual Map sites History Optional\4 Chalcolithic\Some other sites\Ojiyana.jpg]
 status: written
-sources: []
+sources: [upinder2008]
 locked: []
 ---
 
@@ -19,3 +19,4 @@ locked: []
   - The pottery is the black-and-red ware characteristic of the Ahar culture, with white painted designs, alongside red and tan wares.
   - Terracotta animal figurines, particularly bulls, and beads of semi-precious stones were recovered, consistent with the wider Banas assemblage at Ahar, Gilund and Balathal.
   - The site extends the known distribution of the Ahar culture northwards towards Ajmer, part of the more than 90 sites identified in the Banas and Berach river systems roughly between Udaipur and Jaipur.
+  - *Sources*: Upinder Singh, ch. 3 (the Ahar-Banas culture; Ojiyana's own finds are from the author's notes).

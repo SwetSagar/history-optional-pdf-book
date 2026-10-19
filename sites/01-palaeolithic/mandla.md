@@ -19,3 +19,4 @@ locked: [coords, coords_confidence, coords_from, coords_provisional, state]
   - Fossilised plants have been found here along with mollusc fossils.
   - Dinosaur egg fossils of the Mesozoic era have been reported from the district, part of the well-known dinosaur-bearing beds of the Narmada valley.
   - Taken with Hathnora, Adamgarh and Bhimbetka downstream, Mandla completes the Narmada basin as the most intensively researched Palaeolithic region in central India.
+  - *Sources*: Mandla Plant Fossils National Park, Madhya Pradesh (the plant and mollusc fossils); the Palaeolithic finds are from the author's notes.

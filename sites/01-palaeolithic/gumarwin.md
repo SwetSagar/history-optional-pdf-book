@@ -9,7 +9,7 @@ coords_provisional: true
 dot_px: [246.5, 220.0]
 images: [Individual Map sites History Optional\1 Palaeolithic\Gumarwin.jpg]
 status: written
-sources: []
+sources: [upinder2008]
 locked: []
 ---
 
@@ -19,3 +19,4 @@ locked: []
   - Finds include bifacial handaxes, cleavers, scrapers and Acheulian choppers.
   - Fossil remains of Sivapithecus, one of the "God-Apes of the Siwaliks" and an ancestor of the orangutan, have been recovered here; such Siwalik apes, including Ramapithecus and Brahmapithecus, were dated between 10 and 14 million years ago.
   - Vertebrate and invertebrate fossils together with the fossilised tuber of a tree allow the ecology of the period to be reconstructed.
+  - *Sources*: Upinder Singh, ch. 2 (the Siwalik fossil apes; the Ghumarwin finds are from the author's notes).

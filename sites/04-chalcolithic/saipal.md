@@ -9,7 +9,7 @@ coords_provisional: false
 dot_px: []
 images: [Individual Map sites History Optional\4 Chalcolithic\Some other sites\Saipal.jpg]
 status: written
-sources: []
+sources: [upinder2008]
 locked: [coords, coords_provisional, state]
 ---
 
@@ -19,3 +19,4 @@ locked: [coords, coords_provisional, state]
   - The OCP deposits of the doab are generally shallow, from 0.5 to 1.5 m thick, and the settlements are usually small, up to 200-300 sq m, with sites spaced about 4 to 8 km apart.
   - Copper Hoard types associated with this horizon include harpoons, antennae swords, flat celts and anthropomorphic figures, whose function remains disputed.
   - Saipai belongs with Lal Qila, Atranjikhera, Ahichchhatra, Bahadrabad and Ambakheri in the group of excavated OCP sites that fill the gap in the upper doab between the Late Harappan and the Painted Grey Ware cultures.
+  - *Sources*: Upinder Singh, ch. 5.

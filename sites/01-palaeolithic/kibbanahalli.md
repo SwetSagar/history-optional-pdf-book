@@ -9,7 +9,7 @@ coords_provisional: false
 dot_px: [238.6, 471.9]
 images: [Individual Map sites History Optional\1 Palaeolithic\Kibbanahalli.jpg]
 status: written
-sources: []
+sources: [upinder2008]
 locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 ---
 
@@ -18,3 +18,4 @@ locked: [coords, coords_confidence, coords_from, coords_provisional, state]
 - **Key Finds & Significance**: One of the type localities for the Middle Palaeolithic flake industries of southern Karnataka.
   - Finds include handaxes and guillotine chisels.
   - Mesolithic tools of quartz have also been recovered, showing that the locality continued to be used into the microlithic phase.
+  - *Sources*: Upinder Singh, ch. 2 (the quartz microliths; the Middle Palaeolithic finds are from the author's notes).
