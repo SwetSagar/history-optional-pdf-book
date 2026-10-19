@@ -79,6 +79,8 @@ EDITION = "First edition"
 PRACTICE_URL = "https://www.upsckosha.in/maps"
 PRACTICE_LABEL = "upsckosha.in/maps"
 PRACTICE_LINE = "Practise placing every site on the map"
+# Where readers send corrections and suggestions. Printed in the front matter.
+CONTACT_EMAIL = "swet.official@gmail.com"
 
 # --------------------------------------------------------------------------
 # The page grid
@@ -192,6 +194,13 @@ body {
   font-size: 12pt; font-weight: 700; color: var(--accent); text-decoration: none;
 }
 
+/* The copyright page: set low on the verso of the title, as in print. */
+.copyright { break-after: page; padding-top: 130mm; max-width: 125mm;
+             font-size: 8.5pt; line-height: 1.5; color: var(--muted); }
+.copyright p { margin: 0 0 3mm; }
+.copyright .c { color: var(--ink); font-weight: 700; }
+.copyright a { color: var(--accent); text-decoration: none; }
+
 .front { break-after: page; }
 .front h2 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -210,6 +219,7 @@ body {
 }
 .front p { margin: 0 0 3mm; max-width: 155mm; }
 .front .note { font-size: 8.5pt; color: var(--muted); }
+.front a { color: var(--accent); font-weight: 700; text-decoration: none; }
 
 .anchorkey { margin: 0 0 4mm; padding: 0; list-style: none; }
 .anchorkey li { margin: 0 0 2.2mm; padding-left: 30mm; text-indent: -30mm; }
@@ -707,6 +717,24 @@ def build_html(chapters: dict[str, list[dict]], bib: dict,
         '</section>'
     )
 
+    out.append(
+        '<section class="copyright">'
+        f'<p class="c">&copy; {date.today().year} {esc(AUTHOR)}. All rights reserved.</p>'
+        f'<p>{esc(EDITION)}, {date.today().strftime("%B %Y")}.</p>'
+        '<p>No part of this book may be reproduced, stored in a retrieval system, or '
+        'transmitted in any form or by any means without the prior written permission '
+        'of the author, except for brief quotations in reviews and critical articles.</p>'
+        '<p>This copy is licensed for the personal use of its purchaser. Reselling it, '
+        'sharing or uploading the file, or reusing its content in coaching or other '
+        'commercial material without permission is prohibited.</p>'
+        '<p>The entries draw on the published works cited beneath each of them. The '
+        'locator maps are indicative only, are not to scale, and do not purport to '
+        'depict international boundaries.</p>'
+        f'<p>Permissions, corrections and suggestions: '
+        f'<a href="mailto:{esc(CONTACT_EMAIL)}">{esc(CONTACT_EMAIL)}</a></p>'
+        '</section>'
+    )
+
     out.append(f'''<section class="front" id="how-to-use">
 <p class="kicker">Front matter</p>
 <h2>How this book is arranged</h2>
@@ -737,8 +765,14 @@ entry in this edition prints a coordinate as a number.</p>
 <p>Sources are cited by chapter rather than by page. The reference library was scanned
 without printed folios, so a page number would locate a passage in a scan and not in the
 book; a chapter is the finest locator that is honest. Works cited in full at the back.</p>
-<p class="note">Entries carrying no source line draw on the author&rsquo;s own notes and
-are marked for sourcing in a later edition.</p>
+<p class="note">Where part of an entry rests on the author&rsquo;s own notes rather than
+a published work, its source line says so; those parts are marked for sourcing in a
+later edition.</p>
+
+<h3>Corrections and suggestions</h3>
+<p>A misplaced dot, a wrong date, a site the exam has asked that is missing here: write to
+<a href="mailto:{esc(CONTACT_EMAIL)}">{esc(CONTACT_EMAIL)}</a>, naming the site and the
+source you are relying on. Corrections are folded into the next edition.</p>
 </section>''')
 
     # ---- contents ----
